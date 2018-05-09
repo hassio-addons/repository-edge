@@ -6,6 +6,8 @@ stages:
 
 .linting: &linting
   stage: linting
+  tags:
+    - linting
 
 yamllint:
   <<: *linting
