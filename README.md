@@ -80,6 +80,19 @@ Python Apps and HADashboard using AppDaemon 3.x for Home Assistant
 
 [:books: AppDaemon3 add-on documentation][addon-doc-appdaemon3]
 
+### &#10003; [Example][addon-example]
+
+![Latest Version][example-version-shield]
+![Supports armhf Architecture][example-armhf-shield]
+![Supports aarch64 Architecture][example-aarch64-shield]
+![Supports amd64 Architecture][example-amd64-shield]
+![Supports i386 Architecture][example-i386-shield]
+![Docker Pulls][example-pulls-shield]
+
+Example add-on by Community Hass.io Add-ons
+
+[:books: Example add-on documentation][addon-doc-example]
+
 ### &#10003; [Home Assistant Control Panel][addon-control-panel]
 
 ![Latest Version][control-panel-version-shield]
@@ -116,6 +129,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: AirCast][aircast-issue]
 - [Open an issue for the add-on: AirSonos][airsonos-issue]
 - [Open an issue for the add-on: AppDaemon3][appdaemon3-issue]
+- [Open an issue for the add-on: Example][example-issue]
 - [Open an issue for the add-on: Home Assistant Control Panel][control-panel-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -193,6 +207,15 @@ SOFTWARE.
 [appdaemon3-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon3-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [appdaemon3-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/v1.2.0
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v1.2.0/README.md
+[example-issue]: https://github.com/hassio-addons/addon-example/issues
+[example-version-shield]: https://img.shields.io/badge/version-v1.2.0-blue.svg
+[example-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example-armhf.svg
+[example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-control-panel]: https://github.com/hassio-addons/addon-control-panel/tree/v1.0.0
 [addon-doc-control-panel]: https://github.com/hassio-addons/addon-control-panel/blob/v1.0.0/README.md
 [control-panel-issue]: https://github.com/hassio-addons/addon-control-panel/issues
