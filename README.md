@@ -132,6 +132,19 @@ HomeKit support for your Home Assistant instance using Homebridge
 
 [:books: Homebridge add-on documentation][addon-doc-homebridge]
 
+### &#10003; [IDE][addon-ide]
+
+![Latest Version][ide-version-shield]
+![Supports armhf Architecture][ide-armhf-shield]
+![Supports aarch64 Architecture][ide-aarch64-shield]
+![Supports amd64 Architecture][ide-amd64-shield]
+![Supports i386 Architecture][ide-i386-shield]
+![Docker Pulls][ide-pulls-shield]
+
+Advanced IDE for Home Assistant, based on Cloud9 IDE
+
+[:books: IDE add-on documentation][addon-doc-ide]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -159,6 +172,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: FTP][ftp-issue]
 - [Open an issue for the add-on: Home Assistant Control Panel][control-panel-issue]
 - [Open an issue for the add-on: Homebridge][homebridge-issue]
+- [Open an issue for the add-on: IDE][ide-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -271,6 +285,15 @@ SOFTWARE.
 [homebridge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [homebridge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [homebridge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/v0.1.0
+[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/v0.1.0/README.md
+[ide-issue]: https://github.com/hassio-addons/addon-ide/issues
+[ide-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-armhf.svg
+[ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
