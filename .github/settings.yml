@@ -162,7 +162,6 @@ branches:
           users: []
           teams:
             - Admins
-            - Masters
       required_status_checks:
         strict: false
         contexts: []
@@ -171,4 +170,4 @@ branches:
         users: []
         teams:
           - Admins
-          - Masters
+          - Bots
