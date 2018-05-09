@@ -145,6 +145,19 @@ Advanced IDE for Home Assistant, based on Cloud9 IDE
 
 [:books: IDE add-on documentation][addon-doc-ide]
 
+### &#10003; [Pi-hole][addon-pi-hole]
+
+![Latest Version][pi-hole-version-shield]
+![Supports armhf Architecture][pi-hole-armhf-shield]
+![Supports aarch64 Architecture][pi-hole-aarch64-shield]
+![Supports amd64 Architecture][pi-hole-amd64-shield]
+![Supports i386 Architecture][pi-hole-i386-shield]
+![Docker Pulls][pi-hole-pulls-shield]
+
+Network-wide ad blocking using your Hass.io instance
+
+[:books: Pi-hole add-on documentation][addon-doc-pi-hole]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -173,6 +186,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Home Assistant Control Panel][control-panel-issue]
 - [Open an issue for the add-on: Homebridge][homebridge-issue]
 - [Open an issue for the add-on: IDE][ide-issue]
+- [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -294,6 +308,15 @@ SOFTWARE.
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/v1.0.1
+[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/v1.0.1/README.md
+[pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
+[pi-hole-version-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
+[pi-hole-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/pi-hole-armhf.svg
+[pi-hole-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[pi-hole-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[pi-hole-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
