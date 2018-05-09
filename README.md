@@ -158,6 +158,19 @@ Network-wide ad blocking using your Hass.io instance
 
 [:books: Pi-hole add-on documentation][addon-doc-pi-hole]
 
+### &#10003; [Shinobi Pro][addon-shinobi]
+
+![Latest Version][shinobi-version-shield]
+![Supports armhf Architecture][shinobi-armhf-shield]
+![Supports aarch64 Architecture][shinobi-aarch64-shield]
+![Supports amd64 Architecture][shinobi-amd64-shield]
+![Supports i386 Architecture][shinobi-i386-shield]
+![Docker Pulls][shinobi-pulls-shield]
+
+Beautiful and feature-rich CCTV/NVR for your cameras
+
+[:books: Shinobi Pro add-on documentation][addon-doc-shinobi]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -187,6 +200,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Homebridge][homebridge-issue]
 - [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
+- [Open an issue for the add-on: Shinobi Pro][shinobi-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -317,6 +331,15 @@ SOFTWARE.
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pi-hole-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [pi-hole-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-shinobi]: https://github.com/hassio-addons/addon-shinobi/tree/v0.1.0
+[addon-doc-shinobi]: https://github.com/hassio-addons/addon-shinobi/blob/v0.1.0/README.md
+[shinobi-issue]: https://github.com/hassio-addons/addon-shinobi/issues
+[shinobi-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[shinobi-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/shinobi-armhf.svg
+[shinobi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[shinobi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[shinobi-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[shinobi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
