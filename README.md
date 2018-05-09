@@ -93,6 +93,19 @@ Example add-on by Community Hass.io Add-ons
 
 [:books: Example add-on documentation][addon-doc-example]
 
+### &#10003; [FTP][addon-ftp]
+
+![Latest Version][ftp-version-shield]
+![Supports armhf Architecture][ftp-armhf-shield]
+![Supports aarch64 Architecture][ftp-aarch64-shield]
+![Supports amd64 Architecture][ftp-amd64-shield]
+![Supports i386 Architecture][ftp-i386-shield]
+![Docker Pulls][ftp-pulls-shield]
+
+A secure and fast FTP server for Hass.io
+
+[:books: FTP add-on documentation][addon-doc-ftp]
+
 ### &#10003; [Home Assistant Control Panel][addon-control-panel]
 
 ![Latest Version][control-panel-version-shield]
@@ -130,6 +143,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: AirSonos][airsonos-issue]
 - [Open an issue for the add-on: AppDaemon3][appdaemon3-issue]
 - [Open an issue for the add-on: Example][example-issue]
+- [Open an issue for the add-on: FTP][ftp-issue]
 - [Open an issue for the add-on: Home Assistant Control Panel][control-panel-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -216,6 +230,15 @@ SOFTWARE.
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/v1.0.0
+[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/v1.0.0/README.md
+[ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
+[ftp-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
+[ftp-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ftp-armhf.svg
+[ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-control-panel]: https://github.com/hassio-addons/addon-control-panel/tree/v1.0.0
 [addon-doc-control-panel]: https://github.com/hassio-addons/addon-control-panel/blob/v1.0.0/README.md
 [control-panel-issue]: https://github.com/hassio-addons/addon-control-panel/issues
