@@ -158,6 +158,19 @@ Network-wide ad blocking using your Hass.io instance
 
 [:books: Pi-hole add-on documentation][addon-doc-pi-hole]
 
+### &#10003; [SSH - Secure Shell][addon-ssh]
+
+![Latest Version][ssh-version-shield]
+![Supports armhf Architecture][ssh-armhf-shield]
+![Supports aarch64 Architecture][ssh-aarch64-shield]
+![Supports amd64 Architecture][ssh-amd64-shield]
+![Supports i386 Architecture][ssh-i386-shield]
+![Docker Pulls][ssh-pulls-shield]
+
+Allows SSH connections to your Home Assistant instance
+
+[:books: SSH - Secure Shell add-on documentation][addon-doc-ssh]
+
 ### &#10003; [Shinobi Pro][addon-shinobi]
 
 ![Latest Version][shinobi-version-shield]
@@ -200,6 +213,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Homebridge][homebridge-issue]
 - [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
+- [Open an issue for the add-on: SSH - Secure Shell][ssh-issue]
 - [Open an issue for the add-on: Shinobi Pro][shinobi-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -331,6 +345,15 @@ SOFTWARE.
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pi-hole-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [pi-hole-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/v2.3.0
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/v2.3.0/README.md
+[ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
+[ssh-version-shield]: https://img.shields.io/badge/version-v2.3.0-blue.svg
+[ssh-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ssh-armhf.svg
+[ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[ssh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-shinobi]: https://github.com/hassio-addons/addon-shinobi/tree/v0.1.0
 [addon-doc-shinobi]: https://github.com/hassio-addons/addon-shinobi/blob/v0.1.0/README.md
 [shinobi-issue]: https://github.com/hassio-addons/addon-shinobi/issues
