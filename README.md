@@ -54,6 +54,19 @@ AirPlay capabilities for your Chromecast devices.
 
 [:books: AirCast add-on documentation][addon-doc-aircast]
 
+### &#10003; [AirSonos][addon-airsonos]
+
+![Latest Version][airsonos-version-shield]
+![Supports armhf Architecture][airsonos-armhf-shield]
+![Supports aarch64 Architecture][airsonos-aarch64-shield]
+![Supports amd64 Architecture][airsonos-amd64-shield]
+![Supports i386 Architecture][airsonos-i386-shield]
+![Docker Pulls][airsonos-pulls-shield]
+
+AirPlay capabilities for your Sonos (and UPnP) devices.
+
+[:books: AirSonos add-on documentation][addon-doc-airsonos]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -75,6 +88,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: AirCast][aircast-issue]
+- [Open an issue for the add-on: AirSonos][airsonos-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -133,6 +147,15 @@ SOFTWARE.
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [aircast-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/v0.3.1
+[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/v0.3.1/README.md
+[airsonos-issue]: https://github.com/hassio-addons/addon-airsonos/issues
+[airsonos-version-shield]: https://img.shields.io/badge/version-v0.3.1-blue.svg
+[airsonos-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/airsonos-armhf.svg
+[airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[airsonos-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[airsonos-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
