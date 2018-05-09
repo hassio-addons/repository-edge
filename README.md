@@ -184,6 +184,19 @@ Beautiful and feature-rich CCTV/NVR for your cameras
 
 [:books: Shinobi Pro add-on documentation][addon-doc-shinobi]
 
+### &#10003; [Terminal][addon-terminal]
+
+![Latest Version][terminal-version-shield]
+![Supports armhf Architecture][terminal-armhf-shield]
+![Supports aarch64 Architecture][terminal-aarch64-shield]
+![Supports amd64 Architecture][terminal-amd64-shield]
+![Supports i386 Architecture][terminal-i386-shield]
+![Docker Pulls][terminal-pulls-shield]
+
+Terminal access to your Home Assistant instance via the web
+
+[:books: Terminal add-on documentation][addon-doc-terminal]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -215,6 +228,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: SSH - Secure Shell][ssh-issue]
 - [Open an issue for the add-on: Shinobi Pro][shinobi-issue]
+- [Open an issue for the add-on: Terminal][terminal-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -363,6 +377,15 @@ SOFTWARE.
 [shinobi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [shinobi-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [shinobi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-terminal]: https://github.com/hassio-addons/addon-terminal/tree/v2.3.0
+[addon-doc-terminal]: https://github.com/hassio-addons/addon-terminal/blob/v2.3.0/README.md
+[terminal-issue]: https://github.com/hassio-addons/addon-terminal/issues
+[terminal-version-shield]: https://img.shields.io/badge/version-v2.3.0-blue.svg
+[terminal-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/terminal-armhf.svg
+[terminal-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[terminal-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[terminal-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[terminal-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
