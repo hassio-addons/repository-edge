@@ -35,13 +35,3 @@ jsonlint:
         exit 1
       fi
 
-markdownlint:
-  <<: *linting
-  image:
-    name: ruby:alpine
-    entrypoint: [""]
-  before_script:
-    - gem install mdl
-    - mdl --version
-  script:
-    - mdl --style all --warnings .
