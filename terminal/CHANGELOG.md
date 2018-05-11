@@ -1,19 +1,49 @@
-[Full Changelog][v2.2.1-v2.3.0]
+# Changelog since v2.3.0
 
-### Fixed
+2018/05/11 19:07 UTC - [4c5c8d7](https://github.com/hassio-addons/addon-terminal/commit/4c5c8d727a5133027693e9b78ee6b3d2c5e70aac) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v1.4.0 
 
-- Adds HASSIO_TOKEN to user environment
+2018/05/11 19:07 UTC - [958518d](https://github.com/hassio-addons/addon-terminal/commit/958518d15738e6add544bf68d2a6f404379a839b) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds Gitlab CI 
 
-### Added
+2018/05/11 19:07 UTC - [28f0572](https://github.com/hassio-addons/addon-terminal/commit/28f05728e0c7752df95f90f3291487b8e9b0c563) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds initial add-on README template 
 
-- Adds add-on icon
-- Adds zip package
+2018/05/11 19:07 UTC - [34530c7](https://github.com/hassio-addons/addon-terminal/commit/34530c797475ef961acfa77ce48280b50dd1ec36) by [@frenck](https://github.com/frenck)
+> :books: Updates README 
 
-### Changed
+2018/05/11 19:07 UTC - [634e7d8](https://github.com/hassio-addons/addon-terminal/commit/634e7d8a2d9ac6857f4735c5fb0a238502ebd97f) by [@frenck](https://github.com/frenck)
+> :rocket: Updates probot configuration 
 
-- Updates base image to v1.3.3
-- Updates hassio-cli to v1.2.1
-- Optimizes images in this repository
-- Updates ttyd to 1.4.0+
+2018/05/11 19:07 UTC - [91f1128](https://github.com/hassio-addons/addon-terminal/commit/91f112844c667b66932a06054c25b0116c482368) by [@bastula](https://github.com/bastula)
+> :arrow_up: Updates hassio-cli to v1.3.0 (#22)
 
-[v2.2.1-v2.3.0]: https://github.com/hassio-addons/addon-terminal/compare/v2.2.1...v2.3.0
+This change updates hassio-cli to 1.3.0. 
+
+2018/05/11 19:07 UTC - [a3addcb](https://github.com/hassio-addons/addon-terminal/commit/a3addcb994232bef5f192429e4b2212f598b521c) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes hadolint warnings 
+
+2018/05/11 19:07 UTC - [36212f3](https://github.com/hassio-addons/addon-terminal/commit/36212f30c931eb519aade025a4ca1f6195ce2b6a) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds Probot configuration 
+
+2018/05/11 19:07 UTC - [7ff8638](https://github.com/hassio-addons/addon-terminal/commit/7ff8638586c8221fa85154e40b65e890ebbce241) by [@frenck](https://github.com/frenck)
+> :books: Replaces Changelog with GitHub releases 
+
+2018/05/11 19:07 UTC - [8ed43af](https://github.com/hassio-addons/addon-terminal/commit/8ed43af703620d09c1f213db3cf1da325b40a2d7) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes Markdownlint warning in License 
+
+2018/05/11 19:07 UTC - [ac344c5](https://github.com/hassio-addons/addon-terminal/commit/ac344c511f985388b72de0d729bc215dfd1b363c) by [@frenck](https://github.com/frenck)
+> :snowflake: Adds all architectures to add-on config 
+
+2018/05/11 19:07 UTC - [87aed33](https://github.com/hassio-addons/addon-terminal/commit/87aed3394a8df653c7534e2fea9af45aed2fb908) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds .yamllint configuration 
+
+2018/05/11 19:07 UTC - [ed9fdad](https://github.com/hassio-addons/addon-terminal/commit/ed9fdad1d94c2cbae79b6ee389503ff42791c2fc) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds SQLite by default 
+
+2018/05/11 19:07 UTC - [b8822f6](https://github.com/hassio-addons/addon-terminal/commit/b8822f69ce3e2de99dc2949c83771b2460c736b2) by [@frenck](https://github.com/frenck)
+> :fire: Removes CodeClimate 
+
+2018/05/11 19:07 UTC - [2f28b9d](https://github.com/hassio-addons/addon-terminal/commit/2f28b9d1885f377db0045bcb80cd42fe1d1ff5b6) by [@frenck](https://github.com/frenck)
+> :fire: Removes CircleCI 
+
