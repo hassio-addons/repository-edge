@@ -1,12 +1,7 @@
 # Community Hass.io Add-ons: Example
 
-[![Release][release-shield]][release]
-![Project Stage][project-stage-shield]
-![Project Maintenance][maintenance-shield]
-
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
+[![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
+[![Discord][discord-shield]][discord] [![Community Forum][forum-shield]][forum]
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 Example add-on by Community Hass.io add-ons.
@@ -55,8 +50,8 @@ It shows off several features and structures like:
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-8dc7c6e-blue.svg
-[release]: https://github.com/hassio-addons/addon-example/tree/8dc7c6e
-[docs]: https://github.com/hassio-addons/addon-example/blob/8dc7c6e/README.md
+[release-shield]: https://img.shields.io/badge/version-a244afd-blue.svg
+[release]: https://github.com/hassio-addons/addon-example/tree/a244afd
+[docs]: https://github.com/hassio-addons/addon-example/blob/a244afd/README.md
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
