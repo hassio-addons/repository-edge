@@ -32,7 +32,7 @@ Additionally, it comes out of the box with the following:
   - Limits login attempts to hold of brute-force attacks better.
   - Many more security tweaks, *this addon passes all [ssh-audit] checks
     without warnings!*
-    ![Result of SSH-Audit][ssh-audit]
+    ![Result of SSH-Audit][ssh-audit-image]
 - Comes with compatibility mode option to allow older clients to connect.
 - SFTP support is disabled by default but is user configurable.
 - Compatible if Hass.io was installed via the generic Linux installer.
@@ -75,11 +75,16 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-ssh/blob/d3b1597/README.md
+[docs]: https://github.com/hassio-addons/addon-ssh/blob/851660e/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ssh/33820?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-d3b1597-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/d3b1597
-[ssh-audit]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
+[release-shield]: https://img.shields.io/badge/version-851660e-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/851660e
+[ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
+[ssh-audit]: https://github.com/arthepsy/ssh-audit
+[zsh]: https://en.wikipedia.org/wiki/Z_shell
+[ohmyzsh]: http://ohmyz.sh/
+[openssh]: https://www.openssh.com/
+[hass-ssh]: https://home-assistant.io/addons/ssh/
