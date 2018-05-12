@@ -337,10 +337,10 @@ SOFTWARE.
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-control-panel]: https://github.com/hassio-addons/addon-control-panel/tree/v1.0.0
-[addon-doc-control-panel]: https://github.com/hassio-addons/addon-control-panel/blob/v1.0.0/README.md
+[addon-control-panel]: https://github.com/hassio-addons/addon-control-panel/tree/c154d1c
+[addon-doc-control-panel]: https://github.com/hassio-addons/addon-control-panel/blob/c154d1c/README.md
 [control-panel-issue]: https://github.com/hassio-addons/addon-control-panel/issues
-[control-panel-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
+[control-panel-version-shield]: https://img.shields.io/badge/version-c154d1c-blue.svg
 [control-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/control-panel-armhf.svg
 [control-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [control-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
