@@ -1,6 +1,6 @@
 {
   "name": "Homebridge",
-  "version": "5055415",
+  "version": "98744cf",
   "slug": "homebridge",
   "description": "HomeKit support for your Home Assistant instance using Homebridge",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-homebridge/33803?u=frenck",
@@ -26,6 +26,7 @@
     "avahi_hostname": "",
     "avahi_domainname": "local",
     "enable_ipv6": true,
+    "insecure": false,
     "packages": [],
     "init_commands": [],
     "plugins": []
@@ -36,6 +37,7 @@
     "avahi_hostname": "str",
     "avahi_domainname": "str",
     "enable_ipv6": "bool",
+    "insecure": "bool",
     "packages": [
       "str"
     ],
