@@ -400,10 +400,10 @@ SOFTWARE.
 [terminal-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [terminal-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [terminal-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/a66c49b
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/a66c49b/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/8deabe4
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/8deabe4/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-a66c49b-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-8deabe4-blue.svg
 [tor-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tor-armhf.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

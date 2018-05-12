@@ -55,11 +55,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-tor/blob/a66c49b/README.md
+[docs]: https://github.com/hassio-addons/addon-tor/blob/8deabe4/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-terminal/33814?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-tor/33822?u=frenck 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-a66c49b-blue.svg
-[release]: https://github.com/hassio-addons/addon-tor/tree/a66c49b
+[release-shield]: https://img.shields.io/badge/version-8deabe4-blue.svg
+[release]: https://github.com/hassio-addons/addon-tor/tree/8deabe4
 [tor-hidden-service]: https://www.torproject.org/docs/hidden-services.html.en
