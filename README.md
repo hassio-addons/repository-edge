@@ -364,10 +364,10 @@ SOFTWARE.
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/e917810
-[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/e917810/README.md
+[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/34a735f
+[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/34a735f/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
-[pi-hole-version-shield]: https://img.shields.io/badge/version-e917810-blue.svg
+[pi-hole-version-shield]: https://img.shields.io/badge/version-34a735f-blue.svg
 [pi-hole-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/pi-hole-armhf.svg
 [pi-hole-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
