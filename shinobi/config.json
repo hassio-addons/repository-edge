@@ -1,6 +1,6 @@
 {
   "name": "Shinobi Pro",
-  "version": "91f2325",
+  "version": "755f499",
   "slug": "shinobi",
   "description": "Beautiful and feature-rich CCTV/NVR for your cameras",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-shinobi-pro/49767?u=frenck",
@@ -17,8 +17,8 @@
   "homeassistant_api": false,
   "host_network": false,
   "ports": {
-    "80/tcp": 5000,
-    "443/tcp": 5443
+    "80/tcp": 7440,
+    "443/tcp": 7443
   },
   "map": [
     "config:rw",
