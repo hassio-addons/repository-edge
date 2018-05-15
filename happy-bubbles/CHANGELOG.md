@@ -1,3 +1,3 @@
-2018/05/15 21:43 UTC - [e3bc052](https://github.com/hassio-addons/addon-happy-bubbles/commit/e3bc052094694e942bb01e1101510f3715982657) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes missing configuration key 
+2018/05/15 22:05 UTC - [50ac5fd](https://github.com/hassio-addons/addon-happy-bubbles/commit/50ac5fd8b6cb3f1028d4d968a6c6cddb2afbb228) by [@frenck](https://github.com/frenck)
+> :books: Updated README 
 
