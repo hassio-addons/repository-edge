@@ -1,6 +1,6 @@
 {
   "name": "Happy Bubbles",
-  "version": "673973d",
+  "version": "e3bc052",
   "slug": "happy-bubbles",
   "description": "Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.",
   "url": "https://community.home-assistant.io/?u=frenck",
@@ -30,6 +30,7 @@
     "ipv6": false,
     "mqtt_host": "homeassistant",
     "mqtt_port": 1883,
+    "mqtt_client_id": "happy_bubbles",
     "mqtt_username": "happybubbles",
     "mqtt_password": "dontworrybehappy"
   },
