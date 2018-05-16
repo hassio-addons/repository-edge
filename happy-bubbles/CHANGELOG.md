@@ -1,3 +1,3 @@
-2018/05/15 22:05 UTC - [50ac5fd](https://github.com/hassio-addons/addon-happy-bubbles/commit/50ac5fd8b6cb3f1028d4d968a6c6cddb2afbb228) by [@frenck](https://github.com/frenck)
-> :books: Updated README 
+2018/05/16 19:51 UTC - [00f2005](https://github.com/hassio-addons/addon-happy-bubbles/commit/00f20055415a024a1f09611a522b29d7412de829) by [@frenck](https://github.com/frenck)
+> :book: Temporary removed Anchore.io from README 
 
