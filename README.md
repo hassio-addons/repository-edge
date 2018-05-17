@@ -158,6 +158,19 @@ Advanced IDE for Home Assistant, based on Cloud9 IDE
 
 [:books: IDE add-on documentation][addon-doc-ide]
 
+### &#10003; [Jupyter][addon-jupyter]
+
+![Latest Version][jupyter-version-shield]
+![Supports armhf Architecture][jupyter-armhf-shield]
+![Supports aarch64 Architecture][jupyter-aarch64-shield]
+![Supports amd64 Architecture][jupyter-amd64-shield]
+![Supports i386 Architecture][jupyter-i386-shield]
+![Docker Pulls][jupyter-pulls-shield]
+
+Create documents containing live code, equations, visualizations, and explanatory text.
+
+[:books: Jupyter add-on documentation][addon-doc-jupyter]
+
 ### &#10003; [Pi-hole][addon-pi-hole]
 
 ![Latest Version][pi-hole-version-shield]
@@ -252,6 +265,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Home Assistant Control Panel][control-panel-issue]
 - [Open an issue for the add-on: Homebridge][homebridge-issue]
 - [Open an issue for the add-on: IDE][ide-issue]
+- [Open an issue for the add-on: Jupyter][jupyter-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: SSH - Secure Shell][ssh-issue]
 - [Open an issue for the add-on: Shinobi Pro][shinobi-issue]
@@ -387,6 +401,15 @@ SOFTWARE.
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-jupyter]: https://github.com/hassio-addons/addon-jupyter/tree/92dc6fa
+[addon-doc-jupyter]: https://github.com/hassio-addons/addon-jupyter/blob/92dc6fa/README.md
+[jupyter-issue]: https://github.com/hassio-addons/addon-jupyter/issues
+[jupyter-version-shield]: https://img.shields.io/badge/version-92dc6fa-blue.svg
+[jupyter-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyter-armhf.svg
+[jupyter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[jupyter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/34a735f
 [addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/34a735f/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
