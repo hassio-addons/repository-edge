@@ -1,9 +1,10 @@
 {
   "name": "Jupyter",
-  "version": "5e2f1ae",
+  "version": "df5270f",
   "slug": "jupyter",
   "description": "Create documents containing live code, equations, visualizations, and explanatory text.",
   "url": "https://github.com/hassio-addons/addon-jupyter",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:8888]",
   "startup": "application",
   "arch": [
     "aarch64",
@@ -13,7 +14,7 @@
   ],
   "boot": "auto",
   "hassio_api": true,
-  "homeassistant_api": false,
+  "homeassistant_api": true,
   "host_network": false,
   "ports": {
     "8888/tcp": 8888
@@ -28,14 +29,22 @@
     "password": "",
     "ssl": false,
     "certfile": "fullchain.pem",
-    "keyfile": "privkey.pem"
+    "keyfile": "privkey.pem",
+    "system_packages": [],
+    "python_packages": []
   },
   "schema": {
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
     "password": "str",
     "ssl": "bool",
     "certfile": "str",
-    "keyfile": "str"
+    "keyfile": "str",
+    "system_packages": [
+      "str"
+    ],
+    "python_packages": [
+      "str"
+    ]
   },
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
