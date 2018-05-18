@@ -1,6 +1,6 @@
 {
   "name": "Jupyter",
-  "version": "742f85b",
+  "version": "5e2f1ae",
   "slug": "jupyter",
   "description": "Create documents containing live code, equations, visualizations, and explanatory text.",
   "url": "https://github.com/hassio-addons/addon-jupyter",
@@ -25,12 +25,14 @@
   ],
   "options": {
     "log_level": "info",
+    "password": "",
     "ssl": false,
     "certfile": "fullchain.pem",
     "keyfile": "privkey.pem"
   },
   "schema": {
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
+    "password": "str",
     "ssl": "bool",
     "certfile": "str",
     "keyfile": "str"
