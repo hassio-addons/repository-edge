@@ -6,11 +6,19 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-Lorem ipsum
+Create documents containing live code, equations, visualizations,
+and explanatory text.
 
 ## About
 
-Lorem ipsum
+Jupyter is an open-source web application that allows you to create and share
+documents that contain live code, equations, visualizations and narrative text.
+Uses include: data cleaning and transformation, numerical simulation,
+statistical modeling, data visualization, machine learning, and much more.
+
+This add-on runs JupyterLab, which is the next-generation user interface for
+Project Jupyter. It is an extensible environment for interactive and
+reproducible computing, based on the Jupyter Notebook and Architecture.
 
 [Click here for the full documentation][docs]
 
@@ -37,10 +45,10 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-jupyter/blob/236613f/README.md
+[docs]: https://github.com/hassio-addons/addon-jupyter/blob/ba73503/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-concept-red.svg
-[release-shield]: https://img.shields.io/badge/version-236613f-blue.svg
-[release]: https://github.com/hassio-addons/addon-jupyter/tree/236613f
+[release-shield]: https://img.shields.io/badge/version-ba73503-blue.svg
+[release]: https://github.com/hassio-addons/addon-jupyter/tree/ba73503

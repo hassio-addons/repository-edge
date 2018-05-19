@@ -1,3 +1,3 @@
-2018/05/18 20:45 UTC - [236613f](https://github.com/hassio-addons/addon-jupyter/commit/236613f708381b195c1260ed2abbca8c1f0a76d3) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes iframe embeding into Home Assistant frontend 
+2018/05/19 08:58 UTC - [ba73503](https://github.com/hassio-addons/addon-jupyter/commit/ba7350335d0c43bc304b79babb9f37e4424abde2) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes bokeh javascript support in JupyterLab 
 

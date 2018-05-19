@@ -1,6 +1,6 @@
 {
   "name": "Jupyter",
-  "version": "236613f",
+  "version": "ba73503",
   "slug": "jupyter",
   "description": "Create documents containing live code, equations, visualizations, and explanatory text.",
   "url": "https://github.com/hassio-addons/addon-jupyter",
