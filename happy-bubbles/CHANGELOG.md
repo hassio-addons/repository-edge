@@ -1,3 +1,7 @@
-2018/05/16 19:51 UTC - [00f2005](https://github.com/hassio-addons/addon-happy-bubbles/commit/00f20055415a024a1f09611a522b29d7412de829) by [@frenck](https://github.com/frenck)
-> :book: Temporary removed Anchore.io from README 
+# Changelog since v0.1.0
+
+2018/05/19 20:49 UTC - [2bccb52](https://github.com/hassio-addons/addon-happy-bubbles/commit/2bccb52b59874b942a84563fe84f8002c6092ca0) by [@frenck](https://github.com/frenck)
+> :ambulance: Persists precense database
+
+Ref #1 
 
