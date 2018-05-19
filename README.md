@@ -401,10 +401,10 @@ SOFTWARE.
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-jupyter]: https://github.com/hassio-addons/addon-jupyter/tree/ba73503
-[addon-doc-jupyter]: https://github.com/hassio-addons/addon-jupyter/blob/ba73503/README.md
+[addon-jupyter]: https://github.com/hassio-addons/addon-jupyter/tree/7d76c8d
+[addon-doc-jupyter]: https://github.com/hassio-addons/addon-jupyter/blob/7d76c8d/README.md
 [jupyter-issue]: https://github.com/hassio-addons/addon-jupyter/issues
-[jupyter-version-shield]: https://img.shields.io/badge/version-ba73503-blue.svg
+[jupyter-version-shield]: https://img.shields.io/badge/version-7d76c8d-blue.svg
 [jupyter-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyter-armhf.svg
 [jupyter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

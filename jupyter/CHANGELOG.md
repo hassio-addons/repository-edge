@@ -1,3 +1,3 @@
-2018/05/19 08:58 UTC - [ba73503](https://github.com/hassio-addons/addon-jupyter/commit/ba7350335d0c43bc304b79babb9f37e4424abde2) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes bokeh javascript support in JupyterLab 
+2018/05/19 20:22 UTC - [7d76c8d](https://github.com/hassio-addons/addon-jupyter/commit/7d76c8d7ffee4f67b93a97695ec01a48fb236008) by [@frenck](https://github.com/frenck)
+> :arrow_up: py3-attrs >= 17.4.0-r1 
 
