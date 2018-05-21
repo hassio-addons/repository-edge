@@ -1,3 +1,3 @@
-2018/05/21 17:39 UTC - [6d229d8](https://github.com/hassio-addons/addon-plex/commit/6d229d811dcbc48cb83df6ac4e34527f55887240) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds claim_code option to add-on config 
+2018/05/21 18:03 UTC - [ad32d67](https://github.com/hassio-addons/addon-plex/commit/ad32d67a25684a939d736cf76922720e3690f341) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes typo in server claiming call 
 
