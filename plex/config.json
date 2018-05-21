@@ -1,6 +1,6 @@
 {
   "name": "Plex",
-  "version": "7b7dece",
+  "version": "85d4a3e",
   "slug": "plex",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
   "url": "https://community.home-assistant.io/?u=frenck",
@@ -29,7 +29,7 @@
   },
   "hassio_api": true,
   "homeassistant_api": false,
-  "host_network": true,
+  "host_network": false,
   "options": {
     "log_level": "info"
   },

@@ -1,3 +1,3 @@
-2018/05/21 10:19 UTC - [7b7dece](https://github.com/hassio-addons/addon-plex/commit/7b7dece1b1c2a568a4685374207645d17657820a) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds initial add-on code 
+2018/05/21 15:16 UTC - [85d4a3e](https://github.com/hassio-addons/addon-plex/commit/85d4a3ed57191beeee8c593f8daf03d9a236cb38) by [@frenck](https://github.com/frenck)
+> :ambulance: Changes not to run on the host network 
 
