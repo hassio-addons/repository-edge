@@ -1,3 +1,3 @@
-2018/05/21 16:47 UTC - [0ca2c8f](https://github.com/hassio-addons/addon-plex/commit/0ca2c8f6d814c41e6db1011747a3f6ee2da9d64c) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes shellcheck warning 
+2018/05/21 17:39 UTC - [6d229d8](https://github.com/hassio-addons/addon-plex/commit/6d229d811dcbc48cb83df6ac4e34527f55887240) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds claim_code option to add-on config 
 

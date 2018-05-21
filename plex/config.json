@@ -1,6 +1,6 @@
 {
   "name": "Plex",
-  "version": "0ca2c8f",
+  "version": "6d229d8",
   "slug": "plex",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
   "url": "https://community.home-assistant.io/?u=frenck",
@@ -31,10 +31,12 @@
   "homeassistant_api": false,
   "host_network": false,
   "options": {
-    "log_level": "info"
+    "log_level": "info",
+    "claim_code": ""
   },
   "schema": {
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)"
+    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
+    "claim_code": "str"
   },
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
