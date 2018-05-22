@@ -1,3 +1,3 @@
-2018/05/22 19:29 UTC - [e853ef3](https://github.com/hassio-addons/addon-sonweb/commit/e853ef30b3f512947de83620db52b010e11457dc) by [@frenck](https://github.com/frenck)
-> :sparkles: Initial add-on code 
+2018/05/22 22:00 UTC - [72b3ea6](https://github.com/hassio-addons/addon-sonweb/commit/72b3ea643b821e3714ce3f41089ae164623da253) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes NGinx rewrite rules 
 
