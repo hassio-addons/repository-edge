@@ -1,3 +1,3 @@
-2018/05/22 22:00 UTC - [72b3ea6](https://github.com/hassio-addons/addon-sonweb/commit/72b3ea643b821e3714ce3f41089ae164623da253) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes NGinx rewrite rules 
+2018/05/23 17:40 UTC - [c7cc29a](https://github.com/hassio-addons/addon-sonweb/commit/c7cc29adc87338fc69d23150d4e85bb3b306e505) by [@frenck](https://github.com/frenck)
+> :books: Some general documentation updates 
 
