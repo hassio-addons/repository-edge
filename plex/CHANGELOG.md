@@ -1,3 +1,3 @@
-2018/05/21 18:03 UTC - [ad32d67](https://github.com/hassio-addons/addon-plex/commit/ad32d67a25684a939d736cf76922720e3690f341) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes typo in server claiming call 
+2018/05/23 23:05 UTC - [d11b857](https://github.com/hassio-addons/addon-plex/commit/d11b8572a5d6ccd539f76022e5ca33c34e92a319) by [@frenck](https://github.com/frenck)
+> :hammer: Refactors the onboarding process 
 
