@@ -184,7 +184,7 @@ Network-wide ad blocking using your Hass.io instance
 
 [:books: Pi-hole add-on documentation][addon-doc-pi-hole]
 
-### &#10003; [Plex][addon-plex]
+### &#10003; [Plex Media Server][addon-plex]
 
 ![Latest Version][plex-version-shield]
 ![Supports armhf Architecture][plex-armhf-shield]
@@ -195,7 +195,7 @@ Network-wide ad blocking using your Hass.io instance
 
 Recorded media, live TV, online news, and podcasts ready to stream.
 
-[:books: Plex add-on documentation][addon-doc-plex]
+[:books: Plex Media Server add-on documentation][addon-doc-plex]
 
 ### &#10003; [SSH - Secure Shell][addon-ssh]
 
@@ -293,7 +293,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
-- [Open an issue for the add-on: Plex][plex-issue]
+- [Open an issue for the add-on: Plex Media Server][plex-issue]
 - [Open an issue for the add-on: SSH - Secure Shell][ssh-issue]
 - [Open an issue for the add-on: Shinobi Pro][shinobi-issue]
 - [Open an issue for the add-on: SonWEB][sonweb-issue]
