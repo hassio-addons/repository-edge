@@ -1,6 +1,6 @@
 {
-  "name": "Plex",
-  "version": "73c022c",
+  "name": "Plex Media Server",
+  "version": "7ebcb71",
   "slug": "plex",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
   "url": "https://community.home-assistant.io/?u=frenck",
