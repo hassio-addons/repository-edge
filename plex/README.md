@@ -41,10 +41,10 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-plex/blob/d11b857/README.md
+[docs]: https://github.com/hassio-addons/addon-plex/blob/25001ad/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-concept-red.svg
-[release-shield]: https://img.shields.io/badge/version-d11b857-blue.svg
-[release]: https://github.com/hassio-addons/addon-plex/tree/d11b857
+[release-shield]: https://img.shields.io/badge/version-25001ad-blue.svg
+[release]: https://github.com/hassio-addons/addon-plex/tree/25001ad
