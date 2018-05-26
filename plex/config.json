@@ -1,9 +1,9 @@
 {
   "name": "Plex Media Server",
-  "version": "257f5b9",
+  "version": "9ca91e7",
   "slug": "plex",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
-  "url": "https://community.home-assistant.io/?u=frenck",
+  "url": "https://community.home-assistant.io/t/community-hass-io-add-on-plex-media-server/54383?u=frenck",
   "webui": "http://[HOST]:[PORT:32400]/web",
   "startup": "services",
   "arch": [
