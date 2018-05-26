@@ -1,6 +1,6 @@
 {
   "name": "SSH - Secure Shell",
-  "version": "9e03230",
+  "version": "1f26a06",
   "slug": "ssh",
   "description": "Allows SSH connections to your Home Assistant instance",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-ssh/33820?u=frenck",
