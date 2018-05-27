@@ -15,7 +15,14 @@ It's useful for recording metrics, sensor data, events,
 and performing analytics. It exposes an HTTP API for client interaction and if
 often used in combination with Grafana to visualize the data.
 
+This add-on comes with Chronograf & Kapacitor pre-installed as well. Which
+gives you a nice InfluxDB admin interface for managing your users, databases,
+data retention settings, and lets you peek inside the database using the
+Data Explorer.
+
 [Click here for the full documentation][docs]
+
+![Chronograf in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -40,10 +47,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-influxdb/blob/a758813/README.md
+[docs]: https://github.com/hassio-addons/addon-influxdb/blob/d73583f/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-influxdb/54491?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-a758813-blue.svg
-[release]: https://github.com/hassio-addons/addon-influxdb/tree/a758813
+[release-shield]: https://img.shields.io/badge/version-d73583f-blue.svg
+[release]: https://github.com/hassio-addons/addon-influxdb/tree/d73583f
+[screenshot]: https://github.com/hassio-addons/addon-influxdb/raw/master/images/screenshot.png

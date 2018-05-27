@@ -1,3 +1,3 @@
-2018/05/27 15:38 UTC - [a758813](https://github.com/hassio-addons/addon-influxdb/commit/a7588131e512061d91328e6d95d26e81c4d92b77) by [@frenck](https://github.com/frenck)
-> :fire: Removes SSL support for InfluxDB for now, until Chorograf gets fixed 
+2018/05/27 20:03 UTC - [d73583f](https://github.com/hassio-addons/addon-influxdb/commit/d73583fb86b0c058a89a77c5bda74b7375f02d2d) by [@frenck](https://github.com/frenck)
+> :books: Updates the forum links 
 
