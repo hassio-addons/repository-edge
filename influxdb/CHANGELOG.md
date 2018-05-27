@@ -1,3 +1,3 @@
-2018/05/27 13:42 UTC - [2ad30fe](https://github.com/hassio-addons/addon-influxdb/commit/2ad30fedfa392f6e51d03773659e626d1417f31a) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes Hadolint warnings 
+2018/05/27 14:51 UTC - [b5d2bb1](https://github.com/hassio-addons/addon-influxdb/commit/b5d2bb1f0c99365abd4f98d4cb2d242bcf2520e0) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes unterminated expressions 
 

@@ -1,6 +1,6 @@
 {
   "name": "InfluxDB",
-  "version": "2ad30fe",
+  "version": "b5d2bb1",
   "slug": "influxdb",
   "description": "Scalable datastore for metrics, events, and real-time analytics",
   "url": "https://community.home-assistant.io/?u=frenck",
