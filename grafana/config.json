@@ -1,6 +1,6 @@
 {
   "name": "Grafana",
-  "version": "980c5dc",
+  "version": "90b1eef",
   "slug": "grafana",
   "description": "The open platform for beautiful analytics and monitoring",
   "url": "https://community.home-assistant.io/?u=frenck",
@@ -16,8 +16,7 @@
   ],
   "boot": "auto",
   "ports": {
-    "8086/tcp": 8086,
-    "8888/tcp": 8888
+    "3000/tcp": 3000
   },
   "hassio_api": true,
   "homeassistant_api": false,
