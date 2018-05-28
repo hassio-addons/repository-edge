@@ -1,3 +1,3 @@
-2018/05/28 23:12 UTC - [90b1eef](https://github.com/hassio-addons/addon-grafana/commit/90b1eefa2e97951220ed6cbfb2ea84db71ad5fbc) by [@frenck](https://github.com/frenck)
-> :ambulance: Corrects ports in add-on configuration 
+2018/05/28 23:42 UTC - [33d3659](https://github.com/hassio-addons/addon-grafana/commit/33d3659160f85d96bb53c03389dd85181899e41a) by [@frenck](https://github.com/frenck)
+> :snowflake: Tweaks Grafana configuration 
 
