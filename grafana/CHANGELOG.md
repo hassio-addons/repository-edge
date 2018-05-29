@@ -1,3 +1,3 @@
-2018/05/28 23:42 UTC - [33d3659](https://github.com/hassio-addons/addon-grafana/commit/33d3659160f85d96bb53c03389dd85181899e41a) by [@frenck](https://github.com/frenck)
-> :snowflake: Tweaks Grafana configuration 
+2018/05/29 15:58 UTC - [f61697b](https://github.com/hassio-addons/addon-grafana/commit/f61697bba6f473f01aeade73ba5be78590ef4d03) by [@frenck](https://github.com/frenck)
+> :art: Adds add-on screenshot 
 
