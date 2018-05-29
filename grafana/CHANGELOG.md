@@ -1,3 +1,3 @@
-2018/05/29 15:58 UTC - [f61697b](https://github.com/hassio-addons/addon-grafana/commit/f61697bba6f473f01aeade73ba5be78590ef4d03) by [@frenck](https://github.com/frenck)
-> :art: Adds add-on screenshot 
+2018/05/29 18:00 UTC - [4ba71f6](https://github.com/hassio-addons/addon-grafana/commit/4ba71f60e0f42f2f581e284daeca2ccee8c20d78) by [@frenck](https://github.com/frenck)
+> :books: Updates the forum links 
 
