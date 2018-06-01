@@ -197,6 +197,19 @@ Create documents containing live code, equations, visualizations, and explanator
 
 [:books: Jupyter add-on documentation][addon-doc-jupyter]
 
+### &#10003; [Node-RED][addon-node-red]
+
+![Latest Version][node-red-version-shield]
+![Supports armhf Architecture][node-red-armhf-shield]
+![Supports aarch64 Architecture][node-red-aarch64-shield]
+![Supports amd64 Architecture][node-red-amd64-shield]
+![Supports i386 Architecture][node-red-i386-shield]
+![Docker Pulls][node-red-pulls-shield]
+
+Flow-based programming for the Internet of Things
+
+[:books: Node-RED add-on documentation][addon-doc-node-red]
+
 ### &#10003; [Pi-hole][addon-pi-hole]
 
 ![Latest Version][pi-hole-version-shield]
@@ -320,6 +333,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
+- [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
 - [Open an issue for the add-on: SSH - Secure Shell][ssh-issue]
@@ -484,6 +498,15 @@ SOFTWARE.
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [jupyter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/2086044
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/2086044/README.md
+[node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
+[node-red-version-shield]: https://img.shields.io/badge/version-2086044-blue.svg
+[node-red-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/node-red-armhf.svg
+[node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/958905b
 [addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/958905b/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
