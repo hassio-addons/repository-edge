@@ -1,3 +1,3 @@
-2018/06/01 21:15 UTC - [749fb24](https://github.com/hassio-addons/addon-node-red/commit/749fb24c24e37ed5c547a937e3f30b5651261d99) by [@frenck](https://github.com/frenck)
-> :hammer: Ensure credential_secret is set on startup 
+2018/06/01 22:07 UTC - [05153c9](https://github.com/hassio-addons/addon-node-red/commit/05153c95a905b3193d1153511ebd91a97f7c443a) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes ssl cert being passed as path instead of file buffer 
 
