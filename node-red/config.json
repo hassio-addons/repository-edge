@@ -1,6 +1,6 @@
 {
   "name": "Node-RED",
-  "version": "cfde48d",
+  "version": "224bdf2",
   "slug": "nodered",
   "description": "Flow-based programming for the Internet of Things",
   "url": "https://community.home-assistant.io/?u=frenck",
@@ -32,12 +32,12 @@
       }
     ],
     "http_node": {
-      "username": "MarryPoppins",
-      "password": "Supercalifragilisticexpialidocious"
+      "username": "",
+      "password": ""
     },
     "http_static": {
-      "username": "MarryPoppins",
-      "password": "Supercalifragilisticexpialidocious"
+      "username": "",
+      "password": ""
     },
     "port": 1880,
     "ssl": false,
