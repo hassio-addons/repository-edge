@@ -426,10 +426,10 @@ SOFTWARE.
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/3cf0eb9
-[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/3cf0eb9/README.md
+[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/3e34127
+[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/3e34127/README.md
 [ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
-[ftp-version-shield]: https://img.shields.io/badge/version-3cf0eb9-blue.svg
+[ftp-version-shield]: https://img.shields.io/badge/version-3e34127-blue.svg
 [ftp-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ftp-armhf.svg
 [ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
