@@ -48,13 +48,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-shinobi/blob/552616a/README.md
+[docs]: https://github.com/hassio-addons/addon-shinobi/blob/4c08156/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-shinobi-pro/49767?u=frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-552616a-blue.svg
-[release]: https://github.com/hassio-addons/addon-shinobi/tree/552616a
+[release-shield]: https://img.shields.io/badge/version-4c08156-blue.svg
+[release]: https://github.com/hassio-addons/addon-shinobi/tree/4c08156
 [screenshot]: https://github.com/hassio-addons/addon-shinobi/raw/master/images/screenshot.jpg
 
