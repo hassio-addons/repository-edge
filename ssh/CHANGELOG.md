@@ -1,11 +1,8 @@
-# Changelog since v2.4.0
+# Changelog since v2.4.1
 
-2018/05/26 12:38 UTC - [1f26a06](https://github.com/hassio-addons/addon-ssh/commit/1f26a06322b45dfb9197c0f497741ebc8cd4f81e) by [@frenck](https://github.com/frenck)
-> :arrow_up: Updates sqlite to 3.21.0-r1 
+2018/06/03 10:35 UTC - [8fb74e4](https://github.com/hassio-addons/addon-ssh/commit/8fb74e4f0fd3ace9601984682c65480c56684996) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes shellcheck warnings 
 
-2018/05/26 12:38 UTC - [6676a76](https://github.com/hassio-addons/addon-ssh/commit/6676a764e94c8095cababc80f2b9de2031a930b3) by [@frenck](https://github.com/frenck)
-> :arrow_up: Updates bind-tools to 9.11.3-r0 
-
-2018/05/26 12:38 UTC - [247cb25](https://github.com/hassio-addons/addon-ssh/commit/247cb25f534d0bf5d1b607eab7b04b62edab63d3) by [@frenck](https://github.com/frenck)
-> :arrow_up: Updates hassio-cli to v1.3.1 
+2018/06/03 10:35 UTC - [f70e333](https://github.com/hassio-addons/addon-ssh/commit/f70e3330e0f6879cdc657fcfda9fb9d1f288b276) by [@frenck](https://github.com/frenck)
+> :rocket: Moves build-env to latest 
 
