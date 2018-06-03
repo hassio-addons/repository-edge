@@ -42,11 +42,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-appdaemon3/blob/eaeb1c3/README.md
+[docs]: https://github.com/hassio-addons/addon-appdaemon3/blob/5b60140/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-appdaemon3/41261?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-eaeb1c3-blue.svg
-[release]: https://github.com/hassio-addons/addon-appdaemon3/tree/eaeb1c3
+[release-shield]: https://img.shields.io/badge/version-5b60140-blue.svg
+[release]: https://github.com/hassio-addons/addon-appdaemon3/tree/5b60140
 [screenshot]: https://github.com/hassio-addons/addon-appdaemon3/raw/master/images/screenshot.png
