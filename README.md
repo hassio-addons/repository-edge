@@ -475,10 +475,10 @@ SOFTWARE.
 [addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/f846946/README.md
 [ide-issue]: https://github.com/hassio-addons/addon-ide/issues
 [ide-version-shield]: https://img.shields.io/badge/version-f846946-blue.svg
-[ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-amd64.svg
-[ide-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
+[ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-armhf.svg
+[ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ide-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/413f110
 [addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/413f110/README.md
