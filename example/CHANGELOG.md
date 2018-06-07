@@ -1,5 +1,7 @@
-# Changelog since v1.3.1
+[Full Changelog][changelog]
 
-2018/06/07 19:29 UTC - [54b0842](https://github.com/hassio-addons/addon-example/commit/54b0842c8f82a755439e67c87a2c709198520a8e) by [@frenck](https://github.com/frenck)
-> :sparkles: Add legacy image location support 
+### Added
 
+- Add legacy image location support
+
+[changelog]: https://github.com/hassio-addons/addon-example/compare/v1.3.1...v1.3.2
