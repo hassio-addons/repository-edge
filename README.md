@@ -417,10 +417,10 @@ SOFTWARE.
 [appdaemon3-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon3-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [appdaemon3-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/0edae6e
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/0edae6e/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/54b0842
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/54b0842/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-0edae6e-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-54b0842-blue.svg
 [example-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
