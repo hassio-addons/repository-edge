@@ -399,10 +399,10 @@ SOFTWARE.
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [aircast-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/53a30db
-[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/53a30db/README.md
+[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/f22416b
+[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/f22416b/README.md
 [airsonos-issue]: https://github.com/hassio-addons/addon-airsonos/issues
-[airsonos-version-shield]: https://img.shields.io/badge/version-53a30db-blue.svg
+[airsonos-version-shield]: https://img.shields.io/badge/version-f22416b-blue.svg
 [airsonos-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/airsonos-armhf.svg
 [airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
