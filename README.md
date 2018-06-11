@@ -467,10 +467,10 @@ SOFTWARE.
 [happy-bubbles-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [happy-bubbles-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [happy-bubbles-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-control-panel]: https://github.com/hassio-addons/addon-control-panel/tree/1525980
-[addon-doc-control-panel]: https://github.com/hassio-addons/addon-control-panel/blob/1525980/README.md
+[addon-control-panel]: https://github.com/hassio-addons/addon-control-panel/tree/2a7fa9a
+[addon-doc-control-panel]: https://github.com/hassio-addons/addon-control-panel/blob/2a7fa9a/README.md
 [control-panel-issue]: https://github.com/hassio-addons/addon-control-panel/issues
-[control-panel-version-shield]: https://img.shields.io/badge/version-1525980-blue.svg
+[control-panel-version-shield]: https://img.shields.io/badge/version-2a7fa9a-blue.svg
 [control-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/control-panel-armhf.svg
 [control-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [control-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
