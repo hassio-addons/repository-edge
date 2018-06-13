@@ -49,6 +49,10 @@ addons:
     repository: hassio-addons/addon-jupyter
     target: jupyter
     image: hassioaddons/jupyter-{arch}
+  log-viewer:
+    repository: hassio-addons/log-viewer
+    target: log-viewer
+    image: hassioaddons/log-viewer
   node-red:
     repository: hassio-addons/addon-node-red
     target: node-red
