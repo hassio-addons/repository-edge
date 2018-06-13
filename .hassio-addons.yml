@@ -50,7 +50,7 @@ addons:
     target: jupyter
     image: hassioaddons/jupyter-{arch}
   log-viewer:
-    repository: hassio-addons/log-viewer
+    repository: hassio-addons/addon-log-viewer
     target: log-viewer
     image: hassioaddons/log-viewer
   node-red:
