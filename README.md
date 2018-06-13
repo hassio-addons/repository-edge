@@ -197,6 +197,19 @@ Create documents containing live code, equations, visualizations, and explanator
 
 [:books: Jupyter add-on documentation][addon-doc-jupyter]
 
+### &#10003; [Log Viewer][addon-log-viewer]
+
+![Latest Version][log-viewer-version-shield]
+![Supports armhf Architecture][log-viewer-armhf-shield]
+![Supports aarch64 Architecture][log-viewer-aarch64-shield]
+![Supports amd64 Architecture][log-viewer-amd64-shield]
+![Supports i386 Architecture][log-viewer-i386-shield]
+![Docker Pulls][log-viewer-pulls-shield]
+
+Browser-based log utility for Hass.io (Home Assistant)
+
+[:books: Log Viewer add-on documentation][addon-doc-log-viewer]
+
 ### &#10003; [Node-RED][addon-node-red]
 
 ![Latest Version][node-red-version-shield]
@@ -346,6 +359,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
+- [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
@@ -512,6 +526,15 @@ SOFTWARE.
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [jupyter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/0727897
+[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/0727897/README.md
+[log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
+[log-viewer-version-shield]: https://img.shields.io/badge/version-0727897-blue.svg
+[log-viewer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/log-viewer.svg
+[log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/f281eaf
 [addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/f281eaf/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
