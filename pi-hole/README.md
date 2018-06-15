@@ -45,9 +45,9 @@ If you are more interested in stable releases of our add-ons:
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-958905b-blue.svg
-[release]: https://github.com/hassio-addons/addon-pi-hole/tree/958905b
-[docs]: https://github.com/hassio-addons/addon-pi-hole/blob/958905b/README.md
+[release-shield]: https://img.shields.io/badge/version-e6111ee-blue.svg
+[release]: https://github.com/hassio-addons/addon-pi-hole/tree/e6111ee
+[docs]: https://github.com/hassio-addons/addon-pi-hole/blob/e6111ee/README.md
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [pi-hole]: https://pi-hole.net/
