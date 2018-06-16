@@ -323,7 +323,7 @@ Protect your privacy and access Home Assistant via Tor.
 ![Supports i386 Architecture][unifi-i386-shield]
 ![Docker Pulls][unifi-pulls-shield]
 
-Lorem ipsum.
+Manage your UniFi network using a web browser
 
 [:books: UniFi Controller add-on documentation][addon-doc-unifi]
 
