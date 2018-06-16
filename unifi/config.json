@@ -1,6 +1,6 @@
 {
   "name": "UniFi Controller",
-  "version": "1e85d71",
+  "version": "c572341",
   "slug": "unifi",
   "description": "Lorem ipsum.",
   "url": "https://community.home-assistant.io/?u=frenck",
@@ -14,6 +14,7 @@
   ],
   "map": [
     "config:rw",
+    "backup:rw",
     "ssl"
   ],
   "boot": "auto",
