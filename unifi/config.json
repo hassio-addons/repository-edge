@@ -1,10 +1,10 @@
 {
   "name": "UniFi Controller",
-  "version": "6ddffc3",
+  "version": "8fda741",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
-  "url": "https://community.home-assistant.io/?u=frenck",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:8443]",
+  "url": "https://community.home-assistant.io/t/community-hass-io-add-on-unifi-controller/56297?u=frenck",
+  "webui": "https://[HOST]:[PORT:8443]",
   "startup": "services",
   "arch": [
     "aarch64",

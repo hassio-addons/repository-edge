@@ -46,11 +46,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-unifi/blob/6ddffc3/README.md
+[docs]: https://github.com/hassio-addons/addon-unifi/blob/8fda741/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-unifi-controller/56297?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6ddffc3-blue.svg
-[release]: https://github.com/hassio-addons/addon-unifi/tree/6ddffc3
+[release-shield]: https://img.shields.io/badge/version-8fda741-blue.svg
+[release]: https://github.com/hassio-addons/addon-unifi/tree/8fda741
 [screenshot]: https://github.com/hassio-addons/addon-unifi/raw/master/images/screenshot.jpg

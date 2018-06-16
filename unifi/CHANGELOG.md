@@ -1,3 +1,3 @@
-2018/06/16 18:55 UTC - [6ddffc3](https://github.com/hassio-addons/addon-unifi/commit/6ddffc3d3fdd394bacd6c0d9df41287713f3ac93) by [@frenck](https://github.com/frenck)
-> :books: Adds initials documentation 
+2018/06/16 19:18 UTC - [8fda741](https://github.com/hassio-addons/addon-unifi/commit/8fda741e846d19f917eb83d2b719d3975751ebd0) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes OPEN WEB UI link 
 
