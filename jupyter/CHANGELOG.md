@@ -1,3 +1,3 @@
-2018/05/20 08:24 UTC - [08be876](https://github.com/hassio-addons/addon-jupyter/commit/08be876b9ea43a50d2a8233ad35424430d542eb0) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds Pandas datareader package 
+2018/06/16 16:40 UTC - [c2fc57d](https://github.com/hassio-addons/addon-jupyter/commit/c2fc57d5be613860bc7de8ac321078d2d7e3fa5b) by [@frenck](https://github.com/frenck)
+> :hammer: Moved around dependencies a bit, in order to speed up the build 
 

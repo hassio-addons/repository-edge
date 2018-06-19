@@ -517,10 +517,10 @@ SOFTWARE.
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-jupyter]: https://github.com/hassio-addons/addon-jupyter/tree/08be876
-[addon-doc-jupyter]: https://github.com/hassio-addons/addon-jupyter/blob/08be876/README.md
+[addon-jupyter]: https://github.com/hassio-addons/addon-jupyter/tree/c2fc57d
+[addon-doc-jupyter]: https://github.com/hassio-addons/addon-jupyter/blob/c2fc57d/README.md
 [jupyter-issue]: https://github.com/hassio-addons/addon-jupyter/issues
-[jupyter-version-shield]: https://img.shields.io/badge/version-08be876-blue.svg
+[jupyter-version-shield]: https://img.shields.io/badge/version-c2fc57d-blue.svg
 [jupyter-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyter.svg
 [jupyter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
