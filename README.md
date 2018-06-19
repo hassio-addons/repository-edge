@@ -521,7 +521,7 @@ SOFTWARE.
 [addon-doc-jupyter]: https://github.com/hassio-addons/addon-jupyter/blob/08be876/README.md
 [jupyter-issue]: https://github.com/hassio-addons/addon-jupyter/issues
 [jupyter-version-shield]: https://img.shields.io/badge/version-08be876-blue.svg
-[jupyter-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyter-armhf.svg
+[jupyter-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyter.svg
 [jupyter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
