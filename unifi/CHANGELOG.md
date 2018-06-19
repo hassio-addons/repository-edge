@@ -1,3 +1,5 @@
-2018/06/16 19:18 UTC - [8fda741](https://github.com/hassio-addons/addon-unifi/commit/8fda741e846d19f917eb83d2b719d3975751ebd0) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes OPEN WEB UI link 
+# Changelog since v0.1.0
+
+2018/06/19 07:49 UTC - [865ea68](https://github.com/hassio-addons/addon-unifi/commit/865ea687ef967886f1b66483336980c64e6752ca) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades UniFi to v5.8.23 
 
