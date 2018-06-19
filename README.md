@@ -607,10 +607,10 @@ SOFTWARE.
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/865ea68
-[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/865ea68/README.md
+[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/3a8dbdc
+[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/3a8dbdc/README.md
 [unifi-issue]: https://github.com/hassio-addons/addon-unifi/issues
-[unifi-version-shield]: https://img.shields.io/badge/version-865ea68-blue.svg
+[unifi-version-shield]: https://img.shields.io/badge/version-3a8dbdc-blue.svg
 [unifi-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/unifi.svg
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
