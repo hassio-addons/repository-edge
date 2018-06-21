@@ -71,7 +71,7 @@ addons:
     image: hassioaddons/shinobi-{arch}
   tasmoadmin:
     repository: hassio-addons/addon-tasmoadmin
-    target: tasmoadmin 
+    target: tasmoadmin
     image: hassioaddons/sonweb-{arch}
   ssh:
     repository: hassio-addons/addon-ssh
