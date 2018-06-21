@@ -47,11 +47,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-tasmoadmin/blob/2208703/README.md
+[docs]: https://github.com/hassio-addons/addon-tasmoadmin/blob/55844ec/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-tasmoadmin/54155?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-2208703-blue.svg
-[release]: https://github.com/hassio-addons/addon-tasmoadmin/tree/2208703
+[release-shield]: https://img.shields.io/badge/version-55844ec-blue.svg
+[release]: https://github.com/hassio-addons/addon-tasmoadmin/tree/55844ec
 [screenshot]: https://github.com/hassio-addons/addon-tasmoadmin/raw/master/images/screenshot.png
