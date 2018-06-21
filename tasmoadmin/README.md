@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: SonWEB
+# Community Hass.io Add-ons: TasmoAdmin
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -10,8 +10,9 @@ Centrally manage all your Sonoff-Tasmota devices.
 
 ## About
 
-SonWEB is an administrative web interface to manage all your Sonoff-Tasmota
-flashed devices centrally. Some of its features:
+TasmoAdmin (formerly known as SonWEB) is an administrative web interface to
+manage all your Sonoff-Tasmota flashed devices centrally.
+Some of its features:
 
 - Scans your networks and adds your devices automatically
 - See the status off all your devices quick and easy
@@ -21,7 +22,7 @@ flashed devices centrally. Some of its features:
 
 [Click here for the full documentation][docs]
 
-![SonWEB screenshot][screenshot]
+![TasmoAdmin screenshot][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -46,11 +47,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-sonweb/blob/df688cb/README.md
+[docs]: https://github.com/hassio-addons/addon-tasmoadmin/blob/2208703/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-sonweb/54155?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-tasmoadmin/54155?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-df688cb-blue.svg
-[release]: https://github.com/hassio-addons/addon-sonweb/tree/df688cb
-[screenshot]: https://github.com/hassio-addons/addon-sonweb/raw/master/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-2208703-blue.svg
+[release]: https://github.com/hassio-addons/addon-tasmoadmin/tree/2208703
+[screenshot]: https://github.com/hassio-addons/addon-tasmoadmin/raw/master/images/screenshot.png
