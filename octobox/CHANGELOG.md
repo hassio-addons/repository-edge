@@ -1,3 +1,3 @@
-2018/06/23 19:33 UTC - [db78584](https://github.com/hassio-addons/addon-octobox/commit/db785841c9e34b0a39eddb812edfe1d961554c1b) by [@frenck](https://github.com/frenck)
-> :books: Updates add-on README template file 
+2018/06/23 19:59 UTC - [182f3a5](https://github.com/hassio-addons/addon-octobox/commit/182f3a5e3f383dcc1a64c0ed72794397c89c30e0) by [@frenck](https://github.com/frenck)
+> :rocket: Extends NGinx proxy timeouts 
 
