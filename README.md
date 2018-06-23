@@ -223,6 +223,19 @@ Flow-based programming for the Internet of Things
 
 [:books: Node-RED add-on documentation][addon-doc-node-red]
 
+### &#10003; [Octobox][addon-octobox]
+
+![Latest Version][octobox-version-shield]
+![Supports armhf Architecture][octobox-armhf-shield]
+![Supports aarch64 Architecture][octobox-aarch64-shield]
+![Supports amd64 Architecture][octobox-amd64-shield]
+![Supports i386 Architecture][octobox-i386-shield]
+![Docker Pulls][octobox-pulls-shield]
+
+Take back control of your GitHub notifications
+
+[:books: Octobox add-on documentation][addon-doc-octobox]
+
 ### &#10003; [Pi-hole][addon-pi-hole]
 
 ![Latest Version][pi-hole-version-shield]
@@ -361,6 +374,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
+- [Open an issue for the add-on: Octobox][octobox-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
 - [Open an issue for the add-on: SSH - Secure Shell][ssh-issue]
@@ -544,6 +558,15 @@ SOFTWARE.
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-octobox]: https://github.com/hassio-addons/addon-octobox/tree/d669ed4
+[addon-doc-octobox]: https://github.com/hassio-addons/addon-octobox/blob/d669ed4/README.md
+[octobox-issue]: https://github.com/hassio-addons/addon-octobox/issues
+[octobox-version-shield]: https://img.shields.io/badge/version-d669ed4-blue.svg
+[octobox-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/octobox.svg
+[octobox-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[octobox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[octobox-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[octobox-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/e6111ee
 [addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/e6111ee/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
