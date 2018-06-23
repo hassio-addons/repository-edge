@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Tor
+# Community Hass.io Add-ons: Octobox
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -6,29 +6,34 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-Protect your privacy and access Home Assistant via Tor.
+Take back control of your GitHub notifications.
 
 ## About
 
-This Tor add-on allows you to access you Home Assistant instance as an Onion site,
-trough [Tor's Hidden Service][tor-hidden-service] feature. With this feature
-enabled, you do not need to open your firewall ports or setup HTTPS to enable
-secure remote access.
+If you manage more than one active project on GitHub, you probably find
+GitHub notifications pretty lacking.
 
-This is useful if you want to have:
+Notifications are marked as read and disappear from the list as soon as you load
+the page or view the email of the notification. This makes it very hard to keep
+on top of which notifications you still need to follow up on.
 
-- Access your Home Assistant instance remotely without opening a firewall port
-  or setting up a VPN.
-- Don’t want to or know how to get an SSL/TLS certificate and HTTPS
-  configuration setup.
-- Want to block attackers from even being able to access/scan your port and
-  server at all.
-- Want to block anyone from knowing your home IP address and seeing your
-  traffic to your Home Assistant.
+Most open source maintainers and GitHub staff end up using a complex combination
+of filters and labels in Gmail to manage their notifications from their inbox.
+If, like me, you try to avoid email, then you might want something else.
 
-The add-on also offers the possibility to open a Sock proxy into the
-Tor network. Allowing you to access Tor from any of your (SOCKS supporting)
-applications through your Hass.io installation.
+Octobox is an beautiful application that manages your GitHub notifications via
+GitHub’s API, allowing you to filter down by organization, project,
+notification type, or the reason why you are receiving the notification in the
+first place.
+
+It is easy to drill down in to the issues that matter to you in the current
+moment while still allowing you to be subscribed to projects that you’d like
+to keep an eye on. You can quickly address threads that you’ve authored yourself
+or remember that you still need to submit your review that someone requested.
+You can “star” long-running issues that you know might be important down the
+road.
+
+A true must-have for every GitHub opensource contributor.
 
 [Click here for the full documentation][docs]
 
@@ -55,11 +60,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-octobox/blob/d669ed4/README.md
+[docs]: https://github.com/hassio-addons/addon-octobox/blob/db78584/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-tor/33822?u=frenck 
+[forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-d669ed4-blue.svg
-[release]: https://github.com/hassio-addons/addon-octobox/tree/d669ed4
+[release-shield]: https://img.shields.io/badge/version-db78584-blue.svg
+[release]: https://github.com/hassio-addons/addon-octobox/tree/db78584
 [tor-hidden-service]: https://www.torproject.org/docs/hidden-services.html.en
