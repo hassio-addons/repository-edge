@@ -37,6 +37,8 @@ A true must-have for every GitHub opensource contributor.
 
 [Click here for the full documentation][docs]
 
+![Home Assistant Control Panel screenshot][screenshot]
+
 ## WARNING! THIS IS AN EDGE VERSION!
 
 This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
@@ -60,11 +62,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-octobox/blob/f84062f/README.md
+[docs]: https://github.com/hassio-addons/addon-octobox/blob/8878ea0/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-f84062f-blue.svg
-[release]: https://github.com/hassio-addons/addon-octobox/tree/f84062f
-[tor-hidden-service]: https://www.torproject.org/docs/hidden-services.html.en
+[release-shield]: https://img.shields.io/badge/version-8878ea0-blue.svg
+[release]: https://github.com/hassio-addons/addon-octobox/tree/8878ea0
+[screenshot]: https://github.com/hassio-addons/addon-octobox/raw/master/images/screenshot.png
