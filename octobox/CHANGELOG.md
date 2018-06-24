@@ -1,3 +1,3 @@
-2018/06/23 21:27 UTC - [8878ea0](https://github.com/hassio-addons/addon-octobox/commit/8878ea0635cf0e511209824be68e6bca278f5e89) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes NGinx upstream proxy name when SSL is enabled 
+2018/06/24 07:59 UTC - [478afca](https://github.com/hassio-addons/addon-octobox/commit/478afcafd6ebd16abcd6abe8950492b2654bd5e9) by [@frenck](https://github.com/frenck)
+> :books: Updates add-on README template 
 

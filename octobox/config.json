@@ -1,9 +1,9 @@
 {
   "name": "Octobox",
-  "version": "8878ea0",
+  "version": "478afca",
   "slug": "octobox",
   "description": "Take back control of your GitHub notifications",
-  "url": "https://community.home-assistant.io/?u=frenck",
+  "url": "https://community.home-assistant.io/t/community-hass-io-add-on-octobox/57695?u=frenck",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:3333]",
   "startup": "services",
   "arch": [
