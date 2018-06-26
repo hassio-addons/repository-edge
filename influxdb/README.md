@@ -47,11 +47,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-influxdb/blob/1ab4f7b/README.md
+[docs]: https://github.com/hassio-addons/addon-influxdb/blob/b0d982f/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-influxdb/54491?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-1ab4f7b-blue.svg
-[release]: https://github.com/hassio-addons/addon-influxdb/tree/1ab4f7b
+[release-shield]: https://img.shields.io/badge/version-b0d982f-blue.svg
+[release]: https://github.com/hassio-addons/addon-influxdb/tree/b0d982f
 [screenshot]: https://github.com/hassio-addons/addon-influxdb/raw/master/images/screenshot.png
