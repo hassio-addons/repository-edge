@@ -1,5 +1,5 @@
-# Changelog since v0.2.0
+# Changelog since v0.2.1
 
-2018/06/22 07:44 UTC - [caffc65](https://github.com/hassio-addons/addon-tasmoadmin/commit/caffc65ada2dbef0e1778daccf434612dc5ab198) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes a typo in the migration script 
+2018/06/26 04:22 UTC - [efc1737](https://github.com/hassio-addons/addon-tasmoadmin/commit/efc17377f9cf501080e09e203560a0abdfeac2c8) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades TasmoAdmin to v1.3.1 
 

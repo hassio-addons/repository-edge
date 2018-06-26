@@ -603,10 +603,10 @@ SOFTWARE.
 [shinobi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [shinobi-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [shinobi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/caffc65
-[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/caffc65/README.md
+[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/efc1737
+[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/efc1737/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/addon-tasmoadmin/issues
-[tasmoadmin-version-shield]: https://img.shields.io/badge/version-caffc65-blue.svg
+[tasmoadmin-version-shield]: https://img.shields.io/badge/version-efc1737-blue.svg
 [tasmoadmin-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sonweb-armhf.svg
 [tasmoadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
