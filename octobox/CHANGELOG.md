@@ -1,3 +1,7 @@
-2018/06/24 07:59 UTC - [478afca](https://github.com/hassio-addons/addon-octobox/commit/478afcafd6ebd16abcd6abe8950492b2654bd5e9) by [@frenck](https://github.com/frenck)
-> :books: Updates add-on README template 
+# Changelog since v0.1.0
+
+2018/06/26 04:10 UTC - [bfd1288](https://github.com/hassio-addons/addon-octobox/commit/bfd128874fb9bc7149e9e5d452d227f9347beb37) by [@frenck](https://github.com/frenck)
+> :ambulance: Adds missing apache2-utils package
+
+Ref #1 
 
