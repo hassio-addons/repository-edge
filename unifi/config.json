@@ -1,6 +1,6 @@
 {
   "name": "UniFi Controller",
-  "version": "3a8dbdc",
+  "version": "1d950ed",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-unifi-controller/56297?u=frenck",
