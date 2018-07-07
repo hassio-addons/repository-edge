@@ -49,8 +49,8 @@ If you are more interested in stable releases of our add-ons:
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-5f21939-blue.svg
-[release]: https://github.com/hassio-addons/addon-ftp/tree/5f21939
-[docs]: https://github.com/hassio-addons/addon-ftp/blob/5f21939/README.md
+[release-shield]: https://img.shields.io/badge/version-9640661-blue.svg
+[release]: https://github.com/hassio-addons/addon-ftp/tree/9640661
+[docs]: https://github.com/hassio-addons/addon-ftp/blob/9640661/README.md
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
