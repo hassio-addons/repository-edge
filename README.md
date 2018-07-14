@@ -513,10 +513,10 @@ SOFTWARE.
 [homebridge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [homebridge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [homebridge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/e2577cf
-[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/e2577cf/README.md
+[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/50a3b05
+[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/50a3b05/README.md
 [ide-issue]: https://github.com/hassio-addons/addon-ide/issues
-[ide-version-shield]: https://img.shields.io/badge/version-e2577cf-blue.svg
+[ide-version-shield]: https://img.shields.io/badge/version-50a3b05-blue.svg
 [ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-armhf.svg
 [ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
