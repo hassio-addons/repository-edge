@@ -46,14 +46,14 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-ide/blob/f93327e/README.md
+[docs]: https://github.com/hassio-addons/addon-ide/blob/9f6970f/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810?u=frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [ohmyzsh]: http://ohmyz.sh/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-f93327e-blue.svg
-[release]: https://github.com/hassio-addons/addon-ide/tree/f93327e
+[release-shield]: https://img.shields.io/badge/version-9f6970f-blue.svg
+[release]: https://github.com/hassio-addons/addon-ide/tree/9f6970f
 [screenshot]: https://github.com/hassio-addons/addon-ide/raw/master/images/screenshot.png
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
