@@ -1,3 +1,3 @@
-2018/06/13 22:31 UTC - [b50ad3c](https://github.com/hassio-addons/addon-log-viewer/commit/b50ad3c0f6d33b973fe675df214db757410e207e) by [@frenck](https://github.com/frenck)
-> :arrow_up: Updates Log Viewer to 8a8194a0fcb871b2bbdf8722f853f6010e43d893 
+2018/07/14 15:35 UTC - [ffa9d6d](https://github.com/hassio-addons/addon-log-viewer/commit/ffa9d6d7653764ac8c0aeddfced6f2b086e50503) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades git to 2.18.0-r0 
 

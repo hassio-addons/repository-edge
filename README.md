@@ -540,10 +540,10 @@ SOFTWARE.
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [jupyter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/b50ad3c
-[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/b50ad3c/README.md
+[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/ffa9d6d
+[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/ffa9d6d/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
-[log-viewer-version-shield]: https://img.shields.io/badge/version-b50ad3c-blue.svg
+[log-viewer-version-shield]: https://img.shields.io/badge/version-ffa9d6d-blue.svg
 [log-viewer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/log-viewer.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
