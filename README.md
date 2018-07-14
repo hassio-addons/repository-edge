@@ -450,10 +450,10 @@ SOFTWARE.
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/tree/aea98da
-[addon-doc-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/blob/aea98da/README.md
+[addon-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/tree/2725631
+[addon-doc-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/blob/2725631/README.md
 [appdaemon3-issue]: https://github.com/hassio-addons/addon-appdaemon3/issues
-[appdaemon3-version-shield]: https://img.shields.io/badge/version-aea98da-blue.svg
+[appdaemon3-version-shield]: https://img.shields.io/badge/version-2725631-blue.svg
 [appdaemon3-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/appdaemon3-armhf.svg
 [appdaemon3-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon3-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
