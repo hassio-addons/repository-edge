@@ -567,10 +567,10 @@ SOFTWARE.
 [octobox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [octobox-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [octobox-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/1ad27cc
-[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/1ad27cc/README.md
+[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/662f5e3
+[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/662f5e3/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
-[pi-hole-version-shield]: https://img.shields.io/badge/version-1ad27cc-blue.svg
+[pi-hole-version-shield]: https://img.shields.io/badge/version-662f5e3-blue.svg
 [pi-hole-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/pi-hole-armhf.svg
 [pi-hole-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
