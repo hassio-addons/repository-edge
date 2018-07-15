@@ -1,7 +1,14 @@
-# Changelog since v0.2.0
+# Changelog since v0.2.1
 
-2018/06/26 04:13 UTC - [2991105](https://github.com/hassio-addons/addon-node-red/commit/29911055ea827fcf4128f3e6415bd57a89cf0054) by [@frenck](https://github.com/frenck)
-> :sparkles: Maps all UART/Serial devices to add-on
+2018/07/14 23:46 UTC - [e0945a4](https://github.com/hassio-addons/addon-node-red/commit/e0945a4311fae70defc0bcee8bae248d7b888473) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades home-assistant node to Spartan-II-117 fork 
 
-Ref #10 
+2018/07/14 23:46 UTC - [6af00d6](https://github.com/hassio-addons/addon-node-red/commit/6af00d628be94c5be195bd3482c1504da23e4593) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nodejs to 8.11.3-r1 
+
+2018/07/14 23:46 UTC - [0dbc412](https://github.com/hassio-addons/addon-node-red/commit/0dbc41240d840569c5a9d1267676eac670be6b1c) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades git to 2.18.0-r0 
+
+2018/07/14 23:46 UTC - [11006fe](https://github.com/hassio-addons/addon-node-red/commit/11006fe1cdfadff94c0e6015d56b52358d8341b9) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.0.1 
 
