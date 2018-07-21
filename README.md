@@ -271,7 +271,7 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 ![Supports i386 Architecture][ssh-i386-shield]
 ![Docker Pulls][ssh-pulls-shield]
 
-Allows SSH connections to your Home Assistant instance
+SSH & Web Terminal access to your Home Assistant instance
 
 [:books: SSH & Web Terminal add-on documentation][addon-doc-ssh]
 
