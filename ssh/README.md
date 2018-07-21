@@ -44,6 +44,10 @@ well. Additionally, it comes out of the box with the following:
 - Username is configurable, so `root` is no longer mandatory.
 - Persists custom SSH client settings & keys between add-on restarts
 - Log levels for allowing you to triage issues easier.
+- Hardware access to your audio and uart/serial devices.
+- Runs with more privileges, allowing you to debug and test more situations.
+- Has access to the dbus of the host system.
+- Runs on host level network, allowing you to open ports or run little daemons.
 - Have custom Alpine packages installed on start. This allows you to install
   your favorite tools, which will be available every single time you log in.
 - Execute custom commands on add-on start so that you can customize the
@@ -80,7 +84,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-ssh/blob/b833f01/README.md
+[docs]: https://github.com/hassio-addons/addon-ssh/blob/56a7d33/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ssh/33820?u=frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
@@ -88,8 +92,8 @@ If you are more interested in stable releases of our add-ons:
 [ohmyzsh]: http://ohmyz.sh/
 [openssh]: https://www.openssh.com/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-b833f01-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/b833f01
+[release-shield]: https://img.shields.io/badge/version-56a7d33-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/56a7d33
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
 [ssh-audit]: https://github.com/arthepsy/ssh-audit
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
