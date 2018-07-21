@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: SSH - Secure Shell
+# Community Hass.io Add-ons: SSH & Web Terminal
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -7,25 +7,30 @@
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 This add-on allows you to log in to your Hass.io Home Assistant instance using
-SSH.
+SSH or by using the Web Terminal.
 
 ## About
 
 This add-on allows you to log in to your Hass.io Home Assistant instance using
-SSH, giving you to access your Hass.io folders and also includes a
-command-line tool to do things like restart, update, and check your instance.
+SSH or a Web Terminal, giving you to access your Hass.io folders and
+also includes a command-line tool to do things like restart, update,
+and check your instance.
 
 This is an enhanced version of the provided
 [SSH add-on by Home Assistant][hass-ssh] and focusses on security,
-usability and flexibility.
+usability, flexibility and also provides access using a web interface.
 
 [Click here for the full documentation][docs]
 
+![Web Terminal in the Home Assistant Frontend][screenshot]
+
 ## Features
 
-This add-on, of course, provides an SSH server, based on [OpenSSH][openssh].
-Additionally, it comes out of the box with the following:
+This add-on, of course, provides an SSH server, based on [OpenSSH][openssh] and
+a web-based Terminal (which can be included in your Home Assistant frontend) as
+well. Additionally, it comes out of the box with the following:
 
+- Access your command line right from the Home Assistant frontend!
 - A secure default configuration of SSH:
   - Only allows login by the configured user, even if more users are created.
   - Only uses known secure ciphers and algorithms.
@@ -33,7 +38,7 @@ Additionally, it comes out of the box with the following:
   - Many more security tweaks, *this addon passes all [ssh-audit] checks
     without warnings!*
     ![Result of SSH-Audit][ssh-audit-image]
-- Comes with compatibility mode option to allow older clients to connect.
+- Comes with an SSH compatibility mode option to allow older clients to connect.
 - SFTP support is disabled by default but is user configurable.
 - Compatible if Hass.io was installed via the generic Linux installer.
 - Username is configurable, so `root` is no longer mandatory.
@@ -75,7 +80,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-ssh/blob/f64689d/README.md
+[docs]: https://github.com/hassio-addons/addon-ssh/blob/b833f01/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ssh/33820?u=frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
@@ -83,8 +88,9 @@ If you are more interested in stable releases of our add-ons:
 [ohmyzsh]: http://ohmyz.sh/
 [openssh]: https://www.openssh.com/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-f64689d-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/f64689d
+[release-shield]: https://img.shields.io/badge/version-b833f01-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/b833f01
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
 [ssh-audit]: https://github.com/arthepsy/ssh-audit
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
+[screenshot]: https://github.com/hassio-addons/addon-ssh/raw/master/images/screenshot.png
