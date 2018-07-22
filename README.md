@@ -432,10 +432,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/f7e2608
-[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/f7e2608/README.md
+[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/38582b1
+[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/38582b1/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
-[aircast-version-shield]: https://img.shields.io/badge/version-f7e2608-blue.svg
+[aircast-version-shield]: https://img.shields.io/badge/version-38582b1-blue.svg
 [aircast-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/aircast-armhf.svg
 [aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
