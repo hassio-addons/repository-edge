@@ -39,11 +39,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-spotify-connect/blob/7fab026/README.md
+[docs]: https://github.com/hassio-addons/addon-spotify-connect/blob/c2f7e4c/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-7fab026-blue.svg
-[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/7fab026
+[release-shield]: https://img.shields.io/badge/version-c2f7e4c-blue.svg
+[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/c2f7e4c
 [screenshot]: https://github.com/hassio-addons/addon-spotify-connect/raw/master/images/screenshot.jpg
