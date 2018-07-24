@@ -563,10 +563,10 @@ SOFTWARE.
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/58906b2
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/58906b2/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/e974aea
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/e974aea/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-58906b2-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-e974aea-blue.svg
 [node-red-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/node-red-armhf.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
