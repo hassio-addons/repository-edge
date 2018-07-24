@@ -297,7 +297,7 @@ Beautiful and feature-rich CCTV/NVR for your cameras
 ![Supports i386 Architecture][spotify-i386-shield]
 ![Docker Pulls][spotify-pulls-shield]
 
-Play Spotify music via your Home Assistant device.
+Play Spotify music on your Home Assistant device
 
 [:books: Spotify Connect add-on documentation][addon-doc-spotify]
 
