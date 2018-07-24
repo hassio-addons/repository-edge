@@ -1,8 +1,8 @@
 {
   "name": "Spotify Connect",
-  "version": "c2f7e4c",
+  "version": "f76ed32",
   "slug": "spotify",
-  "description": "Lorem ipsum",
+  "description": "Play Spotify music via your Home Assistant device.",
   "url": "https://community.home-assistant.io/?u=frenck",
   "startup": "services",
   "arch": [

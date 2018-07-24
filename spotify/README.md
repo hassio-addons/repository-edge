@@ -6,11 +6,20 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-Lorem ipsum.
+Play Spotify music via your Home Assistant device.
 
 ## About
 
-Lorem ipsum.
+**IMPORTANT**: _This add-on requires a Spotify Premium account!_
+
+The Hass.io Spotify Connect add-on allows you to use your device running
+Home Assistant to play your Spotify music. This add-on uses the Spotify
+Connect protocol, which makes it show up a device that can be controlled
+by all the official clients.
+
+For example; Running Hass.io on a Raspberry Pi with this add-on installed
+will allow you to play your Spotify music via the Pi. So all you'll have
+to do is hook up your sound system to the Pi!
 
 [Click here for the full documentation][docs]
 
@@ -39,11 +48,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-spotify-connect/blob/c2f7e4c/README.md
+[docs]: https://github.com/hassio-addons/addon-spotify-connect/blob/f76ed32/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c2f7e4c-blue.svg
-[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/c2f7e4c
-[screenshot]: https://github.com/hassio-addons/addon-spotify-connect/raw/master/images/screenshot.jpg
+[release-shield]: https://img.shields.io/badge/version-f76ed32-blue.svg
+[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/f76ed32
+[screenshot]: https://github.com/hassio-addons/addon-spotify-connect/raw/master/images/screenshot.png

@@ -617,10 +617,10 @@ SOFTWARE.
 [shinobi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [shinobi-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [shinobi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/c2f7e4c
-[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/c2f7e4c/README.md
+[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/f76ed32
+[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/f76ed32/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-c2f7e4c-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-f76ed32-blue.svg
 [spotify-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/spotify.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
