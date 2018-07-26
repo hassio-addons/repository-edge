@@ -1,6 +1,6 @@
 {
   "name": "Lovelace Migration",
-  "version": "dd63b21",
+  "version": "af84585",
   "slug": "lovelace-migration",
   "description": "Automatically convert your existing UI to the new Lovelace UI",
   "url": "https://github.com/hassio-addons/addon-lovelace-migration",
@@ -11,7 +11,7 @@
     "armhf",
     "i386"
   ],
-  "boot": "auto",
+  "boot": "manual",
   "hassio_api": true,
   "homeassistant_api": true,
   "map": [
@@ -22,12 +22,14 @@
   "options": {
     "log_level": "info",
     "output": "/config/ui-lovelace.yaml",
+    "auto_backups": true,
     "init_commands": [],
     "post_commands": []
   },
   "schema": {
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
     "output": "str",
+    "auto_backups": "bool",
     "init_commands": [
       "str"
     ],

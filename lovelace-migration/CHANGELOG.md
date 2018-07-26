@@ -1,7 +1,3 @@
-2018/07/26 21:53 UTC - [dd63b21](https://github.com/hassio-addons/addon-lovelace-migration/commit/dd63b217423ca90e8ee88e871298b869fb08ad65) by [@frenck](https://github.com/frenck)
-> :shirt: Improves log messages format (#3)
-
-* :shirt: Improves log output
-
-* :shirt: config.json styling 
+2018/07/26 22:26 UTC - [af84585](https://github.com/hassio-addons/addon-lovelace-migration/commit/af8458536e3618eae9257cd9bba3c9a717471d6c) by [@dale3h](https://github.com/dale3h)
+> 🚀 Changes boot to manual 
 
