@@ -1,5 +1,5 @@
-# Changelog since v0.1.1
+# Changelog since v0.1.2
 
-2018/06/30 10:46 UTC - [1d950ed](https://github.com/hassio-addons/addon-unifi/commit/1d950ed6a348795a7571e2c9f3254c093309e1fc) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades UniFi to v5.8.24 
+2018/08/06 17:22 UTC - [702b153](https://github.com/hassio-addons/addon-unifi/commit/702b153960c45ee0ede1c3a1a6e84385c08a051b) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Unifi to 5.8.28 
 
