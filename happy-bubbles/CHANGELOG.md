@@ -1,11 +1,11 @@
-# Changelog since v0.4.1
+# Changelog since v1.0.0
 
-2018/07/14 13:31 UTC - [d7396bb](https://github.com/hassio-addons/addon-happy-bubbles/commit/d7396bb6984368d8dcce16814e570233b53b762d) by [@frenck](https://github.com/frenck)
-> :books: Updates project badges to production ready 
+2018/08/12 18:15 UTC - [bb98690](https://github.com/hassio-addons/addon-happy-bubbles/commit/bb98690262e1427a8a953109222876514c000a31) by [@frenck](https://github.com/frenck)
+> :books: Updates READMEs 
 
-2018/07/14 13:31 UTC - [d88a551](https://github.com/hassio-addons/addon-happy-bubbles/commit/d88a5516d3a8e8aca61e744a81dfe3756dd4c13e) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.14.0-r0 
+2018/08/12 18:15 UTC - [206c94f](https://github.com/hassio-addons/addon-happy-bubbles/commit/206c94f5d377d027333252c883310f5fa81ce87b) by [@frenck](https://github.com/frenck)
+> :lock: Enables SSL by default 
 
-2018/07/14 13:31 UTC - [8b85421](https://github.com/hassio-addons/addon-happy-bubbles/commit/8b85421ded8c0d416c17b565e119b2b18969ce54) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.0.1 
+2018/08/12 18:15 UTC - [e134b3d](https://github.com/hassio-addons/addon-happy-bubbles/commit/e134b3d53c1760733c2e164aa6c740b5f2e2382a) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.1.0 
 

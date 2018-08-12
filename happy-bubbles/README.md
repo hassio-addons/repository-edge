@@ -6,6 +6,8 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+[![Support my work on Patreon][patreon-shield]][patreon]
+
 Presence detection server for Happy Bubbles Bluetooth beacon-based
 presence detection system.
 
@@ -48,12 +50,15 @@ If you are more interested in stable releases of our add-ons:
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-happy-bubbles/blob/d7396bb/README.md
+[discord-ha]: https://discord.gg/c5DvZ4e
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/addon-happy-bubbles/blob/bb98690/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-happy-bubbles/53511?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[patreon-shield]: https://www.frenck.nl/images/patreon.png
+[patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-d7396bb-blue.svg
-[release]: https://github.com/hassio-addons/addon-happy-bubbles/tree/d7396bb
+[release-shield]: https://img.shields.io/badge/version-bb98690-blue.svg
+[release]: https://github.com/hassio-addons/addon-happy-bubbles/tree/bb98690
