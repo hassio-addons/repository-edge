@@ -1,11 +1,8 @@
-# Changelog since v0.4.0
+# Changelog since v0.5.0
 
-2018/07/24 19:03 UTC - [e974aea](https://github.com/hassio-addons/addon-node-red/commit/e974aea0d463be86fc47f8566d14a7f6509baf25) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes shellcheck warning 
+2018/08/14 19:03 UTC - [5a2c25c](https://github.com/hassio-addons/addon-node-red/commit/5a2c25c865220a6632e1b068894b7d6e395feee1) by [@greenkeeper[bot]](https://github.com/apps/greenkeeper)
+> :arrow_up: Updates node-red-contrib-time-range-switch to version 0.6.1 (#18) 
 
-2018/07/24 19:03 UTC - [e02c408](https://github.com/hassio-addons/addon-node-red/commit/e02c4087ec4ce0d2a4e901217cb3c945d6fab266) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds automatic configuration of the Hassio API token 
-
-2018/07/24 19:03 UTC - [e82abb7](https://github.com/hassio-addons/addon-node-red/commit/e82abb73bd7c7277298f95c9ad745d1df04cb734) by [@frenck](https://github.com/frenck)
-> :books: Fixes incorrect title in add-on README template 
+2018/08/14 19:03 UTC - [2559006](https://github.com/hassio-addons/addon-node-red/commit/25590069e73b0d22a7b3ce14978be70d72cb7169) by [@greenkeeper[bot]](https://github.com/apps/greenkeeper)
+> :arrow_up: Updates node-red to version 0.19.0 (#19) 
 
