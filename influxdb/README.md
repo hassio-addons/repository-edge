@@ -6,6 +6,8 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+[![Support my work on Patreon][patreon-shield]][patreon]
+
 Scalable datastore for metrics, events, and real-time analytics.
 
 ## About
@@ -45,13 +47,15 @@ If you are more interested in stable releases of our add-ons:
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-influxdb/blob/e0f9d03/README.md
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/addon-influxdb/blob/8f21b0d/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-influxdb/54491?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[patreon-shield]: https://www.frenck.nl/images/patreon.png
+[patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-e0f9d03-blue.svg
-[release]: https://github.com/hassio-addons/addon-influxdb/tree/e0f9d03
+[release-shield]: https://img.shields.io/badge/version-8f21b0d-blue.svg
+[release]: https://github.com/hassio-addons/addon-influxdb/tree/8f21b0d
 [screenshot]: https://github.com/hassio-addons/addon-influxdb/raw/master/images/screenshot.png
