@@ -6,6 +6,8 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+[![Support my work on Patreon][patreon-shield]][patreon]
+
 A secure and fast FTP server for Hass.io
 
 ## About
@@ -43,14 +45,16 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/hassio-addons/repository>
 
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ftp/36799?u=frenck
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-62513ec-blue.svg
-[release]: https://github.com/hassio-addons/addon-ftp/tree/62513ec
-[docs]: https://github.com/hassio-addons/addon-ftp/blob/62513ec/README.md
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/addon-ftp/blob/c24b08c/README.md
+[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ftp/36799?u=frenck
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[patreon-shield]: https://www.frenck.nl/images/patreon.png
+[patreon]: https://www.patreon.com/frenck
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[release-shield]: https://img.shields.io/badge/version-c24b08c-blue.svg
+[release]: https://github.com/hassio-addons/addon-ftp/tree/c24b08c

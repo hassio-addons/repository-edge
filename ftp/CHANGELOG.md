@@ -1,26 +1,29 @@
-# Changelog since v1.2.0
+# Changelog since v1.3.0
 
-2018/07/14 13:08 UTC - [62513ec](https://github.com/hassio-addons/addon-ftp/commit/62513ec520510a953371661d3dc67f0cbfca8000) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.0.1 
+2018/08/15 17:58 UTC - [c24b08c](https://github.com/hassio-addons/addon-ftp/commit/c24b08c57bb6d5033a8bd3983597a54d2ea340c4) by [@frenck](https://github.com/frenck)
+> :books: Documents secrets support 
 
-2018/07/14 13:08 UTC - [9640661](https://github.com/hassio-addons/addon-ftp/commit/9640661f81cde95331f4bbc26b6bac4aea9247ed) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes hadolint warnings 
+2018/08/15 17:58 UTC - [c573eb0](https://github.com/hassio-addons/addon-ftp/commit/c573eb0aa7af22f276b6d9708f27280aa1b18058) by [@frenck](https://github.com/frenck)
+> :books: Updates README 
 
-2018/07/14 13:08 UTC - [476a9e9](https://github.com/hassio-addons/addon-ftp/commit/476a9e9cc2e8ea7636f2e869f16020e119216ddd) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades vsftpd to 3.0.3-r5 
+2018/08/15 17:58 UTC - [b36ea8d](https://github.com/hassio-addons/addon-ftp/commit/b36ea8d32c98bcdc0d48a3f89435b462d3fec83d) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds support for HaveIBeenPwned password checks 
 
-2018/07/14 13:08 UTC - [ba98430](https://github.com/hassio-addons/addon-ftp/commit/ba984301a1ed42f79950890cc42701d1db066428) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades openssl to 1.0.2o-r1 
+2018/08/15 17:58 UTC - [5b62d56](https://github.com/hassio-addons/addon-ftp/commit/5b62d56c27e2ca05f99eb5452686eb35ded73dd2) by [@frenck](https://github.com/frenck)
+> :whale: Sets default Shell to Bash 
 
-2018/07/14 13:08 UTC - [4899260](https://github.com/hassio-addons/addon-ftp/commit/48992609a0ccfdafb6d8ccd08758bf7845ff9c0a) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades musl-dev to 1.1.19-r10 
+2018/08/15 17:58 UTC - [db6b611](https://github.com/hassio-addons/addon-ftp/commit/db6b6113f5da498dbf11ecdf4557d9d530fc9eb4) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.1.1 
 
-2018/07/14 13:08 UTC - [101b14a](https://github.com/hassio-addons/addon-ftp/commit/101b14a9648f29100d5cb9873ffbe0621725dbbb) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades makes to 4.2.1-r2 
+2018/08/15 17:58 UTC - [9ea00b9](https://github.com/hassio-addons/addon-ftp/commit/9ea00b9c7a503a954b8e33af06e8d9ded237595e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades hadolint to latest 
 
-2018/07/14 13:08 UTC - [4710811](https://github.com/hassio-addons/addon-ftp/commit/47108115136f6a523040fd349cd96affafbad81a) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades gcc to 6.4.0-r8 
+2018/08/15 17:58 UTC - [822b3c8](https://github.com/hassio-addons/addon-ftp/commit/822b3c8b58f385b57b82178b861f23c82804e8a6) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades openssl to 1.0.2o-r2 
 
-2018/07/14 13:08 UTC - [d641dea](https://github.com/hassio-addons/addon-ftp/commit/d641dea8f7b6c99ae70949da43731fa0f11c7a96) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.0.0 
+2018/08/15 17:58 UTC - [ce557e7](https://github.com/hassio-addons/addon-ftp/commit/ce557e741366ef908a2f8581ce382ed6315a7faf) by [@frenck](https://github.com/frenck)
+> :books: Updates READMEs 
+
+2018/08/15 17:58 UTC - [efcc41a](https://github.com/hassio-addons/addon-ftp/commit/efcc41a7d71f0e5225fce62c1417f7f564bb6f0a) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.1.0 
 
