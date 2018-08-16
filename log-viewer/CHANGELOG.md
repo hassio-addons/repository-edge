@@ -1,3 +1,17 @@
-2018/08/15 20:47 UTC - [d184cb4](https://github.com/hassio-addons/addon-log-viewer/commit/d184cb492a7c5295a903dc8d085fec596d7b2bd9) by [@dale3h](https://github.com/dale3h)
-> 🔒 Enables user authentication (#2) 
+2018/08/16 16:47 UTC - [781d100](https://github.com/hassio-addons/addon-log-viewer/commit/781d1008404bc15e2e215a5a4a6bcd559ea47fcf) by [@frenck](https://github.com/frenck)
+> Base upgrade and features (#3)
+
+* :arrow_up: Upgrades base image to v2.1.1
+
+* :whale: Sets default Shell
+
+* :books: :shirt: Updates README and links
+
+* :lock: Enables SSL by default
+
+* :lock: Removes admin as default username, should not be recommended
+
+* :lock: Enforces authentication and HaveIBeenPwned checks
+
+* 📚 Add docs for filters option 
 

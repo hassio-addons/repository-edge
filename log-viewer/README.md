@@ -36,12 +36,12 @@ If you are more interested in stable releases of our add-ons:
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-log-viewer/blob/d184cb4/README.md
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/addon-log-viewer/blob/781d100/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-d184cb4-blue.svg
-[release]: https://github.com/hassio-addons/addon-log-viewer/tree/d184cb4
+[release-shield]: https://img.shields.io/badge/version-781d100-blue.svg
+[release]: https://github.com/hassio-addons/addon-log-viewer/tree/781d100
