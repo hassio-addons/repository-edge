@@ -478,10 +478,10 @@ SOFTWARE.
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/tree/a2e6e01
-[addon-doc-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/blob/a2e6e01/README.md
+[addon-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/tree/fa39cfe
+[addon-doc-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/blob/fa39cfe/README.md
 [appdaemon3-issue]: https://github.com/hassio-addons/addon-appdaemon3/issues
-[appdaemon3-version-shield]: https://img.shields.io/badge/version-a2e6e01-blue.svg
+[appdaemon3-version-shield]: https://img.shields.io/badge/version-fa39cfe-blue.svg
 [appdaemon3-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/appdaemon3-armhf.svg
 [appdaemon3-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon3-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
