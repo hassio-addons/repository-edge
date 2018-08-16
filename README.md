@@ -613,10 +613,10 @@ SOFTWARE.
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pi-hole-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [pi-hole-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/ee20eb9
-[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/ee20eb9/README.md
+[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/3843636
+[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/3843636/README.md
 [plex-issue]: https://github.com/hassio-addons/addon-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-ee20eb9-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-3843636-blue.svg
 [plex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/plex-armhf.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

@@ -6,6 +6,8 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+[![Support my work on Patreon][patreon-shield]][patreon]
+
 Your recorded media, live TV, online news, and podcasts, beautifully organized
 and ready to stream.
 
@@ -39,12 +41,14 @@ If you are more interested in stable releases of our add-ons:
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-plex/blob/ee20eb9/README.md
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/addon-plex/blob/3843636/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-plex-media-server/54383?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[patreon-shield]: https://www.frenck.nl/images/patreon.png
+[patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-ee20eb9-blue.svg
-[release]: https://github.com/hassio-addons/addon-plex/tree/ee20eb9
+[release-shield]: https://img.shields.io/badge/version-3843636-blue.svg
+[release]: https://github.com/hassio-addons/addon-plex/tree/3843636
