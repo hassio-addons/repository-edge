@@ -1,6 +1,6 @@
 {
   "name": "UniFi Controller",
-  "version": "cb812d2",
+  "version": "f24ae44",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-unifi-controller/56297?u=frenck",
@@ -33,7 +33,7 @@
   "host_network": false,
   "options": {
     "log_level": "info",
-    "ssl": false,
+    "ssl": true,
     "certfile": "fullchain.pem",
     "keyfile": "privkey.pem"
   },
