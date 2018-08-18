@@ -17,6 +17,10 @@ addons:
     repository: hassio-addons/addon-control-panel
     target: control-panel
     image: hassioaddons/control-panel-{arch}
+  docker-enabler:
+    repository: hassio-addons/addon-docker-enabler
+    target: docker-enabler
+    image: hassioaddons/docker-enabler
   example:
     repository: hassio-addons/addon-example
     target: example
