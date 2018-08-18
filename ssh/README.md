@@ -26,6 +26,14 @@ usability, flexibility and also provides access using a web interface.
 
 ![Web Terminal in the Home Assistant Frontend][screenshot]
 
+## WARNING
+
+The SSH & Web Terminal add-on is a really powerful and gives you virtually
+access to all tools and almost all hardware of your system.
+
+While this add-on is created and maintained with care and with security in mind,
+in the wrong or inexperienced hands, it could damage your system.
+
 ## Features
 
 This add-on, of course, provides an SSH server, based on [OpenSSH][openssh] and
@@ -51,6 +59,7 @@ well. Additionally, it comes out of the box with the following:
 - Hardware access to your audio, uart/serial devices and GPIO pins.
 - Runs with more privileges, allowing you to debug and test more situations.
 - Has access to the dbus of the host system.
+- Has the option to access the Docker instance running Hass.io host system.
 - Runs on host level network, allowing you to open ports or run little daemons.
 - Have custom Alpine packages installed on start. This allows you to install
   your favorite tools, which will be available every single time you log in.
@@ -88,7 +97,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ssh/blob/12281fc/README.md
+[docs]: https://github.com/hassio-addons/addon-ssh/blob/5565f6d/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ssh-web-terminal/33820?u=frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
@@ -98,8 +107,8 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-12281fc-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/12281fc
+[release-shield]: https://img.shields.io/badge/version-5565f6d-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/5565f6d
 [screenshot]: https://github.com/hassio-addons/addon-ssh/raw/master/images/screenshot.png
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
 [ssh-audit]: https://github.com/arthepsy/ssh-audit

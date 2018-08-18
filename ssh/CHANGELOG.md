@@ -1,26 +1,23 @@
-# Changelog since v3.2.0
+# Changelog since v3.3.0
 
-2018/08/12 11:37 UTC - [12281fc](https://github.com/hassio-addons/addon-ssh/commit/12281fcfcfd80509a5e12035c3329d64d115e790) by [@frenck](https://github.com/frenck)
-> :books: Updates README with latest changes 
+2018/08/18 21:07 UTC - [5565f6d](https://github.com/hassio-addons/addon-ssh/commit/5565f6df414dfced3deb9dda3874a9c831e77571) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds Docker support 
 
-2018/08/12 11:37 UTC - [850d590](https://github.com/hassio-addons/addon-ssh/commit/850d59011d6abe57d5aecaba67e2c8dc38feedbb) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for colordiff 
+2018/08/18 21:07 UTC - [3d12cf6](https://github.com/hassio-addons/addon-ssh/commit/3d12cf621f55dbb83e9a50dbc94438cb6b1c987f) by [@frenck](https://github.com/frenck)
+> :ambulance: Adds access to /dev/mem to support GPIO better 
 
-2018/08/12 11:37 UTC - [593e785](https://github.com/hassio-addons/addon-ssh/commit/593e785a00b216b6fa450c7b6fa3a1c3a1f6b08c) by [@frenck](https://github.com/frenck)
-> :lock: Enforces the use of Web Terminal authentication 
+2018/08/18 21:07 UTC - [12fa0e0](https://github.com/hassio-addons/addon-ssh/commit/12fa0e0feddd7e04460a244e93b9a76cfdc2ae51) by [@frenck](https://github.com/frenck)
+> :books: Documents secrets support 
 
-2018/08/12 11:37 UTC - [dde6f69](https://github.com/hassio-addons/addon-ssh/commit/dde6f69940ce12200f9385851d0bdc766058ed0f) by [@frenck](https://github.com/frenck)
-> :lock: Checks used password against HaveIBeenPwned 
+2018/08/18 21:07 UTC - [dca6a8d](https://github.com/hassio-addons/addon-ssh/commit/dca6a8d626cb33e8d16d35f1b2b536b6e06caabb) by [@frenck](https://github.com/frenck)
+> :books: Updates Discord links 
 
-2018/08/12 11:37 UTC - [97e0833](https://github.com/hassio-addons/addon-ssh/commit/97e083344bb341605446812b8289aa4a69fd0ce4) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for Mosh mobile shell 
+2018/08/18 21:07 UTC - [cb2268e](https://github.com/hassio-addons/addon-ssh/commit/cb2268ee18c565a73daced72641e7a17eaa363cd) by [@frenck](https://github.com/frenck)
+> :books: Adds warning with great power.. 
 
-2018/08/12 11:37 UTC - [46d4fdd](https://github.com/hassio-addons/addon-ssh/commit/46d4fdde9312da70eb7ccc4b189266f3b020ae80) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for GPIO 
+2018/08/18 21:07 UTC - [d6874b7](https://github.com/hassio-addons/addon-ssh/commit/d6874b7036d31c56b3777cf8f1b6b9f6c2b43fd4) by [@frenck](https://github.com/frenck)
+> :whale: Sets default Shell 
 
-2018/08/12 11:37 UTC - [9d06d96](https://github.com/hassio-addons/addon-ssh/commit/9d06d96a6b54f74dc4adacff58ba6a898837e017) by [@frenck](https://github.com/frenck)
-> :lock: Enables SSL by default 
-
-2018/08/12 11:37 UTC - [c29785f](https://github.com/hassio-addons/addon-ssh/commit/c29785fa1a6dc350590050ecca1bbd2e2406f7f4) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.1.0 
+2018/08/18 21:07 UTC - [4b432c1](https://github.com/hassio-addons/addon-ssh/commit/4b432c1736af4cbad5cc63b89a5004af87650c22) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.1.1 
 
