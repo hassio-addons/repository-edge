@@ -649,10 +649,10 @@ SOFTWARE.
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/ba8d869
-[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/ba8d869/README.md
+[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/ae33fe7
+[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/ae33fe7/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/addon-tasmoadmin/issues
-[tasmoadmin-version-shield]: https://img.shields.io/badge/version-ba8d869-blue.svg
+[tasmoadmin-version-shield]: https://img.shields.io/badge/version-ae33fe7-blue.svg
 [tasmoadmin-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sonweb-armhf.svg
 [tasmoadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
