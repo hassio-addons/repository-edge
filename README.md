@@ -600,10 +600,10 @@ SOFTWARE.
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-lovelace-migration]: https://github.com/hassio-addons/addon-lovelace-migration/tree/1b6b2c9
-[addon-doc-lovelace-migration]: https://github.com/hassio-addons/addon-lovelace-migration/blob/1b6b2c9/README.md
+[addon-lovelace-migration]: https://github.com/hassio-addons/addon-lovelace-migration/tree/ff1cf83
+[addon-doc-lovelace-migration]: https://github.com/hassio-addons/addon-lovelace-migration/blob/ff1cf83/README.md
 [lovelace-migration-issue]: https://github.com/hassio-addons/addon-lovelace-migration/issues
-[lovelace-migration-version-shield]: https://img.shields.io/badge/version-1b6b2c9-blue.svg
+[lovelace-migration-version-shield]: https://img.shields.io/badge/version-ff1cf83-blue.svg
 [lovelace-migration-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/lovelace-migration.svg
 [lovelace-migration-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [lovelace-migration-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
