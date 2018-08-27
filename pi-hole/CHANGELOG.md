@@ -1,31 +1,10 @@
-# Changelog since v2.0.1
+# Changelog since v2.0.2
 
-2018/08/24 20:45 UTC - [7337de2](https://github.com/hassio-addons/addon-pi-hole/commit/7337de20ecbc96b44485b89e5eb1ff6cbfab6822) by [@frenck](https://github.com/frenck)
-> :tractor: Changes the PHP FPM port 
+2018/08/27 19:06 UTC - [eebb634](https://github.com/hassio-addons/addon-pi-hole/commit/eebb634e796247f4c81d2af93d17acf08727f1fa) by [@dale3h](https://github.com/dale3h)
+> 🚑Fixes pipeline URLs in README 
 
-2018/08/24 20:45 UTC - [d84a65b](https://github.com/hassio-addons/addon-pi-hole/commit/d84a65b200c40b8b211b9a0254bcfe7840545d6b) by [@frenck](https://github.com/frenck)
-> :tractor: Changes the default back to /admin 
+2018/08/27 19:06 UTC - [a01a01b](https://github.com/hassio-addons/addon-pi-hole/commit/a01a01b620e2c5cb2b1d380788223896580b9660) by [@tjorim](https://github.com/tjorim)
+> Add permission for config (#43)
 
-2018/08/24 20:45 UTC - [3fcbe08](https://github.com/hassio-addons/addon-pi-hole/commit/3fcbe08fd129b3c178eaa6ce4c021a94bfbe6d95) by [@frenck](https://github.com/frenck)
-> :books: Updates panel_iframe example 
-
-2018/08/24 20:45 UTC - [3e8594a](https://github.com/hassio-addons/addon-pi-hole/commit/3e8594a2b1ccf2682830da9cc792918fc219033e) by [@frenck](https://github.com/frenck)
-> :books: Updates pihole component example
-
-Closes #38 
-
-2018/08/24 20:45 UTC - [264d2c2](https://github.com/hassio-addons/addon-pi-hole/commit/264d2c2101858a2e7554b65579879e1b0fa6f22a) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds interface on /admin as well
-
-Closed #39 
-
-2018/08/24 20:45 UTC - [c9aa049](https://github.com/hassio-addons/addon-pi-hole/commit/c9aa04937407284467fc859402eff49369495b44) by [@frenck](https://github.com/frenck)
-> :ambulance: Ensures existing log files are overwritten
-
-Fixes #36 
-
-2018/08/24 20:45 UTC - [7a5255b](https://github.com/hassio-addons/addon-pi-hole/commit/7a5255b6a885219dba9ba9e0afb098d6e8bc347c) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes user/group of pihole-FTL on migration
-
-Fixes #35 
+Enables secrets for config. 
 
