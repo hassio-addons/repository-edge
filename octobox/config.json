@@ -1,6 +1,6 @@
 {
   "name": "Octobox",
-  "version": "ea8698a",
+  "version": "05f612e",
   "slug": "octobox",
   "description": "Take back control of your GitHub notifications",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-octobox/57695?u=frenck",
@@ -20,6 +20,7 @@
     "3333/tcp": 3333
   },
   "map": [
+    "config",
     "ssl"
   ],
   "options": {
