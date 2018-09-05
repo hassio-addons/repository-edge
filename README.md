@@ -695,10 +695,10 @@ SOFTWARE.
 [tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tasmoadmin-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/d5b41cf
-[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/d5b41cf/README.md
+[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/b391dad
+[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/b391dad/README.md
 [tautulli-issue]: https://github.com/hassio-addons/addon-tautulli/issues
-[tautulli-version-shield]: https://img.shields.io/badge/version-d5b41cf-blue.svg
+[tautulli-version-shield]: https://img.shields.io/badge/version-b391dad-blue.svg
 [tautulli-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tautulli.svg
 [tautulli-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

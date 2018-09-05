@@ -1,13 +1,11 @@
-2018/08/28 19:21 UTC - [d5b41cf](https://github.com/hassio-addons/addon-tautulli/commit/d5b41cf726e7d2b13baaa8f263ba3f603b1dc4a1) by [@ludeeus](https://github.com/ludeeus)
-> :shirt: Fixes linting issues for markdown and yaml (#2)
+2018/09/05 15:48 UTC - [b391dad](https://github.com/hassio-addons/addon-tautulli/commit/b391dad173e68be23fd3956d00a2cbcc819fb210) by [@ludeeus](https://github.com/ludeeus)
+> ✨Adds buymecoffee link and support information (#4)
 
-* :shirt: fixes markdownlint
+* :white_check_mark: Added logic to check if it's the first run after an upgrade.
 
-* :shirt: linting fixes
+* ✨Adds butmecoffee link
 
-* Update .gitlab-ci.yml
+* Catch up with master
 
-* linting
-
-* Rmoved slashes 
+* Adds add-on support information 
 
