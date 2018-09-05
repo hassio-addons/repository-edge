@@ -1,11 +1,7 @@
-2018/09/05 15:48 UTC - [b391dad](https://github.com/hassio-addons/addon-tautulli/commit/b391dad173e68be23fd3956d00a2cbcc819fb210) by [@ludeeus](https://github.com/ludeeus)
-> ✨Adds buymecoffee link and support information (#4)
+2018/09/05 20:59 UTC - [d1f022a](https://github.com/hassio-addons/addon-tautulli/commit/d1f022a9b4c65db3048a70b586db2a69948d8902) by [@ludeeus](https://github.com/ludeeus)
+> ⬆️ Upgrade Tautulli to v2.1.20 (#5)
 
-* :white_check_mark: Added logic to check if it's the first run after an upgrade.
+* :arrow_up: Upgrade Tautulli to version 2.1.20
 
-* ✨Adds butmecoffee link
-
-* Catch up with master
-
-* Adds add-on support information 
+* :ambulance: Fixes wrong path in support patch 
 
