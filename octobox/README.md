@@ -49,11 +49,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-octobox/blob/05f612e/README.md
+[docs]: https://github.com/hassio-addons/addon-octobox/blob/7b454fe/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-octobox/57695?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-05f612e-blue.svg
-[release]: https://github.com/hassio-addons/addon-octobox/tree/05f612e
+[release-shield]: https://img.shields.io/badge/version-7b454fe-blue.svg
+[release]: https://github.com/hassio-addons/addon-octobox/tree/7b454fe
 [screenshot]: https://github.com/hassio-addons/addon-octobox/raw/master/images/screenshot.png

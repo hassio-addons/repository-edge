@@ -1,7 +1,5 @@
-# Changelog since v0.3.0
+# Changelog since v0.3.1
 
-2018/08/27 18:59 UTC - [05f612e](https://github.com/hassio-addons/addon-octobox/commit/05f612e311660c23ce34674573476569f96e1ce2) by [@tjorim](https://github.com/tjorim)
-> :ambulance: Fixes secrets by adding permission reading config (#3)
-
-Otherwise secrets can't be used 
+2018/09/09 09:35 UTC - [7b454fe](https://github.com/hassio-addons/addon-octobox/commit/7b454fedfdd53797e55c6970d9c60c6b11b37402) by [@ludeeus](https://github.com/ludeeus)
+> Move LANG ENV, and add description to it (#5) 
 
