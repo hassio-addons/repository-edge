@@ -1,3 +1,3 @@
-2018/09/14 21:35 UTC - [639251d](https://github.com/hassio-addons/addon-nut/commit/639251d61a9c150eae5ca70d34f7cfcf7c90e0c9) by [@dale3h](https://github.com/dale3h)
-> 🚑 Fixes NUT sensor config in docs 
+2018/09/14 21:58 UTC - [72284b3](https://github.com/hassio-addons/addon-nut/commit/72284b33ed731f397ffe324e4833ffd80037e285) by [@dale3h](https://github.com/dale3h)
+> 🚑 Enables hassio_api in add-on config 
 
