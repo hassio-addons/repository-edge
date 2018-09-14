@@ -236,6 +236,19 @@ Automatically convert your existing UI to the new Lovelace UI
 
 [:books: Lovelace Migration add-on documentation][addon-doc-lovelace-migration]
 
+### &#10003; [Network UPS Tools][addon-nut]
+
+![Latest Version][nut-version-shield]
+![Supports armhf Architecture][nut-armhf-shield]
+![Supports aarch64 Architecture][nut-aarch64-shield]
+![Supports amd64 Architecture][nut-amd64-shield]
+![Supports i386 Architecture][nut-i386-shield]
+![Docker Pulls][nut-pulls-shield]
+
+Manage battery backup (UPS) devices
+
+[:books: Network UPS Tools add-on documentation][addon-doc-nut]
+
 ### &#10003; [Node-RED][addon-node-red]
 
 ![Latest Version][node-red-version-shield]
@@ -427,6 +440,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: Lovelace Migration][lovelace-migration-issue]
+- [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Octobox][octobox-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
@@ -623,6 +637,15 @@ SOFTWARE.
 [lovelace-migration-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lovelace-migration-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [lovelace-migration-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/65d0b03
+[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/65d0b03/README.md
+[nut-issue]: https://github.com/hassio-addons/addon-nut/issues
+[nut-version-shield]: https://img.shields.io/badge/version-65d0b03-blue.svg
+[nut-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nut.svg
+[nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[nut-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/0aec68f
 [addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/0aec68f/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
