@@ -31,7 +31,7 @@ add-on:
 sensor:
   - platform: nut
     name: "CyberPower 1500"
-    host: a0d7b954-nut
+    host:40817795-nut
     username: nutty
     password: changeme
     resources:
@@ -65,14 +65,19 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/hassio-addons/repository>
 
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-network-ups-tools/68516
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[discord]: https://discord.me/hassioaddons
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-65d0b03-blue.svg
-[release]: https://github.com/hassio-addons/addon-nut/tree/65d0b03
-[docs]: https://github.com/hassio-addons/addon-nut/blob/65d0b03/README.md
+
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/addon-nut/blob/dbf4851/README.md
+[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-network-ups-tools/68516
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[nut-acknowledgements]: https://networkupstools.org/acknowledgements.html
+[nut-compatible]: https://networkupstools.org/stable-hcl.html
+[nut-features]: https://networkupstools.org/features.html
+[nut-sensor-docs]: https://www.home-assistant.io/components/sensor.nut/
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
+[release-shield]: https://img.shields.io/badge/version-dbf4851-blue.svg
+[release]: https://github.com/hassio-addons/addon-nut/tree/dbf4851
