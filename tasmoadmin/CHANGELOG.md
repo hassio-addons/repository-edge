@@ -1,5 +1,8 @@
-# Changelog since v0.5.0
+# Changelog since v0.5.1
 
-2018/08/19 07:28 UTC - [24d8a02](https://github.com/hassio-addons/addon-tasmoadmin/commit/24d8a02f4f9b2671b0df102f1345d646d3d3ae19) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.1.2 
+2018/09/15 12:36 UTC - [57be1df](https://github.com/hassio-addons/addon-tasmoadmin/commit/57be1df905355c66deaf2ffaac3fa43f678fb099) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.14.0-r1 
+
+2018/09/15 12:36 UTC - [8a58376](https://github.com/hassio-addons/addon-tasmoadmin/commit/8a58376836177c92b1569acad939782f1d33d319) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.2.0 
 
