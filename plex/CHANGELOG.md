@@ -1,5 +1,5 @@
-# Changelog since v1.0.0
+# Changelog since v1.0.1
 
-2018/08/19 07:32 UTC - [aaf2f00](https://github.com/hassio-addons/addon-plex/commit/aaf2f005dbb18b694c3f390b0063aab034d47150) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.1.1 
+2018/09/15 12:57 UTC - [51a3f16](https://github.com/hassio-addons/addon-plex/commit/51a3f16e1513ba5311edd898b800c87a5674f17d) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Plex Media Server to 1.13.7.5369 
 
