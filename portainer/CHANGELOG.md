@@ -1,3 +1,3 @@
-2018/09/15 18:18 UTC - [09227d7](https://github.com/hassio-addons/addon-portainer/commit/09227d75e069d00687042d023298236469c77938) by [@frenck](https://github.com/frenck)
-> :books: Adds instructions on embedding Portainer into the frontend 
+2018/09/15 19:30 UTC - [4bf42e8](https://github.com/hassio-addons/addon-portainer/commit/4bf42e841922c8dc2ed7aee2213300c22de9dd63) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes missing ssl folder share 
 

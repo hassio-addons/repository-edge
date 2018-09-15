@@ -1,9 +1,10 @@
 {
   "name": "Portainer",
-  "version": "09227d7",
+  "version": "4bf42e8",
   "slug": "portainer",
   "description": "Manage your Docker environment with ease",
   "url": "https://community.home-assistant.io/?u=frenck",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:9000]",
   "startup": "services",
   "arch": [
     "aarch64",
@@ -11,7 +12,8 @@
     "armhf"
   ],
   "map": [
-    "config"
+    "config",
+    "ssl"
   ],
   "ports": {
     "9000/tcp": 9000
