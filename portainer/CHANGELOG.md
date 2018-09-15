@@ -1,3 +1,3 @@
-2018/09/15 18:03 UTC - [5db178c](https://github.com/hassio-addons/addon-portainer/commit/5db178c64656ccbede3b73ca1178c4fc2841f7b6) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes missing arch in download URL 
+2018/09/15 18:18 UTC - [09227d7](https://github.com/hassio-addons/addon-portainer/commit/09227d75e069d00687042d023298236469c77938) by [@frenck](https://github.com/frenck)
+> :books: Adds instructions on embedding Portainer into the frontend 
 
