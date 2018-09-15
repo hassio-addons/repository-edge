@@ -1,3 +1,3 @@
-2018/09/15 19:30 UTC - [4bf42e8](https://github.com/hassio-addons/addon-portainer/commit/4bf42e841922c8dc2ed7aee2213300c22de9dd63) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes missing ssl folder share 
+2018/09/15 19:47 UTC - [94f0a1e](https://github.com/hassio-addons/addon-portainer/commit/94f0a1e16e8014342362e90ddd7a012805df45e8) by [@frenck](https://github.com/frenck)
+> :books: Adds warning about the risks of the add-on 
 

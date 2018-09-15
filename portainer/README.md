@@ -8,9 +8,7 @@
 
 [![Support my work on Patreon][patreon-shield]][patreon]
 
-Real-time performance and health monitoring.
-
-## About
+Manage your Docker environment with ease.
 
 ## About
 
@@ -22,6 +20,13 @@ overview of Docker and allows you to manage containers, images, networks and
 volumes.
 
 [Click here for the full documentation][docs]
+
+## WARNING
+
+The Portainer add-on is really powerful and gives you virtually access to
+your whole system. While this add-on is created and maintained with care and
+with security in mind, in the wrong or inexperienced hands,
+it could damage your system.
 
 ![Portainer screenshot][screenshot]
 
@@ -48,13 +53,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-portainer/blob/4bf42e8/README.md
+[docs]: https://github.com/hassio-addons/addon-portainer/blob/94f0a1e/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-4bf42e8-blue.svg
-[release]: https://github.com/hassio-addons/addon-portainer/tree/4bf42e8
+[release-shield]: https://img.shields.io/badge/version-94f0a1e-blue.svg
+[release]: https://github.com/hassio-addons/addon-portainer/tree/94f0a1e
 [screenshot]: https://github.com/hassio-addons/addon-portainer/raw/master/images/screenshot.png
