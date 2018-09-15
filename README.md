@@ -619,10 +619,10 @@ SOFTWARE.
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [jupyter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/3dab8b4
-[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/3dab8b4/README.md
+[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/0034109
+[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/0034109/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
-[log-viewer-version-shield]: https://img.shields.io/badge/version-3dab8b4-blue.svg
+[log-viewer-version-shield]: https://img.shields.io/badge/version-0034109-blue.svg
 [log-viewer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/log-viewer.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
