@@ -1,3 +1,3 @@
-2018/09/16 10:34 UTC - [895e087](https://github.com/hassio-addons/addon-sqlite-web/commit/895e08728a169d1f10d68ad0712c2e69b6ee061b) by [@ludeeus](https://github.com/ludeeus)
-> :shirt: Corrections for markdownlint 
+2018/09/16 21:07 UTC - [9a3ab34](https://github.com/hassio-addons/addon-sqlite-web/commit/9a3ab34bfab126d628bf8b5ea6f5e347c5b3fd25) by [@ludeeus](https://github.com/ludeeus)
+> 👕 Updates forum links/URLs 
 
