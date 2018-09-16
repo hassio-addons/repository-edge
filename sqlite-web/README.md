@@ -14,7 +14,7 @@ This enables you to easily explore all tables and content that is saved in your 
 
 [Click here for the full documentation][docs]
 
-![Home Assistant Control Panel screenshot][screenshot]
+![sample view](/images/sample-view.png)
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -39,11 +39,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-sqlite-web/blob/9a3ab34/README.md
+[docs]: https://github.com/hassio-addons/addon-sqlite-web/blob/610c815/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-sqlite-web/68912
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-9a3ab34-blue.svg
-[release]: https://github.com/hassio-addons/addon-sqlite-web/tree/9a3ab34
+[release-shield]: https://img.shields.io/badge/version-610c815-blue.svg
+[release]: https://github.com/hassio-addons/addon-sqlite-web/tree/610c815
 [screenshot]: https://github.com/hassio-addons/addon-sqlite-web/raw/master/images/screenshot.png
