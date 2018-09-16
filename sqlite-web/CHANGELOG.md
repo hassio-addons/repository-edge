@@ -1,3 +1,3 @@
-2018/09/16 21:28 UTC - [cc05127](https://github.com/hassio-addons/addon-sqlite-web/commit/cc05127aa14a51053606d8f471908cb8070b157c) by [@ludeeus](https://github.com/ludeeus)
-> 🎨🚑 Fixes broken screenshot in the README.j2 file again. 
+2018/09/16 21:40 UTC - [38d9027](https://github.com/hassio-addons/addon-sqlite-web/commit/38d902703f582fdacffee4480a1886d1814f9ba9) by [@ludeeus](https://github.com/ludeeus)
+> 🚑 Changes blob to raw in screenshot URL 
 
