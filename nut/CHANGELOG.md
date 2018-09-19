@@ -1,3 +1,3 @@
-2018/09/19 02:44 UTC - [ddc1e74](https://github.com/hassio-addons/addon-nut/commit/ddc1e74189978ceaf9270361163b87cb4f383c2e) by [@dale3h](https://github.com/dale3h)
-> 🚀 Adds alpha support for NOTIFYCMD 
+2018/09/19 03:18 UTC - [a49c6dd](https://github.com/hassio-addons/addon-nut/commit/a49c6dd192b286356ee09ffe8d2548cb7f34b505) by [@dale3h](https://github.com/dale3h)
+> 🚀 Send HA event on UPS event notification 
 

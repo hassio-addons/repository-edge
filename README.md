@@ -665,10 +665,10 @@ SOFTWARE.
 [lovelace-migration-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lovelace-migration-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [lovelace-migration-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/ddc1e74
-[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/ddc1e74/README.md
+[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/a49c6dd
+[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/a49c6dd/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
-[nut-version-shield]: https://img.shields.io/badge/version-ddc1e74-blue.svg
+[nut-version-shield]: https://img.shields.io/badge/version-a49c6dd-blue.svg
 [nut-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nut.svg
 [nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

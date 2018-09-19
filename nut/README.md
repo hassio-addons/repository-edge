@@ -70,7 +70,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-nut/blob/ddc1e74/README.md
+[docs]: https://github.com/hassio-addons/addon-nut/blob/a49c6dd/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-network-ups-tools/68516
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
@@ -79,5 +79,5 @@ If you are more interested in stable releases of our add-ons:
 [nut-features]: https://networkupstools.org/features.html
 [nut-sensor-docs]: https://www.home-assistant.io/components/sensor.nut/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-ddc1e74-blue.svg
-[release]: https://github.com/hassio-addons/addon-nut/tree/ddc1e74
+[release-shield]: https://img.shields.io/badge/version-a49c6dd-blue.svg
+[release]: https://github.com/hassio-addons/addon-nut/tree/a49c6dd
