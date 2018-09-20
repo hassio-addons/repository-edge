@@ -1,3 +1,5 @@
-2018/09/15 18:27 UTC - [45fd876](https://github.com/hassio-addons/addon-tautulli/commit/45fd876def68841f74d70d6e4876b57c8dab63a4) by [@frenck](https://github.com/frenck)
-> :shirt: Point to docs in add-on config 
+# Changelog since v0.1.0
+
+2018/09/20 11:16 UTC - [d68e3d4](https://github.com/hassio-addons/addon-tautulli/commit/d68e3d45baaf2b140c16332c7d3d6bc3fe04f6a8) by [@ludeeus](https://github.com/ludeeus)
+> 📚 Fixes broken mdi in example config. 
 
