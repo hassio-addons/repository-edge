@@ -236,6 +236,19 @@ Automatically convert your existing UI to the new Lovelace UI
 
 [:books: Lovelace Migration add-on documentation][addon-doc-lovelace-migration]
 
+### &#10003; [MQTT Server & Web client][addon-mqtt]
+
+![Latest Version][mqtt-version-shield]
+![Supports armhf Architecture][mqtt-armhf-shield]
+![Supports aarch64 Architecture][mqtt-aarch64-shield]
+![Supports amd64 Architecture][mqtt-amd64-shield]
+![Supports i386 Architecture][mqtt-i386-shield]
+![Docker Pulls][mqtt-pulls-shield]
+
+Mosquitto MQTT Server bundled with Hivemq's web client
+
+[:books: MQTT Server & Web client add-on documentation][addon-doc-mqtt]
+
 ### &#10003; [Network UPS Tools][addon-nut]
 
 ![Latest Version][nut-version-shield]
@@ -466,6 +479,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: Lovelace Migration][lovelace-migration-issue]
+- [Open an issue for the add-on: MQTT Server & Web client][mqtt-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Octobox][octobox-issue]
@@ -665,6 +679,15 @@ SOFTWARE.
 [lovelace-migration-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lovelace-migration-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [lovelace-migration-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-mqtt]: https://github.com/hassio-addons/addon-mqtt/tree/ca75625
+[addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/ca75625/README.md
+[mqtt-issue]: https://github.com/hassio-addons/addon-mqtt/issues
+[mqtt-version-shield]: https://img.shields.io/badge/version-ca75625-blue.svg
+[mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mqtt.svg
+[mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-nut]: https://github.com/hassio-addons/addon-nut/tree/a49c6dd
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/a49c6dd/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
