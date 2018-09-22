@@ -48,7 +48,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ide/blob/79950bd/README.md
+[docs]: https://github.com/hassio-addons/addon-ide/blob/c9b2c92/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810?u=frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
@@ -57,7 +57,7 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-79950bd-blue.svg
-[release]: https://github.com/hassio-addons/addon-ide/tree/79950bd
+[release-shield]: https://img.shields.io/badge/version-c9b2c92-blue.svg
+[release]: https://github.com/hassio-addons/addon-ide/tree/c9b2c92
 [screenshot]: https://github.com/hassio-addons/addon-ide/raw/master/images/screenshot.png
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
