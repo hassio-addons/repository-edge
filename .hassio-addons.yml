@@ -61,6 +61,10 @@ addons:
     repository: hassio-addons/addon-lovelace-migration
     target: lovelace-migration
     image: hassioaddons/lovelace-migration
+  mqtt:
+    repository: hassio-addons/addon-mqtt
+    target: mqtt
+    image: hassioaddons/mqtt
   node-red:
     repository: hassio-addons/addon-node-red
     target: node-red
