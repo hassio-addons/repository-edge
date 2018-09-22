@@ -1,6 +1,6 @@
 {
   "name": "SSH & Web Terminal",
-  "version": "5eff134",
+  "version": "679a1ab",
   "slug": "ssh",
   "description": "SSH & Web Terminal access to your Home Assistant instance",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-ssh-web-terminal/33820?u=frenck",

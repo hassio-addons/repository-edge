@@ -97,7 +97,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ssh/blob/5eff134/README.md
+[docs]: https://github.com/hassio-addons/addon-ssh/blob/679a1ab/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ssh-web-terminal/33820?u=frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
@@ -107,8 +107,8 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-5eff134-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/5eff134
+[release-shield]: https://img.shields.io/badge/version-679a1ab-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/679a1ab
 [screenshot]: https://github.com/hassio-addons/addon-ssh/raw/master/images/screenshot.png
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
 [ssh-audit]: https://github.com/arthepsy/ssh-audit
