@@ -1,6 +1,6 @@
 {
   "name": "Phlex",
-  "version": "cf0fc38",
+  "version": "125323d",
   "slug": "phlex",
   "description": "A super-sexy voice interface for Plex",
   "url": "https://github.com/hassio-addons/addon-phlex/tree/master/README.md",
@@ -13,6 +13,7 @@
     "i386"
   ],
   "boot": "auto",
+  "hassio_api": true,
   "ports": {
     "1778/tcp": 1778
   },
