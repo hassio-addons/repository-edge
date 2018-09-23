@@ -81,6 +81,10 @@ addons:
     repository: hassio-addons/addon-pi-hole
     target: pi-hole
     image: hassioaddons/pi-hole-{arch}
+  phlex:
+    repository: hassio-addons/addon-phlex
+    target: phlex
+    image: hassioaddons/phlex
   plex:
     repository: hassio-addons/addon-plex
     target: plex
