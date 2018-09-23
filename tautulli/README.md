@@ -8,6 +8,8 @@
 
 Monitoring and tracking tool for Plex Media Server.
 
+![Screenshot][screenshot]
+
 ## About
 
 Tautulli is an application that you can run alongside your Plex Media Server
@@ -44,11 +46,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-tautulli/blob/5c4d4eb/README.md
+[docs]: https://github.com/hassio-addons/addon-tautulli/blob/210ffbd/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-tautulli/68745?u=ludeeus
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-5c4d4eb-blue.svg
-[release]: https://github.com/hassio-addons/addon-tautulli/tree/5c4d4eb
+[release-shield]: https://img.shields.io/badge/version-210ffbd-blue.svg
+[release]: https://github.com/hassio-addons/addon-tautulli/tree/210ffbd
 [screenshot]: https://github.com/hassio-addons/addon-tautulli/raw/master/images/screenshot.png
