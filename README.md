@@ -288,6 +288,19 @@ Take back control of your GitHub notifications
 
 [:books: Octobox add-on documentation][addon-doc-octobox]
 
+### &#10003; [Phlex][addon-phlex]
+
+![Latest Version][phlex-version-shield]
+![Supports armhf Architecture][phlex-armhf-shield]
+![Supports aarch64 Architecture][phlex-aarch64-shield]
+![Supports amd64 Architecture][phlex-amd64-shield]
+![Supports i386 Architecture][phlex-i386-shield]
+![Docker Pulls][phlex-pulls-shield]
+
+A super-sexy voice interface for Plex
+
+[:books: Phlex add-on documentation][addon-doc-phlex]
+
 ### &#10003; [Pi-hole][addon-pi-hole]
 
 ![Latest Version][pi-hole-version-shield]
@@ -483,6 +496,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Octobox][octobox-issue]
+- [Open an issue for the add-on: Phlex][phlex-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
 - [Open an issue for the add-on: Portainer][portainer-issue]
@@ -715,6 +729,15 @@ SOFTWARE.
 [octobox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [octobox-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [octobox-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/cf0fc38
+[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/cf0fc38/README.md
+[phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
+[phlex-version-shield]: https://img.shields.io/badge/version-cf0fc38-blue.svg
+[phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex.svg
+[phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[phlex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/f609829
 [addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/f609829/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
