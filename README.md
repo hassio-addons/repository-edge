@@ -828,10 +828,10 @@ SOFTWARE.
 [terminal-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [terminal-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [terminal-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/24ecb6f
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/24ecb6f/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/f3feab2
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/f3feab2/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-24ecb6f-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-f3feab2-blue.svg
 [tor-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tor-armhf.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
