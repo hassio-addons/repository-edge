@@ -1,3 +1,5 @@
-2018/09/16 21:40 UTC - [38d9027](https://github.com/hassio-addons/addon-sqlite-web/commit/38d902703f582fdacffee4480a1886d1814f9ba9) by [@ludeeus](https://github.com/ludeeus)
-> 🚑 Changes blob to raw in screenshot URL 
+# Changelog since v0.1.0
+
+2018/09/24 21:14 UTC - [295a135](https://github.com/hassio-addons/addon-sqlite-web/commit/295a13506497d08e19fbdc7883d9ffa1bc4ef47f) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.3.0 
 
