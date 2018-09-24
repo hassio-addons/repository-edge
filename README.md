@@ -603,10 +603,10 @@ SOFTWARE.
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/be610ae
-[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/be610ae/README.md
+[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/87bee5d
+[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/87bee5d/README.md
 [ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
-[ftp-version-shield]: https://img.shields.io/badge/version-be610ae-blue.svg
+[ftp-version-shield]: https://img.shields.io/badge/version-87bee5d-blue.svg
 [ftp-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ftp-armhf.svg
 [ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
