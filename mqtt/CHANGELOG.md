@@ -1,3 +1,3 @@
-2018/09/22 19:38 UTC - [ca75625](https://github.com/hassio-addons/addon-mqtt/commit/ca75625c00dd12438c9fdbfa81dbfa8366e32cb2) by [@ludeeus](https://github.com/ludeeus)
-> 👕Fixes shellcheck warnings 
+2018/09/24 21:10 UTC - [7a7851d](https://github.com/hassio-addons/addon-mqtt/commit/7a7851db259127ee94daecc4617291d6c95de0fe) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v2.3.0 
 
