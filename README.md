@@ -720,10 +720,10 @@ SOFTWARE.
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-octobox]: https://github.com/hassio-addons/addon-octobox/tree/344a82e
-[addon-doc-octobox]: https://github.com/hassio-addons/addon-octobox/blob/344a82e/README.md
+[addon-octobox]: https://github.com/hassio-addons/addon-octobox/tree/ef44495
+[addon-doc-octobox]: https://github.com/hassio-addons/addon-octobox/blob/ef44495/README.md
 [octobox-issue]: https://github.com/hassio-addons/addon-octobox/issues
-[octobox-version-shield]: https://img.shields.io/badge/version-344a82e-blue.svg
+[octobox-version-shield]: https://img.shields.io/badge/version-ef44495-blue.svg
 [octobox-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/octobox.svg
 [octobox-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [octobox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
