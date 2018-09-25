@@ -1,5 +1,5 @@
-# Changelog since v0.2.0
+# Changelog since v0.2.1
 
-2018/08/19 11:11 UTC - [1168791](https://github.com/hassio-addons/addon-spotify-connect/commit/1168791dfbe489e856c4681129d20a5965289375) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.1.1 
+2018/09/24 21:13 UTC - [5728cf6](https://github.com/hassio-addons/addon-spotify-connect/commit/5728cf6d69702a207d05f10580610a236b490b6c) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Ubuntu Base image to 2.2.0 
 
