@@ -1,5 +1,5 @@
-# Changelog since v0.1.0
+# Changelog since v0.1.1
 
-2018/09/24 21:14 UTC - [295a135](https://github.com/hassio-addons/addon-sqlite-web/commit/295a13506497d08e19fbdc7883d9ffa1bc4ef47f) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.3.0 
+2018/09/25 10:23 UTC - [8d2f693](https://github.com/hassio-addons/addon-sqlite-web/commit/8d2f6938093ec6030ef5fbb123ae9e804ee3ddc7) by [@frenck](https://github.com/frenck)
+> :snowflake: Adds Hassio API security role 
 
