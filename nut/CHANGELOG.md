@@ -1,3 +1,3 @@
-2018/09/24 21:11 UTC - [fc9aee3](https://github.com/hassio-addons/addon-nut/commit/fc9aee31becb3d9feb76bc728b30a1482f4ff046) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.3.0 
+2018/09/25 10:15 UTC - [7b56402](https://github.com/hassio-addons/addon-nut/commit/7b56402afe905b9304f783dcf0afa8021ddb5e0d) by [@frenck](https://github.com/frenck)
+> :snowflake: Adds Hassio API security role 
 

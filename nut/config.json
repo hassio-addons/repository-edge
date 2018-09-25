@@ -1,6 +1,6 @@
 {
   "name": "Network UPS Tools",
-  "version": "fc9aee3",
+  "version": "7b56402",
   "slug": "nut",
   "description": "Manage battery backup (UPS) devices",
   "url": "https://github.com/hassio-addons/addon-nut",
@@ -13,6 +13,7 @@
   ],
   "boot": "auto",
   "hassio_api": true,
+  "hassio_role": "default",
   "homeassistant_api": true,
   "ports": {
     "3493/tcp": 3493
