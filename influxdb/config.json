@@ -1,6 +1,6 @@
 {
   "name": "InfluxDB",
-  "version": "6cec210",
+  "version": "07886ac",
   "slug": "influxdb",
   "description": "Scalable datastore for metrics, events, and real-time analytics",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-influxdb/54491?u=frenck",
@@ -23,6 +23,7 @@
     "8888/tcp": 8888
   },
   "hassio_api": true,
+  "hassio_role": "default",
   "homeassistant_api": false,
   "host_network": false,
   "options": {

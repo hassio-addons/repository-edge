@@ -657,10 +657,10 @@ SOFTWARE.
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/6cec210
-[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/6cec210/README.md
+[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/07886ac
+[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/07886ac/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
-[influxdb-version-shield]: https://img.shields.io/badge/version-6cec210-blue.svg
+[influxdb-version-shield]: https://img.shields.io/badge/version-07886ac-blue.svg
 [influxdb-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/influxdb-armhf.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
