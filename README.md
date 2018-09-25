@@ -594,10 +594,10 @@ SOFTWARE.
 [docker-enabler-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [docker-enabler-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [docker-enabler-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/73af265
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/73af265/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/e161934
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/e161934/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-73af265-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-e161934-blue.svg
 [example-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/example-armhf.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
