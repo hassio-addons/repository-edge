@@ -49,8 +49,8 @@ If you are more interested in stable releases of our add-ons:
 [discord]: https://discord.me/hassioaddons
 [lovelace-docs]: https://www.home-assistant.io/lovelace/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-ffedb8f-blue.svg
-[release]: https://github.com/hassio-addons/addon-lovelace-migration/tree/ffedb8f
-[docs]: https://github.com/hassio-addons/addon-lovelace-migration/blob/ffedb8f/README.md
+[release-shield]: https://img.shields.io/badge/version-1c7a699-blue.svg
+[release]: https://github.com/hassio-addons/addon-lovelace-migration/tree/1c7a699
+[docs]: https://github.com/hassio-addons/addon-lovelace-migration/blob/1c7a699/README.md
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
