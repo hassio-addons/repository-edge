@@ -1,6 +1,6 @@
 {
   "name": "MQTT Server & Web client",
-  "version": "7a7851d",
+  "version": "2044592",
   "slug": "mqtt",
   "description": "Mosquitto MQTT Server bundled with Hivemq's web client",
   "url": "https://github.com/hassio-addons/addon-mqtt/tree/master/README.md",
@@ -14,6 +14,7 @@
   ],
   "boot": "auto",
   "hassio_api": true,
+  "hassio_role": "default",
   "homeassistant_api": false,
   "host_network": false,
   "ports": {
