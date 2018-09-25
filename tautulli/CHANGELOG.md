@@ -1,5 +1,5 @@
-# Changelog since v0.2.0
+# Changelog since v0.2.1
 
-2018/09/24 21:15 UTC - [7e56611](https://github.com/hassio-addons/addon-tautulli/commit/7e56611bf1f0c6a6e2e41bc534e02c2166427b8b) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.3.0 
+2018/09/25 10:25 UTC - [db72646](https://github.com/hassio-addons/addon-tautulli/commit/db726469a473e367f84d951428140aa9b26d6138) by [@frenck](https://github.com/frenck)
+> :snowflake: Adds Hassio API security role 
 

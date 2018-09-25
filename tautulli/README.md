@@ -46,11 +46,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-tautulli/blob/7e56611/README.md
+[docs]: https://github.com/hassio-addons/addon-tautulli/blob/db72646/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-tautulli/68745?u=ludeeus
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-7e56611-blue.svg
-[release]: https://github.com/hassio-addons/addon-tautulli/tree/7e56611
+[release-shield]: https://img.shields.io/badge/version-db72646-blue.svg
+[release]: https://github.com/hassio-addons/addon-tautulli/tree/db72646
 [screenshot]: https://github.com/hassio-addons/addon-tautulli/raw/master/images/screenshot.png
