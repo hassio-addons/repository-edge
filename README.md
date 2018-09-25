@@ -567,10 +567,10 @@ SOFTWARE.
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [aircast-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/daa3011
-[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/daa3011/README.md
+[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/6d2646a
+[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/6d2646a/README.md
 [airsonos-issue]: https://github.com/hassio-addons/addon-airsonos/issues
-[airsonos-version-shield]: https://img.shields.io/badge/version-daa3011-blue.svg
+[airsonos-version-shield]: https://img.shields.io/badge/version-6d2646a-blue.svg
 [airsonos-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/airsonos-armhf.svg
 [airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
