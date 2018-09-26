@@ -61,6 +61,10 @@ addons:
     repository: hassio-addons/addon-lovelace-migration
     target: lovelace-migration
     image: hassioaddons/lovelace-migration
+  lutron-cert:
+    repository: hassio-addons/addon-lutron-cert
+    target: lutron-cert
+    image: hassioaddons/lutron-cert
   mqtt:
     repository: hassio-addons/addon-mqtt
     target: mqtt
