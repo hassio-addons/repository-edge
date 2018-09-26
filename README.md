@@ -752,10 +752,10 @@ SOFTWARE.
 [octobox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [octobox-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [octobox-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/72f60aa
-[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/72f60aa/README.md
+[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/160943c
+[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/160943c/README.md
 [phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
-[phlex-version-shield]: https://img.shields.io/badge/version-72f60aa-blue.svg
+[phlex-version-shield]: https://img.shields.io/badge/version-160943c-blue.svg
 [phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex.svg
 [phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

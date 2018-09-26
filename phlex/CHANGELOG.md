@@ -1,3 +1,3 @@
-2018/09/25 10:16 UTC - [72f60aa](https://github.com/hassio-addons/addon-phlex/commit/72f60aa1981889fbf2f08ff29927b7a49e5b87db) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
+2018/09/26 14:50 UTC - [160943c](https://github.com/hassio-addons/addon-phlex/commit/160943cf41abc7b5c4114a69d9cc926e6989218e) by [@ludeeus](https://github.com/ludeeus)
+> Merge branch 'master' of https://github.com/hassio-addons/addon-phlex 
 
