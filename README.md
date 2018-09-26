@@ -310,7 +310,7 @@ Take back control of your GitHub notifications
 ![Supports i386 Architecture][phlex-i386-shield]
 ![Docker Pulls][phlex-pulls-shield]
 
-A super-sexy voice interface for Plex
+A super-sexy text and voice interface for Plex
 
 [:books: Phlex add-on documentation][addon-doc-phlex]
 
