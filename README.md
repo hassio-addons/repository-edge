@@ -236,6 +236,19 @@ Automatically convert your existing UI to the new Lovelace UI
 
 [:books: Lovelace Migration add-on documentation][addon-doc-lovelace-migration]
 
+### &#10003; [Lutron Certificate][addon-lutron-cert]
+
+![Latest Version][lutron-cert-version-shield]
+![Supports armhf Architecture][lutron-cert-armhf-shield]
+![Supports aarch64 Architecture][lutron-cert-aarch64-shield]
+![Supports amd64 Architecture][lutron-cert-amd64-shield]
+![Supports i386 Architecture][lutron-cert-i386-shield]
+![Docker Pulls][lutron-cert-pulls-shield]
+
+Generate certificate to control Lutron Caseta bridge locally
+
+[:books: Lutron Certificate add-on documentation][addon-doc-lutron-cert]
+
 ### &#10003; [MQTT Server & Web client][addon-mqtt]
 
 ![Latest Version][mqtt-version-shield]
@@ -492,6 +505,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: Lovelace Migration][lovelace-migration-issue]
+- [Open an issue for the add-on: Lutron Certificate][lutron-cert-issue]
 - [Open an issue for the add-on: MQTT Server & Web client][mqtt-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
@@ -693,6 +707,15 @@ SOFTWARE.
 [lovelace-migration-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lovelace-migration-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [lovelace-migration-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/2364352
+[addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/2364352/README.md
+[lutron-cert-issue]: https://github.com/hassio-addons/addon-lutron-cert/issues
+[lutron-cert-version-shield]: https://img.shields.io/badge/version-2364352-blue.svg
+[lutron-cert-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/lutron-cert.svg
+[lutron-cert-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[lutron-cert-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[lutron-cert-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[lutron-cert-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-mqtt]: https://github.com/hassio-addons/addon-mqtt/tree/2044592
 [addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/2044592/README.md
 [mqtt-issue]: https://github.com/hassio-addons/addon-mqtt/issues
