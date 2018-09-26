@@ -1,3 +1,3 @@
-2018/09/25 10:15 UTC - [7b56402](https://github.com/hassio-addons/addon-nut/commit/7b56402afe905b9304f783dcf0afa8021ddb5e0d) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
+2018/09/26 10:39 UTC - [c1c2ef6](https://github.com/hassio-addons/addon-nut/commit/c1c2ef63a239f639c0c63be7165feafe1c121b9b) by [@dale3h](https://github.com/dale3h)
+> 🔥 Moves config to filesystem 
 

@@ -725,10 +725,10 @@ SOFTWARE.
 [mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/7b56402
-[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/7b56402/README.md
+[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/c1c2ef6
+[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/c1c2ef6/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
-[nut-version-shield]: https://img.shields.io/badge/version-7b56402-blue.svg
+[nut-version-shield]: https://img.shields.io/badge/version-c1c2ef6-blue.svg
 [nut-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nut.svg
 [nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
