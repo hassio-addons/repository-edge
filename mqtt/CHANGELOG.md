@@ -1,3 +1,3 @@
-2018/09/26 11:10 UTC - [a98fef9](https://github.com/hassio-addons/addon-mqtt/commit/a98fef915429f7e107d4592251fe81c63e318e50) by [@ludeeus](https://github.com/ludeeus)
-> 🚜Added defaults in config 
+2018/09/26 14:20 UTC - [c3bc4f3](https://github.com/hassio-addons/addon-mqtt/commit/c3bc4f3e945d2d545579bc751a0ed691aa82cdda) by [@ludeeus](https://github.com/ludeeus)
+> 🎨Changed logo + icon 
 
