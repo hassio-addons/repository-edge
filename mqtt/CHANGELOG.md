@@ -1,3 +1,3 @@
-2018/09/26 14:20 UTC - [c3bc4f3](https://github.com/hassio-addons/addon-mqtt/commit/c3bc4f3e945d2d545579bc751a0ed691aa82cdda) by [@ludeeus](https://github.com/ludeeus)
-> 🎨Changed logo + icon 
+2018/09/26 14:30 UTC - [685e867](https://github.com/hassio-addons/addon-mqtt/commit/685e8676e9c4d859fe57971322cfe4884e66d603) by [@ludeeus](https://github.com/ludeeus)
+> 📚 Minor additions to README 
 

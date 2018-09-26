@@ -41,11 +41,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-mqtt/blob/c3bc4f3/README.md
+[docs]: https://github.com/hassio-addons/addon-mqtt/blob/685e867/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c3bc4f3-blue.svg
-[release]: https://github.com/hassio-addons/addon-mqtt/tree/c3bc4f3
+[release-shield]: https://img.shields.io/badge/version-685e867-blue.svg
+[release]: https://github.com/hassio-addons/addon-mqtt/tree/685e867
 [screenshot]: https://github.com/hassio-addons/addon-mqtt/raw/master/images/image.png
