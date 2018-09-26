@@ -1,3 +1,3 @@
-2018/09/26 20:45 UTC - [3c4ff21](https://github.com/hassio-addons/addon-phlex/commit/3c4ff21a1369c9714e56585b94e0d323462f0c09) by [@ludeeus](https://github.com/ludeeus)
-> :hammer: Minor cleanup changes 
+2018/09/26 20:54 UTC - [8a6ff5f](https://github.com/hassio-addons/addon-phlex/commit/8a6ff5f4cbc08b5e4dae4f8d4773ee16f6763929) by [@ludeeus](https://github.com/ludeeus)
+> :books: Corrected typo, thanks @frenck :) 
 
