@@ -626,10 +626,10 @@ SOFTWARE.
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/52ac38f
-[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/52ac38f/README.md
+[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/8102efb
+[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/8102efb/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-52ac38f-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-8102efb-blue.svg
 [grafana-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grafana-armhf.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
