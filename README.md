@@ -145,32 +145,6 @@ Presence detection server for Happy Bubbles Bluetooth beacon-based presence dete
 
 [:books: Happy Bubbles add-on documentation][addon-doc-happy-bubbles]
 
-### &#10003; [Home Assistant Control Panel][addon-control-panel]
-
-![Latest Version][control-panel-version-shield]
-![Supports armhf Architecture][control-panel-armhf-shield]
-![Supports aarch64 Architecture][control-panel-aarch64-shield]
-![Supports amd64 Architecture][control-panel-amd64-shield]
-![Supports i386 Architecture][control-panel-i386-shield]
-![Docker Pulls][control-panel-pulls-shield]
-
-Simple to use control panel for the ultimate home automation setup
-
-[:books: Home Assistant Control Panel add-on documentation][addon-doc-control-panel]
-
-### &#10003; [Homebridge][addon-homebridge]
-
-![Latest Version][homebridge-version-shield]
-![Supports armhf Architecture][homebridge-armhf-shield]
-![Supports aarch64 Architecture][homebridge-aarch64-shield]
-![Supports amd64 Architecture][homebridge-amd64-shield]
-![Supports i386 Architecture][homebridge-i386-shield]
-![Docker Pulls][homebridge-pulls-shield]
-
-HomeKit support for your Home Assistant instance using Homebridge
-
-[:books: Homebridge add-on documentation][addon-doc-homebridge]
-
 ### &#10003; [IDE][addon-ide]
 
 ![Latest Version][ide-version-shield]
@@ -431,19 +405,6 @@ Monitoring and tracking tool for Plex Media Server
 
 [:books: Tautulli add-on documentation][addon-doc-tautulli]
 
-### &#10003; [Terminal][addon-terminal]
-
-![Latest Version][terminal-version-shield]
-![Supports armhf Architecture][terminal-armhf-shield]
-![Supports aarch64 Architecture][terminal-aarch64-shield]
-![Supports amd64 Architecture][terminal-amd64-shield]
-![Supports i386 Architecture][terminal-i386-shield]
-![Docker Pulls][terminal-pulls-shield]
-
-Terminal access to your Home Assistant instance via the web
-
-[:books: Terminal add-on documentation][addon-doc-terminal]
-
 ### &#10003; [Tor][addon-tor]
 
 ![Latest Version][tor-version-shield]
@@ -498,8 +459,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: FTP][ftp-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
 - [Open an issue for the add-on: Happy Bubbles][happy-bubbles-issue]
-- [Open an issue for the add-on: Home Assistant Control Panel][control-panel-issue]
-- [Open an issue for the add-on: Homebridge][homebridge-issue]
 - [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: Jupyter][jupyter-issue]
@@ -520,7 +479,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Spotify Connect][spotify-issue]
 - [Open an issue for the add-on: TasmoAdmin][tasmoadmin-issue]
 - [Open an issue for the add-on: Tautulli][tautulli-issue]
-- [Open an issue for the add-on: Terminal][terminal-issue]
 - [Open an issue for the add-on: Tor][tor-issue]
 - [Open an issue for the add-on: UniFi Controller][unifi-issue]
 
@@ -644,24 +602,6 @@ SOFTWARE.
 [happy-bubbles-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [happy-bubbles-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [happy-bubbles-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-control-panel]: https://github.com/hassio-addons/addon-control-panel/tree/abe63fa
-[addon-doc-control-panel]: https://github.com/hassio-addons/addon-control-panel/blob/abe63fa/README.md
-[control-panel-issue]: https://github.com/hassio-addons/addon-control-panel/issues
-[control-panel-version-shield]: https://img.shields.io/badge/version-abe63fa-blue.svg
-[control-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/control-panel-armhf.svg
-[control-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[control-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[control-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[control-panel-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-homebridge]: https://github.com/hassio-addons/addon-homebridge/tree/d913dae
-[addon-doc-homebridge]: https://github.com/hassio-addons/addon-homebridge/blob/d913dae/README.md
-[homebridge-issue]: https://github.com/hassio-addons/addon-homebridge/issues
-[homebridge-version-shield]: https://img.shields.io/badge/version-d913dae-blue.svg
-[homebridge-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/homebridge-armhf.svg
-[homebridge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[homebridge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[homebridge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[homebridge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-ide]: https://github.com/hassio-addons/addon-ide/tree/c2d2c30
 [addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/c2d2c30/README.md
 [ide-issue]: https://github.com/hassio-addons/addon-ide/issues
@@ -842,15 +782,6 @@ SOFTWARE.
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tautulli-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-terminal]: https://github.com/hassio-addons/addon-terminal/tree/7595a96
-[addon-doc-terminal]: https://github.com/hassio-addons/addon-terminal/blob/7595a96/README.md
-[terminal-issue]: https://github.com/hassio-addons/addon-terminal/issues
-[terminal-version-shield]: https://img.shields.io/badge/version-7595a96-blue.svg
-[terminal-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/terminal-armhf.svg
-[terminal-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[terminal-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[terminal-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[terminal-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-tor]: https://github.com/hassio-addons/addon-tor/tree/95a96d1
 [addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/95a96d1/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
