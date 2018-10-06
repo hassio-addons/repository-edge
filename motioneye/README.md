@@ -14,9 +14,9 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras.
 
 motionEye is a popular frontend to the camera software called motion. This add-on provides both, allowing you to add your camera's to your Hass.io setup.
 
-motionEye is Open Source CCTV and NVR, that is elegant and real easy to use. It can be used as a Baby Monitor, Construction Site Montage Viewer, Store Camera DVR, Garden Security, and much more.
+motionEye is Open Source CCTV and NVR, that is elegant and really easy to use. It can be used as a Baby Monitor, Construction Site Montage Viewer, Store Camera DVR, Garden Security, and much more.
 
-Some cool feature of motionEye:
+Some cool features of motionEye:
 
 - Support for a ridiculous amount of cameras, including IP cams.
 - Add multiple cameras by hooking up multiple motionEye instances together.
@@ -52,13 +52,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-motioneye/blob/846d7a0/README.md
+[docs]: https://github.com/hassio-addons/addon-motioneye/blob/31e96a9/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-motioneye/41261?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-motioneye/71826?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-846d7a0-blue.svg
-[release]: https://github.com/hassio-addons/addon-motioneye/tree/846d7a0
+[release-shield]: https://img.shields.io/badge/version-31e96a9-blue.svg
+[release]: https://github.com/hassio-addons/addon-motioneye/tree/31e96a9
 [screenshot]: https://github.com/hassio-addons/addon-motioneye/raw/master/images/screenshot.png
