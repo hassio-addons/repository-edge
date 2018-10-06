@@ -1,3 +1,3 @@
-2018/10/05 22:59 UTC - [1f14e0c](https://github.com/hassio-addons/addon-motioneye/commit/1f14e0cd3ee1451f74480ad04f83f6ff7408c1e9) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixing spelling error 
+2018/10/06 15:37 UTC - [846d7a0](https://github.com/hassio-addons/addon-motioneye/commit/846d7a04a7a2f96edefa90102ac53c27b258378c) by [@frenck](https://github.com/frenck)
+> :books: Updates About section in README 
 

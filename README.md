@@ -814,10 +814,10 @@ SOFTWARE.
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/1f14e0c
-[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/1f14e0c/README.md
+[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/846d7a0
+[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/846d7a0/README.md
 [motioneye-issue]: https://github.com/hassio-addons/addon-motioneye/issues
-[motioneye-version-shield]: https://img.shields.io/badge/version-1f14e0c-blue.svg
+[motioneye-version-shield]: https://img.shields.io/badge/version-846d7a0-blue.svg
 [motioneye-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/motioneye.svg
 [motioneye-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [motioneye-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
