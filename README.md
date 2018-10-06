@@ -440,7 +440,7 @@ Manage your UniFi network using a web browser
 ![Supports i386 Architecture][motioneye-i386-shield]
 ![Docker Pulls][motioneye-pulls-shield]
 
-Simple, elegant and feature-rich CCTV/NVR for your camera's
+Simple, elegant and feature-rich CCTV/NVR for your cameras
 
 [:books: motionEye add-on documentation][addon-doc-motioneye]
 
