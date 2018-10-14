@@ -1,11 +1,8 @@
-# Changelog since v0.2.1
+# Changelog since v0.3.0
 
-2018/09/25 10:27 UTC - [ad7eaa3](https://github.com/hassio-addons/addon-unifi/commit/ad7eaa38c9a7ef392ca97d50ea71208302444269) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
+2018/10/14 09:20 UTC - [23c6806](https://github.com/hassio-addons/addon-unifi/commit/23c68063edf01f8b23d1b5f35964127b2add2c5e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Unifi to 5.9.29 
 
-2018/09/25 10:27 UTC - [721e76c](https://github.com/hassio-addons/addon-unifi/commit/721e76c4045b8c6bc9da07b3eca82e852b23d6dd) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Ubuntu Base image to 2.2.0 
-
-2018/09/25 10:27 UTC - [d254acd](https://github.com/hassio-addons/addon-unifi/commit/d254acd979339bed1e712ebb71de577948c36ab3) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Unifi to 5.8.30 
+2018/10/14 09:20 UTC - [58c36c4](https://github.com/hassio-addons/addon-unifi/commit/58c36c4815250c90d55d78e5811de3aa6a9b2998) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades binutils to 2.30-21ubuntu1~18.04 
 
