@@ -1,5 +1,5 @@
-# Changelog since v0.1.0
+# Changelog since v0.1.1
 
-2018/10/06 16:35 UTC - [4034573](https://github.com/hassio-addons/addon-motioneye/commit/4034573fa15a81837348ebd9c2636df000f068ae) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes issue with SSL not working 
+2018/10/16 16:49 UTC - [6b3c8b1](https://github.com/hassio-addons/addon-motioneye/commit/6b3c8b18117f939cc7d82053ebe1ec4d28b46b35) by [@dayofdoom](https://github.com/dayofdoom)
+> :books: Changed past to paste (#9) 
 
