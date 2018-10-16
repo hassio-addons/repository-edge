@@ -751,10 +751,10 @@ SOFTWARE.
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/4aacd55
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/4aacd55/README.md
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/e6152c6
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/e6152c6/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-4aacd55-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-e6152c6-blue.svg
 [ssh-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ssh-armhf.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
