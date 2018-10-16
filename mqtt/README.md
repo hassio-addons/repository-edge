@@ -42,13 +42,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-mqtt/blob/441dbf3/README.md
+[docs]: https://github.com/hassio-addons/addon-mqtt/blob/3efac30/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-ons-mqtt-server-web-client/70376
 [hivemq]: https://www.hivemq.com/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [mosquitto]: https://mosquitto.org/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-441dbf3-blue.svg
-[release]: https://github.com/hassio-addons/addon-mqtt/tree/441dbf3
+[release-shield]: https://img.shields.io/badge/version-3efac30-blue.svg
+[release]: https://github.com/hassio-addons/addon-mqtt/tree/3efac30
 [screenshot]: https://github.com/hassio-addons/addon-mqtt/raw/master/images/image.png
