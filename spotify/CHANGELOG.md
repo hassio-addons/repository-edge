@@ -1,8 +1,5 @@
-# Changelog since v0.2.1
+# Changelog since v0.3.0
 
-2018/09/25 10:22 UTC - [69785fd](https://github.com/hassio-addons/addon-spotify-connect/commit/69785fd8e1f884f1593766a0b651b100b51d674e) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
-
-2018/09/25 10:22 UTC - [5728cf6](https://github.com/hassio-addons/addon-spotify-connect/commit/5728cf6d69702a207d05f10580610a236b490b6c) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Ubuntu Base image to 2.2.0 
+2018/10/27 10:00 UTC - [460cc91](https://github.com/hassio-addons/addon-spotify-connect/commit/460cc91bd2dec8d4a455696d5e03c216cdc1cc73) by [@tjorim](https://github.com/tjorim)
+> :books: Clarifies ARMv6 is not supported (#15) 
 
