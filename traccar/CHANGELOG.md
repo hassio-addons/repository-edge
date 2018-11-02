@@ -1,3 +1,3 @@
-2018/11/02 23:05 UTC - [5f20c90](https://github.com/hassio-addons/addon-traccar/commit/5f20c902e4654c2bc10e260ab06391eb23246d05) by [@frenck](https://github.com/frenck)
-> :tshirt: Fixes linter errors 
+2018/11/02 23:33 UTC - [075097e](https://github.com/hassio-addons/addon-traccar/commit/075097ed16012c1914074b7f7d0a5b3d82aed763) by [@frenck](https://github.com/frenck)
+> :ambulance: Makes data actually persistant 
 
