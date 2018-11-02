@@ -1,18 +1,21 @@
 # Changelog since v0.6.0
 
-2018/11/02 20:47 UTC - [55c5444](https://github.com/hassio-addons/addon-ide/commit/55c54445fdddefe4d7fe2645c3290c98cfa5c3ed) by [@frenck](https://github.com/frenck)
+2018/11/02 21:00 UTC - [f5a79f3](https://github.com/hassio-addons/addon-ide/commit/f5a79f3e95085bb0802e18fd489c2620b7910951) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Cloud9 Core to c4d1c59 
+
+2018/11/02 21:00 UTC - [55c5444](https://github.com/hassio-addons/addon-ide/commit/55c54445fdddefe4d7fe2645c3290c98cfa5c3ed) by [@frenck](https://github.com/frenck)
 > :tractor: Small improvements to HA authentication proxy 
 
-2018/11/02 20:47 UTC - [075f0ff](https://github.com/hassio-addons/addon-ide/commit/075f0ff0182d8811086cb654a9684bd164091fb3) by [@frenck](https://github.com/frenck)
+2018/11/02 21:00 UTC - [075f0ff](https://github.com/hassio-addons/addon-ide/commit/075f0ff0182d8811086cb654a9684bd164091fb3) by [@frenck](https://github.com/frenck)
 > :arrow_up: Upgrades libxml2-utils to 2.9.8-r1 
 
-2018/11/02 20:47 UTC - [84dc4e7](https://github.com/hassio-addons/addon-ide/commit/84dc4e7850fc21ae65dc1c516a56cdeff46cbaa4) by [@frenck](https://github.com/frenck)
+2018/11/02 21:00 UTC - [84dc4e7](https://github.com/hassio-addons/addon-ide/commit/84dc4e7850fc21ae65dc1c516a56cdeff46cbaa4) by [@frenck](https://github.com/frenck)
 > :arrow_up: Upgrades libxml2 to 2.9.8-r1 
 
-2018/11/02 20:47 UTC - [c09e0d0](https://github.com/hassio-addons/addon-ide/commit/c09e0d0778e9c6e92b369f914dc0a656c5df3e2d) by [@frenck](https://github.com/frenck)
+2018/11/02 21:00 UTC - [c09e0d0](https://github.com/hassio-addons/addon-ide/commit/c09e0d0778e9c6e92b369f914dc0a656c5df3e2d) by [@frenck](https://github.com/frenck)
 > :arrow_up: Upgrades git to 2.18.1-r0 
 
-2018/11/02 20:47 UTC - [18601da](https://github.com/hassio-addons/addon-ide/commit/18601da1928e3bcb7061ed94f3a42095e69e907a) by [@frenck](https://github.com/frenck)
+2018/11/02 21:00 UTC - [18601da](https://github.com/hassio-addons/addon-ide/commit/18601da1928e3bcb7061ed94f3a42095e69e907a) by [@frenck](https://github.com/frenck)
 > :sparkles: Adds HA Authentication (#24)
 
 * :sparkles: Adds HA Authentication
@@ -23,7 +26,7 @@
 
 * :sparkles: Adds option to disable HA Authentication 
 
-2018/11/02 20:47 UTC - [47fcf0e](https://github.com/hassio-addons/addon-ide/commit/47fcf0eeb2e6e39bc1eed20dc42e5116b9cdc84c) by [@dayofdoom](https://github.com/dayofdoom)
+2018/11/02 21:00 UTC - [47fcf0e](https://github.com/hassio-addons/addon-ide/commit/47fcf0eeb2e6e39bc1eed20dc42e5116b9cdc84c) by [@dayofdoom](https://github.com/dayofdoom)
 > :books: Changed past to paste (#23)
 
 Changed past to paste 
