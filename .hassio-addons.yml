@@ -93,10 +93,6 @@ addons:
     repository: hassio-addons/addon-portainer
     target: portainer
     image: hassioaddons/portainer
-  shinobi:
-    repository: hassio-addons/addon-shinobi
-    target: shinobi
-    image: hassioaddons/shinobi-{arch}
   spotify:
     repository: hassio-addons/addon-spotify-connect
     target: spotify
