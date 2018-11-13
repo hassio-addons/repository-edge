@@ -1,6 +1,6 @@
 {
   "name": "MQTT Server & Web client",
-  "version": "e095b3f",
+  "version": "6f8f7a6",
   "slug": "mqtt",
   "timeout": 10,
   "description": "Mosquitto MQTT Server bundled with Hivemq's web client",
