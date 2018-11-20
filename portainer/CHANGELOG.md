@@ -1,11 +1,11 @@
-# Changelog since v0.1.0
+# Changelog since v0.2.0
 
-2018/09/27 20:18 UTC - [04caa0d](https://github.com/hassio-addons/addon-portainer/commit/04caa0d46a6c90497882ff5cd6812d166205dc9e) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API role to configuration 
+2018/11/20 21:35 UTC - [8f84168](https://github.com/hassio-addons/addon-portainer/commit/8f84168796cb6cc9811fe46d8370f7c9ba99d2b4) by [@frenck](https://github.com/frenck)
+> :pencil: Updates Docker usage instructions when protection mode is disabled 
 
-2018/09/27 20:18 UTC - [ebe7f6f](https://github.com/hassio-addons/addon-portainer/commit/ebe7f6fffe0ff78d01b953e3760074482cc06bf7) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.3.0 
+2018/11/20 21:35 UTC - [a1aa2ee](https://github.com/hassio-addons/addon-portainer/commit/a1aa2ee7eba96aab05c1c30df376cd5461fa24d8) by [@frenck](https://github.com/frenck)
+> :fire: Removes some unused code 
 
-2018/09/27 20:18 UTC - [4a3d5e1](https://github.com/hassio-addons/addon-portainer/commit/4a3d5e16ca6ddd8ed3ec99b386032490346d7469) by [@tjorim](https://github.com/tjorim)
-> :books: Improve panel_iframe example (#1) 
+2018/11/20 21:35 UTC - [33e2509](https://github.com/hassio-addons/addon-portainer/commit/33e25095aa5d77b3afe96238070b2eb16fce0031) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes default build architecture in Dockerfile 
 
