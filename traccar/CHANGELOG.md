@@ -1,3 +1,3 @@
-2018/11/27 21:59 UTC - [73e681f](https://github.com/hassio-addons/addon-traccar/commit/73e681f56f0a399011705dc4365b5ee0ea7c62fa) by [@frenck](https://github.com/frenck)
-> :books: Updates README to match recent changes 
+2018/11/28 08:29 UTC - [6fe492b](https://github.com/hassio-addons/addon-traccar/commit/6fe492b5e78887af63aa147f6e15069cc57739b3) by [@frenck](https://github.com/frenck)
+> :books: Corrects project stage badge in add-on README 
 
