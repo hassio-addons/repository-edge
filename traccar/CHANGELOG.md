@@ -1,3 +1,3 @@
-2018/11/02 23:33 UTC - [075097e](https://github.com/hassio-addons/addon-traccar/commit/075097ed16012c1914074b7f7d0a5b3d82aed763) by [@frenck](https://github.com/frenck)
-> :ambulance: Makes data actually persistant 
+2018/11/27 21:59 UTC - [73e681f](https://github.com/hassio-addons/addon-traccar/commit/73e681f56f0a399011705dc4365b5ee0ea7c62fa) by [@frenck](https://github.com/frenck)
+> :books: Updates README to match recent changes 
 
