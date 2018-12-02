@@ -1,30 +1,8 @@
-# Changelog since v0.5.1
+# Changelog since v0.6.0
 
-2018/09/28 21:05 UTC - [5b68bf3](https://github.com/hassio-addons/addon-tasmoadmin/commit/5b68bf37da1cecb2ae20ca31b921932c27923d8e) by [@frenck](https://github.com/frenck)
-> Upgrades TasmoAdmin to v1.6.0 (#30)
+2018/12/02 09:57 UTC - [463a0e3](https://github.com/hassio-addons/addon-tasmoadmin/commit/463a0e3e208efb452a22f17cbc69f1f99c2434a7) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.14.1-r0 
 
-* :snowflake: Adds Hassio API role to configuration
-
-* :arrow_up: Upgrades PHP to 7.2.10-r0
-
-* :art: Updates logo & icon
-
-* :arrow_up: Upgrades TasmoAdmin to v1.6.0
-
-* :tshirt: Fixes typo in add-on configuration 
-
-2018/09/28 21:05 UTC - [e8fdf04](https://github.com/hassio-addons/addon-tasmoadmin/commit/e8fdf0468d92c44eb59d0d694c5327888c704871) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades PHP to 7.2.10-r0 
-
-2018/09/28 21:05 UTC - [83879a3](https://github.com/hassio-addons/addon-tasmoadmin/commit/83879a31b1314b64eb36e212bd3fb4987125175b) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
-
-2018/09/28 21:05 UTC - [f98e195](https://github.com/hassio-addons/addon-tasmoadmin/commit/f98e195f41741b5ecb3e454addec883868563693) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.3.0 
-
-2018/09/28 21:05 UTC - [57be1df](https://github.com/hassio-addons/addon-tasmoadmin/commit/57be1df905355c66deaf2ffaac3fa43f678fb099) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.14.0-r1 
-
-2018/09/28 21:05 UTC - [8a58376](https://github.com/hassio-addons/addon-tasmoadmin/commit/8a58376836177c92b1569acad939782f1d33d319) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.2.0 
+2018/12/02 09:57 UTC - [dfb0a9f](https://github.com/hassio-addons/addon-tasmoadmin/commit/dfb0a9fdf0eda17db97a6db903cd6d2071edb719) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades git to 2.18.1-r0 
 
