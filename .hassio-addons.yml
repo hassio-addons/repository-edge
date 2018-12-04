@@ -41,6 +41,10 @@ addons:
     repository: hassio-addons/addon-influxdb
     target: influxdb
     image: hassioaddons/influxdb-{arch}
+  jupyterlablite:
+    repository: hassio-addons/addon-jupyterlab-lite
+    target: jupyterlablite
+    image: hassioaddons/jupyterlablite
   jupyter:
     repository: hassio-addons/addon-jupyter
     target: jupyter
