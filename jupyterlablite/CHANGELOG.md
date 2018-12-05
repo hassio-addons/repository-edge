@@ -1,3 +1,3 @@
-2018/12/04 15:49 UTC - [b094747](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/b0947474ad2775157f82ac83c2e22b3a4d82c71a) by [@frenck](https://github.com/frenck)
-> :tada: Initial add-on code 
+2018/12/04 23:15 UTC - [b21b928](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/b21b9283b089dbc1b1d1076189f7003b13934031) by [@frenck](https://github.com/frenck)
+> :books: Updates READMEs to latest templates 
 

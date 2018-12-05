@@ -6,6 +6,8 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
+[![Support my work on Patreon][patreon-shield]][patreon]
+
 Create documents containing live code, equations, visualizations,
 and explanatory text.
 
@@ -43,12 +45,15 @@ If you are more interested in stable releases of our add-ons:
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/b094747/README.md
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
+[docs]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/b21b928/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[patreon-shield]: https://www.frenck.nl/images/patreon.png
+[patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-concept-red.svg
-[release-shield]: https://img.shields.io/badge/version-b094747-blue.svg
-[release]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/b094747
+[release-shield]: https://img.shields.io/badge/version-b21b928-blue.svg
+[release]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/b21b928
+[screenshot]: https://github.com/hassio-addons/addon-jupyterlab-lite/raw/master/images/screenshot.png
