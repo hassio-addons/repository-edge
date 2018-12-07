@@ -801,10 +801,10 @@ SOFTWARE.
 [tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tasmoadmin-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/0c4c45a
-[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/0c4c45a/README.md
+[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/4d5107d
+[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/4d5107d/README.md
 [tautulli-issue]: https://github.com/hassio-addons/addon-tautulli/issues
-[tautulli-version-shield]: https://img.shields.io/badge/version-0c4c45a-blue.svg
+[tautulli-version-shield]: https://img.shields.io/badge/version-4d5107d-blue.svg
 [tautulli-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tautulli.svg
 [tautulli-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
