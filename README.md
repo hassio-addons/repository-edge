@@ -630,10 +630,10 @@ SOFTWARE.
 [happy-bubbles-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [happy-bubbles-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [happy-bubbles-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/e3b6623
-[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/e3b6623/README.md
+[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/25f60d6
+[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/25f60d6/README.md
 [ide-issue]: https://github.com/hassio-addons/addon-ide/issues
-[ide-version-shield]: https://img.shields.io/badge/version-e3b6623-blue.svg
+[ide-version-shield]: https://img.shields.io/badge/version-25f60d6-blue.svg
 [ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-armhf.svg
 [ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
