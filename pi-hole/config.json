@@ -1,6 +1,6 @@
 {
   "name": "Pi-hole",
-  "version": "8af3da6",
+  "version": "48ab0b0",
   "slug": "pi-hole",
   "description": "Network-wide ad blocking using your Hass.io instance",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-pi-hole/33817?u=frenck",
