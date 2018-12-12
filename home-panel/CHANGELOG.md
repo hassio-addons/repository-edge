@@ -1,3 +1,15 @@
-2018/12/12 00:30 UTC - [a222b49](https://github.com/hassio-addons/addon-home-panel/commit/a222b49475d4f1d5371fdc1e8cc85ef238561ef8) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes linter warnings 
+2018/12/12 16:09 UTC - [6a25177](https://github.com/hassio-addons/addon-home-panel/commit/6a251777eeeb70ef130d1f56e476b6c5c5bd128e) by [@timmo001](https://github.com/timmo001)
+> :books: Update docs (#1)
+
+* :books: Updates readme to community addons
+
+* :books: update docs and screenshots
+
+* :books: :art: fix links and update screenshots
+
+* :books: :hammer: fix links
+
+* :books: update link and tagline
+
+* :books: update tagline 
 
