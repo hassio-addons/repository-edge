@@ -55,9 +55,9 @@ If you are more interested in stable releases of our add-ons:
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-3855e2a-blue.svg
-[release]: https://github.com/hassio-addons/addon-home-panel/tree/3855e2a
-[docs]: https://github.com/hassio-addons/addon-home-panel/blob/3855e2a/README.md
+[release-shield]: https://img.shields.io/badge/version-a222b49-blue.svg
+[release]: https://github.com/hassio-addons/addon-home-panel/tree/a222b49
+[docs]: https://github.com/hassio-addons/addon-home-panel/blob/a222b49/README.md
 [hass]: https://www.home-assistant.io/
 [home-panel]: https://github.com/timmo001/home-panel
 [light-theme]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/light-theme.png

@@ -1,3 +1,3 @@
-2018/12/11 23:25 UTC - [3855e2a](https://github.com/hassio-addons/addon-home-panel/commit/3855e2a0641a958020029bca643b081ede7b7d2e) by [@frenck](https://github.com/frenck)
-> :hammer: Updates GitLab CI build script 
+2018/12/12 00:30 UTC - [a222b49](https://github.com/hassio-addons/addon-home-panel/commit/a222b49475d4f1d5371fdc1e8cc85ef238561ef8) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes linter warnings 
 
