@@ -680,10 +680,10 @@ SOFTWARE.
 [jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [jupyter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/b21b928
-[addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/b21b928/README.md
+[addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/8e29208
+[addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/8e29208/README.md
 [jupyterlablite-issue]: https://github.com/hassio-addons/addon-jupyterlab-lite/issues
-[jupyterlablite-version-shield]: https://img.shields.io/badge/version-b21b928-blue.svg
+[jupyterlablite-version-shield]: https://img.shields.io/badge/version-8e29208-blue.svg
 [jupyterlablite-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyterlablite.svg
 [jupyterlablite-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlablite-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
