@@ -47,13 +47,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/8e29208/README.md
+[docs]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/b047d5e/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-concept-red.svg
-[release-shield]: https://img.shields.io/badge/version-8e29208-blue.svg
-[release]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/8e29208
+[release-shield]: https://img.shields.io/badge/version-b047d5e-blue.svg
+[release]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/b047d5e
 [screenshot]: https://github.com/hassio-addons/addon-jupyterlab-lite/raw/master/images/screenshot.png

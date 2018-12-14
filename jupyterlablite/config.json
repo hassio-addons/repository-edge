@@ -1,10 +1,10 @@
 {
   "name": "JupyterLab Lite",
-  "version": "8e29208",
+  "version": "b047d5e",
   "slug": "jupyterlablite",
   "description": "Create documents containing live code, equations, visualizations, and explanatory text.",
   "url": "https://github.com/hassio-addons/addon-jupyterlab-lite",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:8888]",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:7777]",
   "startup": "application",
   "arch": [
     "aarch64",
@@ -27,12 +27,12 @@
   ],
   "boot": "auto",
   "hassio_api": true,
-  "auth_api": false,
+  "auth_api": true,
   "hassio_role": "default",
   "homeassistant_api": true,
   "host_network": false,
   "ports": {
-    "8888/tcp": 8888
+    "7777/tcp": 7777
   },
   "map": [
     "config:rw",
@@ -41,7 +41,6 @@
   ],
   "options": {
     "log_level": "info",
-    "password": "",
     "github_access_token": "",
     "ssl": false,
     "certfile": "fullchain.pem",
@@ -51,7 +50,6 @@
   },
   "schema": {
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
-    "password": "str",
     "github_access_token": "str",
     "ssl": "bool",
     "certfile": "str",
