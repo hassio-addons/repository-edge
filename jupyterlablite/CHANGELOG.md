@@ -1,3 +1,3 @@
-2018/12/14 22:01 UTC - [3c67b23](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/3c67b23851cf6def170c05a3105ba4661faa41f6) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for PostgreSQL 
+2018/12/16 10:23 UTC - [5b69e53](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/5b69e53c17898fe0255fe0e1137ce8a3a7397c24) by [@frenck](https://github.com/frenck)
+> :hammer: Improvements to handling example notebooks 
 
