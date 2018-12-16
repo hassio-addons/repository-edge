@@ -1,13 +1,7 @@
-2018/12/15 13:54 UTC - [712ee03](https://github.com/hassio-addons/addon-home-panel/commit/712ee031b73785390096749a52985fd8e60d9662) by [@timmo001](https://github.com/timmo001)
-> Update API to v0.4.2 and remove SSL cert copy (#2)
+2018/12/16 15:00 UTC - [cb8beca](https://github.com/hassio-addons/addon-home-panel/commit/cb8beca7a66985544efa9d8b7d995c0fe5640f23) by [@timmo001](https://github.com/timmo001)
+> Rewrite nginx config and fix header comments (#3)
 
-* :arrow_up: Update api to v0.4.2
+* :hammer: :pencil: rewrite nginx and fix header comments
 
-* :fire: :hammer: Remove no longer required init script and update api run script
-
-* :shirt: Fix linter warning
-
-* :shirt: fix linter warnings
-
-* :shirt: :fire: Fix linter warnings 
+* :shirt: fix linter warning 
 
