@@ -1,3 +1,3 @@
-2018/12/16 10:23 UTC - [5b69e53](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/5b69e53c17898fe0255fe0e1137ce8a3a7397c24) by [@frenck](https://github.com/frenck)
-> :hammer: Improvements to handling example notebooks 
+2018/12/17 19:39 UTC - [e55ac7e](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/e55ac7e4ffb2f8f2d575571fea43374614697947) by [@frenck](https://github.com/frenck)
+> :ambulance: :lock: Fixes authentication bypass vulnerability 
 
