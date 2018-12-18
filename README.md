@@ -716,10 +716,10 @@ SOFTWARE.
 [lutron-cert-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lutron-cert-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [lutron-cert-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-mqtt]: https://github.com/hassio-addons/addon-mqtt/tree/e72d131
-[addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/e72d131/README.md
+[addon-mqtt]: https://github.com/hassio-addons/addon-mqtt/tree/fa6d1d8
+[addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/fa6d1d8/README.md
 [mqtt-issue]: https://github.com/hassio-addons/addon-mqtt/issues
-[mqtt-version-shield]: https://img.shields.io/badge/version-e72d131-blue.svg
+[mqtt-version-shield]: https://img.shields.io/badge/version-fa6d1d8-blue.svg
 [mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mqtt.svg
 [mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
