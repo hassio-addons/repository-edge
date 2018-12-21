@@ -262,6 +262,19 @@ Mosquitto MQTT Server bundled with Hivemq's web client
 
 [:books: MQTT Server & Web client add-on documentation][addon-doc-mqtt]
 
+### &#10003; [Matrix][addon-matrix]
+
+![Latest Version][matrix-version-shield]
+![Supports armhf Architecture][matrix-armhf-shield]
+![Supports aarch64 Architecture][matrix-aarch64-shield]
+![Supports amd64 Architecture][matrix-amd64-shield]
+![Supports i386 Architecture][matrix-i386-shield]
+![Docker Pulls][matrix-pulls-shield]
+
+A secure and decentralized communication platform.
+
+[:books: Matrix add-on documentation][addon-doc-matrix]
+
 ### &#10003; [Network UPS Tools][addon-nut]
 
 ![Latest Version][nut-version-shield]
@@ -507,6 +520,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Lovelace Migration][lovelace-migration-issue]
 - [Open an issue for the add-on: Lutron Certificate][lutron-cert-issue]
 - [Open an issue for the add-on: MQTT Server & Web client][mqtt-issue]
+- [Open an issue for the add-on: Matrix][matrix-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Octobox][octobox-issue]
@@ -725,6 +739,15 @@ SOFTWARE.
 [mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/c392a40
+[addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/c392a40/README.md
+[matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues
+[matrix-version-shield]: https://img.shields.io/badge/version-c392a40-blue.svg
+[matrix-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/matrix.svg
+[matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[matrix-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-nut]: https://github.com/hassio-addons/addon-nut/tree/c1c2ef6
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/c1c2ef6/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
