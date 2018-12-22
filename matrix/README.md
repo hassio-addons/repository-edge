@@ -44,14 +44,14 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/timmo
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-matrix/blob/768ad58/README.md
+[docs]: https://github.com/hassio-addons/addon-matrix/blob/49cfd45/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-768ad58-blue.svg
-[release]: https://github.com/hassio-addons/addon-matrix/tree/768ad58
+[release-shield]: https://img.shields.io/badge/version-49cfd45-blue.svg
+[release]: https://github.com/hassio-addons/addon-matrix/tree/49cfd45
 [screenshot]: https://github.com/hassio-addons/addon-matrix/raw/master/images/screenshot.png
 [clients]: https://matrix.org/docs/projects/try-matrix-now.html
