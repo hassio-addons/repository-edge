@@ -1,10 +1,10 @@
 {
   "name": "Matrix",
-  "version": "85a51ed",
+  "version": "524d2a0",
   "slug": "matrix",
   "description": "A secure and decentralized communication platform.",
   "url": "https://community.home-assistant.io",
-  "webui": "http://[HOST]:[PORT:8448]",
+  "webui": "http://[HOST]:[PORT:8558]",
   "startup": "application",
   "arch": [
     "aarch64",
@@ -17,7 +17,8 @@
   "hassio_role": "default",
   "host_network": false,
   "ports": {
-    "8448/tcp": 8448
+    "8448/tcp": 8448,
+    "8558/tcp": 8558
   },
   "map": [
     "config:rw",

@@ -1,3 +1,3 @@
-2018/12/22 14:45 UTC - [85a51ed](https://github.com/hassio-addons/addon-matrix/commit/85a51ed6e457e592472c46d52ce997741321292d) by [@timmo001](https://github.com/timmo001)
-> :fire: :ambulance: crash on server_name change and advise user 
+2018/12/22 17:22 UTC - [524d2a0](https://github.com/hassio-addons/addon-matrix/commit/524d2a02daad44492d131dda5eab4e06c6ed6996) by [@timmo001](https://github.com/timmo001)
+> :sparkles: :tada: Add Riot web client 
 
