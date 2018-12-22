@@ -1,9 +1,3 @@
-2018/12/20 22:39 UTC - [c392a40](https://github.com/hassio-addons/addon-matrix/commit/c392a400e536a658dfe2b3d41f7e56757d25c9d6) by [@timmo001](https://github.com/timmo001)
-> Update docs (#7)
-
-* :books: Update links to author
-
-* :books: fix bad link
-
-* :books: update docker section 
+2018/12/22 14:45 UTC - [85a51ed](https://github.com/hassio-addons/addon-matrix/commit/85a51ed6e457e592472c46d52ce997741321292d) by [@timmo001](https://github.com/timmo001)
+> :fire: :ambulance: crash on server_name change and advise user 
 
