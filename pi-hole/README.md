@@ -45,7 +45,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-pi-hole/blob/48ab0b0/README.md
+[docs]: https://github.com/hassio-addons/addon-pi-hole/blob/d0952af/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-pi-hole/33817?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
@@ -53,5 +53,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon]: https://www.patreon.com/frenck
 [pi-hole]: https://pi-hole.net/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-48ab0b0-blue.svg
-[release]: https://github.com/hassio-addons/addon-pi-hole/tree/48ab0b0
+[release-shield]: https://img.shields.io/badge/version-d0952af-blue.svg
+[release]: https://github.com/hassio-addons/addon-pi-hole/tree/d0952af
