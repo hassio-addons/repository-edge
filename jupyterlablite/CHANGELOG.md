@@ -1,5 +1,3 @@
-2018/12/25 15:30 UTC - [efe0db9](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/efe0db96fc36a16a6c25a34450531ba49763826f) by [@frenck](https://github.com/frenck)
-> :books: Updates ipanel example in README
-
-Fixes #6 
+2018/12/25 20:43 UTC - [be2a181](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/be2a181dbe459e0c079e8af81d9ed0bc21f9c3d0) by [@balloob](https://github.com/balloob)
+> :sparkles: Links HA Getting Started in books root (#7) 
 
