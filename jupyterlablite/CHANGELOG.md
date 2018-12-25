@@ -1,3 +1,5 @@
-2018/12/17 19:39 UTC - [e55ac7e](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/e55ac7e4ffb2f8f2d575571fea43374614697947) by [@frenck](https://github.com/frenck)
-> :ambulance: :lock: Fixes authentication bypass vulnerability 
+2018/12/25 15:30 UTC - [efe0db9](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/efe0db96fc36a16a6c25a34450531ba49763826f) by [@frenck](https://github.com/frenck)
+> :books: Updates ipanel example in README
+
+Fixes #6 
 
