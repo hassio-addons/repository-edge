@@ -80,19 +80,6 @@ Python Apps and HADashboard using AppDaemon 3.x for Home Assistant
 
 [:books: AppDaemon add-on documentation][addon-doc-appdaemon3]
 
-### &#10003; [Docker Enabler][addon-docker-enabler]
-
-![Latest Version][docker-enabler-version-shield]
-![Supports armhf Architecture][docker-enabler-armhf-shield]
-![Supports aarch64 Architecture][docker-enabler-aarch64-shield]
-![Supports amd64 Architecture][docker-enabler-amd64-shield]
-![Supports i386 Architecture][docker-enabler-i386-shield]
-![Docker Pulls][docker-enabler-pulls-shield]
-
-Grants an add-on access to the Docker socket
-
-[:books: Docker Enabler add-on documentation][addon-doc-docker-enabler]
-
 ### &#10003; [Example][addon-example]
 
 ![Latest Version][example-version-shield]
@@ -183,19 +170,6 @@ Advanced IDE for Home Assistant, based on Cloud9 IDE
 Scalable datastore for metrics, events, and real-time analytics
 
 [:books: InfluxDB add-on documentation][addon-doc-influxdb]
-
-### &#10003; [Jupyter][addon-jupyter]
-
-![Latest Version][jupyter-version-shield]
-![Supports armhf Architecture][jupyter-armhf-shield]
-![Supports aarch64 Architecture][jupyter-aarch64-shield]
-![Supports amd64 Architecture][jupyter-amd64-shield]
-![Supports i386 Architecture][jupyter-i386-shield]
-![Docker Pulls][jupyter-pulls-shield]
-
-Create documents containing live code, equations, visualizations, and explanatory text.
-
-[:books: Jupyter add-on documentation][addon-doc-jupyter]
 
 ### &#10003; [JupyterLab Lite][addon-jupyterlablite]
 
@@ -506,7 +480,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: AirCast][aircast-issue]
 - [Open an issue for the add-on: AirSonos][airsonos-issue]
 - [Open an issue for the add-on: AppDaemon][appdaemon3-issue]
-- [Open an issue for the add-on: Docker Enabler][docker-enabler-issue]
 - [Open an issue for the add-on: Example][example-issue]
 - [Open an issue for the add-on: FTP][ftp-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
@@ -514,7 +487,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Home Panel][home-panel-issue]
 - [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
-- [Open an issue for the add-on: Jupyter][jupyter-issue]
 - [Open an issue for the add-on: JupyterLab Lite][jupyterlablite-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: Lovelace Migration][lovelace-migration-issue]
@@ -613,15 +585,6 @@ SOFTWARE.
 [appdaemon3-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon3-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [appdaemon3-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-docker-enabler]: https://github.com/hassio-addons/addon-docker-enabler/tree/e835ae6
-[addon-doc-docker-enabler]: https://github.com/hassio-addons/addon-docker-enabler/blob/e835ae6/README.md
-[docker-enabler-issue]: https://github.com/hassio-addons/addon-docker-enabler/issues
-[docker-enabler-version-shield]: https://img.shields.io/badge/version-e835ae6-blue.svg
-[docker-enabler-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/docker-enabler.svg
-[docker-enabler-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[docker-enabler-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[docker-enabler-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[docker-enabler-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-example]: https://github.com/hassio-addons/addon-example/tree/e161934
 [addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/e161934/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
@@ -685,15 +648,6 @@ SOFTWARE.
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-jupyter]: https://github.com/hassio-addons/addon-jupyter/tree/c2fc57d
-[addon-doc-jupyter]: https://github.com/hassio-addons/addon-jupyter/blob/c2fc57d/README.md
-[jupyter-issue]: https://github.com/hassio-addons/addon-jupyter/issues
-[jupyter-version-shield]: https://img.shields.io/badge/version-c2fc57d-blue.svg
-[jupyter-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyter.svg
-[jupyter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[jupyter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[jupyter-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[jupyter-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/be2a181
 [addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/be2a181/README.md
 [jupyterlablite-issue]: https://github.com/hassio-addons/addon-jupyterlab-lite/issues
