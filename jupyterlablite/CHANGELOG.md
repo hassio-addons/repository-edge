@@ -1,3 +1,3 @@
-2018/12/25 20:43 UTC - [be2a181](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/be2a181dbe459e0c079e8af81d9ed0bc21f9c3d0) by [@balloob](https://github.com/balloob)
-> :sparkles: Links HA Getting Started in books root (#7) 
+2018/12/26 08:35 UTC - [b98ef0e](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/b98ef0e41480070a4346dbc3132750962e5bdaa9) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades geopy to 1.18.1 
 
