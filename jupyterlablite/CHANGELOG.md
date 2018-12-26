@@ -1,3 +1,3 @@
-2018/12/26 08:35 UTC - [b98ef0e](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/b98ef0e41480070a4346dbc3132750962e5bdaa9) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades geopy to 1.18.1 
+2018/12/26 21:48 UTC - [cad7ec6](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/cad7ec6b71b3c4251a218bcce54a63117f9520e6) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes MarkdownLint warnings 
 
