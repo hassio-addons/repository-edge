@@ -1,3 +1,3 @@
-2018/12/26 21:48 UTC - [cad7ec6](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/cad7ec6b71b3c4251a218bcce54a63117f9520e6) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes MarkdownLint warnings 
+2018/12/27 21:20 UTC - [99f42e0](https://github.com/hassio-addons/addon-jupyterlab-lite/commit/99f42e0d9dbb5cb46bbb4dda3366c4c838da728c) by [@frenck](https://github.com/frenck)
+> :books: Updates forum urls 
 
