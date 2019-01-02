@@ -1,28 +1,17 @@
-# Changelog since v3.5.1
+# Changelog since v3.6.0
 
-2018/12/19 11:14 UTC - [43108df](https://github.com/hassio-addons/addon-ssh/commit/43108dfe020cf2f6741b8030253179f31dea7366) by [@frenck](https://github.com/frenck)
-> :fire: Removes unneeded hass-cli variables 
+2019/01/02 11:26 UTC - [f1fc0c1](https://github.com/hassio-addons/addon-ssh/commit/f1fc0c170abc5a5ced0668d144490ef3aef7faf1) by [@frenck](https://github.com/frenck)
+> :tractor: Replaces add-on link with GitHub link 
 
-2018/12/19 11:14 UTC - [e92719a](https://github.com/hassio-addons/addon-ssh/commit/e92719a60b17360575e1c802c98c615ceba090af) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds yamllint 
+2019/01/02 11:26 UTC - [b200725](https://github.com/hassio-addons/addon-ssh/commit/b2007254eb892522182bc8c5a6b1600e341e84c5) by [@frenck](https://github.com/frenck)
+> :fireworks: Updates maintenance year to 2019 
 
-2018/12/19 11:14 UTC - [3c646a4](https://github.com/hassio-addons/addon-ssh/commit/3c646a4bdbb90da086494fd10aa838cec4dfa354) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Updates hass-cli to 0.3.0 (#49)
+2019/01/02 11:26 UTC - [aae9b34](https://github.com/hassio-addons/addon-ssh/commit/aae9b34fd8fb775194b71ca7fed2eda4af706ca1) by [@frenck](https://github.com/frenck)
+> :fire: Removes Anchore.io links 
 
-https://github.com/home-assistant/home-assistant-cli/releases/tag/0.3.0 
+2019/01/02 11:26 UTC - [6980992](https://github.com/hassio-addons/addon-ssh/commit/69809920862b9f99ca3e90def072257cf4f4119d) by [@frenck](https://github.com/frenck)
+> :fire: Removes BountySource links 
 
-2018/12/19 11:14 UTC - [a4e9277](https://github.com/hassio-addons/addon-ssh/commit/a4e927799d3d4f3456793d155cbb1ef858f4e51a) by [@tjorim](https://github.com/tjorim)
-> ⬆️ Upgrades homeassistant_cli to 0.2.0 (#48) 
-
-2018/12/19 11:14 UTC - [412f700](https://github.com/hassio-addons/addon-ssh/commit/412f7002ffeb81dae164c3f327e2278f83687fb4) by [@frenck](https://github.com/frenck)
-> :books: Updates README to list the hass-cli 
-
-2018/12/19 11:14 UTC - [c3cfef6](https://github.com/hassio-addons/addon-ssh/commit/c3cfef680a51828c57c9d4c7b24ed756cab95f13) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds Home Assistant CLI 
-
-2018/12/19 11:14 UTC - [06cb571](https://github.com/hassio-addons/addon-ssh/commit/06cb57113bb674a42bfc06f7a7c2962eb41126dc) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.14.1-r0 
-
-2018/12/19 11:14 UTC - [01acb87](https://github.com/hassio-addons/addon-ssh/commit/01acb8785ec1087997c0ded3221a9c28c4276cbf) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades bind-tools to 9.12.3-r0 
+2019/01/02 11:26 UTC - [cd5dba9](https://github.com/hassio-addons/addon-ssh/commit/cd5dba9d93878518321a6008dc25a1a5b02ae1de) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades sqlite to 3.25.3-r0 
 
