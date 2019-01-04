@@ -1,3 +1,3 @@
-2018/12/29 17:11 UTC - [6348c0b](https://github.com/hassio-addons/addon-home-panel/commit/6348c0b343beb97bbe0187d834dff007a6a17bdb) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Home Panel to v0.6.8 
+2019/01/04 13:28 UTC - [eb55f12](https://github.com/hassio-addons/addon-home-panel/commit/eb55f12e9af2d83019127b41c5a5288340945945) by [@timmo001](https://github.com/timmo001)
+> :books: Update maintenance shield 
 
