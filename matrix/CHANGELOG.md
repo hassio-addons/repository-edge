@@ -1,3 +1,3 @@
-2019/01/03 14:55 UTC - [72dd194](https://github.com/hassio-addons/addon-matrix/commit/72dd1944960758ccb36cc4f4c61bf286acc56589) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Upgrades py3-pynacl to version 1.2.1-r1 
+2019/01/04 13:29 UTC - [6b39b9f](https://github.com/hassio-addons/addon-matrix/commit/6b39b9f8aa8806479e09b15468951d8cb23954d1) by [@timmo001](https://github.com/timmo001)
+> :books: Update maintenance date 
 
