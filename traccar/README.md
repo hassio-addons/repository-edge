@@ -52,13 +52,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-traccar/blob/6fe492b/README.md
+[docs]: https://github.com/hassio-addons/addon-traccar/blob/f2d3722/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-traccar/81407?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6fe492b-blue.svg
-[release]: https://github.com/hassio-addons/addon-traccar/tree/6fe492b
+[release-shield]: https://img.shields.io/badge/version-f2d3722-blue.svg
+[release]: https://github.com/hassio-addons/addon-traccar/tree/f2d3722
 [screenshot]: https://github.com/hassio-addons/addon-traccar/raw/master/images/screenshot.png

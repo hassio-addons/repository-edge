@@ -1,3 +1,9 @@
-2018/11/28 08:29 UTC - [6fe492b](https://github.com/hassio-addons/addon-traccar/commit/6fe492b5e78887af63aa147f6e15069cc57739b3) by [@frenck](https://github.com/frenck)
-> :books: Corrects project stage badge in add-on README 
+# Changelog since v0.1.0
+
+2019/01/07 13:14 UTC - [f2d3722](https://github.com/hassio-addons/addon-traccar/commit/f2d372217f39611de70417489af7dad4793c5878) by [@renovate[bot]](https://github.com/apps/renovate)
+> Configure Renovate (#6)
+
+* Add renovate.json
+
+* Update renovate.json 
 
