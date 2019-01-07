@@ -1,8 +1,23 @@
-# Changelog since v1.0.1
+# Changelog since v1.1.0
 
-2018/09/25 10:01 UTC - [f0a09d8](https://github.com/hassio-addons/addon-aircast/commit/f0a09d8ad793efecb1c43479b56f05c899a81a54) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
+2019/01/07 22:20 UTC - [c3b3fd1](https://github.com/hassio-addons/addon-aircast/commit/c3b3fd13d4a5f7e2511671d8961854ff69a288dd) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libssl1.0.0 to 1.0.2n-1ubuntu5.2 
 
-2018/09/25 10:01 UTC - [1eb9321](https://github.com/hassio-addons/addon-aircast/commit/1eb9321348a282a860c15b2a0034d185dc007eb4) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Ubuntu Base image to 2.2.0 
+2019/01/07 22:20 UTC - [4a2e2df](https://github.com/hassio-addons/addon-aircast/commit/4a2e2dfd6f7fb541b209f6c20458dc54b7ba5f8d) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades AirConnect to 0.2.2.4 
+
+2019/01/07 22:20 UTC - [91cf776](https://github.com/hassio-addons/addon-aircast/commit/91cf776d917f813c51649b22415301d99b5c344c) by [@frenck](https://github.com/frenck)
+> :fireworks: Updates maintenance year to 2019 
+
+2019/01/07 22:20 UTC - [122edeb](https://github.com/hassio-addons/addon-aircast/commit/122edeb08d9e64b359b68cfffcccf04930d52e17) by [@frenck](https://github.com/frenck)
+> :tractor: Replaces add-on link with GitHub link 
+
+2019/01/07 22:20 UTC - [fc043f3](https://github.com/hassio-addons/addon-aircast/commit/fc043f30fe21d56a60a2bad193a46aea90bf30ec) by [@frenck](https://github.com/frenck)
+> :fire: Removes Anchore.io links 
+
+2019/01/07 22:20 UTC - [317f7a9](https://github.com/hassio-addons/addon-aircast/commit/317f7a919e3c1438bf37d19ce6fb909861b34a3f) by [@frenck](https://github.com/frenck)
+> :fire: Removes BountySource links 
+
+2019/01/07 22:20 UTC - [f722204](https://github.com/hassio-addons/addon-aircast/commit/f72220438530b536abd44d14beb45e9a9cffc5c7) by [@frenck](https://github.com/frenck)
+> ::fireworks: Updates year to 2019 
 
