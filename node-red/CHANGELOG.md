@@ -1,36 +1,36 @@
-# Changelog since v1.2.2
+# Changelog since v1.2.3
 
-2019/01/04 20:17 UTC - [d7a7ba5](https://github.com/hassio-addons/addon-node-red/commit/d7a7ba54dd23ad157a6c747484072303a499e409) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades node-red-contrib-cast to 0.2.3 
+2019/01/07 11:58 UTC - [dc7875e](https://github.com/hassio-addons/addon-node-red/commit/dc7875e285282bdb4a010bac778440056e4948a8) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes MarkdownLint warnings 
 
-2019/01/04 20:17 UTC - [9a8f3c3](https://github.com/hassio-addons/addon-node-red/commit/9a8f3c376f36890c946ecbfa757c25aea8fa6d37) by [@frenck](https://github.com/frenck)
-> :fire: Removes BountySource links 
+2019/01/07 11:58 UTC - [a4f7b21](https://github.com/hassio-addons/addon-node-red/commit/a4f7b21de34778b5726cb93139fddeb5dde7afd1) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.1 
 
-2019/01/04 20:17 UTC - [25e52a9](https://github.com/hassio-addons/addon-node-red/commit/25e52a94892b633daab2852adbee7f910d28329b) by [@frenck](https://github.com/frenck)
-> :tractor: Replaces add-on link with GitHub link 
+2019/01/07 11:58 UTC - [4236062](https://github.com/hassio-addons/addon-node-red/commit/423606275f8aaa9c4f6ecb9d44dce309a7c33e2c) by [@frenck](https://github.com/frenck)
+> :fire: :books: Removes greenkeeper from README 
 
-2019/01/04 20:17 UTC - [1cf5895](https://github.com/hassio-addons/addon-node-red/commit/1cf5895c265599169b4afb5ffa1f0f75f71c8d66) by [@frenck](https://github.com/frenck)
+2019/01/07 11:58 UTC - [bd2e49b](https://github.com/hassio-addons/addon-node-red/commit/bd2e49b79272e0108d191aa499ac54d3d7ddb07c) by [@frenck](https://github.com/frenck)
+> :tractor: Moves Python requirements out of the Dockerfile 
+
+2019/01/07 11:58 UTC - [1e75325](https://github.com/hassio-addons/addon-node-red/commit/1e75325f5559691b49159f7229e1fc8b6e180365) by [@frenck](https://github.com/frenck)
 > :fireworks: Updates maintenance year to 2019 
 
-2019/01/04 20:17 UTC - [9007db1](https://github.com/hassio-addons/addon-node-red/commit/9007db1c3f604f3b006b94d34f2b5d4c10e47c32) by [@frenck](https://github.com/frenck)
-> :fire: Removes Anchore.io links 
+2019/01/07 11:58 UTC - [ce41cc2](https://github.com/hassio-addons/addon-node-red/commit/ce41cc2145d1893696dc00f107f66bb178989529) by [@frenck](https://github.com/frenck)
+> :fire: Removes Greenkeeper 
 
-2019/01/04 20:17 UTC - [6db4ad5](https://github.com/hassio-addons/addon-node-red/commit/6db4ad59954bd2c717104081a503b3ae16593240) by [@frenck](https://github.com/frenck)
-> :pencil2: Fixes spelling error in Dockerfile 
+2019/01/07 11:58 UTC - [e81bfc6](https://github.com/hassio-addons/addon-node-red/commit/e81bfc60a3e52f6781f82fa673d721310f1796b8) by [@frenck](https://github.com/frenck)
+> :tractor: :rocket: Refactor of GitLab CI 
 
-2019/01/04 20:17 UTC - [2c3f4a9](https://github.com/hassio-addons/addon-node-red/commit/2c3f4a951d8d5917790e32285698cbfe842c99de) by [@tjorim](https://github.com/tjorim)
-> ✨ Adds openssh-client for Node-RED Projects (#96)
+2019/01/07 11:58 UTC - [75722e2](https://github.com/hassio-addons/addon-node-red/commit/75722e2d4f549846569716357dc92c9c3ef944ae) by [@tjorim](https://github.com/tjorim)
+> ⬆️ Upgrades node-red-contrib-cast to 0.2.4 (#108) 
 
-* :sparkles: Include openssh-keygen for Node-RED Projects
+2019/01/07 11:58 UTC - [58baf3d](https://github.com/hassio-addons/addon-node-red/commit/58baf3dedcd4ca2cd6dd8dc9129c4c55678a0313) by [@tjorim](https://github.com/tjorim)
+> ⬆️ Upgrades js-yaml to 3.12.1 (#107) 
 
-* :arrow_up: openssh-keygen -> openssh-client 
+2019/01/07 11:58 UTC - [e195a54](https://github.com/hassio-addons/addon-node-red/commit/e195a546ff0b11c79d7757d820a0216593dfddef) by [@renovate[bot]](https://github.com/apps/renovate)
+> Configure Renovate (#106)
 
-2019/01/04 20:17 UTC - [6223ebb](https://github.com/hassio-addons/addon-node-red/commit/6223ebb588885f27ae7abb5e1c694f0b81960764) by [@tjorim](https://github.com/tjorim)
-> ⬆️ Upgrades node-red-contrib-home-assistant-websocket to 0.5.1 (#103) 
+* Add renovate.json
 
-2019/01/04 20:17 UTC - [8a4de46](https://github.com/hassio-addons/addon-node-red/commit/8a4de46cedb9e536424cfd00ccc99a734adf042f) by [@tjorim](https://github.com/tjorim)
-> ⬆️ Upgrades node-red-contrib-cast to 0.2.2 
-
-2019/01/04 20:17 UTC - [c0735d3](https://github.com/hassio-addons/addon-node-red/commit/c0735d3d4860236ed595f4b5eed81f52ab94401a) by [@tjorim](https://github.com/tjorim)
-> ⬆️ Upgrades node-red-contrib-bigtimer to 2.0.8 
+* Update renovate.json 
 
