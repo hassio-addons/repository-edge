@@ -1,3 +1,3 @@
-2019/01/04 13:28 UTC - [eb55f12](https://github.com/hassio-addons/addon-home-panel/commit/eb55f12e9af2d83019127b41c5a5288340945945) by [@timmo001](https://github.com/timmo001)
-> :books: Update maintenance shield 
+2019/01/07 17:57 UTC - [f7fda12](https://github.com/hassio-addons/addon-home-panel/commit/f7fda120f199ab5f04547779f587fc83bd363d82) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Upgrades add-on base image in build file to version 2.3.1 
 

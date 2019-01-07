@@ -52,7 +52,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-home-panel/blob/eb55f12/README.md
+[docs]: https://github.com/hassio-addons/addon-home-panel/blob/f7fda12/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-panel-a-touch-compatible-webapp-for-controlling-the-home/62597?u=timmo001
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
@@ -60,8 +60,8 @@ If you are more interested in stable releases of our add-ons:
 [patreon]: https://www.patreon.com/frenck
 [pi-hole]: https://pi-hole.net/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-eb55f12-blue.svg
-[release]: https://github.com/hassio-addons/addon-home-panel/tree/eb55f12
+[release-shield]: https://img.shields.io/badge/version-f7fda12-blue.svg
+[release]: https://github.com/hassio-addons/addon-home-panel/tree/f7fda12
 [hass]: https://www.home-assistant.io/
 [home-panel]: https://github.com/timmo001/home-panel
 [midnight-theme]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/midnight-theme.png
