@@ -1,17 +1,23 @@
-# Changelog since v0.2.1
+# Changelog since v0.3.0
 
-2018/09/25 10:12 UTC - [2d77641](https://github.com/hassio-addons/addon-log-viewer/commit/2d77641871009d40ebcf9b794badac987b6883ee) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
+2019/01/09 20:00 UTC - [4d589de](https://github.com/hassio-addons/addon-log-viewer/commit/4d589de598d66b1be3337eb480adb6b4b91aaea0) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades NodeJS to 8.14.0-r0 
 
-2018/09/25 10:12 UTC - [92247e4](https://github.com/hassio-addons/addon-log-viewer/commit/92247e4bc5f2a96e49e728f756b56ca256ae03a5) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.3.0 
+2019/01/09 20:00 UTC - [4825cdb](https://github.com/hassio-addons/addon-log-viewer/commit/4825cdbc1a057b75b3e9b117ac10932d946f28c8) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.1 
 
-2018/09/25 10:12 UTC - [0034109](https://github.com/hassio-addons/addon-log-viewer/commit/0034109e0c511aef1a69cbad9639124a42f8a146) by [@frenck](https://github.com/frenck)
-> :books: Typo correct in README 
+2019/01/09 20:00 UTC - [e06b29e](https://github.com/hassio-addons/addon-log-viewer/commit/e06b29ece102807a4a81457eb6c3f6137ae0638a) by [@frenck](https://github.com/frenck)
+> :tractor: :rocket: Refactor of GitLab CI 
 
-2018/09/25 10:12 UTC - [b3c915a](https://github.com/hassio-addons/addon-log-viewer/commit/b3c915a56e13437f26ae981c205a6a491aba5130) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.2.0 
+2019/01/09 20:00 UTC - [e015906](https://github.com/hassio-addons/addon-log-viewer/commit/e015906b381e8dd1b1287261cf2ca3af69104c23) by [@frenck](https://github.com/frenck)
+> :fireworks: Updates maintenance year to 2019 
 
-2018/09/25 10:12 UTC - [3dab8b4](https://github.com/hassio-addons/addon-log-viewer/commit/3dab8b4ad4bde3382af384200e4ab042fb82d29e) by [@dale3h](https://github.com/dale3h)
-> 🎨 Adds screenshots to documentation 
+2019/01/09 20:00 UTC - [fb6e70d](https://github.com/hassio-addons/addon-log-viewer/commit/fb6e70d23389f27f576539193080d8ab6bfb9010) by [@frenck](https://github.com/frenck)
+> :fire: Removes BountySource links 
+
+2019/01/09 20:00 UTC - [3cd9978](https://github.com/hassio-addons/addon-log-viewer/commit/3cd997887059cb5feab94683888301ac1d521d9a) by [@frenck](https://github.com/frenck)
+> :pencil2: Fixes spelling error in Dockerfile 
+
+2019/01/09 20:00 UTC - [fc58a22](https://github.com/hassio-addons/addon-log-viewer/commit/fc58a22067489024aee2e544b6724eaa3c88b484) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades git to 2.18.1-r0 
 
