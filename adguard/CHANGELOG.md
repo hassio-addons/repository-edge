@@ -1,3 +1,3 @@
-2019/01/08 23:13 UTC - [50f58d4](https://github.com/hassio-addons/addon-adguard-home/commit/50f58d478caf47337c30b22cf8aba8c0e537a389) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes yamllint linter warnings 
+2019/01/09 17:24 UTC - [40ba518](https://github.com/hassio-addons/addon-adguard-home/commit/40ba518ae6dca525a537f3a1fc4d19c393c05eb2) by [@frenck](https://github.com/frenck)
+> :pencil2: Fixes spelling error in Dockerfile 
 
