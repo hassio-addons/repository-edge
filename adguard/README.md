@@ -12,7 +12,13 @@ Network-wide ads & trackers blocking DNS server.
 
 ## About
 
-Lorem ipsum.
+AdGuard Home is a network-wide ad-and-tracker blocking DNS server with
+parental control (adult content blocking) capabilities. Its purpose is to let
+you control your entire network and all your devices, and it does not require
+using a client-side program.
+
+AdGuard Home provides a beautiful, easy and feature richt web interface to
+easily manage the filtering process and its settings.
 
 [Click here for the full documentation][docs]
 
@@ -39,12 +45,12 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-adguard-home/blob/2746ec0/README.md
+[docs]: https://github.com/hassio-addons/addon-adguard-home/blob/4f78b5b/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-2746ec0-blue.svg
-[release]: https://github.com/hassio-addons/addon-adguard-home/tree/2746ec0
+[release-shield]: https://img.shields.io/badge/version-4f78b5b-blue.svg
+[release]: https://github.com/hassio-addons/addon-adguard-home/tree/4f78b5b

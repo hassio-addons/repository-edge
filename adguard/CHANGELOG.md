@@ -1,3 +1,3 @@
-2019/01/10 20:18 UTC - [2746ec0](https://github.com/hassio-addons/addon-adguard-home/commit/2746ec0b356834053e31c560f5533d0b88368d30) by [@frenck](https://github.com/frenck)
-> :tractor: Improves configuration handling 
+2019/01/10 20:48 UTC - [4f78b5b](https://github.com/hassio-addons/addon-adguard-home/commit/4f78b5b780b64e028071bcd75d6e43a5c561c1c9) by [@frenck](https://github.com/frenck)
+> :books: Updated README's 
 
