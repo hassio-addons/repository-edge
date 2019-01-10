@@ -698,10 +698,10 @@ SOFTWARE.
 [lovelace-migration-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lovelace-migration-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [lovelace-migration-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/b760d52
-[addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/b760d52/README.md
+[addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/2733e9b
+[addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/2733e9b/README.md
 [lutron-cert-issue]: https://github.com/hassio-addons/addon-lutron-cert/issues
-[lutron-cert-version-shield]: https://img.shields.io/badge/version-b760d52-blue.svg
+[lutron-cert-version-shield]: https://img.shields.io/badge/version-2733e9b-blue.svg
 [lutron-cert-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/lutron-cert.svg
 [lutron-cert-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [lutron-cert-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
