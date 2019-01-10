@@ -1,9 +1,9 @@
 {
   "name": "Grafana",
-  "version": "f376a62",
+  "version": "646690f",
   "slug": "grafana",
   "description": "The open platform for beautiful analytics and monitoring",
-  "url": "https://community.home-assistant.io/t/community-hass-io-add-on-grafana/54674?u=frenck",
+  "url": "https://github.com/hassio-addons/addon-grafana",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:3000]",
   "startup": "services",
   "arch": [
