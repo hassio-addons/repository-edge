@@ -1,6 +1,6 @@
 {
   "name": "FTP",
-  "version": "756543a",
+  "version": "d019b4c",
   "slug": "ftp",
   "description": "A secure and fast FTP server for Hass.io",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-ftp/36799?u=frenck",
