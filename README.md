@@ -806,10 +806,10 @@ SOFTWARE.
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ssh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/460cc91
-[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/460cc91/README.md
+[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/8571210
+[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/8571210/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-460cc91-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-8571210-blue.svg
 [spotify-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/spotify.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
