@@ -1,22 +1,27 @@
-# Changelog since v1.5.1
+# Changelog since v1.6.0
 
-2018/09/27 19:45 UTC - [95a96d1](https://github.com/hassio-addons/addon-tor/commit/95a96d16a0ded9f158569083daafdade193e976c) by [@ludeeus](https://github.com/ludeeus)
-> ✨Changes configuration so all LAN devices can be published. (#6)
+2019/01/09 21:26 UTC - [3f654c8](https://github.com/hassio-addons/addon-tor/commit/3f654c8b8adecad55dd51d8c164ddda7e7b87143) by [@renovate[bot]](https://github.com/apps/renovate)
+> Configure Renovate (#8)
 
-* Changes configuration so all LAN devices can be published.
+* Add renovate.json
 
-* removed whitespace
+* Update renovate.json 
 
-* Revert config change, and add more accepted syntaxes.
+2019/01/09 21:26 UTC - [97871f0](https://github.com/hassio-addons/addon-tor/commit/97871f0753bc1652fe64a336ec9c1b13ac7813d6) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.1 
 
-* Update 52-tor-services.sh 
+2019/01/09 21:26 UTC - [77e1b69](https://github.com/hassio-addons/addon-tor/commit/77e1b693e134203805135d5beef84012439aee54) by [@frenck](https://github.com/frenck)
+> :tractor: :rocket: Refactor of GitLab CI 
 
-2018/09/27 19:45 UTC - [7e299a2](https://github.com/hassio-addons/addon-tor/commit/7e299a2fd98fc9ec8854999e72d13374590a2155) by [@frenck](https://github.com/frenck)
-> :snowflake: Adds Hassio API security role 
+2019/01/09 21:26 UTC - [6053035](https://github.com/hassio-addons/addon-tor/commit/605303581d003ceef7517f97b1182212d7ecbdd9) by [@frenck](https://github.com/frenck)
+> :fireworks: Updates maintenance year to 2019 
 
-2018/09/27 19:45 UTC - [f3feab2](https://github.com/hassio-addons/addon-tor/commit/f3feab2928efd5e560fa3e309e42899f23a6c297) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.3.0 
+2019/01/09 21:26 UTC - [0e51466](https://github.com/hassio-addons/addon-tor/commit/0e5146632cacd29777ff4b4c4f44b7932e6f4c55) by [@frenck](https://github.com/frenck)
+> :fire: Removes Anchore.io links 
 
-2018/09/27 19:45 UTC - [24ecb6f](https://github.com/hassio-addons/addon-tor/commit/24ecb6f59626c3375a73e05832987324d43b4312) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v2.2.0 
+2019/01/09 21:26 UTC - [6c15633](https://github.com/hassio-addons/addon-tor/commit/6c15633f95896754b276cb83345325aa608cd5ba) by [@frenck](https://github.com/frenck)
+> :fire: Removes BountySource links 
+
+2019/01/09 21:26 UTC - [5f45555](https://github.com/hassio-addons/addon-tor/commit/5f455559291c0146c3f5c0ec3fa69ea96e6dff44) by [@frenck](https://github.com/frenck)
+> :pencil2: Fixes spelling error in Dockerfile 
 
