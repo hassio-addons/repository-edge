@@ -1,3 +1,5 @@
-2019/01/10 21:09 UTC - [efbe89c](https://github.com/hassio-addons/addon-adguard-home/commit/efbe89c6f842cf89fc0627a74041049c63b4312e) by [@frenck](https://github.com/frenck)
-> :shirt: Updates forum URLs 
+# Changelog since v0.1.0
+
+2019/01/11 22:22 UTC - [fd0e773](https://github.com/hassio-addons/addon-adguard-home/commit/fd0e773cd6d4b706f4d619d03b03ff07813d8dfd) by [@tjorim](https://github.com/tjorim)
+> :arrow_up: Upgrades AdGuard Home to v0.92 hotfix 2 (#3) 
 
