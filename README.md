@@ -667,10 +667,10 @@ SOFTWARE.
 [happy-bubbles-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [happy-bubbles-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [happy-bubbles-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/80dc043
-[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/80dc043/README.md
+[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/2b72070
+[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/2b72070/README.md
 [home-panel-issue]: https://github.com/hassio-addons/addon-home-panel/issues
-[home-panel-version-shield]: https://img.shields.io/badge/version-80dc043-blue.svg
+[home-panel-version-shield]: https://img.shields.io/badge/version-2b72070-blue.svg
 [home-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/home-panel.svg
 [home-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [home-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
