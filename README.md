@@ -739,10 +739,10 @@ SOFTWARE.
 [mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/e97bfcb
-[addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/e97bfcb/README.md
+[addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/17c2e14
+[addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/17c2e14/README.md
 [matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues
-[matrix-version-shield]: https://img.shields.io/badge/version-e97bfcb-blue.svg
+[matrix-version-shield]: https://img.shields.io/badge/version-17c2e14-blue.svg
 [matrix-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/matrix.svg
 [matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
