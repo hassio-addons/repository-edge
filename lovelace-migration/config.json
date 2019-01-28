@@ -1,6 +1,6 @@
 {
   "name": "Lovelace Migration",
-  "version": "65e06fa",
+  "version": "052c951",
   "slug": "lovelace-migration",
   "description": "Automatically convert your existing UI to the new Lovelace UI",
   "url": "https://github.com/hassio-addons/addon-lovelace-migration",

@@ -42,15 +42,15 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/hassio-addons/repository>
 
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-%20!%20DEPRECATED%20%20%20!-ff0000.svg
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-lovelace-migration/61552?u=dale3h
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
 [lovelace-docs]: https://www.home-assistant.io/lovelace/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
-[release-shield]: https://img.shields.io/badge/version-65e06fa-blue.svg
-[release]: https://github.com/hassio-addons/addon-lovelace-migration/tree/65e06fa
-[docs]: https://github.com/hassio-addons/addon-lovelace-migration/blob/65e06fa/README.md
+[release-shield]: https://img.shields.io/badge/version-052c951-blue.svg
+[release]: https://github.com/hassio-addons/addon-lovelace-migration/tree/052c951
+[docs]: https://github.com/hassio-addons/addon-lovelace-migration/blob/052c951/README.md
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
