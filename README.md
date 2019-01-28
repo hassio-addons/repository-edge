@@ -856,10 +856,10 @@ SOFTWARE.
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tautulli-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/3f654c8
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/3f654c8/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/02f65f3
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/02f65f3/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-3f654c8-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-02f65f3-blue.svg
 [tor-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tor-armhf.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
