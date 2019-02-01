@@ -757,10 +757,10 @@ SOFTWARE.
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [nut-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/43dd1ea
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/43dd1ea/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/647e7dc
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/647e7dc/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-43dd1ea-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-647e7dc-blue.svg
 [node-red-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/node-red-armhf.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
