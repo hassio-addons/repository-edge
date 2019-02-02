@@ -1,6 +1,6 @@
 {
   "name": "ADB - Android Debug Bridge",
-  "version": "b760618",
+  "version": "341317d",
   "slug": "adb",
   "description": "The Android Debug Bridge server program",
   "url": "https://github.com/hassio-addons/addon-adb",
@@ -28,8 +28,7 @@
   },
   "schema": {
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
-    "private_key": "str?",
-    "public_key": "str?",
+    "keys_path": "str?",
     "devices": [
       "str"
     ],

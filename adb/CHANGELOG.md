@@ -1,3 +1,3 @@
-2019/02/01 22:25 UTC - [b760618](https://github.com/hassio-addons/addon-adb/commit/b760618baf5e92c4cac164ad1bb1dd9fc9ee9290) by [@frenck](https://github.com/frenck)
-> :sparkles: Initial add-on code 
+2019/02/02 01:10 UTC - [341317d](https://github.com/hassio-addons/addon-adb/commit/341317d5c1782fe7eefcadbacb7b8d78b5844d44) by [@frenck](https://github.com/frenck)
+> :tractor: Rewrites RSA key handling 
 
