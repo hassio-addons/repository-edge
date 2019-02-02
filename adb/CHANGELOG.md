@@ -1,7 +1,3 @@
-2019/02/02 14:44 UTC - [98853eb](https://github.com/hassio-addons/addon-adb/commit/98853eb794651e2a8490ab6c2c2c62ecdd790d16) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#1)
-
-* Add renovate.json
-
-* Update renovate.json 
+2019/02/02 17:35 UTC - [0e06f72](https://github.com/hassio-addons/addon-adb/commit/0e06f729d78878aecbfb7bc2fb6dd8d2c7dd3761) by [@frenck](https://github.com/frenck)
+> :books: Updates and adds documentation 
 

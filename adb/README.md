@@ -14,7 +14,7 @@ The Android Debug Bridge server program.
 
 The Android Debug Bridge (ADB) is a client-server program used in Android
 application development. This add-on provides the server program and can be
-used to get full local control over your Android TV devices.
+used to get full local control over your Android (TV) devices.
 
 [Click here for the full documentation][docs]
 
@@ -41,12 +41,12 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-adb/blob/98853eb/README.md
+[docs]: https://github.com/hassio-addons/addon-adb/blob/0e06f72/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-98853eb-blue.svg
-[release]: https://github.com/hassio-addons/addon-adb/tree/98853eb
+[release-shield]: https://img.shields.io/badge/version-0e06f72-blue.svg
+[release]: https://github.com/hassio-addons/addon-adb/tree/0e06f72
