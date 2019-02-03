@@ -1,9 +1,9 @@
 {
   "name": "Traccar",
-  "version": "af1b67f",
+  "version": "3c32fdd",
   "slug": "traccar",
   "description": "Modern GPS Tracking Platform",
-  "url": "https://community.home-assistant.io/t/community-hass-io-add-on-traccar/81407?u=frenck",
+  "url": "https://github.com/hassio-addons/addon-traccar",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:8072]",
   "startup": "services",
   "arch": [
