@@ -42,12 +42,12 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-phlex/blob/df45f22/README.md
+[docs]: https://github.com/hassio-addons/addon-phlex/blob/0b57773/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-ons-phlex/70378
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [phlex-wiki]: https://github.com/d8ahazard/Phlex/wiki
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-df45f22-blue.svg
-[release]: https://github.com/hassio-addons/addon-phlex/tree/df45f22
+[release-shield]: https://img.shields.io/badge/version-0b57773-blue.svg
+[release]: https://github.com/hassio-addons/addon-phlex/tree/0b57773
 [screenshot]: https://github.com/hassio-addons/addon-phlex/raw/master/images/screenshot.png
