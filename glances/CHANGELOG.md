@@ -1,3 +1,3 @@
-2019/01/21 11:50 UTC - [10072da](https://github.com/hassio-addons/addon-glances/commit/10072da0206be1d1851d1556e9da6b0c9a9c5d79) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates glances to v3.1.0 (#2) 
+2019/02/05 21:25 UTC - [04bbf1d](https://github.com/hassio-addons/addon-glances/commit/04bbf1d516231d0d084244f6610a1b6ae3af1961) by [@frenck](https://github.com/frenck)
+> :shirt: Tidy documentation 
 

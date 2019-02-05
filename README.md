@@ -663,10 +663,10 @@ SOFTWARE.
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/10072da
-[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/10072da/README.md
+[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/04bbf1d
+[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/04bbf1d/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-10072da-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-04bbf1d-blue.svg
 [glances-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/glances.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
