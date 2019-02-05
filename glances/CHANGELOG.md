@@ -1,3 +1,3 @@
-2019/02/05 21:25 UTC - [04bbf1d](https://github.com/hassio-addons/addon-glances/commit/04bbf1d516231d0d084244f6610a1b6ae3af1961) by [@frenck](https://github.com/frenck)
-> :shirt: Tidy documentation 
+2019/02/05 21:37 UTC - [e826572](https://github.com/hassio-addons/addon-glances/commit/e826572c7eaa74071625fba16e17de0ae5eac7fa) by [@frenck](https://github.com/frenck)
+> :shirt: Updates forum URLs 
 
