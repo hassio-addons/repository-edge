@@ -1,14 +1,42 @@
-# Changelog since v1.2.5
+# Changelog since v1.2.6
 
-2019/02/03 18:29 UTC - [ebfc815](https://github.com/hassio-addons/addon-node-red/commit/ebfc81550e45b0aceb4ebce9cf873b1ce33d40be) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-home-assistant-websocket to v0.7.0 (#124) 
+2019/02/05 20:30 UTC - [2e8a568](https://github.com/hassio-addons/addon-node-red/commit/2e8a5682a6635c2492e7d02b534a42d3f2f8133d) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes missing link 
 
-2019/02/03 18:29 UTC - [647e7dc](https://github.com/hassio-addons/addon-node-red/commit/647e7dcb48b33df09c6cbcbbff351f7fbc380911) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-bigtimer to v2.1.3 (#123) 
+2019/02/05 20:30 UTC - [d500af7](https://github.com/hassio-addons/addon-node-red/commit/d500af72854d8653ee8d9ca726b773fc29251be6) by [@frenck](https://github.com/frenck)
+> :books: Updates documentation to include the dark mode 
 
-2019/02/03 18:29 UTC - [43dd1ea](https://github.com/hassio-addons/addon-node-red/commit/43dd1ea931ee55c2c2811c7764d575a0e9be505c) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-bigtimer to v2.1.1 (#119) 
+2019/02/05 20:30 UTC - [8405b53](https://github.com/hassio-addons/addon-node-red/commit/8405b535793f9a5c80ad3537d2ec8256637edb20) by [@frenck](https://github.com/frenck)
+> :ambulance: Hotfixes the dark theme 
 
-2019/02/03 18:29 UTC - [fb26a2d](https://github.com/hassio-addons/addon-node-red/commit/fb26a2d8a92ec9a5d8f24f9adb2c8a3c5565483c) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-bigtimer to v2.1.0 (#118) 
+2019/02/05 20:30 UTC - [94baf70](https://github.com/hassio-addons/addon-node-red/commit/94baf70f71a9ffa71db303f615f4b5e343031cd3) by [@tjorim](https://github.com/tjorim)
+> :sparkles: Add option for dark mode (#122)
+
+* Prepare config option for dark mode
+
+* Download and move the theme files
+
+* Use /node-red subfolder of /etc
+
+seems like other edits were missing in the last commit as well
+
+* Update config.js
+
+* Make sure mv puts the files in a subfolder
+
+`/` at the end was missing
+
+* No need to move files to /config
+
+* Use theme files from /etc directly
+
+* Use same folder as the rest
+
+* Upgrade midnight-red to 0.2.6
+
+* Forgot those names
+
+* :pencil2: Darkmode off by default
+
+* Revert SSL change 
 
