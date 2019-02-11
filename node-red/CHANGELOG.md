@@ -1,8 +1,8 @@
-# Changelog since v1.3.0
+# Changelog since v1.3.1
 
-2019/02/11 09:39 UTC - [f3c95a7](https://github.com/hassio-addons/addon-node-red/commit/f3c95a7dc595d50572eb67eb23faf0416b78c272) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-bigtimer to v2.1.6 (#130) 
+2019/02/11 14:57 UTC - [20f51dc](https://github.com/hassio-addons/addon-node-red/commit/20f51dc0aa47b828412a7659dd1e1cb3a4d2dc4d) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-bigtimer to v2.1.7 (#132) 
 
-2019/02/11 09:39 UTC - [0e26f4d](https://github.com/hassio-addons/addon-node-red/commit/0e26f4df36a1558f49e070984e096a611dfb06d5) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-bigtimer to v2.1.5 (#127) 
+2019/02/11 14:57 UTC - [43eafcc](https://github.com/hassio-addons/addon-node-red/commit/43eafcc1d9219e98ffd56bc8aa36ea6715281cb4) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-home-assistant-websocket to v0.7.1 (#131) 
 
