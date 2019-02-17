@@ -1,6 +1,6 @@
 {
   "name": "UniFi Controller",
-  "version": "cb20254",
+  "version": "0c357ee",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
   "url": "https://github.com/hassio-addons/addon-unifi",
@@ -10,6 +10,7 @@
     "aarch64",
     "amd64",
     "armhf",
+    "armv7",
     "i386"
   ],
   "map": [
