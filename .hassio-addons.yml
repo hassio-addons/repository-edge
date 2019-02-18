@@ -129,6 +129,10 @@ addons:
     repository: hassio-addons/addon-sqlite-web
     target: sqlite-web
     image: hassioaddons/sqlite-web
+  thelounge:
+    repository: hassio-addons/addon-thelounge
+    target: thelounge
+    image: hassioaddons/thelounge
   tor:
     repository: hassio-addons/addon-tor
     target: tor
