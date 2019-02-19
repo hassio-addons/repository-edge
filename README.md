@@ -893,10 +893,10 @@ SOFTWARE.
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tautulli-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/cf3c288
-[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/cf3c288/README.md
+[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/a2244c6
+[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/a2244c6/README.md
 [thelounge-issue]: https://github.com/hassio-addons/addon-thelounge/issues
-[thelounge-version-shield]: https://img.shields.io/badge/version-cf3c288-blue.svg
+[thelounge-version-shield]: https://img.shields.io/badge/version-a2244c6-blue.svg
 [thelounge-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/thelounge.svg
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
