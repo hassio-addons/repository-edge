@@ -1,7 +1,3 @@
-2019/02/20 21:37 UTC - [53be99a](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/53be99a49723ea8d8615c5135c611abd562b3714) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#1)
-
-* Add renovate.json
-
-* Update renovate.json 
+2019/02/21 18:57 UTC - [6c1b146](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/6c1b14699d3e1eb429ea70d6d9b08ec03bcdbe09) by [@sinclairpaul](https://github.com/sinclairpaul)
+> Updating typos in README.md (#2) 
 
