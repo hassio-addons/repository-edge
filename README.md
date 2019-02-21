@@ -301,6 +301,19 @@ Manage battery backup (UPS) devices
 
 [:books: Network UPS Tools add-on documentation][addon-doc-nut]
 
+### &#10003; [Nginx Proxy Manager][addon-nginxproxymanager]
+
+![Latest Version][nginxproxymanager-version-shield]
+![Supports armhf Architecture][nginxproxymanager-armhf-shield]
+![Supports aarch64 Architecture][nginxproxymanager-aarch64-shield]
+![Supports amd64 Architecture][nginxproxymanager-amd64-shield]
+![Supports i386 Architecture][nginxproxymanager-i386-shield]
+![Docker Pulls][nginxproxymanager-pulls-shield]
+
+Manage Nginx proxy hosts with a simple, powerful interface
+
+[:books: Nginx Proxy Manager add-on documentation][addon-doc-nginxproxymanager]
+
 ### &#10003; [Node-RED][addon-node-red]
 
 ![Latest Version][node-red-version-shield]
@@ -549,6 +562,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: MQTT Server & Web client][mqtt-issue]
 - [Open an issue for the add-on: Matrix][matrix-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
+- [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Octobox][octobox-issue]
 - [Open an issue for the add-on: Phlex][phlex-issue]
@@ -794,6 +808,15 @@ SOFTWARE.
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [nut-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/53be99a
+[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/53be99a/README.md
+[nginxproxymanager-issue]: https://github.com/hassio-addons/addon-nginx-proxy-manager/issues
+[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-53be99a-blue.svg
+[nginxproxymanager-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nginxproxymanager.svg
+[nginxproxymanager-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[nginxproxymanager-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/ce78c3e
 [addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/ce78c3e/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
