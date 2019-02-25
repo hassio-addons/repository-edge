@@ -880,10 +880,10 @@ SOFTWARE.
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/a82936d
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/a82936d/README.md
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/096cd84
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/096cd84/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-a82936d-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-096cd84-blue.svg
 [ssh-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ssh-armhf.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
