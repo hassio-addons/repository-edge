@@ -1,8 +1,11 @@
-# Changelog since v3.7.1
+# Changelog since v3.7.2
 
-2019/02/11 15:30 UTC - [c93dee1](https://github.com/hassio-addons/addon-ssh/commit/c93dee1825524b4294cfe8d4a692587061eed442) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates yamllint to v1.15.0 (#60) 
+2019/02/25 20:42 UTC - [a82936d](https://github.com/hassio-addons/addon-ssh/commit/a82936d5597d193ebe719bd625134943ef8825e1) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libressl to 2.7.5-r0 
 
-2019/02/11 15:30 UTC - [83c4965](https://github.com/hassio-addons/addon-ssh/commit/83c4965693fab15d16222639d302243e311bf41b) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates homeassistant_cli to v0.5.0 (#59) 
+2019/02/25 20:42 UTC - [a1ba7ac](https://github.com/hassio-addons/addon-ssh/commit/a1ba7acb95f0fd1ca9bce109a199d8e94053cd92) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.2 
+
+2019/02/25 20:42 UTC - [d1892d1](https://github.com/hassio-addons/addon-ssh/commit/d1892d15ab63580ede67c363d1fa89dd769ee541) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates homeassistant_cli to v0.6.0 (#61) 
 
