@@ -1,3 +1,3 @@
-2019/02/19 10:13 UTC - [a2244c6](https://github.com/hassio-addons/addon-thelounge/commit/a2244c65299d79276689fa4395123c27528df123) by [@timmo001](https://github.com/timmo001)
-> :fire: :books: Fix missing badge 
+2019/02/26 21:37 UTC - [bd099a5](https://github.com/hassio-addons/addon-thelounge/commit/bd099a5aad90ddc9d793cb24ace3a101f1e0658d) by [@frenck](https://github.com/frenck)
+> :shirt: Minor tweaks 
 
