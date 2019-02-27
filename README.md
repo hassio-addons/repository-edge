@@ -236,19 +236,6 @@ Browser-based log utility for Hass.io
 
 [:books: Log Viewer add-on documentation][addon-doc-log-viewer]
 
-### &#10003; [Lovelace Migration][addon-lovelace-migration]
-
-![Latest Version][lovelace-migration-version-shield]
-![Supports armhf Architecture][lovelace-migration-armhf-shield]
-![Supports aarch64 Architecture][lovelace-migration-aarch64-shield]
-![Supports amd64 Architecture][lovelace-migration-amd64-shield]
-![Supports i386 Architecture][lovelace-migration-i386-shield]
-![Docker Pulls][lovelace-migration-pulls-shield]
-
-Automatically convert your existing UI to the new Lovelace UI
-
-[:books: Lovelace Migration add-on documentation][addon-doc-lovelace-migration]
-
 ### &#10003; [Lutron Certificate][addon-lutron-cert]
 
 ![Latest Version][lutron-cert-version-shield]
@@ -326,19 +313,6 @@ Manage Nginx proxy hosts with a simple, powerful interface
 Flow-based programming for the Internet of Things
 
 [:books: Node-RED add-on documentation][addon-doc-node-red]
-
-### &#10003; [Octobox][addon-octobox]
-
-![Latest Version][octobox-version-shield]
-![Supports armhf Architecture][octobox-armhf-shield]
-![Supports aarch64 Architecture][octobox-aarch64-shield]
-![Supports amd64 Architecture][octobox-amd64-shield]
-![Supports i386 Architecture][octobox-i386-shield]
-![Docker Pulls][octobox-pulls-shield]
-
-Take back control of your GitHub notifications
-
-[:books: Octobox add-on documentation][addon-doc-octobox]
 
 ### &#10003; [Phlex][addon-phlex]
 
@@ -557,14 +531,12 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: JupyterLab Lite][jupyterlablite-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
-- [Open an issue for the add-on: Lovelace Migration][lovelace-migration-issue]
 - [Open an issue for the add-on: Lutron Certificate][lutron-cert-issue]
 - [Open an issue for the add-on: MQTT Server & Web client][mqtt-issue]
 - [Open an issue for the add-on: Matrix][matrix-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
-- [Open an issue for the add-on: Octobox][octobox-issue]
 - [Open an issue for the add-on: Phlex][phlex-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
@@ -763,15 +735,6 @@ SOFTWARE.
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-lovelace-migration]: https://github.com/hassio-addons/addon-lovelace-migration/tree/052c951
-[addon-doc-lovelace-migration]: https://github.com/hassio-addons/addon-lovelace-migration/blob/052c951/README.md
-[lovelace-migration-issue]: https://github.com/hassio-addons/addon-lovelace-migration/issues
-[lovelace-migration-version-shield]: https://img.shields.io/badge/version-052c951-blue.svg
-[lovelace-migration-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/lovelace-migration.svg
-[lovelace-migration-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[lovelace-migration-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[lovelace-migration-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[lovelace-migration-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/2733e9b
 [addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/2733e9b/README.md
 [lutron-cert-issue]: https://github.com/hassio-addons/addon-lutron-cert/issues
@@ -826,15 +789,6 @@ SOFTWARE.
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-octobox]: https://github.com/hassio-addons/addon-octobox/tree/618ce20
-[addon-doc-octobox]: https://github.com/hassio-addons/addon-octobox/blob/618ce20/README.md
-[octobox-issue]: https://github.com/hassio-addons/addon-octobox/issues
-[octobox-version-shield]: https://img.shields.io/badge/version-618ce20-blue.svg
-[octobox-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/octobox.svg
-[octobox-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[octobox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[octobox-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[octobox-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/85c97cb
 [addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/85c97cb/README.md
 [phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
