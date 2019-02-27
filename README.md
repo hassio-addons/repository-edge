@@ -691,10 +691,10 @@ SOFTWARE.
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/e826572
-[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/e826572/README.md
+[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/93ddde4
+[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/93ddde4/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-e826572-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-93ddde4-blue.svg
 [glances-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/glances.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
