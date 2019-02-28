@@ -37,6 +37,10 @@ addons:
     repository: hassio-addons/addon-grafana
     target: grafana
     image: hassioaddons/grafana-{arch}
+  grocy:
+    repository: hassio-addons/addon-grocy
+    target: grocy
+    image: hassioaddons/grocy
   happy-bubbles:
     repository: hassio-addons/addon-happy-bubbles
     target: happy-bubbles
