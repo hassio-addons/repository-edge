@@ -158,6 +158,19 @@ The open platform for beautiful analytics and monitoring
 
 [:books: Grafana add-on documentation][addon-doc-grafana]
 
+### &#10003; [Grocy][addon-grocy]
+
+![Latest Version][grocy-version-shield]
+![Supports armhf Architecture][grocy-armhf-shield]
+![Supports aarch64 Architecture][grocy-aarch64-shield]
+![Supports amd64 Architecture][grocy-amd64-shield]
+![Supports i386 Architecture][grocy-i386-shield]
+![Docker Pulls][grocy-pulls-shield]
+
+ERP beyond your fridge! A groceries & household management solution for your home
+
+[:books: Grocy add-on documentation][addon-doc-grocy]
+
 ### &#10003; [Happy Bubbles][addon-happy-bubbles]
 
 ![Latest Version][happy-bubbles-version-shield]
@@ -525,6 +538,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: FTP][ftp-issue]
 - [Open an issue for the add-on: Glances][glances-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
+- [Open an issue for the add-on: Grocy][grocy-issue]
 - [Open an issue for the add-on: Happy Bubbles][happy-bubbles-issue]
 - [Open an issue for the add-on: Home Panel][home-panel-issue]
 - [Open an issue for the add-on: IDE][ide-issue]
@@ -681,6 +695,15 @@ SOFTWARE.
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [grafana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-grocy]: https://github.com/hassio-addons/addon-grocy/tree/36d1236
+[addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/36d1236/README.md
+[grocy-issue]: https://github.com/hassio-addons/addon-grocy/issues
+[grocy-version-shield]: https://img.shields.io/badge/version-36d1236-blue.svg
+[grocy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grocy.svg
+[grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[grocy-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/tree/fd7af51
 [addon-doc-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/blob/fd7af51/README.md
 [happy-bubbles-issue]: https://github.com/hassio-addons/addon-happy-bubbles/issues
