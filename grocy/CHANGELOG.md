@@ -1,5 +1,3 @@
-2019/03/04 22:22 UTC - [fd2f331](https://github.com/hassio-addons/addon-grocy/commit/fd2f3310d72fdfc95202ee4582a5596df92b237e) by [@allanpersson](https://github.com/allanpersson)
-> Update README.md (#1)
-
-Added missing default login 
+2019/03/05 23:38 UTC - [4e39fa0](https://github.com/hassio-addons/addon-grocy/commit/4e39fa003957f1b5240aa7b71e2a5316da3efcdd) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes Markdownlint warnings 
 
