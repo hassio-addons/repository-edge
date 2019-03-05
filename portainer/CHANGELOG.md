@@ -1,5 +1,5 @@
-# Changelog since v0.4.0
+# Changelog since v0.4.1
 
-2019/02/03 21:53 UTC - [25bb0fa](https://github.com/hassio-addons/addon-portainer/commit/25bb0fa2fe04f68aa4b9656c1126c408ac8ae8d6) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Portainer to 1.20.1 (#12) 
+2019/03/05 12:17 UTC - [8c0a5c8](https://github.com/hassio-addons/addon-portainer/commit/8c0a5c8024d30f81f32765f40bf59dbef7287f40) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Update Portainter to 1.20.2 (#13) 
 
