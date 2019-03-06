@@ -1,8 +1,8 @@
-# Changelog since v1.3.3
+# Changelog since v1.3.4
 
-2019/02/26 16:06 UTC - [9ce5733](https://github.com/hassio-addons/addon-node-red/commit/9ce573397427d7022b0010a3483247f7e9985763) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates js-yaml to v3.12.2 (#145) 
+2019/03/06 20:11 UTC - [0143eb5](https://github.com/hassio-addons/addon-node-red/commit/0143eb58932d46ca93e9399dcccc4df45f99aa60) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades openssh-client to 7.7_p1-r4 
 
-2019/02/26 16:06 UTC - [0777df4](https://github.com/hassio-addons/addon-node-red/commit/0777df4cc4780e0f41eb4a3f857ddc9f154d82df) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-bigtimer to v2.1.9 (#143) 
+2019/03/06 20:11 UTC - [399d95e](https://github.com/hassio-addons/addon-node-red/commit/399d95ef5fbfb2b2a9f16036929adfff82372307) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-node-serialport to v0.7.1 (#153) 
 
