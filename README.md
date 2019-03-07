@@ -749,10 +749,10 @@ SOFTWARE.
 [jupyterlablite-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlablite-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [jupyterlablite-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/4d589de
-[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/4d589de/README.md
+[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/d1a4319
+[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/d1a4319/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
-[log-viewer-version-shield]: https://img.shields.io/badge/version-4d589de-blue.svg
+[log-viewer-version-shield]: https://img.shields.io/badge/version-d1a4319-blue.svg
 [log-viewer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/log-viewer.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
