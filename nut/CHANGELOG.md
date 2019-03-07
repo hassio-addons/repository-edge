@@ -1,7 +1,3 @@
-2019/01/09 21:22 UTC - [1fec9af](https://github.com/hassio-addons/addon-nut/commit/1fec9afaa76483625dbe779942224e70a8e9f020) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#1)
-
-* Add renovate.json
-
-* Update renovate.json 
+2019/03/07 12:00 UTC - [1f4ebc0](https://github.com/hassio-addons/addon-nut/commit/1f4ebc0c045c008750e32b0c764e92a307c6b946) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.2 
 
