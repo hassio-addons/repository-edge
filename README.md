@@ -794,10 +794,10 @@ SOFTWARE.
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [nut-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/6c1b146
-[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/6c1b146/README.md
+[addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/ff4f53a
+[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/ff4f53a/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/addon-nginx-proxy-manager/issues
-[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-6c1b146-blue.svg
+[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-ff4f53a-blue.svg
 [nginxproxymanager-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nginxproxymanager.svg
 [nginxproxymanager-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nginxproxymanager-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

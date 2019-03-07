@@ -1,3 +1,3 @@
-2019/02/21 18:57 UTC - [6c1b146](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/6c1b14699d3e1eb429ea70d6d9b08ec03bcdbe09) by [@sinclairpaul](https://github.com/sinclairpaul)
-> Updating typos in README.md (#2) 
+2019/03/07 11:59 UTC - [ff4f53a](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/ff4f53aadd04010752d1e44a32d707ac517daff6) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.2 
 
