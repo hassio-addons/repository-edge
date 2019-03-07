@@ -861,7 +861,7 @@ SOFTWARE.
 [addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/096cd84/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
 [ssh-version-shield]: https://img.shields.io/badge/version-096cd84-blue.svg
-[ssh-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ssh-armhf.svg
+[ssh-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ssh.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
