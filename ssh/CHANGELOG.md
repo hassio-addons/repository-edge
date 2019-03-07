@@ -1,14 +1,14 @@
-# Changelog since v3.7.2
+# Changelog since v3.7.3
 
-2019/02/25 21:12 UTC - [096cd84](https://github.com/hassio-addons/addon-ssh/commit/096cd84c69ada5cc6453853a7efc53ae7750b8c0) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades hassio-cli to v2.1.0 
+2019/03/07 18:30 UTC - [77b8208](https://github.com/hassio-addons/addon-ssh/commit/77b820874777e7483caa8506650dc4585776f0ce) by [@frenck](https://github.com/frenck)
+> :fire: Removal of legacy tags from build 
 
-2019/02/25 21:12 UTC - [a82936d](https://github.com/hassio-addons/addon-ssh/commit/a82936d5597d193ebe719bd625134943ef8825e1) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades libressl to 2.7.5-r0 
+2019/03/07 18:30 UTC - [7daebb6](https://github.com/hassio-addons/addon-ssh/commit/7daebb6a06edfee117593a0f7dcf7ca991aef398) by [@frenck](https://github.com/frenck)
+> -m :arrow_up: Upgrades MariaDB to 10.2.22-r0 
 
-2019/02/25 21:12 UTC - [a1ba7ac](https://github.com/hassio-addons/addon-ssh/commit/a1ba7acb95f0fd1ca9bce109a199d8e94053cd92) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.3.2 
+2019/03/07 18:30 UTC - [3ee4fb7](https://github.com/hassio-addons/addon-ssh/commit/3ee4fb7c4917d7b8026dafb8ecc49293351a2ee2) by [@frenck](https://github.com/frenck)
+> -m :arrow_up: Upgrades openssh to 7.7_p1-r4 
 
-2019/02/25 21:12 UTC - [d1892d1](https://github.com/hassio-addons/addon-ssh/commit/d1892d15ab63580ede67c363d1fa89dd769ee541) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates homeassistant_cli to v0.6.0 (#61) 
+2019/03/07 18:30 UTC - [248c424](https://github.com/hassio-addons/addon-ssh/commit/248c42426fa4d4f17684f08cd57aeebd85225132) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades openssl to 1.0.2r-r0 
 
