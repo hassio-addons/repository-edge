@@ -839,10 +839,10 @@ SOFTWARE.
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-portainer]: https://github.com/hassio-addons/addon-portainer/tree/8c0a5c8
-[addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/8c0a5c8/README.md
+[addon-portainer]: https://github.com/hassio-addons/addon-portainer/tree/b761137
+[addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/b761137/README.md
 [portainer-issue]: https://github.com/hassio-addons/addon-portainer/issues
-[portainer-version-shield]: https://img.shields.io/badge/version-8c0a5c8-blue.svg
+[portainer-version-shield]: https://img.shields.io/badge/version-b761137-blue.svg
 [portainer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/portainer.svg
 [portainer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [portainer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

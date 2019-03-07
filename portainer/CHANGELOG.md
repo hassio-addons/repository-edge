@@ -1,5 +1,5 @@
-# Changelog since v0.4.1
+# Changelog since v0.4.2
 
-2019/03/05 12:17 UTC - [8c0a5c8](https://github.com/hassio-addons/addon-portainer/commit/8c0a5c8024d30f81f32765f40bf59dbef7287f40) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Portainter to 1.20.2 (#13) 
+2019/03/07 12:00 UTC - [b761137](https://github.com/hassio-addons/addon-portainer/commit/b761137a38e6d7e2b7985194b4a0651e29305ea5) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.2 
 
