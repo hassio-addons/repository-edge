@@ -1,12 +1,5 @@
-[Full Changelog][changelog]
+# Changelog since v1.3.5
 
-### Changed
+2019/03/09 17:25 UTC - [7b522fd](https://github.com/hassio-addons/addon-node-red/commit/7b522fdb35f214a63e64c9ecf8556b2e0c58e688) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-moment to v3.0.2 (#156) 
 
-- Updates node-red-node-serialport to v0.7.1 (#153)
-- Upgrades openssh-client to 7.7_p1-r4
-- Updates node-red-contrib-home-assistant-websocket to v0.9.1 (#154)
-
-[changelog]: https://github.com/hassio-addons/addon-node-red/compare/v1.3.4...v1.3.5
-
-Questions? Join our Discord server! https://discord.me/hassioaddons
-Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
