@@ -1,8 +1,12 @@
-# Changelog since v1.3.4
+[Full Changelog][changelog]
 
-2019/03/06 20:11 UTC - [0143eb5](https://github.com/hassio-addons/addon-node-red/commit/0143eb58932d46ca93e9399dcccc4df45f99aa60) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades openssh-client to 7.7_p1-r4 
+### Changed
 
-2019/03/06 20:11 UTC - [399d95e](https://github.com/hassio-addons/addon-node-red/commit/399d95ef5fbfb2b2a9f16036929adfff82372307) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-node-serialport to v0.7.1 (#153) 
+- Updates node-red-node-serialport to v0.7.1 (#153)
+- Upgrades openssh-client to 7.7_p1-r4
+- Updates node-red-contrib-home-assistant-websocket to v0.9.1 (#154)
 
+[changelog]: https://github.com/hassio-addons/addon-node-red/compare/v1.3.4...v1.3.5
+
+Questions? Join our Discord server! https://discord.me/hassioaddons
+Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
