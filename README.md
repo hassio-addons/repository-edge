@@ -804,7 +804,7 @@ SOFTWARE.
 [addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/d1a4319/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
 [log-viewer-version-shield]: https://img.shields.io/badge/version-d1a4319-blue.svg
-[log-viewer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/log-viewer.svg
+[log-viewer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/log-viewer-armhf.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -884,7 +884,7 @@ SOFTWARE.
 [addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/6569935/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
 [pi-hole-version-shield]: https://img.shields.io/badge/version-6569935-blue.svg
-[pi-hole-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/pi-hole.svg
+[pi-hole-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/pi-hole-armhf.svg
 [pi-hole-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [pi-hole-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
