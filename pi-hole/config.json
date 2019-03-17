@@ -1,6 +1,6 @@
 {
   "name": "Pi-hole",
-  "version": "bd92b93",
+  "version": "6569935",
   "slug": "pi-hole",
   "description": "Network-wide ad blocking using your Hass.io instance",
   "url": "https://github.com/hassio-addons/addon-pi-hole",
