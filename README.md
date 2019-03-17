@@ -920,10 +920,10 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/4c8db91
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/4c8db91/README.md
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/bba379b
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/bba379b/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-4c8db91-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-bba379b-blue.svg
 [ssh-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ssh-armhf.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
