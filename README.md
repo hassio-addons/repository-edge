@@ -790,10 +790,10 @@ SOFTWARE.
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [influxdb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/f3d25dc
-[addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/f3d25dc/README.md
+[addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/9c53f7e
+[addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/9c53f7e/README.md
 [jupyterlablite-issue]: https://github.com/hassio-addons/addon-jupyterlab-lite/issues
-[jupyterlablite-version-shield]: https://img.shields.io/badge/version-f3d25dc-blue.svg
+[jupyterlablite-version-shield]: https://img.shields.io/badge/version-9c53f7e-blue.svg
 [jupyterlablite-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyterlablite.svg
 [jupyterlablite-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlablite-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
