@@ -838,7 +838,7 @@ SOFTWARE.
 [matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[matrix-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-nut]: https://github.com/hassio-addons/addon-nut/tree/1f4ebc0
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/1f4ebc0/README.md
