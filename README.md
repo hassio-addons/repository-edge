@@ -734,7 +734,7 @@ SOFTWARE.
 [addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/01c3290/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
 [grafana-version-shield]: https://img.shields.io/badge/version-01c3290-blue.svg
-[grafana-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grafana.svg
+[grafana-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grafana-amd64.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
