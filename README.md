@@ -968,7 +968,7 @@ SOFTWARE.
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[thelounge-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[thelounge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [thelounge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-tor]: https://github.com/hassio-addons/addon-tor/tree/02f65f3
 [addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/02f65f3/README.md
