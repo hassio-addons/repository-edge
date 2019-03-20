@@ -699,11 +699,11 @@ SOFTWARE.
 [addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/6403f49/README.md
 [airsonos-issue]: https://github.com/hassio-addons/addon-airsonos/issues
 [airsonos-version-shield]: https://img.shields.io/badge/version-6403f49-blue.svg
-[airsonos-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/airsonos-armhf.svg
+[airsonos-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/airsonos-amd64.svg
 [airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[airsonos-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[airsonos-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[airsonos-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/tree/d4f51d8
 [addon-doc-appdaemon3]: https://github.com/hassio-addons/addon-appdaemon3/blob/d4f51d8/README.md
