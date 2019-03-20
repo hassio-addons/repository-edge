@@ -1,42 +1,29 @@
-# Changelog since v1.1.0
+# Changelog since v1.2.0
 
-2019/01/09 17:25 UTC - [8a2297d](https://github.com/hassio-addons/addon-aircast/commit/8a2297d64e9bb97f0777b401fd928a2c5d97e2e7) by [@frenck](https://github.com/frenck)
-> :pencil2: Fixes spelling error in Dockerfile 
+2019/03/20 20:55 UTC - [ac1adb3](https://github.com/hassio-addons/addon-aircast/commit/ac1adb3fc4d77e4d187efabc5fc4aa97e1e2e88e) by [@frenck](https://github.com/frenck)
+> :ambulance: Correct Aircast binary filename 
 
-2019/01/09 17:25 UTC - [998d463](https://github.com/hassio-addons/addon-aircast/commit/998d4634a9d6ac5c7523048c5bde3cec524fb497) by [@frenck](https://github.com/frenck)
-> Merge branch 'master' of github.com:hassio-addons/addon-aircast 
+2019/03/20 20:55 UTC - [9543fa6](https://github.com/hassio-addons/addon-aircast/commit/9543fa65ed558e4f991c54bb99fcb90be1ab7a2e) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes typo in GitLab CI file 
 
-2019/01/09 17:25 UTC - [eebd50e](https://github.com/hassio-addons/addon-aircast/commit/eebd50e677cd966daf8eec0e4dec59bb13cc62e5) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.2.1 
+2019/03/20 20:55 UTC - [62acc37](https://github.com/hassio-addons/addon-aircast/commit/62acc371d9d527ac2c5f534fcc82b90b49e96f58) by [@frenck](https://github.com/frenck)
+> :hammer: Rewrite add-on onto Bashio 
 
-2019/01/09 17:25 UTC - [dcf1ec8](https://github.com/hassio-addons/addon-aircast/commit/dcf1ec890f260bfec91ff70aee7b147d440694a0) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#13)
+2019/03/20 20:55 UTC - [ab8b09e](https://github.com/hassio-addons/addon-aircast/commit/ab8b09e7270b3dd1d73a8412d02200c2fb44a83c) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libssl1.0.0 to 1.0.2n-1ubuntu5.3 
 
-* Add renovate.json
+2019/03/20 20:55 UTC - [29daa9a](https://github.com/hassio-addons/addon-aircast/commit/29daa9a0fd5d6b629dd557078b804f3e019c742a) by [@frenck](https://github.com/frenck)
+> :hammer: Makes log_level optional 
 
-* Update renovate.json 
+2019/03/20 20:55 UTC - [b458a91](https://github.com/hassio-addons/addon-aircast/commit/b458a9110e17465b96469ad47520f179652148f4) by [@frenck](https://github.com/frenck)
+> :fire: Removes custom log format override 
 
-2019/01/09 17:25 UTC - [4e26c9a](https://github.com/hassio-addons/addon-aircast/commit/4e26c9a8c4078a629be010f22451f8392d661bf4) by [@frenck](https://github.com/frenck)
-> :tractor: :rocket: Refactor of GitLab CI 
+2019/03/20 20:55 UTC - [4f294ea](https://github.com/hassio-addons/addon-aircast/commit/4f294eaec318d7080612e356448a96700e1dc93b) by [@frenck](https://github.com/frenck)
+> :books: Updates documentation for ARMv7 
 
-2019/01/09 17:25 UTC - [c3b3fd1](https://github.com/hassio-addons/addon-aircast/commit/c3b3fd13d4a5f7e2511671d8961854ff69a288dd) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades libssl1.0.0 to 1.0.2n-1ubuntu5.2 
+2019/03/20 20:55 UTC - [19cd7d4](https://github.com/hassio-addons/addon-aircast/commit/19cd7d41199c153255f9093ab967a94c15999df5) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.0.0 
 
-2019/01/09 17:25 UTC - [4a2e2df](https://github.com/hassio-addons/addon-aircast/commit/4a2e2dfd6f7fb541b209f6c20458dc54b7ba5f8d) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades AirConnect to 0.2.2.4 
-
-2019/01/09 17:25 UTC - [91cf776](https://github.com/hassio-addons/addon-aircast/commit/91cf776d917f813c51649b22415301d99b5c344c) by [@frenck](https://github.com/frenck)
-> :fireworks: Updates maintenance year to 2019 
-
-2019/01/09 17:25 UTC - [122edeb](https://github.com/hassio-addons/addon-aircast/commit/122edeb08d9e64b359b68cfffcccf04930d52e17) by [@frenck](https://github.com/frenck)
-> :tractor: Replaces add-on link with GitHub link 
-
-2019/01/09 17:25 UTC - [fc043f3](https://github.com/hassio-addons/addon-aircast/commit/fc043f30fe21d56a60a2bad193a46aea90bf30ec) by [@frenck](https://github.com/frenck)
-> :fire: Removes Anchore.io links 
-
-2019/01/09 17:25 UTC - [317f7a9](https://github.com/hassio-addons/addon-aircast/commit/317f7a919e3c1438bf37d19ce6fb909861b34a3f) by [@frenck](https://github.com/frenck)
-> :fire: Removes BountySource links 
-
-2019/01/09 17:25 UTC - [f722204](https://github.com/hassio-addons/addon-aircast/commit/f72220438530b536abd44d14beb45e9a9cffc5c7) by [@frenck](https://github.com/frenck)
-> ::fireworks: Updates year to 2019 
+2019/03/20 20:55 UTC - [7f23e38](https://github.com/hassio-addons/addon-aircast/commit/7f23e38ec5e7966a3786d04ee01c5cf26329e547) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.1 
 
