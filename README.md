@@ -679,11 +679,11 @@ SOFTWARE.
 [addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/24469c9/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
 [adguard-version-shield]: https://img.shields.io/badge/version-24469c9-blue.svg
-[adguard-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/adguard.svg
+[adguard-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/adguard-armhf.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[adguard-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/ac1adb3
 [addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/ac1adb3/README.md
