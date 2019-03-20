@@ -809,7 +809,7 @@ SOFTWARE.
 [addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/4843387/README.md
 [jupyterlablite-issue]: https://github.com/hassio-addons/addon-jupyterlab-lite/issues
 [jupyterlablite-version-shield]: https://img.shields.io/badge/version-4843387-blue.svg
-[jupyterlablite-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyterlablite.svg
+[jupyterlablite-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyterlablite-amd64.svg
 [jupyterlablite-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlablite-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlablite-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
