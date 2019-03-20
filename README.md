@@ -541,7 +541,7 @@ Manage your UniFi network using a web browser
 ![Supports i386 Architecture][chrony-i386-shield]
 ![Docker Pulls][chrony-pulls-shield]
 
-chrony NTP Server
+A local NTP (Network Time Protocol) server for cameras etc.
 
 [:books: chrony add-on documentation][addon-doc-chrony]
 
