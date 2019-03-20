@@ -1,36 +1,26 @@
-# Changelog since v1.1.0
+# Changelog since v1.2.0
 
-2019/01/09 18:40 UTC - [6403f49](https://github.com/hassio-addons/addon-airsonos/commit/6403f49db91f821fb04e1c33ceeaf2210d633981) by [@frenck](https://github.com/frenck)
-> :pencil2: Fixes spelling error in Dockerfile 
+2019/03/20 20:55 UTC - [4786321](https://github.com/hassio-addons/addon-airsonos/commit/47863218046af8dfc622a6386744cbb61d3e990c) by [@frenck](https://github.com/frenck)
+> :ambulance: Correct AirSonos binary filename 
 
-2019/01/09 18:40 UTC - [abc16a3](https://github.com/hassio-addons/addon-airsonos/commit/abc16a3336ce96d44b5f499d6b4f419f9dc45873) by [@frenck](https://github.com/frenck)
-> Merge branch 'master' of github.com:hassio-addons/addon-airsonos 
+2019/03/20 20:55 UTC - [a788daf](https://github.com/hassio-addons/addon-airsonos/commit/a788dafffb6fc1ff06efd2be2bf7801fd7e1f431) by [@frenck](https://github.com/frenck)
+> :hammer: Rewrite add-on onto Bashio 
 
-2019/01/09 18:40 UTC - [ef04b97](https://github.com/hassio-addons/addon-airsonos/commit/ef04b97b81d09c54c065991e31783c27ec42a24a) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.2.1 
+2019/03/20 20:55 UTC - [787a24b](https://github.com/hassio-addons/addon-airsonos/commit/787a24b422ac9a3d955a5e219f1615518776e251) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libssl1.0.0 to 1.0.2n-1ubuntu5.3 
 
-2019/01/09 18:40 UTC - [43b2495](https://github.com/hassio-addons/addon-airsonos/commit/43b24955ce37cb559d4511184662327f90678740) by [@frenck](https://github.com/frenck)
-> :tractor: :rocket: Refactor of GitLab CI 
+2019/03/20 20:55 UTC - [ed1ff19](https://github.com/hassio-addons/addon-airsonos/commit/ed1ff197ad067a94ea0f191ed0252648e81c6a16) by [@frenck](https://github.com/frenck)
+> :hammer: Makes log_level optional 
 
-2019/01/09 18:40 UTC - [1144b53](https://github.com/hassio-addons/addon-airsonos/commit/1144b53031f7295070b30576c841f32721d98895) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades libssl1.0.0 to 1.0.2n-1ubuntu5.2 
+2019/03/20 20:55 UTC - [3762b18](https://github.com/hassio-addons/addon-airsonos/commit/3762b18eb2dc8f01255c02e34ec9401b6656e532) by [@frenck](https://github.com/frenck)
+> :fire: Removes custom log format override 
 
-2019/01/09 18:40 UTC - [13984ad](https://github.com/hassio-addons/addon-airsonos/commit/13984ada9ec385f50fa7afe94e7965c2358ef79d) by [@frenck](https://github.com/frenck)
-> :fire: Removes Anchore.io links 
+2019/03/20 20:55 UTC - [8ab18a4](https://github.com/hassio-addons/addon-airsonos/commit/8ab18a4c334b55340db6a6fda3b443ca3d57aac9) by [@frenck](https://github.com/frenck)
+> :books: Updates documentation for ARMv7 
 
-2019/01/09 18:40 UTC - [eb3292a](https://github.com/hassio-addons/addon-airsonos/commit/eb3292a6f0420d12f2d854685b3077a18311e518) by [@frenck](https://github.com/frenck)
-> :fire: Removes BountySource links 
+2019/03/20 20:55 UTC - [f57e78a](https://github.com/hassio-addons/addon-airsonos/commit/f57e78a52f153919e0253bb5731d6f2163cf2fc0) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.0.0 
 
-2019/01/09 18:40 UTC - [98db661](https://github.com/hassio-addons/addon-airsonos/commit/98db661845390fa5776453ad57cfa6a869c33a7c) by [@frenck](https://github.com/frenck)
-> :fireworks: Updates maintenance year to 2019 
-
-2019/01/09 18:40 UTC - [58114d9](https://github.com/hassio-addons/addon-airsonos/commit/58114d98f78b29a2eae66f4fa8d487c0b4167345) by [@frenck](https://github.com/frenck)
-> :tractor: Replaces add-on link with GitHub link 
-
-2019/01/09 18:40 UTC - [cde323d](https://github.com/hassio-addons/addon-airsonos/commit/cde323d43d3b1b1afa21254735a8a6427000e23f) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#11)
-
-* Add renovate.json
-
-* Update renovate.json 
+2019/03/20 20:55 UTC - [fb0ef9b](https://github.com/hassio-addons/addon-airsonos/commit/fb0ef9b86058233c1ca948c7083bc19a685ca040) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.1 
 
