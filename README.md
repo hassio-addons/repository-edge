@@ -1015,10 +1015,10 @@ SOFTWARE.
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [unifi-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/f375f45
-[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/f375f45/README.md
+[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/abf1958
+[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/abf1958/README.md
 [chrony-issue]: https://github.com/hassio-addons/addon-chrony/issues
-[chrony-version-shield]: https://img.shields.io/badge/version-f375f45-blue.svg
+[chrony-version-shield]: https://img.shields.io/badge/version-abf1958-blue.svg
 [chrony-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/chrony-armhf.svg
 [chrony-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [chrony-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

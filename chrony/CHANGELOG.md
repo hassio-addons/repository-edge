@@ -1,3 +1,3 @@
-2019/03/20 13:15 UTC - [f375f45](https://github.com/hassio-addons/addon-chrony/commit/f375f453821f505783dac3ac3a23b7d9f1c36134) by [@sinclairpaul](https://github.com/sinclairpaul)
-> :art: Changing git attributes file (#8) 
+2019/03/20 14:00 UTC - [abf1958](https://github.com/hassio-addons/addon-chrony/commit/abf195886e753beb7eb20f7b2ebe8c55a2d156c5) by [@sinclairpaul](https://github.com/sinclairpaul)
+> :books: Updating addon description 
 
