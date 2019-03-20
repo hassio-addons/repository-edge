@@ -1,6 +1,6 @@
 {
   "name": "chrony",
-  "version": "52b69cb",
+  "version": "f375f45",
   "slug": "chrony",
   "description": "chrony NTP Server",
   "url": "https://github.com/hassio-addons/addon-chrony",
