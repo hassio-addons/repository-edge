@@ -52,7 +52,7 @@ addons:
   home-panel:
     repository: hassio-addons/addon-home-panel
     target: home-panel
-    image: hassioaddons/home-panel
+    image: hassioaddons/home-panel-{arch}
   ide:
     repository: hassio-addons/addon-ide
     target: ide
@@ -76,7 +76,7 @@ addons:
   matrix:
     repository: hassio-addons/addon-matrix
     target: matrix
-    image: hassioaddons/matrix
+    image: hassioaddons/matrix-{arch}
   motioneye:
     repository: hassio-addons/addon-motioneye
     target: motioneye
@@ -136,7 +136,7 @@ addons:
   thelounge:
     repository: hassio-addons/addon-thelounge
     target: thelounge
-    image: hassioaddons/thelounge
+    image: hassioaddons/thelounge-{arch}
   tor:
     repository: hassio-addons/addon-tor
     target: tor
