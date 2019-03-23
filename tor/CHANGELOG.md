@@ -1,30 +1,26 @@
-# Changelog since v1.6.0
+# Changelog since v1.6.1
 
-2019/01/28 19:03 UTC - [02f65f3](https://github.com/hassio-addons/addon-tor/commit/02f65f3a2c643f291a40ca2d1377e8312bb5481c) by [@frenck](https://github.com/frenck)
-> :tractor: Replaces add-on link with GitHub link 
+2019/03/23 19:40 UTC - [ae0df49](https://github.com/hassio-addons/addon-tor/commit/ae0df49a9e2328c9c5c7899fea526a6f739ab8a6) by [@frenck](https://github.com/frenck)
+> :hammer: Rewrite add-on onto Bashio 
 
-2019/01/28 19:03 UTC - [3f654c8](https://github.com/hassio-addons/addon-tor/commit/3f654c8b8adecad55dd51d8c164ddda7e7b87143) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#8)
+2019/03/23 19:40 UTC - [fc89d45](https://github.com/hassio-addons/addon-tor/commit/fc89d45408ebc1a6d66ba380a3f5daaede13779c) by [@frenck](https://github.com/frenck)
+> :books: Updates documentation for ARMv7 
 
-* Add renovate.json
+2019/03/23 19:40 UTC - [7fd92dc](https://github.com/hassio-addons/addon-tor/commit/7fd92dcdfb3942a7d7d984eb5dbd8de71b1d77c5) by [@frenck](https://github.com/frenck)
+> :hammer: Makes log_level optional 
 
-* Update renovate.json 
+2019/03/23 19:40 UTC - [d681720](https://github.com/hassio-addons/addon-tor/commit/d6817209a0999739ac639fe854d603d29d8c4620) by [@frenck](https://github.com/frenck)
+> :fire: Removes custom log format override 
 
-2019/01/28 19:03 UTC - [97871f0](https://github.com/hassio-addons/addon-tor/commit/97871f0753bc1652fe64a336ec9c1b13ac7813d6) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.3.1 
+2019/03/23 19:40 UTC - [59578e3](https://github.com/hassio-addons/addon-tor/commit/59578e3f944f4e49a8c70fa41ab76abd3e0d7c36) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds support for ARMv7 
 
-2019/01/28 19:03 UTC - [77e1b69](https://github.com/hassio-addons/addon-tor/commit/77e1b693e134203805135d5beef84012439aee54) by [@frenck](https://github.com/frenck)
-> :tractor: :rocket: Refactor of GitLab CI 
+2019/03/23 19:40 UTC - [3d1f27d](https://github.com/hassio-addons/addon-tor/commit/3d1f27d3710252894183c110a6562a75f402051e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades tor to 0.3.4.11-r0 
 
-2019/01/28 19:03 UTC - [6053035](https://github.com/hassio-addons/addon-tor/commit/605303581d003ceef7517f97b1182212d7ecbdd9) by [@frenck](https://github.com/frenck)
-> :fireworks: Updates maintenance year to 2019 
+2019/03/23 19:40 UTC - [9dcf0a8](https://github.com/hassio-addons/addon-tor/commit/9dcf0a8b431bb5edca78ffe0a50556ba54435db5) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.0.1 
 
-2019/01/28 19:03 UTC - [0e51466](https://github.com/hassio-addons/addon-tor/commit/0e5146632cacd29777ff4b4c4f44b7932e6f4c55) by [@frenck](https://github.com/frenck)
-> :fire: Removes Anchore.io links 
-
-2019/01/28 19:03 UTC - [6c15633](https://github.com/hassio-addons/addon-tor/commit/6c15633f95896754b276cb83345325aa608cd5ba) by [@frenck](https://github.com/frenck)
-> :fire: Removes BountySource links 
-
-2019/01/28 19:03 UTC - [5f45555](https://github.com/hassio-addons/addon-tor/commit/5f455559291c0146c3f5c0ec3fa69ea96e6dff44) by [@frenck](https://github.com/frenck)
-> :pencil2: Fixes spelling error in Dockerfile 
+2019/03/23 19:40 UTC - [8bc439d](https://github.com/hassio-addons/addon-tor/commit/8bc439dc75dca07edb34febd54162716d1afc9a0) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.2 
 
