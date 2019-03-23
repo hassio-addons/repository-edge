@@ -64,11 +64,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-lutron-cert/blob/2733e9b/README.md
+[docs]: https://github.com/hassio-addons/addon-lutron-cert/blob/fab222b/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-lutron-certificate/70317
 [lutron-caseta-docs]: https://www.home-assistant.io/components/lutron_caseta/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-2733e9b-blue.svg
-[release]: https://github.com/hassio-addons/addon-lutron-cert/tree/2733e9b
+[release-shield]: https://img.shields.io/badge/version-fab222b-blue.svg
+[release]: https://github.com/hassio-addons/addon-lutron-cert/tree/fab222b
