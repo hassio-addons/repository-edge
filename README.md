@@ -773,7 +773,7 @@ SOFTWARE.
 [happy-bubbles-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [happy-bubbles-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [happy-bubbles-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[happy-bubbles-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[happy-bubbles-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [happy-bubbles-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/100ab3a
 [addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/100ab3a/README.md
