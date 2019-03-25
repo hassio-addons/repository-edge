@@ -76,7 +76,7 @@ addons:
   magicmirror:
     repository: hassio-addons/addon-magicmirror
     target: magicmirror
-    image: hassioaddons/magicmirror
+    image: hassioaddons/magicmirror-{arch}
   matrix:
     repository: hassio-addons/addon-matrix
     target: matrix
