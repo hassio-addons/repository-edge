@@ -1,6 +1,6 @@
 {
   "name": "Visual Studio Code",
-  "version": "024ee21",
+  "version": "313cc5f",
   "slug": "vscode",
   "description": "Fully feature VSCode experience, to edit your HA config in the browser, including autocompletion!",
   "url": "https://github.com/hassio-addons/addon-vscode",

@@ -1,3 +1,7 @@
-2019/03/24 22:51 UTC - [024ee21](https://github.com/hassio-addons/addon-vscode/commit/024ee21e36fcdef5d9b0cf8d0ad0d33233ab45d7) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes Hadolint warnings 
+2019/03/25 00:17 UTC - [313cc5f](https://github.com/hassio-addons/addon-vscode/commit/313cc5f1d971c15195709efbf18dcd6b41067cce) by [@timmo001](https://github.com/timmo001)
+> :ambulance: Fixes installation of custom packages (#1)
+
+* :fire: Fix typo for installing packages
+
+* Update 80-user-packages.sh 
 
