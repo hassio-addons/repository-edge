@@ -850,10 +850,10 @@ SOFTWARE.
 [lutron-cert-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [lutron-cert-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [lutron-cert-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-mqtt]: https://github.com/hassio-addons/addon-mqtt/tree/4d9dd7a
-[addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/4d9dd7a/README.md
+[addon-mqtt]: https://github.com/hassio-addons/addon-mqtt/tree/fafe0ef
+[addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/fafe0ef/README.md
 [mqtt-issue]: https://github.com/hassio-addons/addon-mqtt/issues
-[mqtt-version-shield]: https://img.shields.io/badge/version-4d9dd7a-blue.svg
+[mqtt-version-shield]: https://img.shields.io/badge/version-fafe0ef-blue.svg
 [mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mqtt.svg
 [mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
