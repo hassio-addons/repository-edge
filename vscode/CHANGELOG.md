@@ -1,3 +1,3 @@
-2019/03/25 08:35 UTC - [9aa66a2](https://github.com/hassio-addons/addon-vscode/commit/9aa66a218e4e4059fd183b0d6894938ac10f6d22) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes hassio ha check cli 
+2019/03/26 00:21 UTC - [f93732a](https://github.com/hassio-addons/addon-vscode/commit/f93732ac2d5dbdde3afd293a1ff5c692ed20474a) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes Markdownlint warnings 
 
