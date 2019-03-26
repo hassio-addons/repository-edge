@@ -541,7 +541,7 @@ Manage your UniFi network using a web browser
 ![Supports i386 Architecture][vscode-i386-shield]
 ![Docker Pulls][vscode-pulls-shield]
 
-Fully feature VSCode experience, to edit your HA config in the browser, including autocompletion!
+Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!
 
 [:books: Visual Studio Code add-on documentation][addon-doc-vscode]
 
