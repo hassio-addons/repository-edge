@@ -17,7 +17,7 @@ configuration straight from the web browser and can be embedded straight
 into the Home Assistant frontend UI.
 
 Visual Studio Code runs as a remote server using `code-server`, and is a
-fully fletched VSCode experience.
+fully fledged VSCode experience.
 
 The add-on has the Home Assistant and MDI icons extensions pre-installed
 and pre-configured right out of the box. This means that autocompletion works
@@ -50,13 +50,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-vscode/blob/eaf5f5b/README.md
+[docs]: https://github.com/hassio-addons/addon-vscode/blob/d0860f7/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-eaf5f5b-blue.svg
-[release]: https://github.com/hassio-addons/addon-vscode/tree/eaf5f5b
+[release-shield]: https://img.shields.io/badge/version-d0860f7-blue.svg
+[release]: https://github.com/hassio-addons/addon-vscode/tree/d0860f7
 [screenshot]: https://github.com/hassio-addons/addon-vscode/raw/master/images/screenshot.png
