@@ -1,3 +1,3 @@
-2019/03/26 00:21 UTC - [f93732a](https://github.com/hassio-addons/addon-vscode/commit/f93732ac2d5dbdde3afd293a1ff5c692ed20474a) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes Markdownlint warnings 
+2019/03/26 12:10 UTC - [eaf5f5b](https://github.com/hassio-addons/addon-vscode/commit/eaf5f5b9e3021b1e092802caf8308169c08d37c7) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes missing workspace.json log spam 
 
