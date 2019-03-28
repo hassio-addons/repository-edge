@@ -853,7 +853,7 @@ SOFTWARE.
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/fab222b
 [addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/fab222b/README.md
