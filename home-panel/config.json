@@ -1,6 +1,6 @@
 {
   "name": "Home Panel",
-  "version": "396c694",
+  "version": "3cd3f30",
   "slug": "home-panel",
   "description": "A touch-compatible web frontend for controlling the home.",
   "url": "https://github.com/hassio-addons/addon-home-panel",
@@ -41,5 +41,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "hassioaddons/home-panel"
+  "image": "hassioaddons/home-panel-{arch}"
 }
