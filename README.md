@@ -321,6 +321,20 @@ A secure and decentralized communication platform.
 
 [:books: Matrix add-on documentation][addon-doc-matrix]
 
+### &#10003; [Mopidy][addon-mopidy]
+
+![Latest Version][mopidy-version-shield]
+![Supports armhf Architecture][mopidy-armhf-shield]
+![Supports armv7 Architecture][mopidy-armv7-shield]
+![Supports aarch64 Architecture][mopidy-aarch64-shield]
+![Supports amd64 Architecture][mopidy-amd64-shield]
+![Supports i386 Architecture][mopidy-i386-shield]
+![Docker Pulls][mopidy-pulls-shield]
+
+Mopidy is an extensible music server
+
+[:books: Mopidy add-on documentation][addon-doc-mopidy]
+
 ### &#10003; [Network UPS Tools][addon-nut]
 
 ![Latest Version][nut-version-shield]
@@ -641,6 +655,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: MQTT Server & Web client][mqtt-issue]
 - [Open an issue for the add-on: MagicMirror²][magicmirror-issue]
 - [Open an issue for the add-on: Matrix][matrix-issue]
+- [Open an issue for the add-on: Mopidy][mopidy-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
@@ -910,6 +925,16 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-mopidy]: https://github.com/hassio-addons/addon-mopidy/tree/e4d6302
+[addon-doc-mopidy]: https://github.com/hassio-addons/addon-mopidy/blob/e4d6302/README.md
+[mopidy-issue]: https://github.com/hassio-addons/addon-mopidy/issues
+[mopidy-version-shield]: https://img.shields.io/badge/version-e4d6302-blue.svg
+[mopidy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mopidy-amd64.svg
+[mopidy-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
+[mopidy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mopidy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[mopidy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[mopidy-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-nut]: https://github.com/hassio-addons/addon-nut/tree/1f4ebc0
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/1f4ebc0/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
