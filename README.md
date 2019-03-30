@@ -824,7 +824,7 @@ SOFTWARE.
 [addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/396c694/README.md
 [home-panel-issue]: https://github.com/hassio-addons/addon-home-panel/issues
 [home-panel-version-shield]: https://img.shields.io/badge/version-396c694-blue.svg
-[home-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/home-panel.svg
+[home-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/home-panel-armhf.svg
 [home-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [home-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -904,7 +904,7 @@ SOFTWARE.
 [addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/33da71c/README.md
 [matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues
 [matrix-version-shield]: https://img.shields.io/badge/version-33da71c-blue.svg
-[matrix-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/matrix.svg
+[matrix-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/matrix-armhf.svg
 [matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1034,7 +1034,7 @@ SOFTWARE.
 [addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/3807104/README.md
 [thelounge-issue]: https://github.com/hassio-addons/addon-thelounge/issues
 [thelounge-version-shield]: https://img.shields.io/badge/version-3807104-blue.svg
-[thelounge-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/thelounge.svg
+[thelounge-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/thelounge-armhf.svg
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
