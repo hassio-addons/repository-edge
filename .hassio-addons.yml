@@ -82,7 +82,7 @@ addons:
     target: matrix
     image: hassioaddons/matrix-{arch}
   mopidy:
-    repository: hassio-addons/addons-mopidy
+    repository: hassio-addons/addon-mopidy
     target: mopidy
     image: hassioaddons/mopidy-{arch}
   motioneye:
