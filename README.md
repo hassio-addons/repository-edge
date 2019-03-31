@@ -859,11 +859,11 @@ SOFTWARE.
 [addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/3ba6a2f/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
 [influxdb-version-shield]: https://img.shields.io/badge/version-3ba6a2f-blue.svg
-[influxdb-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/influxdb-armhf.svg
+[influxdb-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/influxdb-amd64.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[influxdb-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[influxdb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[influxdb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/4843387
 [addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/4843387/README.md
