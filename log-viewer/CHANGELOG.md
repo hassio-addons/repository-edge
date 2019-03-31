@@ -1,5 +1,7 @@
-# Changelog since v0.4.0
+# Changelog since v0.4.1
 
-2019/03/28 18:36 UTC - [a801387](https://github.com/hassio-addons/addon-log-viewer/commit/a801387443a08b365c756885822aebf3dc6c875d) by [@frenck](https://github.com/frenck)
-> :ambulance: Adds explicit architecture definition 
+2019/03/31 21:28 UTC - [5a4c91e](https://github.com/hassio-addons/addon-log-viewer/commit/5a4c91e6f389f2c27c794f3581bcc92446c8c48a) by [@allanpersson](https://github.com/allanpersson)
+> Update README.md
+
+Adding panel_iframe section 
 
