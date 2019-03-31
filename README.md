@@ -773,7 +773,7 @@ SOFTWARE.
 [appdaemon3-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon3-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon3-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[appdaemon3-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[appdaemon3-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [appdaemon3-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-example]: https://github.com/hassio-addons/addon-example/tree/95e52b8
 [addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/95e52b8/README.md
@@ -1079,7 +1079,7 @@ SOFTWARE.
 [addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/17c090a/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
 [traccar-version-shield]: https://img.shields.io/badge/version-17c090a-blue.svg
-[traccar-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/traccar.svg
+[traccar-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/traccar-armhf.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
