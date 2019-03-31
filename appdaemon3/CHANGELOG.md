@@ -1,45 +1,32 @@
-# Changelog since v1.6.0
+# Changelog since v1.7.0
 
-2019/02/27 20:37 UTC - [d4f51d8](https://github.com/hassio-addons/addon-appdaemon3/commit/d4f51d8bbe37828677b179bdd4f4bc2b11ca92ce) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.3.2 
+2019/03/31 20:48 UTC - [88418d9](https://github.com/hassio-addons/addon-appdaemon3/commit/88418d9a10321e80d34ea582979e8b5ad26e88f4) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes old library call 
 
-2019/02/27 20:37 UTC - [a96c909](https://github.com/hassio-addons/addon-appdaemon3/commit/a96c909d6498dcd66c79c05048b70b52c7a99c2d) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds option to disable auto token update 
+2019/03/31 20:48 UTC - [4fcfc84](https://github.com/hassio-addons/addon-appdaemon3/commit/4fcfc842d0a3ce7fc8cdbcc46b6d9258e4bcdf4a) by [@frenck](https://github.com/frenck)
+> :hammer: Rewrite add-on onto Bashio 
 
-2019/02/27 20:37 UTC - [47570c2](https://github.com/hassio-addons/addon-appdaemon3/commit/47570c2a58eced4187236c877e798d425811da1a) by [@frenck](https://github.com/frenck)
-> :pencil2: Fixes spelling error in Dockerfile 
+2019/03/31 20:48 UTC - [4066c66](https://github.com/hassio-addons/addon-appdaemon3/commit/4066c66d0e65437d09e4907831652190b29343d2) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Python PIP to 19.0.3 
 
-2019/02/27 20:37 UTC - [f3f5a36](https://github.com/hassio-addons/addon-appdaemon3/commit/f3f5a36a0d6e34b0833217e4bd5de1a2c4321f18) by [@frenck](https://github.com/frenck)
-> :arrow_up: Python PIP to 18.1 
+2019/03/31 20:48 UTC - [500df72](https://github.com/hassio-addons/addon-appdaemon3/commit/500df72c190f255f94671390a62f8b16cf284f86) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Python to 3.6.8-r1 
 
-2019/02/27 20:37 UTC - [3f64a4a](https://github.com/hassio-addons/addon-appdaemon3/commit/3f64a4aaa231d4660dbbdc1d518801b5d3bf4b19) by [@frenck](https://github.com/frenck)
-> Merge branch 'master' of github.com:hassio-addons/addon-appdaemon3 
+2019/03/31 20:48 UTC - [6b87944](https://github.com/hassio-addons/addon-appdaemon3/commit/6b879444f2dddaaf31937cbe7ea7fc6d5d1fa681) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libffi to 3.2.1-r6 
 
-2019/02/27 20:37 UTC - [00f7801](https://github.com/hassio-addons/addon-appdaemon3/commit/00f7801ebec5fb67c3453175858d113829d80984) by [@frenck](https://github.com/frenck)
-> :tractor: Replaces add-on link with GitHub link 
+2019/03/31 20:48 UTC - [9b0a3bf](https://github.com/hassio-addons/addon-appdaemon3/commit/9b0a3bfeb059f2809d9ab93ccfa1b1628c41250e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades gcc to 8.2.0-r2 
 
-2019/02/27 20:37 UTC - [ff3292c](https://github.com/hassio-addons/addon-appdaemon3/commit/ff3292c4a6a3ac571b81b753106104cdbfdd739e) by [@frenck](https://github.com/frenck)
-> :tractor: Moves Python requirements out of the Dockerfile 
+2019/03/31 20:48 UTC - [2d7df86](https://github.com/hassio-addons/addon-appdaemon3/commit/2d7df86cea0b78c324f76ef75df5b3abd24711d3) by [@frenck](https://github.com/frenck)
+> :hammer: Makes log_level optional 
 
-2019/02/27 20:37 UTC - [f186300](https://github.com/hassio-addons/addon-appdaemon3/commit/f186300cdd8df6be209b9116a1a080b66992f2a1) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.3.1 
+2019/03/31 20:48 UTC - [e2d209e](https://github.com/hassio-addons/addon-appdaemon3/commit/e2d209e5f31dfa55202b9460c61243b5335965aa) by [@frenck](https://github.com/frenck)
+> :fire: Removes custom log format override 
 
-2019/02/27 20:37 UTC - [6630a71](https://github.com/hassio-addons/addon-appdaemon3/commit/6630a710ef889155165b1fb30b1b105517dd5ddb) by [@frenck](https://github.com/frenck)
-> :tractor: :rocket: Refactor of GitLab CI 
+2019/03/31 20:48 UTC - [2c9beba](https://github.com/hassio-addons/addon-appdaemon3/commit/2c9beba623fd6e0d32067641e8829347444dae48) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds ARMv7 support 
 
-2019/02/27 20:37 UTC - [f14fd40](https://github.com/hassio-addons/addon-appdaemon3/commit/f14fd40c79020102d5fa7ae89d1766d97ea920f0) by [@frenck](https://github.com/frenck)
-> :fire: Removes Anchore.io links 
-
-2019/02/27 20:37 UTC - [2af8bed](https://github.com/hassio-addons/addon-appdaemon3/commit/2af8bed761deeb3c628642b39fb4fe58bd2785bc) by [@frenck](https://github.com/frenck)
-> :fire: Removes BountySource links 
-
-2019/02/27 20:37 UTC - [b928cec](https://github.com/hassio-addons/addon-appdaemon3/commit/b928cec74109becf1fdef8c031a1278254f8f413) by [@frenck](https://github.com/frenck)
-> :fireworks: Updates maintenance year to 2019 
-
-2019/02/27 20:37 UTC - [1efec75](https://github.com/hassio-addons/addon-appdaemon3/commit/1efec7591a8e23da60813d27b4d8385f9f8b8f3e) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#33)
-
-* Add renovate.json
-
-* Update renovate.json 
+2019/03/31 20:48 UTC - [0b2069a](https://github.com/hassio-addons/addon-appdaemon3/commit/0b2069a2fbf814e59ece2c8f469e45610af4e981) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.0.1 
 
