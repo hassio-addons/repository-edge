@@ -999,11 +999,11 @@ SOFTWARE.
 [addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/b761137/README.md
 [portainer-issue]: https://github.com/hassio-addons/addon-portainer/issues
 [portainer-version-shield]: https://img.shields.io/badge/version-b761137-blue.svg
-[portainer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/portainer.svg
+[portainer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/portainer-armhf.svg
 [portainer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [portainer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[portainer-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[portainer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [portainer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/bb24b5e
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/bb24b5e/README.md
