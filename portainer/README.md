@@ -53,13 +53,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-portainer/blob/b761137/README.md
+[docs]: https://github.com/hassio-addons/addon-portainer/blob/78d9cdf/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-portainer/68836?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-b761137-blue.svg
-[release]: https://github.com/hassio-addons/addon-portainer/tree/b761137
+[release-shield]: https://img.shields.io/badge/version-78d9cdf-blue.svg
+[release]: https://github.com/hassio-addons/addon-portainer/tree/78d9cdf
 [screenshot]: https://github.com/hassio-addons/addon-portainer/raw/master/images/screenshot.png
