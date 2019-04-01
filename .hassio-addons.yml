@@ -124,7 +124,7 @@ addons:
   spotify:
     repository: hassio-addons/addon-spotify-connect
     target: spotify
-    image: hassioaddons/spotify
+    image: hassioaddons/spotify-{arch}
   tasmoadmin:
     repository: hassio-addons/addon-tasmoadmin
     target: tasmoadmin
