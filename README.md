@@ -783,7 +783,7 @@ SOFTWARE.
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[example-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[example-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/40748d5
 [addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/40748d5/README.md
@@ -799,7 +799,7 @@ SOFTWARE.
 [addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/c611aea/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
 [glances-version-shield]: https://img.shields.io/badge/version-c611aea-blue.svg
-[glances-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/glances.svg
+[glances-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/glances-armhf.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
