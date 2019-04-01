@@ -823,7 +823,7 @@ SOFTWARE.
 [grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[grocy-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[grocy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grocy-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/tree/45948c0
 [addon-doc-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/blob/45948c0/README.md
@@ -1029,7 +1029,7 @@ SOFTWARE.
 [addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/bdf520e/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
 [spotify-version-shield]: https://img.shields.io/badge/version-bdf520e-blue.svg
-[spotify-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/spotify.svg
+[spotify-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/spotify-armhf.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
