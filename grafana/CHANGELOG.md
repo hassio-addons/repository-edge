@@ -1,8 +1,5 @@
-# Changelog since v2.0.0
+# Changelog since v2.0.1
 
-2019/03/19 20:27 UTC - [01c3290](https://github.com/hassio-addons/addon-grafana/commit/01c32902c597e0368c361bd3fc09987a3f2241e3) by [@frenck](https://github.com/frenck)
-> :ambulance: Workaround Docker issue by reinstating legacy tags 
-
-2019/03/19 20:27 UTC - [7eb4eb3](https://github.com/hassio-addons/addon-grafana/commit/7eb4eb3002d33bb692b77dc23cc0639b0e9aae5c) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Grafana to v6.0.2 
+2019/04/03 15:08 UTC - [a9ad13b](https://github.com/hassio-addons/addon-grafana/commit/a9ad13b37841dba2961b3dbaf41d6951cf739568) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Update Grafana to v6.1.0 (#28) 
 
