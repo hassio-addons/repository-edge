@@ -1,3 +1,5 @@
-2019/03/25 23:16 UTC - [de161d4](https://github.com/hassio-addons/addon-zerotier/commit/de161d4c104cc15ce29663e5c71b0348e5c65833) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes missing ZeroTier link in README 
+# Changelog since v0.1.0
+
+2019/04/03 21:22 UTC - [e137e38](https://github.com/hassio-addons/addon-zerotier/commit/e137e383a85e51b6a68d3a62df0dc9d6724f26aa) by [@timmo001](https://github.com/timmo001)
+> :books: Update example config (#6) 
 
