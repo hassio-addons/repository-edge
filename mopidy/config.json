@@ -1,6 +1,6 @@
 {
   "name": "Mopidy",
-  "version": "b118207",
+  "version": "17519a0",
   "slug": "mopidy",
   "description": "Mopidy is an extensible music server",
   "url": "https://github.com/hassio-addons/addon-mopidy",
