@@ -1,5 +1,5 @@
-# Changelog since v2.0.1
+# Changelog since v2.0.2
 
-2019/04/03 15:08 UTC - [a9ad13b](https://github.com/hassio-addons/addon-grafana/commit/a9ad13b37841dba2961b3dbaf41d6951cf739568) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Grafana to v6.1.0 (#28) 
+2019/04/05 13:24 UTC - [4ec670e](https://github.com/hassio-addons/addon-grafana/commit/4ec670e2802d5b10c1bf5e2f3d9b5fca3545900a) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Update Grafana to v6.1.1 (#29) 
 
