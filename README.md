@@ -815,10 +815,10 @@ SOFTWARE.
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [grafana-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grafana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-grocy]: https://github.com/hassio-addons/addon-grocy/tree/95e878a
-[addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/95e878a/README.md
+[addon-grocy]: https://github.com/hassio-addons/addon-grocy/tree/689cbcd
+[addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/689cbcd/README.md
 [grocy-issue]: https://github.com/hassio-addons/addon-grocy/issues
-[grocy-version-shield]: https://img.shields.io/badge/version-95e878a-blue.svg
+[grocy-version-shield]: https://img.shields.io/badge/version-689cbcd-blue.svg
 [grocy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grocy.svg
 [grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
