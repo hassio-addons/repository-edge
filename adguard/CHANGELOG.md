@@ -1,29 +1,20 @@
-# Changelog since v0.2.0
+# Changelog since v0.3.0
 
-2019/03/20 21:37 UTC - [f2ebdf7](https://github.com/hassio-addons/addon-adguard-home/commit/f2ebdf771e740888b6163535a5b195446c7b1668) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes download location for ARMv7 
+2019/04/11 20:00 UTC - [f3ea3ad](https://github.com/hassio-addons/addon-adguard-home/commit/f3ea3ad438af2f5034e2510a3fd8a5308b90b5b0) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds Hassio Ingress support 
 
-2019/03/20 21:37 UTC - [ab33608](https://github.com/hassio-addons/addon-adguard-home/commit/ab33608f47fc30e128e77986cbda0062fc681415) by [@frenck](https://github.com/frenck)
-> :hammer: Makes NGinx wait for AdGuard before starting 
+2019/04/11 20:00 UTC - [ed8c740](https://github.com/hassio-addons/addon-adguard-home/commit/ed8c740cf02df8524516be1b3dde3ff38614c81b) by [@frenck](https://github.com/frenck)
+> :hammer: Improves S6 finish scripts 
 
-2019/03/20 21:37 UTC - [7f275be](https://github.com/hassio-addons/addon-adguard-home/commit/7f275be96f670cac5209fdd5090dcfb619878b5b) by [@frenck](https://github.com/frenck)
-> :ambulance: Removes obsolete opt folder creation 
+2019/04/11 20:00 UTC - [ddb70ec](https://github.com/hassio-addons/addon-adguard-home/commit/ddb70ec0c2a56709a87db858ad7749883e707827) by [@frenck](https://github.com/frenck)
+> :hammer: Use Bashio wait_for before starting NGinx 
 
-2019/03/20 21:37 UTC - [aa079be](https://github.com/hassio-addons/addon-adguard-home/commit/aa079bea3172cd7517fb2c752a0bed8802b71759) by [@frenck](https://github.com/frenck)
-> :hammer: Rewrite add-on onto Bashio 
+2019/04/11 20:00 UTC - [5e9a514](https://github.com/hassio-addons/addon-adguard-home/commit/5e9a514932e40fd404a0368a6d54cbbd8b4b6f8d) by [@frenck](https://github.com/frenck)
+> :sparkles: Puts AdGuard into debug mode when add-on is 
 
-2019/03/20 21:37 UTC - [a801952](https://github.com/hassio-addons/addon-adguard-home/commit/a801952a8cff53aa8175536f037c66d77981b8ad) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for ARMv7 
+2019/04/11 20:00 UTC - [5266af2](https://github.com/hassio-addons/addon-adguard-home/commit/5266af2a4430ba2e3ff9562ad6f7b8e38d4e04c8) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v3.1.0 
 
-2019/03/20 21:37 UTC - [1a62a27](https://github.com/hassio-addons/addon-adguard-home/commit/1a62a27cfb1a5cbf90d7a157143226972e2ba949) by [@frenck](https://github.com/frenck)
-> :ambulance: Workaround Docker issue by reinstating legacy tags 
-
-2019/03/20 21:37 UTC - [5e1aed9](https://github.com/hassio-addons/addon-adguard-home/commit/5e1aed9a8f9864d4ab78ac9793c2fb64d21bac5d) by [@frenck](https://github.com/frenck)
-> :hammer: Makes log_level optional 
-
-2019/03/20 21:37 UTC - [5a3a3b0](https://github.com/hassio-addons/addon-adguard-home/commit/5a3a3b0357e9dd6d2b7764811ebc18740539bbf6) by [@frenck](https://github.com/frenck)
-> :fire: Removes custom log format override 
-
-2019/03/20 21:37 UTC - [edbe2f9](https://github.com/hassio-addons/addon-adguard-home/commit/edbe2f924d84578106ee14e748bfedf79ca7e699) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 3.0.0 
+2019/04/11 20:00 UTC - [0caeab4](https://github.com/hassio-addons/addon-adguard-home/commit/0caeab44647810cb5126e4913f84a80f329baec1) by [@tjorim](https://github.com/tjorim)
+> ⬆️ Upgrades AdGuard Home to v0.94 (#7) 
 
