@@ -43,13 +43,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-mopidy/blob/17519a0/README.md
+[docs]: https://github.com/hassio-addons/addon-mopidy/blob/6b0066b/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-17519a0-blue.svg
-[release]: https://github.com/hassio-addons/addon-mopidy/tree/17519a0
+[release-shield]: https://img.shields.io/badge/version-6b0066b-blue.svg
+[release]: https://github.com/hassio-addons/addon-mopidy/tree/6b0066b
 [screenshot]: https://github.com/hassio-addons/addon-mopidy/raw/master/images/screenshot.png
