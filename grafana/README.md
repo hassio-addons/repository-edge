@@ -49,13 +49,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grafana/blob/4ec670e/README.md
+[docs]: https://github.com/hassio-addons/addon-grafana/blob/a7a08fa/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-grafana/54674?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-4ec670e-blue.svg
-[release]: https://github.com/hassio-addons/addon-grafana/tree/4ec670e
+[release-shield]: https://img.shields.io/badge/version-a7a08fa-blue.svg
+[release]: https://github.com/hassio-addons/addon-grafana/tree/a7a08fa
 [screenshot]: https://github.com/hassio-addons/addon-grafana/raw/master/images/screenshot.png
