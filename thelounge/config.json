@@ -1,6 +1,6 @@
 {
   "name": "The Lounge",
-  "version": "fd6b8fd",
+  "version": "578dfa3",
   "slug": "thelounge",
   "description": "A self-hosted web IRC client",
   "url": "https://github.com/hassio-addons/addon-thelounge",
@@ -23,6 +23,9 @@
   "ingress_port": 15102,
   "ports": {
     "15100/tcp": 15100
+  },
+  "ports_description": {
+    "15100/tcp": "The Lounge Web UI"
   },
   "map": [
     "config:rw",
