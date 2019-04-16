@@ -100,7 +100,7 @@ addons:
   nginxproxymanager:
     repository: hassio-addons/addon-nginx-proxy-manager
     target: proxy-manager
-    image: hassioaddons/nginxproxymanager
+    image: hassioaddons/nginxproxymanager-{arch}
   nut:
     repository: hassio-addons/addon-nut
     target: nut
