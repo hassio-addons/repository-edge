@@ -47,12 +47,12 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-zerotier/blob/d3f3174/README.md
+[docs]: https://github.com/hassio-addons/addon-zerotier/blob/cc291a4/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-d3f3174-blue.svg
-[release]: https://github.com/hassio-addons/addon-zerotier/tree/d3f3174
+[release-shield]: https://img.shields.io/badge/version-cc291a4-blue.svg
+[release]: https://github.com/hassio-addons/addon-zerotier/tree/cc291a4

@@ -1,6 +1,6 @@
 {
   "name": "ZeroTier One",
-  "version": "d3f3174",
+  "version": "cc291a4",
   "slug": "zerotier",
   "description": "Radically simplify your network with a virtual networking layer that works the same everywhere",
   "url": "https://github.com/hassio-addons/addon-zerotier",
@@ -40,7 +40,7 @@
   },
   "schema": {
     "networks": [
-      "match([0-9a-z]{16})"
+      "match(^!secret [a-zA-Z0-9_\\-]+$|[0-9a-z]{16})"
     ],
     "api_auth_token": "str",
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?"
