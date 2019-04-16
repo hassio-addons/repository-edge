@@ -1,3 +1,3 @@
-2019/03/07 11:59 UTC - [ff4f53a](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/ff4f53aadd04010752d1e44a32d707ac517daff6) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.3.2 
+2019/04/16 21:05 UTC - [930ed5e](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/930ed5e89a89539764c11f2f5d0bbff8ddb79a94) by [@frenck](https://github.com/frenck)
+> :hammer: Rewrite add-on onto Bashio 
 

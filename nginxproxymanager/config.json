@@ -1,6 +1,6 @@
 {
   "name": "Nginx Proxy Manager",
-  "version": "ff4f53a",
+  "version": "930ed5e",
   "slug": "nginxproxymanager",
   "description": "Manage Nginx proxy hosts with a simple, powerful interface",
   "url": "https://github.com/hassio-addons/addon-nginx-proxy-manager",
@@ -10,6 +10,7 @@
     "aarch64",
     "amd64",
     "armhf",
+    "armv7",
     "i386"
   ],
   "ports": {
@@ -17,12 +18,14 @@
     "81": 81,
     "443": 443
   },
+  "ports_description": {
+    "80": "HTTP Entrance port",
+    "81": "Proxy management web interface",
+    "443": "HTTPS/SSL Entrance port"
+  },
   "boot": "auto",
   "hassio_api": true,
   "hassio_role": "default",
-  "homeassistant_api": false,
-  "host_network": false,
-  "apparmor": true,
   "map": [
     "ssl:rw"
   ],
@@ -30,8 +33,5 @@
   "schema": {
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?"
   },
-  "environment": {
-    "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
-  },
-  "image": "hassioaddons/nginxproxymanager"
+  "image": "hassioaddons/nginxproxymanager-{arch}"
 }
