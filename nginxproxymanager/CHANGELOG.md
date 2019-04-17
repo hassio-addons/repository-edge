@@ -1,3 +1,3 @@
-2019/04/16 21:05 UTC - [930ed5e](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/930ed5e89a89539764c11f2f5d0bbff8ddb79a94) by [@frenck](https://github.com/frenck)
-> :hammer: Rewrite add-on onto Bashio 
+2019/04/17 10:20 UTC - [c14378e](https://github.com/hassio-addons/addon-nginx-proxy-manager/commit/c14378e358518b9b8f4af0edc334a4eb8610c9c2) by [@frenck](https://github.com/frenck)
+> :books: Documentation tweaks 
 
