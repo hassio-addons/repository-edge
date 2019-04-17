@@ -53,13 +53,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/88a3201/README.md
+[docs]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/99bea51/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-nginx-proxy-manager/111830?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-88a3201-blue.svg
-[release]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/88a3201
+[release-shield]: https://img.shields.io/badge/version-99bea51-blue.svg
+[release]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/99bea51
 [screenshot]: https://github.com/hassio-addons/addon-nginx-proxy-manager/raw/master/images/screenshot.gif
