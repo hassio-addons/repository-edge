@@ -1,32 +1,22 @@
-# Changelog since v0.7.1
+# Changelog since v0.8.0
 
-2019/03/30 19:21 UTC - [49d9a47](https://github.com/hassio-addons/addon-unifi/commit/49d9a47a4c26102b121559e3d783f512a08e6f4c) by [@frenck](https://github.com/frenck)
-> :ambulance: Disables ARMHF in GitLab CI 
+2019/04/17 16:36 UTC - [7d09334](https://github.com/hassio-addons/addon-unifi/commit/7d0933481e55d6118a4b394c91787bfdf9cacd0a) by [@Nyqi](https://github.com/Nyqi)
+> :arrow_up: Upgrades UniFi Controller to 5.10.21 (#31)
 
-2019/03/30 19:21 UTC - [2308818](https://github.com/hassio-addons/addon-unifi/commit/230881891d59cf396f893e14fa7d06555b354656) by [@frenck](https://github.com/frenck)
-> :hammer: Rewrite add-on onto Bashio 
+Updated Unifi Controller to 5.10.21 
 
-2019/03/30 19:21 UTC - [5ace7dc](https://github.com/hassio-addons/addon-unifi/commit/5ace7dc5ec8a931c081ad521fe17584c42353bd6) by [@frenck](https://github.com/frenck)
-> :fire: Removes armhf leftovers 
+2019/04/17 16:36 UTC - [73fab4b](https://github.com/hassio-addons/addon-unifi/commit/73fab4b84dde4618abf24427d00e4936e4bee28d) by [@frenck](https://github.com/frenck)
+> :hammer: Simplifies add-on code logic 
 
-2019/03/30 19:21 UTC - [7c6f15b](https://github.com/hassio-addons/addon-unifi/commit/7c6f15b3a1243f5f66b0fe6c8bed2baed6c5bb1f) by [@frenck](https://github.com/frenck)
-> :books: Updates documentation for ARMv7 
+2019/04/17 16:36 UTC - [8bc951a](https://github.com/hassio-addons/addon-unifi/commit/8bc951ae02d7fe60c5795d3f1cad4b463a00543b) by [@frenck](https://github.com/frenck)
+> :fire: Removes default config options 
 
-2019/03/30 19:21 UTC - [4134835](https://github.com/hassio-addons/addon-unifi/commit/41348357af26cf11aac4d72ff6551f0d0039a92a) by [@frenck](https://github.com/frenck)
-> :ambulance: Workaround Docker issue by reinstating legacy tags 
+2019/04/17 16:36 UTC - [2ef4502](https://github.com/hassio-addons/addon-unifi/commit/2ef4502b06173d4aff0849648b309edab2675074) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds port descriptions 
 
-2019/03/30 19:21 UTC - [89ce28f](https://github.com/hassio-addons/addon-unifi/commit/89ce28f57b197323fcbcbcbe73155de2a23ce9b9) by [@frenck](https://github.com/frenck)
-> :fire: Removes custom log format override 
+2019/04/17 16:36 UTC - [d8884af](https://github.com/hassio-addons/addon-unifi/commit/d8884af3af119778fc88dca95813d61be5af2f2e) by [@frenck](https://github.com/frenck)
+> :hammer: Disables port 1900 by default to prevent collisions 
 
-2019/03/30 19:21 UTC - [9779fa0](https://github.com/hassio-addons/addon-unifi/commit/9779fa0a31c978eae07b177cd20b4d23c0fedd01) by [@frenck](https://github.com/frenck)
-> :fire: Removes log_level from default options 
-
-2019/03/30 19:21 UTC - [845cb3f](https://github.com/hassio-addons/addon-unifi/commit/845cb3f80434edc51fe40ca616a846d6e7847ec4) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 3.0.0 
-
-2019/03/30 19:21 UTC - [5c5d6e5](https://github.com/hassio-addons/addon-unifi/commit/5c5d6e54ac5687df999ef9212813f76e82165f2b) by [@schliflo](https://github.com/schliflo)
-> ⬆️ Upgrades UniFi Controller to 5.10.20 (#28) 
-
-2019/03/30 19:21 UTC - [eae07e0](https://github.com/hassio-addons/addon-unifi/commit/eae07e0c528b1f5805088fa1b131348df0cb79d2) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.3.1 
+2019/04/17 16:36 UTC - [b97d3f7](https://github.com/hassio-addons/addon-unifi/commit/b97d3f74bfae0edf1d270c98c3b00a1adfd02d8b) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.1.0 
 
