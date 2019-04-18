@@ -1,68 +1,74 @@
-# Changelog since v0.2.0
+# Changelog since v0.3.0
 
-2019/02/04 21:01 UTC - [fad05e8](https://github.com/hassio-addons/addon-motioneye/commit/fad05e88dd6ba49a123794cfec20ba8ec34a9f83) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds mosquito clients 
+2019/04/18 18:46 UTC - [d9f8927](https://github.com/hassio-addons/addon-motioneye/commit/d9f8927c7bb093c755df4709cf1dbbace070f0ec) by [@frenck](https://github.com/frenck)
+> :arrow_down: Downgrades tornado to 5.1.1 
 
-2019/02/04 21:01 UTC - [d59990a](https://github.com/hassio-addons/addon-motioneye/commit/d59990a506d7e8dc6ff7d3ffc62b80f4c3142190) by [@ludeeus](https://github.com/ludeeus)
-> :sparkles: Adds option to enable motion webcontrol (#17)
+2019/04/18 18:46 UTC - [f7491c1](https://github.com/hassio-addons/addon-motioneye/commit/f7491c1beff802978f795c07b53145338e0e4e2d) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades motioneye to 0.40rc5 
 
-* ✨Adds motion webcontrol
+2019/04/18 18:46 UTC - [a0ede73](https://github.com/hassio-addons/addon-motioneye/commit/a0ede738a14f11251fc2ea632f782c4d7f945ffe) by [@frenck](https://github.com/frenck)
+> :ambulance: Workaround Docker issue by reinstating legacy tags 
 
-* ⬆️ Upgrades motion to version 4.1.1-r1
+2019/04/18 18:46 UTC - [f32ba3a](https://github.com/hassio-addons/addon-motioneye/commit/f32ba3a5cb46bef84c37bb7c3935a9c6e94d5c5c) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds ARMv7 support 
 
-* ⬆️ Upgrades nginx to version 1.14.2-r0
+2019/04/18 18:46 UTC - [ff24879](https://github.com/hassio-addons/addon-motioneye/commit/ff24879f52ae450712758ce61238977a3e7e266a) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds Hassio Ingress support 
 
-* ⬆️ Upgrades ffmpeg to version 4.0.2-r0
+2019/04/18 18:46 UTC - [208f125](https://github.com/hassio-addons/addon-motioneye/commit/208f125141eb4cb84dbda457f8b3090aafed1393) by [@frenck](https://github.com/frenck)
+> :fire: Removes default config options 
 
-* 🔨 Configuration cleanup
+2019/04/18 18:46 UTC - [7a432d1](https://github.com/hassio-addons/addon-motioneye/commit/7a432d18660df32b9441a5006197b5d346ad4593) by [@frenck](https://github.com/frenck)
+> :hammer: Rewrite add-on onto Bashio 
 
-*  Rename motion_api to motion_webcontrol
+2019/04/18 18:46 UTC - [09b8ad3](https://github.com/hassio-addons/addon-motioneye/commit/09b8ad3e2f146bf67b6075aea24f08b86da42e61) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades motion to 4.2.2-r0 
 
-* 📝Adds documentation for motion_webcontrol
+2019/04/18 18:46 UTC - [d045ac0](https://github.com/hassio-addons/addon-motioneye/commit/d045ac03e97a4001beee36e076e9edce9dac645c) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades py-setuptools to 40.6.3-r0 
 
-* :pencil2: Updated documentation
+2019/04/18 18:46 UTC - [0bc4b8f](https://github.com/hassio-addons/addon-motioneye/commit/0bc4b8fcf1ea15fe426bf9f0a6c98d2d50500d54) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades mosquitto-clients to 1.5.6-r0 
 
-* :pencil2: Spelling
+2019/04/18 18:46 UTC - [68732ef](https://github.com/hassio-addons/addon-motioneye/commit/68732ef1327978e0d0703163a16cafadced34793) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades python to 2.7.15-r3 
 
-* :warning: Added warning logs 
+2019/04/18 18:46 UTC - [da6b4af](https://github.com/hassio-addons/addon-motioneye/commit/da6b4af92c079f3da3f302e087627fa4595cab6b) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades pip to 18.1-r0 
 
-2019/02/04 21:01 UTC - [e9e86bd](https://github.com/hassio-addons/addon-motioneye/commit/e9e86bde4edac82a9b58400cf29e45ecda2a5c8c) by [@frenck](https://github.com/frenck)
-> :tractor: Refactor of installation method 
+2019/04/18 18:46 UTC - [9ba72a8](https://github.com/hassio-addons/addon-motioneye/commit/9ba72a8de131213fa0267f30ff32626e8919c96b) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades musl-dev to 1.1.20-r4 
 
-2019/02/04 21:01 UTC - [be4be37](https://github.com/hassio-addons/addon-motioneye/commit/be4be377159495e6f5b9cf3d93145c8c01afd4f1) by [@frenck](https://github.com/frenck)
-> :fire: Removes IPv6 switch 
+2019/04/18 18:46 UTC - [0d8be32](https://github.com/hassio-addons/addon-motioneye/commit/0d8be325ae4f7a59b2a4ab12fed6b7c9ea4e4988) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades gcc to 8.3.0-r0 
 
-2019/02/04 21:01 UTC - [b65fb6a](https://github.com/hassio-addons/addon-motioneye/commit/b65fb6ab5fb43fafb578cacd13d918a043b313a0) by [@frenck](https://github.com/frenck)
-> :tractor: Replaces add-on link with GitHub link 
+2019/04/18 18:46 UTC - [313845c](https://github.com/hassio-addons/addon-motioneye/commit/313845cf9f1984d3405f8b7a0939da3135c92ecc) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades curl to 7.64.0-r1 
 
-2019/02/04 21:01 UTC - [add5ac1](https://github.com/hassio-addons/addon-motioneye/commit/add5ac1f422240dcb81a0a380111171359a0f8a6) by [@renovate[bot]](https://github.com/apps/renovate)
-> Configure Renovate (#16)
+2019/04/18 18:46 UTC - [2c25ac9](https://github.com/hassio-addons/addon-motioneye/commit/2c25ac9bffc18530bcc8191201dfbc64146fcb89) by [@frenck](https://github.com/frenck)
+> :hammer: Makes log_level optional 
 
-* Add renovate.json
+2019/04/18 18:46 UTC - [8cacaf5](https://github.com/hassio-addons/addon-motioneye/commit/8cacaf510bae98ff261d8ded10432f21f6106dba) by [@frenck](https://github.com/frenck)
+> :fire: Removes custom log format override 
 
-* Update renovate.json 
+2019/04/18 18:46 UTC - [01e9fe7](https://github.com/hassio-addons/addon-motioneye/commit/01e9fe73387ccd858b3047d6d383a9e5f8e069ef) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.1.0 
 
-2019/02/04 21:01 UTC - [368dd77](https://github.com/hassio-addons/addon-motioneye/commit/368dd779816a113a12185b85d9e95a42303f0032) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.14.2-r0 
+2019/04/18 18:46 UTC - [d0d2122](https://github.com/hassio-addons/addon-motioneye/commit/d0d2122e573cb3a2d3d39d63f700e3b535ee1895) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates pillow to v6 (#29) 
 
-2019/02/04 21:01 UTC - [f696231](https://github.com/hassio-addons/addon-motioneye/commit/f6962313cde032d936702b29a7bf82074ca01174) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades motion to 4.1.1-r0 
+2019/04/18 18:46 UTC - [1adb1db](https://github.com/hassio-addons/addon-motioneye/commit/1adb1db61396b6d08fa11fb56ec0bfd809348db6) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates tornado to v6.0.2 (#28) 
 
-2019/02/04 21:01 UTC - [5842b51](https://github.com/hassio-addons/addon-motioneye/commit/5842b51106c6f269214f243f99f74f42b552d23a) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades ffmpeg to 4.0.2-r0 
+2019/04/18 18:46 UTC - [923dc5e](https://github.com/hassio-addons/addon-motioneye/commit/923dc5e68f739bb16979aa43af939783c8441cd8) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 2.3.2 
 
-2019/02/04 21:01 UTC - [1b69bf8](https://github.com/hassio-addons/addon-motioneye/commit/1b69bf8da12884fbdafb9140a429e1b8c1eeb6d6) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 2.3.1 
+2019/04/18 18:46 UTC - [849fc0f](https://github.com/hassio-addons/addon-motioneye/commit/849fc0f6ce038d4d0ce88d6365b3ab1e8415175e) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates tornado to v6 (#24) 
 
-2019/02/04 21:01 UTC - [8bbfec8](https://github.com/hassio-addons/addon-motioneye/commit/8bbfec8dbefe1ae162889d90cd998aeeaffd41a0) by [@frenck](https://github.com/frenck)
-> :tractor: :rocket: Refactor of GitLab CI 
+2019/04/18 18:46 UTC - [1991253](https://github.com/hassio-addons/addon-motioneye/commit/19912539015608c76359ae64ade5aba93601f0ee) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates MarkupSafe to v1.1.1 (#23) 
 
-2019/02/04 21:01 UTC - [ab6619a](https://github.com/hassio-addons/addon-motioneye/commit/ab6619a9dff13a4c83bb585a209e82b55e09d0ea) by [@frenck](https://github.com/frenck)
-> :fireworks: Updates maintenance year to 2019 
-
-2019/02/04 21:01 UTC - [9eb0c02](https://github.com/hassio-addons/addon-motioneye/commit/9eb0c028f46a68b146bb078237e4bdbf8ece7a49) by [@frenck](https://github.com/frenck)
-> :fire: Removes BountySource links 
-
-2019/02/04 21:01 UTC - [404ccca](https://github.com/hassio-addons/addon-motioneye/commit/404cccad068766582f23eed427bb223ee91a36a9) by [@frenck](https://github.com/frenck)
-> :pencil2: Fixes spelling error in Dockerfile 
+2019/04/18 18:46 UTC - [13c8aa8](https://github.com/hassio-addons/addon-motioneye/commit/13c8aa822724d47adcade865d7a3ebf3c40df5b0) by [@timmo001](https://github.com/timmo001)
+> :pencil2: Typo (#22) 
 
