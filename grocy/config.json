@@ -1,10 +1,10 @@
 {
   "name": "Grocy",
-  "version": "689cbcd",
+  "version": "839d3ff",
   "slug": "grocy",
   "description": "ERP beyond your fridge! A groceries & household management solution for your home",
   "url": "https://github.com/hassio-addons/addon-grocy",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:9192]",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
   "startup": "system",
   "arch": [
     "aarch64",
@@ -21,6 +21,9 @@
   ],
   "ports": {
     "80/tcp": 9192
+  },
+  "ports_description": {
+    "80/tcp": "Web interface"
   },
   "options": {
     "culture": "en",
@@ -42,7 +45,6 @@
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
     "culture": "match(^(da|de|en|es|fr|it|nl|no|pl|ru|ta|tr)$)",
     "currency": "str",
-    "ssl": "bool",
     "features": {
       "batteries": "bool",
       "calendar": "bool",
@@ -52,6 +54,7 @@
       "shoppinglist": "bool",
       "tasks": "bool"
     },
+    "ssl": "bool",
     "certfile": "str",
     "keyfile": "str"
   },
