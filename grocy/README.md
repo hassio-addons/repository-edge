@@ -22,7 +22,7 @@ management solution for your home, delivering features like:
 - Inventory
 - and many more.
 
-[Try out the only demo of Grocy][grocy-demo].
+[Try out the online demo of Grocy][grocy-demo].
 
 [Click here for the full documentation][docs]
 
@@ -51,7 +51,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grocy/blob/5d649cc/README.md
+[docs]: https://github.com/hassio-addons/addon-grocy/blob/d5f3317/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [grocy-demo]: https://demo-en.grocy.info
@@ -60,6 +60,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-5d649cc-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/5d649cc
+[release-shield]: https://img.shields.io/badge/version-d5f3317-blue.svg
+[release]: https://github.com/hassio-addons/addon-grocy/tree/d5f3317
 [screenshot]: https://github.com/hassio-addons/addon-grocy/raw/master/images/screenshot.gif
