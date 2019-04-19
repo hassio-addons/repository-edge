@@ -12,7 +12,17 @@ ERP beyond your fridge! A groceries & household management solution for your hom
 
 ## About
 
-Lorem ipsum.
+[Grocy][grocy] - ERP beyond your fridge is a powerful groceries & household
+management solution for your home, delivering features like:
+
+- Stock management
+- Shopping list
+- Recipes
+- Chores & tasks
+- Inventory
+- and many more.
+
+[Try out the only demo of Grocy][grocy-demo].
 
 [Click here for the full documentation][docs]
 
@@ -41,13 +51,15 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grocy/blob/839d3ff/README.md
+[docs]: https://github.com/hassio-addons/addon-grocy/blob/5d649cc/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
+[grocy-demo]: https://demo-en.grocy.info
+[grocy]: https://grocy.info/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-839d3ff-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/839d3ff
-[screenshot]: https://github.com/hassio-addons/addon-grocy/raw/master/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-5d649cc-blue.svg
+[release]: https://github.com/hassio-addons/addon-grocy/tree/5d649cc
+[screenshot]: https://github.com/hassio-addons/addon-grocy/raw/master/images/screenshot.gif
