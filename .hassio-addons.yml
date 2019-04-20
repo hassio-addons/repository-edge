@@ -88,7 +88,7 @@ addons:
   motioneye:
     repository: hassio-addons/addon-motioneye
     target: motioneye
-    image: hassioaddons/motioneye
+    image: hassioaddons/motioneye-{arch}
   mqtt:
     repository: hassio-addons/addon-mqtt
     target: mqtt
