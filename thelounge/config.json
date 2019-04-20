@@ -1,6 +1,6 @@
 {
   "name": "The Lounge",
-  "version": "8025753",
+  "version": "5a9404c",
   "slug": "thelounge",
   "description": "A self-hosted web IRC client",
   "url": "https://github.com/hassio-addons/addon-thelounge",
@@ -15,9 +15,8 @@
   "boot": "auto",
   "hassio_api": true,
   "hassio_role": "default",
-  "homeassistant": "0.91.1",
+  "homeassistant": "0.91.4",
   "homeassistant_api": true,
-  "host_network": false,
   "ingress": true,
   "ports": {
     "80/tcp": null
