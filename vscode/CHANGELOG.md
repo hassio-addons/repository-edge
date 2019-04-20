@@ -1,38 +1,5 @@
-# Changelog since v0.3.0
+# Changelog since v0.4.0
 
-2019/04/19 17:38 UTC - [5d58577](https://github.com/hassio-addons/addon-vscode/commit/5d58577ec9f98e1d8db8e1f24718472c21208604) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes JSON lint issue 
-
-2019/04/19 17:38 UTC - [43e6fa9](https://github.com/hassio-addons/addon-vscode/commit/43e6fa95bb300f25fbb257dbb2eef89ce1ebff57) by [@frenck](https://github.com/frenck)
-> :hammer: Tweaked default user settings for a better starting experience 
-
-2019/04/19 17:38 UTC - [3eb4c16](https://github.com/hassio-addons/addon-vscode/commit/3eb4c16a691aea1921a7e6a8924ae066a17ee627) by [@frenck](https://github.com/frenck)
-> :sparkles: Persist user's ZSH history across restarts 
-
-2019/04/19 17:38 UTC - [a1bbf10](https://github.com/hassio-addons/addon-vscode/commit/a1bbf10f65fa48e1f18ab1649e3cd6dc219a849e) by [@frenck](https://github.com/frenck)
-> :books: Updates README about section to match latest changes 
-
-2019/04/19 17:38 UTC - [bf63c46](https://github.com/hassio-addons/addon-vscode/commit/bf63c46cc6f863cd29e3b9ebee0d3e977f630e1a) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds user configuration upgrade method 
-
-2019/04/19 17:38 UTC - [62e959d](https://github.com/hassio-addons/addon-vscode/commit/62e959d3144d5464cbf7757f63cf9e598737fb7f) by [@hjanum](https://github.com/hjanum)
-> :sparkles: Adds *.dash extension for YAML (#24)
-
-Added dash extension for YAML 
-
-2019/04/19 17:38 UTC - [54a2ca7](https://github.com/hassio-addons/addon-vscode/commit/54a2ca7a3462d12f6b196bf257c8774db27daf52) by [@riemers](https://github.com/riemers)
-> :sparkles: Adds vscode YAML extension (#26)
-
-* Update to use !items in yaml
-
-* Add yaml checker 
-
-2019/04/19 17:38 UTC - [ecab453](https://github.com/hassio-addons/addon-vscode/commit/ecab453e8bda015d6c1546526be93822cb8da5f2) by [@timmo001](https://github.com/timmo001)
-> :hammer: Add disable telemetry as an option 
-
-2019/04/19 17:38 UTC - [cefcf7b](https://github.com/hassio-addons/addon-vscode/commit/cefcf7b0ba300179094b2f756bc7b70a634069bc) by [@timmo001](https://github.com/timmo001)
-> :hammer: Adds disable telemetry flag 
-
-2019/04/19 17:38 UTC - [bacec0d](https://github.com/hassio-addons/addon-vscode/commit/bacec0d21face130420f671b9ac52e762edd3acc) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update code server to 1.868-vsc1.33.1 
+2019/04/20 12:48 UTC - [45f86db](https://github.com/hassio-addons/addon-vscode/commit/45f86db5bec71e6ba8b1301ee3f8fc136ccfdc9b) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Updates code-server to 1.903-vsc1.33.1 (#29) 
 
