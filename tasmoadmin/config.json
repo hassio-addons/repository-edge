@@ -1,6 +1,6 @@
 {
   "name": "TasmoAdmin",
-  "version": "57585cb",
+  "version": "0b4f6da",
   "slug": "sonweb",
   "description": "Centrally manage all your Sonoff-Tasmota devices",
   "url": "https://github.com/hassio-addons/addon-tasmoadmin",
@@ -21,6 +21,9 @@
   ],
   "ports": {
     "9541/tcp": 9541
+  },
+  "ports_description": {
+    "9541/tcp": "TasmoAdmin web interface"
   },
   "options": {
     "ssl": true,
