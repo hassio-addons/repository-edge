@@ -1,8 +1,8 @@
-# Changelog since v0.2.0
+# Changelog since v0.2.1
 
-2019/04/10 21:56 UTC - [f6b9873](https://github.com/hassio-addons/addon-chrony/commit/f6b98735e04f6ab88328aac7258108fa86097418) by [@sinclairpaul](https://github.com/sinclairpaul)
-> :card_index: Update gitlab config (#14) 
+2019/04/20 12:21 UTC - [d181f54](https://github.com/hassio-addons/addon-chrony/commit/d181f548c9468d195ddbd0e285d1c09fc15cad50) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds port descriptions (#16) 
 
-2019/04/10 21:56 UTC - [67cf533](https://github.com/hassio-addons/addon-chrony/commit/67cf533f3176ce43c6f4275e13233e11e512340e) by [@sinclairpaul](https://github.com/sinclairpaul)
-> :hammer: Update base image (#13) 
+2019/04/20 12:21 UTC - [465a615](https://github.com/hassio-addons/addon-chrony/commit/465a6156f7747bc6e2dbcd6202ccd17a9afff331) by [@frenck](https://github.com/frenck)
+> :hammer: Refactor of init scripts (#15) 
 
