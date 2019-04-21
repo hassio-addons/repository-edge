@@ -819,7 +819,7 @@ SOFTWARE.
 [addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/9a72670/README.md
 [grocy-issue]: https://github.com/hassio-addons/addon-grocy/issues
 [grocy-version-shield]: https://img.shields.io/badge/version-9a72670-blue.svg
-[grocy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grocy.svg
+[grocy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grocy-armhf.svg
 [grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -853,7 +853,7 @@ SOFTWARE.
 [ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[ide-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[ide-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/95e8229
 [addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/95e8229/README.md
