@@ -1,3 +1,3 @@
-2019/04/19 10:36 UTC - [d5f3317](https://github.com/hassio-addons/addon-grocy/commit/d5f3317266383cd4f326908ddfe617f58a857248) by [@frenck](https://github.com/frenck)
-> :books: Fixes type in documentation 
+2019/04/21 15:55 UTC - [9a72670](https://github.com/hassio-addons/addon-grocy/commit/9a726707dd165d36b7a141b85a434db40023342e) by [@frenck](https://github.com/frenck)
+> :pencil2: Updates forum topic URLs 
 
