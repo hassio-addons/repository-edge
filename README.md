@@ -1005,10 +1005,10 @@ SOFTWARE.
 [portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [portainer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [portainer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/bb24b5e
-[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/bb24b5e/README.md
+[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/ec085f3
+[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/ec085f3/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
-[sqlite-web-version-shield]: https://img.shields.io/badge/version-bb24b5e-blue.svg
+[sqlite-web-version-shield]: https://img.shields.io/badge/version-ec085f3-blue.svg
 [sqlite-web-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sqlite-web-armhf.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
