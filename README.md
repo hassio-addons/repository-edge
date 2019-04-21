@@ -1009,11 +1009,11 @@ SOFTWARE.
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/bb24b5e/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
 [sqlite-web-version-shield]: https://img.shields.io/badge/version-bb24b5e-blue.svg
-[sqlite-web-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sqlite-web.svg
+[sqlite-web-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sqlite-web-armhf.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/a18ac6b
 [addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/a18ac6b/README.md
