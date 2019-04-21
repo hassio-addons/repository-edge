@@ -132,7 +132,7 @@ addons:
   tautulli:
     repository: hassio-addons/addon-tautulli
     target: tautulli
-    image: hassioaddons/tautulli
+    image: hassioaddons/tautulli-{arch}
   ssh:
     repository: hassio-addons/addon-ssh
     target: ssh
