@@ -1049,11 +1049,11 @@ SOFTWARE.
 [addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/7f56233/README.md
 [tautulli-issue]: https://github.com/hassio-addons/addon-tautulli/issues
 [tautulli-version-shield]: https://img.shields.io/badge/version-7f56233-blue.svg
-[tautulli-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tautulli.svg
+[tautulli-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tautulli-armhf.svg
 [tautulli-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[tautulli-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[tautulli-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tautulli-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/5a9404c
 [addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/5a9404c/README.md
