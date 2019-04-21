@@ -969,11 +969,11 @@ SOFTWARE.
 [addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/7741005/README.md
 [phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
 [phlex-version-shield]: https://img.shields.io/badge/version-7741005-blue.svg
-[phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex.svg
+[phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex-armhf.svg
 [phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[phlex-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[phlex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [phlex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/6569935
 [addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/6569935/README.md
