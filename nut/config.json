@@ -1,6 +1,6 @@
 {
   "name": "Network UPS Tools",
-  "version": "1f4ebc0",
+  "version": "a073622",
   "slug": "nut",
   "description": "Manage battery backup (UPS) devices",
   "url": "https://github.com/hassio-addons/addon-nut",
@@ -9,6 +9,7 @@
     "aarch64",
     "amd64",
     "armhf",
+    "armv7",
     "i386"
   ],
   "boot": "auto",
@@ -18,6 +19,9 @@
   "ports": {
     "3493/tcp": 3493
   },
+  "ports_description": {
+    "3493/tcp": "Network UPS Tools"
+  },
   "devices": [
     "/dev/bus/usb:/dev/bus/usb:rwm"
   ],
@@ -26,7 +30,6 @@
   ],
   "stdin": true,
   "options": {
-    "log_level": "info",
     "users": [
       {
         "username": "",
@@ -39,7 +42,7 @@
     ]
   },
   "schema": {
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
+    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
     "users": [
       {
         "username": "str",
@@ -56,8 +59,5 @@
     "i_like_to_be_pwned": "bool?",
     "leave_front_door_open": "bool?"
   },
-  "environment": {
-    "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
-  },
-  "image": "hassioaddons/nut"
+  "image": "hassioaddons/nut-{arch}"
 }
