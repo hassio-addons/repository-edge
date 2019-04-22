@@ -939,11 +939,11 @@ SOFTWARE.
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/1f4ebc0/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
 [nut-version-shield]: https://img.shields.io/badge/version-1f4ebc0-blue.svg
-[nut-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nut.svg
+[nut-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nut-armhf.svg
 [nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[nut-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[nut-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nut-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/99bea51
 [addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/99bea51/README.md
