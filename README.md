@@ -899,11 +899,11 @@ SOFTWARE.
 [addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/fafe0ef/README.md
 [mqtt-issue]: https://github.com/hassio-addons/addon-mqtt/issues
 [mqtt-version-shield]: https://img.shields.io/badge/version-fafe0ef-blue.svg
-[mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mqtt.svg
+[mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mqtt-armhf.svg
 [mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[mqtt-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/tree/fd8cf25
 [addon-doc-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/blob/fd8cf25/README.md
