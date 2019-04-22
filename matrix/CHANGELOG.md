@@ -1,11 +1,19 @@
-# Changelog since v0.3.0
+# Changelog since v0.3.1
 
-2019/04/01 16:21 UTC - [e304241](https://github.com/hassio-addons/addon-matrix/commit/e3042414a24aa50115dbf07ad3ef10385f38c8be) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Riot to v1.0.6 
+2019/04/22 15:41 UTC - [2ac6f21](https://github.com/hassio-addons/addon-matrix/commit/2ac6f21cc87720b420e88e9eab9b66ae5d4e66af) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates pysaml2 to v4.7.0 (#12) 
 
-2019/04/01 16:21 UTC - [c11b039](https://github.com/hassio-addons/addon-matrix/commit/c11b0393032d0b722f0cd7b16bfbdaf77e5cef6c) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Synapse to v0.99.3 
+2019/04/22 15:41 UTC - [f5e8919](https://github.com/hassio-addons/addon-matrix/commit/f5e89194ceec5ede0f480f268ecfeb78cbfd3602) by [@frenck](https://github.com/frenck)
+> :hammer: Major refactor of add-on (#11)
 
-2019/04/01 16:21 UTC - [33da71c](https://github.com/hassio-addons/addon-matrix/commit/33da71cbaf664123372561b656d71160efd04f7a) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Riot to v1.0.5 
+- Moves add-on onto Python base images
+- Moves requirements into a separate TXT file, so renovatebot can help out
+- Adds support for Ingress
+- Adds port descriptions
+- Adds HA authentication when accessing riot directly
+- Replaces NGinx configuration
+- Improved python cleanup logic in Dockerfile
+- Updated documentation
+- Makes NGinx wait for synapse to start
+- Forces ports & interfaces to use 
 
