@@ -104,7 +104,7 @@ addons:
   nut:
     repository: hassio-addons/addon-nut
     target: nut
-    image: hassioaddons/nut
+    image: hassioaddons/nut-{arch}
   pi-hole:
     repository: hassio-addons/addon-pi-hole
     target: pi-hole
