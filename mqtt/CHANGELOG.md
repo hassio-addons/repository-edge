@@ -1,14 +1,20 @@
-# Changelog since v1.0.0
+# Changelog since v1.0.1
 
-2019/03/25 20:17 UTC - [fafe0ef](https://github.com/hassio-addons/addon-mqtt/commit/fafe0ef06054833506259d12463ea9e05845c10c) by [@ludeeus](https://github.com/ludeeus)
-> 🔨 Utilize bashio for user creation 
+2019/04/22 09:05 UTC - [342886b](https://github.com/hassio-addons/addon-mqtt/commit/342886b5aea535f2e80b65218e62ca1fde9265df) by [@frenck](https://github.com/frenck)
+> :hammer: Makes log_level optional 
 
-2019/03/25 20:17 UTC - [4d9dd7a](https://github.com/hassio-addons/addon-mqtt/commit/4d9dd7a3141fd6f013a1a3957427311ffddf5c6e) by [@ludeeus](https://github.com/ludeeus)
-> 🚑 Fix quoting issues 
+2019/04/22 09:05 UTC - [3807aea](https://github.com/hassio-addons/addon-mqtt/commit/3807aea1b00a0491f6c48b03dfcfe6ef98d4ec99) by [@frenck](https://github.com/frenck)
+> :fire: Removes custom log format override 
 
-2019/03/25 20:17 UTC - [df56330](https://github.com/hassio-addons/addon-mqtt/commit/df56330236f36be197d60bf17b05e90f709190f2) by [@ludeeus](https://github.com/ludeeus)
-> 📝 Cleanup logs 
+2019/04/22 09:05 UTC - [ea3124d](https://github.com/hassio-addons/addon-mqtt/commit/ea3124dbb4c20edf64e5a4ccc46760019c698a89) by [@frenck](https://github.com/frenck)
+> :fire: Removes default config options 
 
-2019/03/25 20:17 UTC - [0745b9b](https://github.com/hassio-addons/addon-mqtt/commit/0745b9bfbcead6c0c05413c2ad5d3c70c59de30d) by [@ludeeus](https://github.com/ludeeus)
-> 🚑 Fix issues with user creations 
+2019/04/22 09:05 UTC - [745875f](https://github.com/hassio-addons/addon-mqtt/commit/745875fc8627b5ae34348f36da1f053f405df8f9) by [@frenck](https://github.com/frenck)
+> :ambulance: Workaround Docker issue by reinstating legacy tags 
+
+2019/04/22 09:05 UTC - [2192cd4](https://github.com/hassio-addons/addon-mqtt/commit/2192cd48201c9733b98c708b0c409198feb981f0) by [@frenck](https://github.com/frenck)
+> :sparkles: Adds ARMv7 support 
+
+2019/04/22 09:05 UTC - [180c21e](https://github.com/hassio-addons/addon-mqtt/commit/180c21e94fbe5fa8ea2c7ec793e38bed6d820de0) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.1.0 
 
