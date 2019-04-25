@@ -1095,10 +1095,10 @@ SOFTWARE.
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [unifi-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/45f86db
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/45f86db/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/b49ad9a
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/b49ad9a/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-45f86db-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-b49ad9a-blue.svg
 [vscode-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/vscode-amd64.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
