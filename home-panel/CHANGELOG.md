@@ -1,14 +1,17 @@
 # Changelog since v0.3.2
 
-2019/04/27 22:01 UTC - [bf7b4fb](https://github.com/hassio-addons/addon-home-panel/commit/bf7b4fb8bfe089147611b4ef7d77e45b574e5525) by [@timmo001](https://github.com/timmo001)
+2019/04/27 23:33 UTC - [b68d5d9](https://github.com/hassio-addons/addon-home-panel/commit/b68d5d923444148277742a24b18c53591aecffbf) by [@timmo001](https://github.com/timmo001)
+> :hammer: :sparkles: Rewrite nginx and add ingress support 
+
+2019/04/27 23:33 UTC - [bf7b4fb](https://github.com/hassio-addons/addon-home-panel/commit/bf7b4fb8bfe089147611b4ef7d77e45b574e5525) by [@timmo001](https://github.com/timmo001)
 > :hammer: Merge branch 'master' of github.com:hassio-addons/addon-home-panel 
 
-2019/04/27 22:01 UTC - [8698a76](https://github.com/hassio-addons/addon-home-panel/commit/8698a76cea9ad13bc738fe2a2299fb96d7f6a3f8) by [@frenck](https://github.com/frenck)
+2019/04/27 23:33 UTC - [8698a76](https://github.com/hassio-addons/addon-home-panel/commit/8698a76cea9ad13bc738fe2a2299fb96d7f6a3f8) by [@frenck](https://github.com/frenck)
 > :fire: Improves add-on configuration (#19) 
 
-2019/04/27 22:01 UTC - [d2a7e15](https://github.com/hassio-addons/addon-home-panel/commit/d2a7e159401787ac10494eb9b9cc544f75d2aae1) by [@frenck](https://github.com/frenck)
+2019/04/27 23:33 UTC - [d2a7e15](https://github.com/hassio-addons/addon-home-panel/commit/d2a7e159401787ac10494eb9b9cc544f75d2aae1) by [@frenck](https://github.com/frenck)
 > :books: Standarizes supported architectures badges (#18) 
 
-2019/04/27 22:01 UTC - [3ed0640](https://github.com/hassio-addons/addon-home-panel/commit/3ed06409b860f2f6372555a495b624bb86677e1c) by [@timmo001](https://github.com/timmo001)
+2019/04/27 23:33 UTC - [3ed0640](https://github.com/hassio-addons/addon-home-panel/commit/3ed06409b860f2f6372555a495b624bb86677e1c) by [@timmo001](https://github.com/timmo001)
 > :arrow_up: Update Home Panel to v0.9.1 
 
