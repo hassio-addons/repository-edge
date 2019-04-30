@@ -1055,10 +1055,10 @@ SOFTWARE.
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tautulli-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tautulli-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/5a9404c
-[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/5a9404c/README.md
+[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/52834a0
+[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/52834a0/README.md
 [thelounge-issue]: https://github.com/hassio-addons/addon-thelounge/issues
-[thelounge-version-shield]: https://img.shields.io/badge/version-5a9404c-blue.svg
+[thelounge-version-shield]: https://img.shields.io/badge/version-52834a0-blue.svg
 [thelounge-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/thelounge-armhf.svg
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
