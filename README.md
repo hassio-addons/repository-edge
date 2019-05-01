@@ -905,10 +905,10 @@ SOFTWARE.
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/tree/fd8cf25
-[addon-doc-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/blob/fd8cf25/README.md
+[addon-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/tree/8f7716a
+[addon-doc-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/blob/8f7716a/README.md
 [magicmirror-issue]: https://github.com/hassio-addons/addon-magicmirror/issues
-[magicmirror-version-shield]: https://img.shields.io/badge/version-fd8cf25-blue.svg
+[magicmirror-version-shield]: https://img.shields.io/badge/version-8f7716a-blue.svg
 [magicmirror-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/magicmirror-armhf.svg
 [magicmirror-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [magicmirror-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

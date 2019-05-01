@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: SQLite-web
+# Community Hass.io Add-ons: MagicMirror²
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -42,11 +42,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-magicmirror/blob/fd8cf25/README.md
+[docs]: https://github.com/hassio-addons/addon-magicmirror/blob/8f7716a/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-fd8cf25-blue.svg
-[release]: https://github.com/hassio-addons/addon-magicmirror/tree/fd8cf25
-[screenshot]: https://github.com/hassio-addons/addon-sqlite-web/raw/master/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-8f7716a-blue.svg
+[release]: https://github.com/hassio-addons/addon-magicmirror/tree/8f7716a
+[screenshot]: https://raw.githubusercontent.com/hassio-addons/addon-magicmirror/master/images/sample.png
