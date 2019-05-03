@@ -1,10 +1,13 @@
 {
   "name": "Mopidy",
-  "version": "6bd4f82",
+  "version": "24b9dcf",
   "slug": "mopidy",
+  "panel_icon": "mdi:music-circle",
   "description": "Mopidy is an extensible music server",
   "url": "https://github.com/hassio-addons/addon-mopidy",
-  "webui": "http://[HOST]:[PORT:6680]/iris/",
+  "webui": "http://[HOST]:[PORT:80]/iris/",
+  "ingress": true,
+  "ingress_port": 1337,
   "startup": "application",
   "arch": [
     "amd64",
@@ -15,12 +18,16 @@
   "hassio_api": true,
   "auth_api": true,
   "hassio_role": "default",
-  "host_network": false,
   "audio": true,
   "ports": {
-    "55555/udp": 5555,
     "6600/tcp": 6600,
-    "6680/tcp": 6680
+    "5555/udp": 5555,
+    "80/tcp": null
+  },
+  "ports_description": {
+    "6600/tcp": "Mopidy",
+    "5555/udp": "Autoaudiosink",
+    "80/tcp": "Web interface (Not required for Hass.io Ingress)"
   },
   "map": [
     "config",

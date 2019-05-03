@@ -1,9 +1,9 @@
-2019/05/02 13:34 UTC - [6bd4f82](https://github.com/hassio-addons/addon-mopidy/commit/6bd4f8241ec970811d555f4d4cda481880f8ab2f) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates Mopidy-Iris to v3.37.1 (#6)
+2019/05/03 14:32 UTC - [24b9dcf](https://github.com/hassio-addons/addon-mopidy/commit/24b9dcf2962cf677c2681f3e48950565b7feb7cb) by [@brammittendorff](https://github.com/brammittendorff)
+> Added ingress support (#7)
 
-* :arrow_up: Updates Mopidy-Iris to v3.37.1
+* Added ingress support
 
-* Fixed the correct version of gstreamer1.0-alsa
+* Removed entry because it is not used and Added manifest.json
 
-Updated the Dockerfile with the correct version of gstreamer1.0-alsa 
+* Added default start screen 
 
