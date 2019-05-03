@@ -1,6 +1,6 @@
 {
   "name": "Mopidy",
-  "version": "24b9dcf",
+  "version": "01901eb",
   "slug": "mopidy",
   "panel_icon": "mdi:music-circle",
   "description": "Mopidy is an extensible music server",
@@ -8,6 +8,7 @@
   "webui": "http://[HOST]:[PORT:80]/iris/",
   "ingress": true,
   "ingress_port": 1337,
+  "ingress_entry": "iris/",
   "startup": "application",
   "arch": [
     "amd64",
