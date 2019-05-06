@@ -1,8 +1,5 @@
-# Changelog since v0.5.0
+# Changelog since v0.5.1
 
-2019/04/25 06:18 UTC - [25efe44](https://github.com/hassio-addons/addon-log-viewer/commit/25efe44b44f39bc753abf5adc2161eb6670eec3d) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for showing in sidebar 
-
-2019/04/25 06:18 UTC - [372e79d](https://github.com/hassio-addons/addon-log-viewer/commit/372e79d2eabea4bc00d5686fdfbf7d91d2904193) by [@frenck](https://github.com/frenck)
-> :arrow_up: Updates Home Assistant requirement to 0.92.0b2 
+2019/05/06 11:05 UTC - [a5bc6f5](https://github.com/hassio-addons/addon-log-viewer/commit/a5bc6f58f40a3e261e96f4728142eb29e5f380e7) by [@sinclairpaul](https://github.com/sinclairpaul)
+> :arrow_up:  Upgrade lua-resty-http to 0.13-r0 
 
