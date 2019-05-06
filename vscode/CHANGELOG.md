@@ -1,8 +1,8 @@
-# Changelog since v0.4.1
+# Changelog since v0.4.2
 
-2019/04/25 06:20 UTC - [b49ad9a](https://github.com/hassio-addons/addon-vscode/commit/b49ad9aa35dc2d187efc16d4b7c325040f8987bb) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for showing in sidebar 
+2019/05/06 10:51 UTC - [dbe3ae2](https://github.com/hassio-addons/addon-vscode/commit/dbe3ae29e8f8d79ac09516d903597e94d7714dd5) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades code-server to 1.939-vsc1.33.1 
 
-2019/04/25 06:20 UTC - [dc8e22d](https://github.com/hassio-addons/addon-vscode/commit/dc8e22dd80db1fde3e53d1cc028cf9d95f4b76a2) by [@frenck](https://github.com/frenck)
-> :arrow_up: Updates Home Assistant requirement to 0.92.0b2 
+2019/05/06 10:51 UTC - [df40b6a](https://github.com/hassio-addons/addon-vscode/commit/df40b6a0f81ddc80a557bdced3244dcecadb9eeb) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.1.1 
 
