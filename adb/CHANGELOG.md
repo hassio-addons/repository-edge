@@ -1,8 +1,7 @@
-# Changelog since v0.3.1
+# Changelog since v0.4.0
 
-2019/05/06 10:16 UTC - [2885aed](https://github.com/hassio-addons/addon-adb/commit/2885aed7445931a2473dedc9980588d21d519000) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades adb to 1:8.1.0+r23-5~18.04 
+2019/05/08 21:11 UTC - [4e0200a](https://github.com/hassio-addons/addon-adb/commit/4e0200af6fb54951fb1b730170a83f7b3bc79b94) by [@frenck](https://github.com/frenck)
+> 🚑 ⬇️ Downgrades adb to 7.0.0+r33-2 (#12)
 
-2019/05/06 10:16 UTC - [87a6f94](https://github.com/hassio-addons/addon-adb/commit/87a6f944ea7ff00e0b5a4ed03362581700a261df) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 3.1.1 
+Signed-off-by: Franck Nijhof <frenck@addons.community> 
 
