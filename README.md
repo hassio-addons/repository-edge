@@ -587,6 +587,20 @@ Fully featured VSCode experience, to edit your HA config in the browser, includi
 
 [:books: Visual Studio Code add-on documentation][addon-doc-vscode]
 
+### &#10003; [Z-Wave to MQTT][addon-zwave2mqtt]
+
+![Latest Version][zwave2mqtt-version-shield]
+![Supports armhf Architecture][zwave2mqtt-armhf-shield]
+![Supports armv7 Architecture][zwave2mqtt-armv7-shield]
+![Supports aarch64 Architecture][zwave2mqtt-aarch64-shield]
+![Supports amd64 Architecture][zwave2mqtt-amd64-shield]
+![Supports i386 Architecture][zwave2mqtt-i386-shield]
+![Docker Pulls][zwave2mqtt-pulls-shield]
+
+Fully configurable Z-Wave to MQTT gateway and control panel
+
+[:books: Z-Wave to MQTT add-on documentation][addon-doc-zwave2mqtt]
+
 ### &#10003; [ZeroTier One][addon-zerotier]
 
 ![Latest Version][zerotier-version-shield]
@@ -688,6 +702,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Traccar][traccar-issue]
 - [Open an issue for the add-on: UniFi Controller][unifi-issue]
 - [Open an issue for the add-on: Visual Studio Code][vscode-issue]
+- [Open an issue for the add-on: Z-Wave to MQTT][zwave2mqtt-issue]
 - [Open an issue for the add-on: ZeroTier One][zerotier-issue]
 - [Open an issue for the add-on: chrony][chrony-issue]
 - [Open an issue for the add-on: motionEye][motioneye-issue]
@@ -1130,6 +1145,16 @@ SOFTWARE.
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-zwave2mqtt]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/5e7ec18
+[addon-doc-zwave2mqtt]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/5e7ec18/README.md
+[zwave2mqtt-issue]: https://github.com/hassio-addons/addon-zwave2mqtt/issues
+[zwave2mqtt-version-shield]: https://img.shields.io/badge/version-5e7ec18-blue.svg
+[zwave2mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/zwave2mqtt-armhf.svg
+[zwave2mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[zwave2mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[zwave2mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[zwave2mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[zwave2mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/cc291a4
 [addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/cc291a4/README.md
 [zerotier-issue]: https://github.com/hassio-addons/addon-zerotier/issues
