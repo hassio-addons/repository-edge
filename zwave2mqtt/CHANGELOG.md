@@ -1,3 +1,3 @@
-2019/05/09 20:18 UTC - [5e7ec18](https://github.com/hassio-addons/addon-zwave2mqtt/commit/5e7ec184fdf5c6999dde3d4bca07a9b3793a95c4) by [@frenck](https://github.com/frenck)
-> :art: Adds logo & icon 
+2019/05/09 21:11 UTC - [d0450bb](https://github.com/hassio-addons/addon-zwave2mqtt/commit/d0450bbe2a8293af974487c597b3d80b2a62ce9e) by [@frenck](https://github.com/frenck)
+> :books: Updates forum urls and finishing touches 
 

@@ -10,6 +10,8 @@
 
 Fully configurable Z-Wave to MQTT gateway and control panel.
 
+![Z-Wave to MQTT][logo]
+
 ## About
 
 The Z-Wave to MQTT add-on allows you to decouple your Z-Wave network from
@@ -50,14 +52,14 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/5e7ec18/README.md
+[docs]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/d0450bb/README.md
 [esphome]: https://esphome.io/components/mqtt.html#on-message-trigger
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/?u=frenck
+[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-z-wave-to-mqtt/115899?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-5e7ec18-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/5e7ec18
-[screenshot]: https://github.com/hassio-addons/addon-zwave2mqtt/raw/master/images/screenshot.gif
+[release-shield]: https://img.shields.io/badge/version-d0450bb-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/d0450bb
+[logo]: https://github.com/hassio-addons/addon-zwave2mqtt/raw/master/zwave2mqtt/logo.png
