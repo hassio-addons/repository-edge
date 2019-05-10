@@ -1,17 +1,14 @@
-# Changelog since v2.0.0
+# Changelog since v2.1.1
 
-2019/04/13 21:33 UTC - [11a0323](https://github.com/hassio-addons/addon-happy-bubbles/commit/11a032358730d78fc6bf154846d7a0f8356a4b49) by [@frenck](https://github.com/frenck)
-> :books: Tweaked README a little 
+2019/05/10 10:41 UTC - [c930a83](https://github.com/hassio-addons/addon-happy-bubbles/commit/c930a8300bb0ca568d814258f4ba6ac40662660a) by [@frenck](https://github.com/frenck)
+> :ambulance: Turns of Lua Resty core in Nginx 
 
-2019/04/13 21:33 UTC - [c542bca](https://github.com/hassio-addons/addon-happy-bubbles/commit/c542bca5a2f29b8a8f15527f62533a4af7e5f193) by [@frenck](https://github.com/frenck)
-> :hammer: Improves S6 finish scripts 
+2019/05/10 10:41 UTC - [d52fb0b](https://github.com/hassio-addons/addon-happy-bubbles/commit/d52fb0b7e564de1bd31258000ea2048163ad6c07) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx-mod-http-lua to 1.14.2-r1 
 
-2019/04/13 21:33 UTC - [9ddc15e](https://github.com/hassio-addons/addon-happy-bubbles/commit/9ddc15ef3ff97fdae66c702492f8c3fcd5085e44) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds Hassio Ingress support 
+2019/05/10 10:41 UTC - [8c6e92e](https://github.com/hassio-addons/addon-happy-bubbles/commit/8c6e92eb4309e026af82a577ad1037f45f6fb4c4) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.14.2-r1 
 
-2019/04/13 21:33 UTC - [42707cb](https://github.com/hassio-addons/addon-happy-bubbles/commit/42707cb19990d3380dc4d02fe22fe7c65ddf3706) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades wget to 1.20.3-r0 
-
-2019/04/13 21:33 UTC - [95e4771](https://github.com/hassio-addons/addon-happy-bubbles/commit/95e4771f4d66a5c6f7265f8ec62e1d0861d3ef8f) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v3.1.0 
+2019/05/10 10:41 UTC - [b0c2e6d](https://github.com/hassio-addons/addon-happy-bubbles/commit/b0c2e6d90e027c3090f349beee019ea5f1576147) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades lua-resty-http to 0.13-r0 
 
