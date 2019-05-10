@@ -1,11 +1,23 @@
-# Changelog since v0.4.0
+# Changelog since v0.4.1
 
-2019/04/25 07:03 UTC - [23f5109](https://github.com/hassio-addons/addon-glances/commit/23f5109a71a237a9c7834c6a08a526ba6be23df2) by [@frenck](https://github.com/frenck)
-> :books: Removes obsolete iframe URL section from README 
+2019/05/10 10:39 UTC - [f24f2dc](https://github.com/hassio-addons/addon-glances/commit/f24f2dc062c2e56faf1593341363d0a94388c9c1) by [@frenck](https://github.com/frenck)
+> :ambulance: Turns of Lua Resty core in Nginx 
 
-2019/04/25 07:03 UTC - [6cf7474](https://github.com/hassio-addons/addon-glances/commit/6cf74741aed000cafd450dd0ce756cfe5b5aab25) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds support for showing in sidebar 
+2019/05/10 10:39 UTC - [c69b9c2](https://github.com/hassio-addons/addon-glances/commit/c69b9c20065a90c1439b0644aca8638252fe8790) by [@frenck](https://github.com/frenck)
+> :fire: Removal of old configs 
 
-2019/04/25 07:03 UTC - [112bfe1](https://github.com/hassio-addons/addon-glances/commit/112bfe1e024e7ed88b94e7ce63de65069ba1a52f) by [@frenck](https://github.com/frenck)
-> :arrow_up: Updates Home Assistant requirement to 0.92.0b2 
+2019/05/10 10:39 UTC - [72e51e3](https://github.com/hassio-addons/addon-glances/commit/72e51e3cb99323b49a5250f3d32a363883db998b) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx-mod-http-lua to 1.14.2-r1 
+
+2019/05/10 10:39 UTC - [25c68bd](https://github.com/hassio-addons/addon-glances/commit/25c68bdd663859504b2dd405abe8a84ae2c18f1e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.14.2-r1 
+
+2019/05/10 10:39 UTC - [16f6817](https://github.com/hassio-addons/addon-glances/commit/16f6817079ca82a82198754b8791891649b294ad) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades lua-resty-http to 0.13-r0 
+
+2019/05/10 10:39 UTC - [3683860](https://github.com/hassio-addons/addon-glances/commit/3683860853bf455eec2cb0c197e83f2fa8cd5de0) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates psutil to v5.6.2 (#13) 
+
+2019/05/10 10:39 UTC - [d210f23](https://github.com/hassio-addons/addon-glances/commit/d210f23dd0170d6e92c12d3e81faf0e5f110d584) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates zeroconf to v0.22.0 (#14) 
 
