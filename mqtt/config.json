@@ -1,12 +1,15 @@
 {
   "name": "MQTT Server & Web client",
-  "version": "59d5b6d",
+  "version": "b63bc9c",
   "slug": "mqtt",
   "description": "Mosquitto MQTT Server bundled with Hivemq's web client",
   "url": "https://github.com/hassio-addons/addon-mqtt/tree/master/README.md",
   "webui": "https://[HOST]:[PORT:80]",
   "ingress": true,
   "ingress_port": 1337,
+  "homeassistant": "0.92.0",
+  "panel_icon": "mdi:code-brackets",
+  "panel_title": "MQTT",
   "startup": "services",
   "arch": [
     "aarch64",
