@@ -153,6 +153,20 @@ A secure and fast FTP server for Hass.io
 
 [:books: FTP add-on documentation][addon-doc-ftp]
 
+### &#10003; [FlexTV][addon-phlex]
+
+![Latest Version][phlex-version-shield]
+![Supports armhf Architecture][phlex-armhf-shield]
+![Supports armv7 Architecture][phlex-armv7-shield]
+![Supports aarch64 Architecture][phlex-aarch64-shield]
+![Supports amd64 Architecture][phlex-amd64-shield]
+![Supports i386 Architecture][phlex-i386-shield]
+![Docker Pulls][phlex-pulls-shield]
+
+A super-sexy text and voice interface for Plex
+
+[:books: FlexTV add-on documentation][addon-doc-phlex]
+
 ### &#10003; [Glances][addon-glances]
 
 ![Latest Version][glances-version-shield]
@@ -390,20 +404,6 @@ Manage Nginx proxy hosts with a simple, powerful interface
 Flow-based programming for the Internet of Things
 
 [:books: Node-RED add-on documentation][addon-doc-node-red]
-
-### &#10003; [Phlex][addon-phlex]
-
-![Latest Version][phlex-version-shield]
-![Supports armhf Architecture][phlex-armhf-shield]
-![Supports armv7 Architecture][phlex-armv7-shield]
-![Supports aarch64 Architecture][phlex-aarch64-shield]
-![Supports amd64 Architecture][phlex-amd64-shield]
-![Supports i386 Architecture][phlex-i386-shield]
-![Docker Pulls][phlex-pulls-shield]
-
-A super-sexy text and voice interface for Plex
-
-[:books: Phlex add-on documentation][addon-doc-phlex]
 
 ### &#10003; [Pi-hole][addon-pi-hole]
 
@@ -671,6 +671,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Bitwarden RS][bitwarden-issue]
 - [Open an issue for the add-on: Example][example-issue]
 - [Open an issue for the add-on: FTP][ftp-issue]
+- [Open an issue for the add-on: FlexTV][phlex-issue]
 - [Open an issue for the add-on: Glances][glances-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
 - [Open an issue for the add-on: Grocy][grocy-issue]
@@ -688,7 +689,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
-- [Open an issue for the add-on: Phlex][phlex-issue]
 - [Open an issue for the add-on: Pi-hole][pi-hole-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
 - [Open an issue for the add-on: Portainer][portainer-issue]
@@ -835,6 +835,16 @@ SOFTWARE.
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/a30b8e2
+[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/a30b8e2/README.md
+[phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
+[phlex-version-shield]: https://img.shields.io/badge/version-a30b8e2-blue.svg
+[phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex-armhf.svg
+[phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[phlex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[phlex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-glances]: https://github.com/hassio-addons/addon-glances/tree/f24f2dc
 [addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/f24f2dc/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
@@ -1005,16 +1015,6 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/a30b8e2
-[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/a30b8e2/README.md
-[phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
-[phlex-version-shield]: https://img.shields.io/badge/version-a30b8e2-blue.svg
-[phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex-armhf.svg
-[phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[phlex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[phlex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/6569935
 [addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/6569935/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
