@@ -835,10 +835,10 @@ SOFTWARE.
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/a30b8e2
-[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/a30b8e2/README.md
+[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/03ff5f3
+[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/03ff5f3/README.md
 [phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
-[phlex-version-shield]: https://img.shields.io/badge/version-a30b8e2-blue.svg
+[phlex-version-shield]: https://img.shields.io/badge/version-03ff5f3-blue.svg
 [phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex-armhf.svg
 [phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

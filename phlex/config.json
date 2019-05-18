@@ -1,6 +1,6 @@
 {
-  "name": "Phlex",
-  "version": "a30b8e2",
+  "name": "FlexTV",
+  "version": "03ff5f3",
   "slug": "phlex",
   "description": "A super-sexy text and voice interface for Plex",
   "url": "https://github.com/hassio-addons/addon-phlex/tree/master/README.md",
@@ -20,7 +20,7 @@
     "1778/tcp": 1778
   },
   "ports_description": {
-    "1778/tcp": "Phlex web interface"
+    "1778/tcp": "FlexTV web interface"
   },
   "map": [
     "ssl",

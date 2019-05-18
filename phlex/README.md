@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Phlex
+# Community Hass.io Add-ons: FlexTV
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -10,7 +10,7 @@ A super-sexy text and voice interface for Plex.
 
 ## About
 
-The purpose of [Phlex][phlex-wiki] is to provide a natural language interface
+The purpose of [FlexTV][flextv-wiki] is to provide a natural language interface
 for Home Theater applications - effectively bridging the current gap between
 commercial AI Solutions like Google Home/Alexa and personal
 web applications like Plex.
@@ -42,12 +42,12 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-phlex/blob/a30b8e2/README.md
+[docs]: https://github.com/hassio-addons/addon-phlex/blob/03ff5f3/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-ons-phlex/70378
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
-[phlex-wiki]: https://github.com/d8ahazard/Phlex/wiki
+[flextv-wiki]: https://github.com/d8ahazard/FlexTV/wiki
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-a30b8e2-blue.svg
-[release]: https://github.com/hassio-addons/addon-phlex/tree/a30b8e2
+[release-shield]: https://img.shields.io/badge/version-03ff5f3-blue.svg
+[release]: https://github.com/hassio-addons/addon-phlex/tree/03ff5f3
 [screenshot]: https://github.com/hassio-addons/addon-phlex/raw/master/images/screenshot.png
