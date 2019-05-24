@@ -1,10 +1,5 @@
-[Full Changelog][changelog]
+# Changelog since v2.0.2
 
-### Changed
+2019/05/24 10:57 UTC - [20fb4ce](https://github.com/hassio-addons/addon-example/commit/20fb4ce77ed1419fa0edd7b1ce6b09587253cc4c) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.1.1 
 
-- :arrow_up: Upgrades wget to 1.20.3-r0
-
-[changelog]: https://github.com/hassio-addons/addon-example/compare/v2.0.1...v2.0.2
-
-Questions? Join our Discord server! https://discord.me/hassioaddons
-Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
