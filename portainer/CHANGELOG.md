@@ -1,17 +1,14 @@
-# Changelog since v0.5.0
+# Changelog since v0.6.1
 
-2019/04/13 20:59 UTC - [95d59f7](https://github.com/hassio-addons/addon-portainer/commit/95d59f79cbf926a56cfd64caee8fdc88b8df028e) by [@frenck](https://github.com/frenck)
-> :books: Removes obsolete iframe URL section from README 
+2019/05/24 18:45 UTC - [7b4cdc6](https://github.com/hassio-addons/addon-portainer/commit/7b4cdc60288d5a6f8e53fe04c20a58c1a0b5f435) by [@frenck](https://github.com/frenck)
+> :ambulance: Turns of Lua Resty core in Nginx 
 
-2019/04/13 20:59 UTC - [4baa71a](https://github.com/hassio-addons/addon-portainer/commit/4baa71ac9d88f1117a8f917bdde427ecc51f2b78) by [@frenck](https://github.com/frenck)
-> :fire: Removes hide_hassio_containers option from add-on 
+2019/05/24 18:45 UTC - [a50e443](https://github.com/hassio-addons/addon-portainer/commit/a50e4439f6367937e1d4cabde15d0629210225e3) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.14.2-r1 
 
-2019/04/13 20:59 UTC - [8da75f1](https://github.com/hassio-addons/addon-portainer/commit/8da75f19ef2eda4a376e5ace69c4b8e8f4d31d95) by [@frenck](https://github.com/frenck)
-> :hammer: Improves S6 finish scripts 
+2019/05/24 18:45 UTC - [a5b5d26](https://github.com/hassio-addons/addon-portainer/commit/a5b5d26f74c8553d0bf68771935b645800364a2b) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades lua-resty-http to 0.13-r0 
 
-2019/04/13 20:59 UTC - [800dd19](https://github.com/hassio-addons/addon-portainer/commit/800dd1911f5596b043ac5f79954068c553a2b2b4) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds Hassio Ingress support 
-
-2019/04/13 20:59 UTC - [824e917](https://github.com/hassio-addons/addon-portainer/commit/824e9170ce183b1bfd2a009891635fd5a1d98480) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v3.1.0 
+2019/05/24 18:45 UTC - [ece1093](https://github.com/hassio-addons/addon-portainer/commit/ece10934db1cba1c56cce4e9d3b5a4f651ade07a) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to 3.1.1 
 
