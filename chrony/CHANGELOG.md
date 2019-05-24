@@ -1,8 +1,5 @@
-# Changelog since v0.2.1
+# Changelog since v0.2.2
 
-2019/04/20 12:21 UTC - [d181f54](https://github.com/hassio-addons/addon-chrony/commit/d181f548c9468d195ddbd0e285d1c09fc15cad50) by [@frenck](https://github.com/frenck)
-> :sparkles: Adds port descriptions (#16) 
-
-2019/04/20 12:21 UTC - [465a615](https://github.com/hassio-addons/addon-chrony/commit/465a6156f7747bc6e2dbcd6202ccd17a9afff331) by [@frenck](https://github.com/frenck)
-> :hammer: Refactor of init scripts (#15) 
+2019/05/24 21:29 UTC - [22a0e3a](https://github.com/hassio-addons/addon-chrony/commit/22a0e3a31c16bdfad4699e630bb50360b9709a33) by [@sinclairpaul](https://github.com/sinclairpaul)
+> :arrow_up: Upgrade addon base to 3.1.1 (#17) 
 
