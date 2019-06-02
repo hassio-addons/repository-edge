@@ -1,5 +1,5 @@
-# Changelog since v0.5.1
+# Changelog since v0.5.2
 
-2019/05/21 19:32 UTC - [a418749](https://github.com/hassio-addons/addon-vscode/commit/a4187493e29a90675feced8f823699c2fd4d7b35) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades code-server to 1.1119-vsc1.33.11 
+2019/06/02 14:36 UTC - [22c417f](https://github.com/hassio-addons/addon-vscode/commit/22c417fdc52856ede6c83f8e38bf0445d577dba3) by [@tjorim](https://github.com/tjorim)
+> ⬆️ Upgrades vscode-home-assistant to 0.6.2 (#38) 
 
