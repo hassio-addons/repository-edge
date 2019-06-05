@@ -1,12 +1,5 @@
-# Changelog since v2.1.2
+# Changelog since v2.1.3
 
-2019/06/03 10:54 UTC - [e9337e1](https://github.com/hassio-addons/addon-grafana/commit/e9337e1b8398354ff95eba07f961495033b8aff6) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes use of removed Session config 
-
-2019/06/03 10:54 UTC - [ff9314a](https://github.com/hassio-addons/addon-grafana/commit/ff9314abcc0f910121a0153a15d67d7d6876203c) by [@frenck](https://github.com/frenck)
-> 🚑Fixes embedding Grafana in panel_iframe
-
-Fixes #38
-
-Signed-off-by: Franck Nijhof <frenck@addons.community> 
+2019/06/05 16:07 UTC - [476811c](https://github.com/hassio-addons/addon-grafana/commit/476811c893d7ef4bef97838db8e80ddffb3867c9) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Grafana to 6.2.2 
 
