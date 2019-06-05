@@ -1,5 +1,5 @@
-# Changelog since v3.1.2
+# Changelog since v3.1.3
 
-2019/06/03 21:20 UTC - [fd75e6c](https://github.com/hassio-addons/addon-node-red/commit/fd75e6c42d860733dd614c60c16fae54ec2d7d33) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-moment to v3.0.3 (#238) 
+2019/06/05 08:23 UTC - [7222d77](https://github.com/hassio-addons/addon-node-red/commit/7222d77de530fd10bedf485297d3b2f05b484d40) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-home-assistant-websocket to v0.12.3 (#240) 
 
