@@ -1,5 +1,5 @@
-# Changelog since v0.6.2
+# Changelog since v0.6.3
 
-2019/06/04 05:53 UTC - [3a5e9f2](https://github.com/hassio-addons/addon-portainer/commit/3a5e9f2ce950ab4f51366e439319be3b4726e960) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Portainer to 1.21.0 
+2019/06/16 20:26 UTC - [f8d491a](https://github.com/hassio-addons/addon-portainer/commit/f8d491a2f0f779a20ab805fcff1da1186a8e0f21) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v3.1.2 
 
