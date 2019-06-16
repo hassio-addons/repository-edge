@@ -1,5 +1,5 @@
-# Changelog since v3.0.1
+# Changelog since v3.0.2
 
-2019/05/03 13:20 UTC - [b7ad1bd](https://github.com/hassio-addons/addon-appdaemon3/commit/b7ad1bdaab2b697a18828482e594206fbaa0a408) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates appdaemon to v3.0.5 (#45) 
+2019/06/16 20:25 UTC - [000d9e0](https://github.com/hassio-addons/addon-appdaemon3/commit/000d9e08004d30ade27cee7833a1113a9345c014) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades base image to v1.1.2 
 
