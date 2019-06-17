@@ -895,10 +895,10 @@ SOFTWARE.
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [home-panel-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [home-panel-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/c6e7226
-[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/c6e7226/README.md
+[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/0fb9cbe
+[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/0fb9cbe/README.md
 [ide-issue]: https://github.com/hassio-addons/addon-ide/issues
-[ide-version-shield]: https://img.shields.io/badge/version-c6e7226-blue.svg
+[ide-version-shield]: https://img.shields.io/badge/version-0fb9cbe-blue.svg
 [ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-armhf.svg
 [ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
