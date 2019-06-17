@@ -1,3 +1,3 @@
-2019/05/06 10:34 UTC - [a68cd8e](https://github.com/hassio-addons/addon-mopidy/commit/a68cd8e2e46e681321ca92999ec5e5c9f39825bd) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to 3.1.1 
+2019/06/17 14:42 UTC - [120daea](https://github.com/hassio-addons/addon-mopidy/commit/120daead0ee22a91ea3552de657411a73b19f030) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes build by working around dependency resolving issues 
 
