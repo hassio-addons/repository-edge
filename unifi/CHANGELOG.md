@@ -1,11 +1,11 @@
-# Changelog since v0.9.2
+# Changelog since v0.9.3
 
-2019/06/02 19:11 UTC - [08464e6](https://github.com/hassio-addons/addon-unifi/commit/08464e60357be09601dc382f63cb9b588d026af7) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades java to 8u212-b03-0ubuntu1.18.04.1 
+2019/06/22 19:04 UTC - [20390cc](https://github.com/hassio-addons/addon-unifi/commit/20390cc33a42338e495b89902955e80d73cc5a75) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades UniFi Controller to 5.10.25 
 
-2019/06/02 19:11 UTC - [3c7ad35](https://github.com/hassio-addons/addon-unifi/commit/3c7ad3535f64059f52bb681bad8f90380a8f1a95) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades base image to v3.1.2 
+2019/06/22 19:04 UTC - [691c7e0](https://github.com/hassio-addons/addon-unifi/commit/691c7e04f867d161a8853615ff083a50a2b2f06c) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades binutils to 2.30-21ubuntu1~18.04.2 
 
-2019/06/02 19:11 UTC - [da0d990](https://github.com/hassio-addons/addon-unifi/commit/da0d9905c14f5b55f0cf526bbd67a47e2f510d07) by [@iwoloschin](https://github.com/iwoloschin)
-> :arrow_up: Upgrades UniFi Controller to 5.10.24 (#40) 
+2019/06/22 19:04 UTC - [5ebbbd1](https://github.com/hassio-addons/addon-unifi/commit/5ebbbd150530e16ebb73575334c7670cd57efd97) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v3.1.3 
 
