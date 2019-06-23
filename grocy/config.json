@@ -1,6 +1,6 @@
 {
   "name": "Grocy",
-  "version": "72381ac",
+  "version": "3fda9a6",
   "slug": "grocy",
   "description": "ERP beyond your fridge! A groceries & household management solution for your home",
   "url": "https://github.com/hassio-addons/addon-grocy",
@@ -22,10 +22,10 @@
     "ssl"
   ],
   "ports": {
-    "80/tcp": 9192
+    "80/tcp": null
   },
   "ports_description": {
-    "80/tcp": "Web interface"
+    "80/tcp": "Web interface (Not required for Hass.io Ingress)"
   },
   "options": {
     "culture": "en",
