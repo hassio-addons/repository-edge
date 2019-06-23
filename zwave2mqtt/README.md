@@ -52,7 +52,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/b0d36ac/README.md
+[docs]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/7cd0cd0/README.md
 [esphome]: https://esphome.io/components/mqtt.html#on-message-trigger
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-z-wave-to-mqtt/115899?u=frenck
@@ -60,6 +60,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-b0d36ac-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/b0d36ac
+[release-shield]: https://img.shields.io/badge/version-7cd0cd0-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/7cd0cd0
 [logo]: https://github.com/hassio-addons/addon-zwave2mqtt/raw/master/zwave2mqtt/logo.png
