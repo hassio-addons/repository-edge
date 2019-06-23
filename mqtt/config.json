@@ -1,6 +1,6 @@
 {
   "name": "MQTT Server & Web client",
-  "version": "3c6d596",
+  "version": "30e58dd",
   "slug": "mqtt",
   "description": "Mosquitto MQTT Server bundled with Hivemq's web client",
   "url": "https://github.com/hassio-addons/addon-mqtt/tree/master/README.md",
