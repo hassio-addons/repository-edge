@@ -1,6 +1,6 @@
 {
   "name": "Happy Bubbles",
-  "version": "3d34e27",
+  "version": "03e37fa",
   "slug": "happy-bubbles",
   "description": "Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.",
   "url": "https://github.com/hassio-addons/addon-happy-bubbles",
