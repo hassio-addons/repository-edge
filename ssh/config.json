@@ -1,6 +1,6 @@
 {
   "name": "SSH & Web Terminal",
-  "version": "57dc859",
+  "version": "2191321",
   "slug": "ssh",
   "description": "SSH & Web Terminal access to your Home Assistant instance",
   "url": "https://github.com/hassio-addons/addon-ssh",
