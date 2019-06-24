@@ -1,12 +1,13 @@
 {
   "name": "Grocy",
-  "version": "3fda9a6",
+  "version": "d13847c",
   "slug": "grocy",
   "description": "ERP beyond your fridge! A groceries & household management solution for your home",
   "url": "https://github.com/hassio-addons/addon-grocy",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
   "ingress": true,
   "ingress_port": 1337,
+  "panel_icon": "mdi:cart",
   "startup": "system",
   "arch": [
     "aarch64",
