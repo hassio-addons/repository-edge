@@ -1,9 +1,12 @@
 # Changelog since v0.3.0
 
-2019/07/06 18:52 UTC - [84658bc](https://github.com/hassio-addons/addon-grocy/commit/84658bc8d09895c2603733c715b7591f14364f1a) by [@frenck](https://github.com/frenck)
+2019/07/07 19:57 UTC - [bc1f658](https://github.com/hassio-addons/addon-grocy/commit/bc1f6584b5e42543613b8949d9ea5b4ecd57c7fd) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Grocy to v2.4.4 
+
+2019/07/07 19:57 UTC - [84658bc](https://github.com/hassio-addons/addon-grocy/commit/84658bc8d09895c2603733c715b7591f14364f1a) by [@frenck](https://github.com/frenck)
 > :arrow_up: Upgrades Grocy to v2.4.3 
 
-2019/07/06 18:52 UTC - [73c6011](https://github.com/hassio-addons/addon-grocy/commit/73c6011c6001154cd54aa342ed4c974cddcd06b6) by [@sinclairpaul](https://github.com/sinclairpaul)
+2019/07/07 19:57 UTC - [73c6011](https://github.com/hassio-addons/addon-grocy/commit/73c6011c6001154cd54aa342ed4c974cddcd06b6) by [@sinclairpaul](https://github.com/sinclairpaul)
 > :ambulance: Changes Currency to ISO4217 Format (#34)
 
 * :books: Update Readme to reference Currency Config
@@ -14,9 +17,9 @@
 
 * 🔨 Fixing Regex format 
 
-2019/07/06 18:52 UTC - [415743c](https://github.com/hassio-addons/addon-grocy/commit/415743c9a2797f055c21e61e2d664a40138ae784) by [@sinclairpaul](https://github.com/sinclairpaul)
+2019/07/07 19:57 UTC - [415743c](https://github.com/hassio-addons/addon-grocy/commit/415743c9a2797f055c21e61e2d664a40138ae784) by [@sinclairpaul](https://github.com/sinclairpaul)
 > 📚 Removes references to iframe due to Ingress (#32) 
 
-2019/07/06 18:52 UTC - [d13847c](https://github.com/hassio-addons/addon-grocy/commit/d13847c323a42a678563d871fc715b29111a0d5e) by [@tjorim](https://github.com/tjorim)
+2019/07/07 19:57 UTC - [d13847c](https://github.com/hassio-addons/addon-grocy/commit/d13847c323a42a678563d871fc715b29111a0d5e) by [@tjorim](https://github.com/tjorim)
 > ✨ Adds icon to show in the sidebar (#28) 
 
