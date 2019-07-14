@@ -1,16 +1,5 @@
-[Full Changelog][changelog]
+# Changelog since v4.0.0
 
-This is a general maintenance release, without any backward compatible breaking changes.
+2019/07/14 11:10 UTC - [0e43a6e](https://github.com/hassio-addons/addon-appdaemon3/commit/0e43a6e6b5aea019caaaa559083a31c6dff10426) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v4.0.2 
 
-### Changed
-
-- :pencil2: Maintaince -> Maintenance
-- :sparkles: Adds FUNDING.yml
-- :arrow_up: Upgrades add-on base to default image at v4.0.1
-- :sparkles: Adds Alpine Python 3.7.3
-- :ambulance: Fixes build argument for wheels
-
-[changelog]: https://github.com/hassio-addons/addon-appdaemon3/compare/v3.0.2...v4.0.0
-
-Questions? Join our Discord server! https://discord.me/hassioaddons
-Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
