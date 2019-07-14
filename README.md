@@ -1200,10 +1200,10 @@ SOFTWARE.
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [chrony-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [chrony-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/a213fd7
-[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/a213fd7/README.md
+[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/3bd43bc
+[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/3bd43bc/README.md
 [motioneye-issue]: https://github.com/hassio-addons/addon-motioneye/issues
-[motioneye-version-shield]: https://img.shields.io/badge/version-a213fd7-blue.svg
+[motioneye-version-shield]: https://img.shields.io/badge/version-3bd43bc-blue.svg
 [motioneye-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/motioneye-armhf.svg
 [motioneye-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [motioneye-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
