@@ -780,10 +780,10 @@ SOFTWARE.
 [adb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [adb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/92485f2
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/92485f2/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/fea0870
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/fea0870/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-92485f2-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-fea0870-blue.svg
 [adguard-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/adguard-armhf.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
