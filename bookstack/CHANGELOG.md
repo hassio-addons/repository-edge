@@ -1,3 +1,3 @@
-2019/06/20 22:12 UTC - [383791c](https://github.com/hassio-addons/addon-bookstack/commit/383791cb9e04ed3c83aa9f4aca9bc7111dbb46af) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆ Update composer to 1.8.6-r0 
+2019/07/19 21:26 UTC - [5414bff](https://github.com/hassio-addons/addon-bookstack/commit/5414bffb1474b4bc5278d82d7d4080de50975bac) by [@sinclairpaul](https://github.com/sinclairpaul)
+> :hammer: Standardise Nginx Config 
 
