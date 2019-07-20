@@ -1,5 +1,7 @@
-2019/07/20 00:57 UTC - [ed3f77e](https://github.com/hassio-addons/addon-bookstack/commit/ed3f77efa468612f9a0978bfd43b1641c80bd78a) by [@sinclairpaul](https://github.com/sinclairpaul)
-> :books: Fix Case (#7)
+2019/07/20 18:17 UTC - [126ae98](https://github.com/hassio-addons/addon-bookstack/commit/126ae986a3f7df47acf68857cac92c7879ea644b) by [@sinclairpaul](https://github.com/sinclairpaul)
+> :hammer: Update bookstack and base image (#8)
 
- :books: Fixing case 
+* :hammer: Update Bookstack to 0.26.3
+
+* :hammer: Update base image to 4.0.2 
 
