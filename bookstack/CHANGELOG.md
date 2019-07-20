@@ -1,7 +1,5 @@
-2019/07/19 23:52 UTC - [5d498e0](https://github.com/hassio-addons/addon-bookstack/commit/5d498e02e95a6dd13082b3096b8b17140dc2689c) by [@sinclairpaul](https://github.com/sinclairpaul)
-> :sparkles: Add option for external mysql db (#6)
+2019/07/20 00:57 UTC - [ed3f77e](https://github.com/hassio-addons/addon-bookstack/commit/ed3f77efa468612f9a0978bfd43b1641c80bd78a) by [@sinclairpaul](https://github.com/sinclairpaul)
+> :books: Fix Case (#7)
 
-* :sparkles: Add external DB fixes #1
-
-* :hammer: Fix Linting 
+ :books: Fixing case 
 
