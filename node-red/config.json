@@ -1,6 +1,6 @@
 {
   "name": "Node-RED",
-  "version": "e5c40ca",
+  "version": "823d83b",
   "slug": "nodered",
   "description": "Flow-based programming for the Internet of Things",
   "url": "https://github.com/hassio-addons/addon-node-red",
