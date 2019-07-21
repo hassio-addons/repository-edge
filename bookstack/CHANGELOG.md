@@ -1,7 +1,3 @@
-2019/07/20 18:17 UTC - [126ae98](https://github.com/hassio-addons/addon-bookstack/commit/126ae986a3f7df47acf68857cac92c7879ea644b) by [@sinclairpaul](https://github.com/sinclairpaul)
-> :hammer: Update bookstack and base image (#8)
-
-* :hammer: Update Bookstack to 0.26.3
-
-* :hammer: Update base image to 4.0.2 
+2019/07/21 21:19 UTC - [d22de3e](https://github.com/hassio-addons/addon-bookstack/commit/d22de3e8f6ec6d86fdcb140169319e5c2a0459fb) by [@sinclairpaul](https://github.com/sinclairpaul)
+> :books: Add Funding.yml 
 
