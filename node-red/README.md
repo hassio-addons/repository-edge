@@ -46,13 +46,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-node-red/blob/29a44bf/README.md
+[docs]: https://github.com/hassio-addons/addon-node-red/blob/8706d01/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-node-red/55023?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-29a44bf-blue.svg
-[release]: https://github.com/hassio-addons/addon-node-red/tree/29a44bf
+[release-shield]: https://img.shields.io/badge/version-8706d01-blue.svg
+[release]: https://github.com/hassio-addons/addon-node-red/tree/8706d01
 [screenshot]: https://github.com/hassio-addons/addon-node-red/raw/master/images/screenshot.png
