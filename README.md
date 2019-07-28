@@ -870,10 +870,10 @@ SOFTWARE.
 [phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [phlex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [phlex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/aa73a3c
-[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/aa73a3c/README.md
+[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/291f191
+[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/291f191/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-aa73a3c-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-291f191-blue.svg
 [glances-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/glances-armhf.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
