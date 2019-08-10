@@ -167,6 +167,20 @@ A secure and fast FTP server for Hass.io
 
 [:books: FTP add-on documentation][addon-doc-ftp]
 
+### &#10003; [Firefly III][addon-firefly-iii]
+
+![Latest Version][firefly-iii-version-shield]
+![Supports armhf Architecture][firefly-iii-armhf-shield]
+![Supports armv7 Architecture][firefly-iii-armv7-shield]
+![Supports aarch64 Architecture][firefly-iii-aarch64-shield]
+![Supports amd64 Architecture][firefly-iii-amd64-shield]
+![Supports i386 Architecture][firefly-iii-i386-shield]
+![Docker Pulls][firefly-iii-pulls-shield]
+
+A free and open source personal finance manager
+
+[:books: Firefly III add-on documentation][addon-doc-firefly-iii]
+
 ### &#10003; [FlexTV][addon-phlex]
 
 ![Latest Version][phlex-version-shield]
@@ -686,6 +700,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Bookstack][bookstack-issue]
 - [Open an issue for the add-on: Example][example-issue]
 - [Open an issue for the add-on: FTP][ftp-issue]
+- [Open an issue for the add-on: Firefly III][firefly-iii-issue]
 - [Open an issue for the add-on: FlexTV][phlex-issue]
 - [Open an issue for the add-on: Glances][glances-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
@@ -860,6 +875,16 @@ SOFTWARE.
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/tree/bf950da
+[addon-doc-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/blob/bf950da/README.md
+[firefly-iii-issue]: https://github.com/hassio-addons/addon-firefly-iii/issues
+[firefly-iii-version-shield]: https://img.shields.io/badge/version-bf950da-blue.svg
+[firefly-iii-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/firefly-iii-amd64.svg
+[firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[firefly-iii-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/07e40ef
 [addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/07e40ef/README.md
 [phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
