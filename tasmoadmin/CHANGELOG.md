@@ -1,8 +1,8 @@
-# Changelog since v0.8.0
+# Changelog since v0.8.1
 
-2019/07/14 11:24 UTC - [e148508](https://github.com/hassio-addons/addon-tasmoadmin/commit/e148508151a967b1dc6d06d9b96296858a000c16) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades php to 7.3.7-r0 
+2019/08/10 19:11 UTC - [282ee28](https://github.com/hassio-addons/addon-tasmoadmin/commit/282ee28ee2f370daf634cf05e2aef14ce45701b7) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades php7 to 7.3.8-r0 
 
-2019/07/14 11:24 UTC - [9da6ea8](https://github.com/hassio-addons/addon-tasmoadmin/commit/9da6ea8a2b1241ece6de280a119108f02d6ddbf1) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.0.2 
+2019/08/10 19:11 UTC - [62118b4](https://github.com/hassio-addons/addon-tasmoadmin/commit/62118b489977de0f9aea642ffa40cac7476ae333) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v4.0.3 
 
