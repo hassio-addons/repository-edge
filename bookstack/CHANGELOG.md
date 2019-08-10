@@ -1,3 +1,3 @@
-2019/07/21 21:39 UTC - [208644b](https://github.com/hassio-addons/addon-bookstack/commit/208644bde030255100645917be77a59397931de4) by [@sinclairpaul](https://github.com/sinclairpaul)
-> :books: Readme updates 
+2019/08/10 19:40 UTC - [ab2cc23](https://github.com/hassio-addons/addon-bookstack/commit/ab2cc23de714b28da0c0819cf3fe116820adb29d) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades mariadb to 10.3.17-r0 
 
