@@ -900,10 +900,10 @@ SOFTWARE.
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [grocy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grocy-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/tree/b226e79
-[addon-doc-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/blob/b226e79/README.md
+[addon-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/tree/cb26a2c
+[addon-doc-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/blob/cb26a2c/README.md
 [happy-bubbles-issue]: https://github.com/hassio-addons/addon-happy-bubbles/issues
-[happy-bubbles-version-shield]: https://img.shields.io/badge/version-b226e79-blue.svg
+[happy-bubbles-version-shield]: https://img.shields.io/badge/version-cb26a2c-blue.svg
 [happy-bubbles-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/happy-bubbles-armhf.svg
 [happy-bubbles-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [happy-bubbles-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
