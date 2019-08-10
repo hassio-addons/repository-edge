@@ -1,11 +1,8 @@
-# Changelog since v0.5.0
+# Changelog since v0.5.1
 
-2019/07/15 11:40 UTC - [6997bb9](https://github.com/hassio-addons/addon-motioneye/commit/6997bb9179e7871cb5100d6fe36e6a486c515679) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates futures to v3.3.0 (#47) 
+2019/08/10 16:00 UTC - [88a783b](https://github.com/hassio-addons/addon-motioneye/commit/88a783b7f0df8d333fc15827b6cc527e0cfe6224) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades musl-dev to 1.1.22-r3 
 
-2019/07/15 11:40 UTC - [3bd43bc](https://github.com/hassio-addons/addon-motioneye/commit/3bd43bce54573e6429dae1b01c71c6111a28668a) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.0.2 
-
-2019/07/15 11:40 UTC - [a213fd7](https://github.com/hassio-addons/addon-motioneye/commit/a213fd77c25835cccf9ccbf9d8d7f25fe4ccbd1a) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates pillow to v6.1.0 (#44) 
+2019/08/10 16:00 UTC - [c50e0c7](https://github.com/hassio-addons/addon-motioneye/commit/c50e0c71c3da7c3d8aab7032790fe4cdb910dc31) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v4.0.3 
 
