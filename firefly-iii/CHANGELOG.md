@@ -1,3 +1,3 @@
-2019/08/10 19:53 UTC - [47beb20](https://github.com/hassio-addons/addon-firefly-iii/commit/47beb209673889c4e1f89f3638fd5bbf189cc4f3) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 🐛 Workaround for upgrade issue 
+2019/08/10 20:37 UTC - [f40fbf2](https://github.com/hassio-addons/addon-firefly-iii/commit/f40fbf218c8eaf2ca58082a51ac8db266b4e354d) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 🔨Fix screenshot link 
 
