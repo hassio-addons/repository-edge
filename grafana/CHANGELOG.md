@@ -1,5 +1,8 @@
-# Changelog since v2.2.1
+# Changelog since v2.2.2
 
-2019/07/26 13:26 UTC - [c428577](https://github.com/hassio-addons/addon-grafana/commit/c428577f83973328243d4e2861092e0ecf5090a6) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes Grafana secret key rotation to be fixed 
+2019/08/10 18:52 UTC - [b798f28](https://github.com/hassio-addons/addon-grafana/commit/b798f289671845295284ccae2fcf9b8cacada675) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Grafana to v6.3.2 
+
+2019/08/10 18:52 UTC - [2e7a340](https://github.com/hassio-addons/addon-grafana/commit/2e7a3405002e30a30ca9f7f584410d78e63a95d1) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v3.1.4 
 
