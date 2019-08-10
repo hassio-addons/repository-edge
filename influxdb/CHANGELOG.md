@@ -1,14 +1,11 @@
-# Changelog since v3.1.0
+# Changelog since v3.1.1
 
-2019/07/21 11:36 UTC - [42dc16e](https://github.com/hassio-addons/addon-influxdb/commit/42dc16e1dac5e0c90b79189b04a7fe84cf3cc4ab) by [@jonathanweinberg](https://github.com/jonathanweinberg)
-> Link to HA Component Docs for Influx (#35)
+2019/08/10 15:41 UTC - [05e19b3](https://github.com/hassio-addons/addon-influxdb/commit/05e19b3d27d8a26e1d6d0bceb6d7fe038ab67689) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v3.1.4 
 
-* Link to HA Component Docs for Influx
+2019/08/10 15:41 UTC - [68c55cf](https://github.com/hassio-addons/addon-influxdb/commit/68c55cf69da9ca2f81806f3f1e7b7d186a7a5581) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.14.0-0ubuntu1.3 
 
-Link to Home Assistant component information / documentation
-
-* :pencil2: Tweaks 
-
-2019/07/21 11:36 UTC - [deca057](https://github.com/hassio-addons/addon-influxdb/commit/deca05797ed18881e8ee4ac6fbb168295f228fff) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades InfluxDB to v1.7.7 
+2019/08/10 15:41 UTC - [5649e44](https://github.com/hassio-addons/addon-influxdb/commit/5649e44a84efc0171d7ad6fb43dc54b033373600) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libnginx-mod-http-lua to 1.14.0-0ubuntu1.3 
 
