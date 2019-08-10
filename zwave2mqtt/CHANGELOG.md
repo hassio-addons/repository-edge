@@ -1,5 +1,5 @@
-# Changelog since v0.3.0
+# Changelog since v0.3.1
 
-2019/07/24 09:14 UTC - [93f58df](https://github.com/hassio-addons/addon-zwave2mqtt/commit/93f58dfac0f712780e24981fc120c2d494a3881b) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Zwave2Mqtt to v2.0.2 
+2019/08/10 15:51 UTC - [631d926](https://github.com/hassio-addons/addon-zwave2mqtt/commit/631d926a56b1dc6d2c906b63f98ec5faf1a755fa) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v4.0.3 
 
