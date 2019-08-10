@@ -1,6 +1,6 @@
 {
   "name": "AppDaemon",
-  "version": "7bb7783",
+  "version": "6742279",
   "slug": "appdaemon3",
   "description": "Python Apps and HADashboard using AppDaemon 3.x for Home Assistant",
   "url": "https://github.com/hassio-addons/addon-appdaemon3",
