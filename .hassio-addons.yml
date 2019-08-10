@@ -41,6 +41,10 @@ addons:
     repository: hassio-addons/addon-ftp
     target: ftp
     image: hassioaddons/ftp-{arch}
+  firefly-iii:
+    repository: hassio-addons/addon-firefly-iii
+    target: firefly-iii
+    image: hassioaddons/firefly-iii-{arch}
   glances:
     repository: hassio-addons/addon-glances
     target: glances
