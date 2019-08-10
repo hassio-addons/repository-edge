@@ -1,3 +1,3 @@
-2019/08/10 19:49 UTC - [bf950da](https://github.com/hassio-addons/addon-firefly-iii/commit/bf950da0f3227d78b2da3ab137c2471247db1b53) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v3.1.4 
+2019/08/10 19:53 UTC - [47beb20](https://github.com/hassio-addons/addon-firefly-iii/commit/47beb209673889c4e1f89f3638fd5bbf189cc4f3) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 🐛 Workaround for upgrade issue 
 
