@@ -52,13 +52,13 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-motioneye/blob/0c8a1c4/README.md
+[docs]: https://github.com/hassio-addons/addon-motioneye/blob/1d165ae/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-motioneye/71826?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-0c8a1c4-blue.svg
-[release]: https://github.com/hassio-addons/addon-motioneye/tree/0c8a1c4
+[release-shield]: https://img.shields.io/badge/version-1d165ae-blue.svg
+[release]: https://github.com/hassio-addons/addon-motioneye/tree/1d165ae
 [screenshot]: https://github.com/hassio-addons/addon-motioneye/raw/master/images/screenshot.png
