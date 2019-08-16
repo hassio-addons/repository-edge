@@ -1,6 +1,6 @@
 {
   "name": "Z-Wave to MQTT",
-  "version": "631d926",
+  "version": "e6af2dd",
   "slug": "zwave2mqtt",
   "description": "Fully configurable Z-Wave to MQTT gateway and control panel",
   "url": "https://github.com/hassio-addons/addon-zwave2mqtt",
