@@ -1,5 +1,5 @@
-# Changelog since v3.0.1
+# Changelog since v3.0.2
 
-2019/08/10 15:56 UTC - [cb26a2c](https://github.com/hassio-addons/addon-happy-bubbles/commit/cb26a2c01292e7a361a1f28a2a9f103bfdbc3850) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.0.3 
+2019/08/16 19:26 UTC - [6fa1a1b](https://github.com/hassio-addons/addon-happy-bubbles/commit/6fa1a1b5d45c00f0cf620057200009e4e4bf7887) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.16.1-r0 
 
