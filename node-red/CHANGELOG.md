@@ -1,17 +1,17 @@
-# Changelog since v4.0.6
+# Changelog since v4.0.7
 
-2019/08/10 15:22 UTC - [2e5c673](https://github.com/hassio-addons/addon-node-red/commit/2e5c67358914e367b877e00acc532f8f98401d89) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.0.3 
+2019/08/16 19:50 UTC - [c845dea](https://github.com/hassio-addons/addon-node-red/commit/c845dea64bfb20c0013d91302b0e8f718e6e859b) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates snyk to v1.217.0 (#283) 
 
-2019/08/10 15:22 UTC - [f9cd2b0](https://github.com/hassio-addons/addon-node-red/commit/f9cd2b0c7eed310c68695997a45134092c795276) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades patch to 2.7.6-r6 
+2019/08/16 19:50 UTC - [1d5185d](https://github.com/hassio-addons/addon-node-red/commit/1d5185dc84901d9842695626e533388b4c3e61a4) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-bigtimer to v2.2.5 (#285) 
 
-2019/08/10 15:22 UTC - [72d4287](https://github.com/hassio-addons/addon-node-red/commit/72d428747651d27985d54b6699b7173cb9609282) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-http-request to v0.1.14 (#284) 
+2019/08/16 19:50 UTC - [fcfd829](https://github.com/hassio-addons/addon-node-red/commit/fcfd829d7aee19f4674f3a6aacfdf56313734bd0) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-theme-midnight-red to v0.2.12 (#286) 
 
-2019/08/10 15:22 UTC - [645c00b](https://github.com/hassio-addons/addon-node-red/commit/645c00bfdab44a45c254c3a594a4d945b8f14e63) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates snyk to v1.208.0 (#279) 
+2019/08/16 19:50 UTC - [3f9f5e0](https://github.com/hassio-addons/addon-node-red/commit/3f9f5e036ca24857ef4ef3ee91b5de7d182220a6) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-dashboard to v2.16.0 (#287) 
 
-2019/08/10 15:22 UTC - [2702d26](https://github.com/hassio-addons/addon-node-red/commit/2702d26664768641b24b484d9b765c3591c73ceb) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-home-assistant-websocket to v0.14.2 (#282) 
+2019/08/16 19:50 UTC - [5be4613](https://github.com/hassio-addons/addon-node-red/commit/5be4613eca9f24d5676e65a440967026ee844de2) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.16.1-r0 
 
