@@ -945,10 +945,10 @@ SOFTWARE.
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [home-panel-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [home-panel-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/5432806
-[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/5432806/README.md
+[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/b19f3ce
+[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/b19f3ce/README.md
 [ide-issue]: https://github.com/hassio-addons/addon-ide/issues
-[ide-version-shield]: https://img.shields.io/badge/version-5432806-blue.svg
+[ide-version-shield]: https://img.shields.io/badge/version-b19f3ce-blue.svg
 [ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-armhf.svg
 [ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
