@@ -1,3 +1,3 @@
-2019/08/10 19:40 UTC - [ab2cc23](https://github.com/hassio-addons/addon-bookstack/commit/ab2cc23de714b28da0c0819cf3fe116820adb29d) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades mariadb to 10.3.17-r0 
+2019/08/16 19:31 UTC - [1f8f49f](https://github.com/hassio-addons/addon-bookstack/commit/1f8f49fa444c70ce941fcea579892d027c6d476e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.16.1-r0 
 
