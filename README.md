@@ -1236,8 +1236,8 @@ SOFTWARE.
 [motioneye-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [motioneye-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg
-[discord]: https://discord.gg/c5DvZ4e
+[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
+[discord]: https://discord.me/hassioaddons
 [forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io?u=frenck
