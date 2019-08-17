@@ -51,7 +51,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grocy/blob/ba31b7c/README.md
+[docs]: https://github.com/hassio-addons/addon-grocy/blob/1ee1874/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-grocy/112422?u=frenck
 [grocy-demo]: https://demo-en.grocy.info
@@ -60,6 +60,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://www.frenck.nl/images/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-ba31b7c-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/ba31b7c
+[release-shield]: https://img.shields.io/badge/version-1ee1874-blue.svg
+[release]: https://github.com/hassio-addons/addon-grocy/tree/1ee1874
 [screenshot]: https://github.com/hassio-addons/addon-grocy/raw/master/images/screenshot.gif
