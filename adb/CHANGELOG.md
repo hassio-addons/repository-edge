@@ -1,5 +1,5 @@
-# Changelog since v0.5.0
+# Changelog since v0.5.1
 
-2019/08/10 19:00 UTC - [2bb2a9c](https://github.com/hassio-addons/addon-adb/commit/2bb2a9c635a9472d2270f4bfef8ad265d841da6f) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v3.1.4 
+2019/08/21 17:56 UTC - [26a1559](https://github.com/hassio-addons/addon-adb/commit/26a15595cc0fecc955ac9eacda6cffe827b92917) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v3.2.0 
 
