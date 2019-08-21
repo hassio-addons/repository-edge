@@ -1,8 +1,8 @@
-# Changelog since v2.1.1
+# Changelog since v2.1.2
 
-2019/08/10 09:22 UTC - [4c670a4](https://github.com/hassio-addons/addon-plex/commit/4c670a4c87a0d2c60cbd15cc170e8399996785c7) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Plex to 1.16.4.1469 
+2019/08/21 17:59 UTC - [bac140c](https://github.com/hassio-addons/addon-plex/commit/bac140cdf7a3980e85da27fd02a3f18880c588be) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Plex Media Server to 1.16.5.1488 
 
-2019/08/10 09:22 UTC - [fb2b93d](https://github.com/hassio-addons/addon-plex/commit/fb2b93d458c4f2b01bc92bf3207e874c4c7fe503) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v3.1.4 
+2019/08/21 17:59 UTC - [2250c1b](https://github.com/hassio-addons/addon-plex/commit/2250c1bf11692a5a2c5153d0e529d91b0acfd3d9) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v3.2.0 
 
