@@ -1205,10 +1205,10 @@ SOFTWARE.
 [zwave2mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [zwave2mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [zwave2mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/48c42e3
-[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/48c42e3/README.md
+[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/664827f
+[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/664827f/README.md
 [zerotier-issue]: https://github.com/hassio-addons/addon-zerotier/issues
-[zerotier-version-shield]: https://img.shields.io/badge/version-48c42e3-blue.svg
+[zerotier-version-shield]: https://img.shields.io/badge/version-664827f-blue.svg
 [zerotier-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/zerotier-armhf.svg
 [zerotier-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zerotier-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
