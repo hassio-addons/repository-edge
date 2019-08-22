@@ -1,3 +1,3 @@
-2019/08/20 22:14 UTC - [cfeb99f](https://github.com/hassio-addons/addon-bookstack/commit/cfeb99ff08d96a8ba27f27a89a0c7954c5319978) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update base image to 4.1.0 
+2019/08/21 22:23 UTC - [175bfa6](https://github.com/hassio-addons/addon-bookstack/commit/175bfa6f03e0ea8a6834d39b6f145ed0bd52aec3) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 🚑 Fixes path handling for SSL certificates 
 
