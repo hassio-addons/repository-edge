@@ -1,3 +1,3 @@
-2019/08/17 19:36 UTC - [08927d7](https://github.com/hassio-addons/addon-firefly-iii/commit/08927d715e68211b35e79e99e39c3b70ecf65669) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆ Update php to 7.2.19-0ubuntu0.18.04.2 
+2019/08/21 22:28 UTC - [975616f](https://github.com/hassio-addons/addon-firefly-iii/commit/975616f36a07fa379c771b7c5c1cc383329e08a6) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ⬆ Update nginx to 1.14.0-0ubuntu1.6 
 
