@@ -1,3 +1,3 @@
-2019/08/21 22:28 UTC - [975616f](https://github.com/hassio-addons/addon-firefly-iii/commit/975616f36a07fa379c771b7c5c1cc383329e08a6) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆ Update nginx to 1.14.0-0ubuntu1.6 
+2019/08/23 13:12 UTC - [fa7b1e4](https://github.com/hassio-addons/addon-firefly-iii/commit/fa7b1e4653854232525cd2c1c0dfcd23d82beb40) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 🔨Update supported language locales 
 
