@@ -1,6 +1,6 @@
 {
   "name": "JupyterLab Lite",
-  "version": "8c88b69",
+  "version": "ba6de32",
   "slug": "jupyterlablite",
   "description": "Create documents containing live code, equations, visualizations, and explanatory text.",
   "url": "https://github.com/hassio-addons/addon-jupyterlab-lite",
