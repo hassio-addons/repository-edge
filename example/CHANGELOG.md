@@ -1,5 +1,15 @@
-# Changelog since v3.0.3
+# Changelog since v3.0.4
 
-2019/08/21 17:54 UTC - [6d0eaa1](https://github.com/hassio-addons/addon-example/commit/6d0eaa1566f6b3f87b9aed584524b2a1def962b3) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.1.1 
+2019/08/24 07:01 UTC - [4b59e9c](https://github.com/hassio-addons/addon-example/commit/4b59e9c96331591078c398ac10df10647c455f87) by [@sinclairpaul](https://github.com/sinclairpaul)
+> Update example with multiple processes (#14)
+
+* 🔨 Remove run from dockerfile
+
+* 🔨Add multiple commands under S6
+
+* 📚Copy Paste errors
+
+* 📚Typo
+
+* 📚Update typos 
 
