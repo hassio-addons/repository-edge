@@ -1,6 +1,6 @@
 {
   "name": "Tor",
-  "version": "12bcf66",
+  "version": "23dc168",
   "slug": "tor",
   "description": "Protect your privacy and access Home Assistant via Tor.",
   "url": "https://github.com/hassio-addons/addon-tor",
