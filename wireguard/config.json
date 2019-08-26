@@ -1,6 +1,6 @@
 {
   "name": "WireGuard",
-  "version": "d557dda",
+  "version": "36e48fe",
   "slug": "wireguard",
   "description": "Fast, modern, secure VPN tunnel",
   "url": "https://github.com/hassio-addons/addon-wireguard",
@@ -36,8 +36,8 @@
         "10.10.0.1/16"
       ],
       "dns": [
-        "8.8.8.8",
-        "8.8.4.4"
+        "1.1.1.1",
+        "9.9.9.9"
       ]
     },
     "peers": [
@@ -62,7 +62,9 @@
       "dns": [
         "str"
       ],
-      "private_key": "str?"
+      "private_key": "str?",
+      "post_up": "str?",
+      "post_down": "str?"
     },
     "peers": [
       {
