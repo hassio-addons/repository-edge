@@ -1,6 +1,6 @@
 {
   "name": "WireGuard",
-  "version": "1a0de78",
+  "version": "1272553",
   "slug": "wireguard",
   "description": "Fast, modern, secure VPN tunnel",
   "url": "https://github.com/hassio-addons/addon-wireguard",
@@ -13,7 +13,12 @@
     "i386"
   ],
   "ports": {
+    "80/tcp": null,
     "51820/udp": 51820
+  },
+  "ports_description": {
+    "80/tcp": "WireGuard peers status API",
+    "51820/udp": "WireGuard: forward this port in your router"
   },
   "boot": "auto",
   "hassio_api": true,
@@ -51,6 +56,7 @@
     "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
     "server": {
       "host": "str",
+      "interface": "match(^wg([0-9])+$)?",
       "addresses": [
         "str"
       ],
@@ -59,12 +65,17 @@
       ],
       "private_key": "str?",
       "public_key": "str?",
+      "fwmark": "str?",
+      "table": "str?",
+      "pre_up": "str?",
+      "pre_down": "str?",
       "post_up": "str?",
-      "post_down": "str?"
+      "post_down": "str?",
+      "mtu": "int?"
     },
     "peers": [
       {
-        "name": "match(^!secret [a-zA-Z0-9_\\-]+$|^[a-zA-Z0-9\\d](?:[a-zA-Z0-9\\d]|-(?=[a-zA-Z0-9\\d])){0,32}$)",
+        "name": "match(^[a-zA-Z0-9\\d](?:[a-zA-Z0-9\\d]|-(?=[a-zA-Z0-9\\d])){0,32}$)",
         "private_key": "str?",
         "public_key": "str?",
         "addresses": [
@@ -78,7 +89,8 @@
         ],
         "persistent_keep_alive": "int?",
         "endpoint": "str?",
-        "pre_shared_key": "str?"
+        "pre_shared_key": "str?",
+        "fwmark": "str?"
       }
     ]
   },
