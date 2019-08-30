@@ -1,3 +1,3 @@
-2019/08/29 18:35 UTC - [1272553](https://github.com/hassio-addons/addon-wireguard/commit/127255380e4ac608ee1d81cec310f8cd44c38fd5) by [@frenck](https://github.com/frenck)
-> :books: Completes documentation 
+2019/08/30 11:00 UTC - [091007f](https://github.com/hassio-addons/addon-wireguard/commit/091007f9071dc63834e6402fc18d254ce02e497d) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes Markdownlint warnings 
 

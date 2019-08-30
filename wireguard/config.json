@@ -1,6 +1,6 @@
 {
   "name": "WireGuard",
-  "version": "1272553",
+  "version": "091007f",
   "slug": "wireguard",
   "description": "Fast, modern, secure VPN tunnel",
   "url": "https://github.com/hassio-addons/addon-wireguard",
