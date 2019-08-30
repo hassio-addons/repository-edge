@@ -1,3 +1,3 @@
-2019/08/30 11:00 UTC - [091007f](https://github.com/hassio-addons/addon-wireguard/commit/091007f9071dc63834e6402fc18d254ce02e497d) by [@frenck](https://github.com/frenck)
-> :shirt: Fixes Markdownlint warnings 
+2019/08/30 11:06 UTC - [a2ab6a1](https://github.com/hassio-addons/addon-wireguard/commit/a2ab6a1b45a48c8cb1ff421b0e246d7d058b97d5) by [@frenck](https://github.com/frenck)
+> :pencil2: IPv4 or IPv6 
 
