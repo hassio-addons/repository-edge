@@ -1,6 +1,6 @@
 {
   "name": "WireGuard",
-  "version": "ba1f26a",
+  "version": "791d842",
   "slug": "wireguard",
   "description": "Fast, modern, secure VPN tunnel",
   "url": "https://github.com/hassio-addons/addon-wireguard",
@@ -35,7 +35,7 @@
   ],
   "options": {
     "server": {
-      "host": "hassio.local",
+      "host": "myautomatedhome.duckdns.org",
       "addresses": [
         "172.244.66.1"
       ],
