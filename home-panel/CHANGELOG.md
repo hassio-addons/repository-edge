@@ -1,27 +1,29 @@
-# Changelog since v0.4.1
+# Changelog since v0.5.0
 
-2019/08/04 12:34 UTC - [bd201bc](https://github.com/hassio-addons/addon-home-panel/commit/bd201bc9442e498e872d9c9a786c25422984012e) by [@timmo001](https://github.com/timmo001)
-> :fire: Disable ingress temporarily (#27)
+2019/08/31 22:34 UTC - [2b7cd69](https://github.com/hassio-addons/addon-home-panel/commit/2b7cd697f6325c4d57004974778ce0ff45e5386f) by [@timmo001](https://github.com/timmo001)
+> :hammer: Re enable ingress 
 
-* :fire: Disable Ingress
+2019/08/31 22:34 UTC - [ef0ea60](https://github.com/hassio-addons/addon-home-panel/commit/ef0ea60964295f914aefd68add0fd7729f1d48f3) by [@timmo001](https://github.com/timmo001)
+> :hammer: :arrow_up: Upgrade base and use Hass.io DNS as NGinx resolver 
 
-* :fire: Fix version 
+2019/08/31 22:34 UTC - [5cb1f83](https://github.com/hassio-addons/addon-home-panel/commit/5cb1f83e99c7e19a4d00358418ecd840a1533e3d) by [@timmo001](https://github.com/timmo001)
+> :fire: :arrow_up: Home Panel v2 addon upgrade (#25)
 
-2019/08/04 12:34 UTC - [e1d1c1c](https://github.com/hassio-addons/addon-home-panel/commit/e1d1c1c8834d4b359eea66db2c43b32e90d9b344) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update dependencies 
+* :hammer: First attempt with gitlab build
 
-2019/08/04 12:34 UTC - [874aab6](https://github.com/hassio-addons/addon-home-panel/commit/874aab638f727f0edff3ac4e1d5b5ad6df3f7dda) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Upgrade base to v4.0.2 
+* :hammer: Move build
 
-2019/08/04 12:34 UTC - [27b3a66](https://github.com/hassio-addons/addon-home-panel/commit/27b3a6654dd8ef596e4f438031af4b6d830388a1) by [@timmo001](https://github.com/timmo001)
-> :hammer: Fix version 
+* :pencil2: Fix typo
 
-2019/08/04 12:34 UTC - [86f9631](https://github.com/hassio-addons/addon-home-panel/commit/86f9631b963b4347ad25a27afa18d4cfeaae72df) by [@timmo001](https://github.com/timmo001)
-> Merge branch 'master' of github.com:hassio-addons/addon-home-panel 
+Co-Authored-By: Franck Nijhof <frenck@addons.community>
 
-2019/08/04 12:34 UTC - [0619ec2](https://github.com/hassio-addons/addon-home-panel/commit/0619ec2f6658ce8b95da5ecc18eda18e7318f6f7) by [@frenck](https://github.com/frenck)
-> :pencil2: Maintaince -> Maintenance 
+* :hammer: Update link
 
-2019/08/04 12:34 UTC - [b3ab3bf](https://github.com/hassio-addons/addon-home-panel/commit/b3ab3bf490b09966c7422bc4d427da4d0294fd52) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Upgrade base to 3.1.1 
+* :hammer: Update build
+
+* :hammer: Update download
+
+* :hammer: Update url
+
+* :arrow_up: Updates 
 
