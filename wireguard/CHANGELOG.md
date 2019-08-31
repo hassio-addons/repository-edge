@@ -1,3 +1,5 @@
-2019/08/31 19:15 UTC - [909bc6b](https://github.com/hassio-addons/addon-wireguard/commit/909bc6b24b605c4e9cb3ea3efe3cb2ec52dbf148) by [@frenck](https://github.com/frenck)
-> :pencil2: Language tweak 
+2019/08/31 20:36 UTC - [7d6c415](https://github.com/hassio-addons/addon-wireguard/commit/7d6c4159cdf9414a39a833818d631347c8d58362) by [@codedmind](https://github.com/codedmind)
+> Update README.md (#3)
+
+, is missing between peers 
 
