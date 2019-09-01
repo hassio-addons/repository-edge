@@ -1,5 +1,5 @@
-2019/08/31 20:36 UTC - [7d6c415](https://github.com/hassio-addons/addon-wireguard/commit/7d6c4159cdf9414a39a833818d631347c8d58362) by [@codedmind](https://github.com/codedmind)
-> Update README.md (#3)
+2019/09/01 07:05 UTC - [e71cf5d](https://github.com/hassio-addons/addon-wireguard/commit/e71cf5d7ad4aa6185913f9f16d0dd00e33f1d0a2) by [@r3mcos3](https://github.com/r3mcos3)
+> :pencil2: Typo (#4)
 
-, is missing between peers 
+typo 
 
