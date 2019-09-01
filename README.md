@@ -1210,10 +1210,10 @@ SOFTWARE.
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/ea5e176
-[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/ea5e176/README.md
+[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/a9d6fa9
+[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/a9d6fa9/README.md
 [wireguard-issue]: https://github.com/hassio-addons/addon-wireguard/issues
-[wireguard-version-shield]: https://img.shields.io/badge/version-ea5e176-blue.svg
+[wireguard-version-shield]: https://img.shields.io/badge/version-a9d6fa9-blue.svg
 [wireguard-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/wireguard-armhf.svg
 [wireguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wireguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
