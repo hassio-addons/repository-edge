@@ -1,3 +1,5 @@
-2019/09/01 14:41 UTC - [a9d6fa9](https://github.com/hassio-addons/addon-wireguard/commit/a9d6fa92902a3485240be281c0061c0b4b6e343a) by [@bonanitech](https://github.com/bonanitech)
-> :pencil2: Small typos (#5) 
+# Changelog since v0.1.0
+
+2019/09/01 18:55 UTC - [dcaac66](https://github.com/hassio-addons/addon-wireguard/commit/dcaac6696ac7f1535cf80c8703f984833888a34a) by [@frenck](https://github.com/frenck)
+> :ambulance: Change the default IP range setting to follow RFC1918 
 
