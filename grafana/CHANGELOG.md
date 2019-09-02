@@ -1,8 +1,5 @@
-# Changelog since v2.2.3
+# Changelog since v2.2.4
 
-2019/08/21 17:54 UTC - [57bc9bb](https://github.com/hassio-addons/addon-grafana/commit/57bc9bbfa568ad9fc5666c82c052da2e41fb06f0) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v3.2.0 
-
-2019/08/21 17:54 UTC - [c13c68e](https://github.com/hassio-addons/addon-grafana/commit/c13c68e089c082957c630b0ba303369d0a970969) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Grafana to v6.3.3 
+2019/09/02 12:46 UTC - [e58ae8d](https://github.com/hassio-addons/addon-grafana/commit/e58ae8d6aa963a1b299a646a80d81e1988054885) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Grafana to v6.3.5 
 
