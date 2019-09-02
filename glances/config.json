@@ -1,6 +1,6 @@
 {
   "name": "Glances",
-  "version": "18bd2c9",
+  "version": "9dd63ca",
   "slug": "glances",
   "description": "A cross-platform system monitoring tool",
   "url": "https://github.com/hassio-addons/addon-glances",
