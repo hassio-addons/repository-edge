@@ -1,35 +1,17 @@
-# Changelog since v4.0.7
+# Changelog since v4.1.0
 
-2019/08/23 08:23 UTC - [a57198f](https://github.com/hassio-addons/addon-node-red/commit/a57198f071ab363efedaf7fbdb717b5569359e97) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-cast to v0.2.9 (#294) 
+2019/09/05 12:53 UTC - [8e85a60](https://github.com/hassio-addons/addon-node-red/commit/8e85a60463ec913a46068173cd2ae503453e621d) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nodejs to 10.16.3-r0 
 
-2019/08/23 08:23 UTC - [5b185c3](https://github.com/hassio-addons/addon-node-red/commit/5b185c34a6bac71150f301df39f6befcb9332525) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-home-assistant-websocket to v0.15.0 (#293) 
+2019/09/05 12:53 UTC - [6cf6ce0](https://github.com/hassio-addons/addon-node-red/commit/6cf6ce0038ebc1a05b945480e61681e49f1e34c9) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-influxdb to v0.3.1 (#300) 
 
-2019/08/23 08:23 UTC - [b8acd9f](https://github.com/hassio-addons/addon-node-red/commit/b8acd9f78695369429043278b3e55036fa2b95e4) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-dashboard to v2.16.1 (#292) 
+2019/09/05 12:53 UTC - [f1bf446](https://github.com/hassio-addons/addon-node-red/commit/f1bf4460729aa1feb40af65c3e31bcc54ca438a9) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-node-serialport to v0.8.6 (#298) 
 
-2019/08/23 08:23 UTC - [0e3ee44](https://github.com/hassio-addons/addon-node-red/commit/0e3ee44165e3a4236e1a7e8f2d5107db64e006d4) by [@frenck](https://github.com/frenck)
-> :hammer: Use Hass.io DNS as NGinx resolver 
+2019/09/05 12:53 UTC - [8675a97](https://github.com/hassio-addons/addon-node-red/commit/8675a97b24118157cafc0bfdc9ce435e7935b1d5) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-theme-midnight-red to v0.2.14 (#295) 
 
-2019/08/23 08:23 UTC - [6c8ccac](https://github.com/hassio-addons/addon-node-red/commit/6c8ccaca1a9d059b0aca8c5274168e26be861407) by [@frenck](https://github.com/frenck)
-> :hammer: Updates HA Auth URL in NGinx LUA script 
-
-2019/08/23 08:23 UTC - [ba43215](https://github.com/hassio-addons/addon-node-red/commit/ba43215d3b515b23705d397727a92c6806bebd45) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.1.1 
-
-2019/08/23 08:23 UTC - [c845dea](https://github.com/hassio-addons/addon-node-red/commit/c845dea64bfb20c0013d91302b0e8f718e6e859b) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates snyk to v1.217.0 (#283) 
-
-2019/08/23 08:23 UTC - [1d5185d](https://github.com/hassio-addons/addon-node-red/commit/1d5185dc84901d9842695626e533388b4c3e61a4) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-bigtimer to v2.2.5 (#285) 
-
-2019/08/23 08:23 UTC - [fcfd829](https://github.com/hassio-addons/addon-node-red/commit/fcfd829d7aee19f4674f3a6aacfdf56313734bd0) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-theme-midnight-red to v0.2.12 (#286) 
-
-2019/08/23 08:23 UTC - [3f9f5e0](https://github.com/hassio-addons/addon-node-red/commit/3f9f5e036ca24857ef4ef3ee91b5de7d182220a6) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-dashboard to v2.16.0 (#287) 
-
-2019/08/23 08:23 UTC - [5be4613](https://github.com/hassio-addons/addon-node-red/commit/5be4613eca9f24d5676e65a440967026ee844de2) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.16.1-r0 
+2019/09/05 12:53 UTC - [2a77420](https://github.com/hassio-addons/addon-node-red/commit/2a774201ce1adf75ec75d3c01c2c7d99980e1cd7) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-dashboard to v2.16.2 (#297) 
 
