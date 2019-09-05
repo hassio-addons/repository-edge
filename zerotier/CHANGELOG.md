@@ -1,5 +1,5 @@
-# Changelog since v0.4.1
+# Changelog since v0.4.2
 
-2019/08/21 18:00 UTC - [664827f](https://github.com/hassio-addons/addon-zerotier/commit/664827f9f7cb833740c70729c017a5361be426d2) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.1.1 
+2019/09/02 12:27 UTC - [2f45dff](https://github.com/hassio-addons/addon-zerotier/commit/2f45dff54697b3ef2683fb355bcb7a5268f8258a) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades ZeroTier One to 1.4.4 
 
