@@ -1,5 +1,9 @@
-# Changelog since v0.2.1
+# Changelog since v0.2.2
 
-2019/08/21 17:55 UTC - [aa6fa8f](https://github.com/hassio-addons/addon-bitwarden/commit/aa6fa8f34c367d45650258bb229b1a8e7282d291) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v3.2.0 
+2019/09/03 08:48 UTC - [eef44d1](https://github.com/hassio-addons/addon-bitwarden/commit/eef44d1703492c0ae769a1d717718a4e41a0ee8e) by [@tjorim](https://github.com/tjorim)
+> ⬆️ Upgrades Bitwarden RS to 1.10.0 (#6)
+
+* ⬆️ Upgrades Bitwarden RS to 1.10.0
+
+* Correct the image location 
 
