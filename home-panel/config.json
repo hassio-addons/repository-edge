@@ -1,6 +1,6 @@
 {
   "name": "Home Panel",
-  "version": "fb1b268",
+  "version": "7e0bd6a",
   "slug": "home-panel",
   "description": "A web frontend for controlling the home",
   "url": "https://github.com/hassio-addons/addon-home-panel",
@@ -20,7 +20,7 @@
   "homeassistant_api": true,
   "ingress": true,
   "ingress_port": 1337,
-  "panel_icon": "mdi:view-dashboard-variant",
+  "panel_icon": "mdi:home",
   "ports": {
     "80/tcp": null
   },
