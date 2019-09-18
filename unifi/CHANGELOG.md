@@ -1,8 +1,5 @@
-# Changelog since v0.11.0
+# Changelog since v0.12.0
 
-2019/08/23 20:17 UTC - [1021f50](https://github.com/hassio-addons/addon-unifi/commit/1021f5040628d7813b85274fb1191cabbae1b4f0) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades UniFi Controller to 5.11.39 
-
-2019/08/23 20:17 UTC - [a1cfa7b](https://github.com/hassio-addons/addon-unifi/commit/a1cfa7b22cfb1cc18ee10913644bf97a9cf74102) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v3.2.0 
+2019/09/18 14:11 UTC - [8da8cde](https://github.com/hassio-addons/addon-unifi/commit/8da8cdef9a7e536d079eb9033325c9c7c82adec5) by [@bonanitech](https://github.com/bonanitech)
+> :arrow_up: Upgrades UniFi Controller to 5.11.46 (#53) 
 
