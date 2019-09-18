@@ -1,3 +1,3 @@
-2019/09/07 14:19 UTC - [6f5cf07](https://github.com/hassio-addons/addon-bookstack/commit/6f5cf072931eaacc5fcefaebd78fc234b49216c1) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 🔨Change SQL setup scripts 
+2019/09/18 20:25 UTC - [b6a779d](https://github.com/hassio-addons/addon-bookstack/commit/b6a779d8f5f2fa8e216d323c03388c2c7ef510ed) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ⬆Update Base image to 5.0.1 
 
