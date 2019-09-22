@@ -1,29 +1,29 @@
-# Changelog since v0.3.1
+# Changelog since v0.3.2
 
-2019/08/23 20:24 UTC - [e0e6e9d](https://github.com/hassio-addons/addon-grocy/commit/e0e6e9d803315e539bb571c707bc9fa11706066b) by [@tjorim](https://github.com/tjorim)
-> Mimic commit 3dbce7547fb2b0c9b5acbed1926d98b5f61d10b0 (#44) 
+2019/09/22 19:06 UTC - [5997841](https://github.com/hassio-addons/addon-grocy/commit/5997841885f838b3b757a7457f61f2963ada43d7) by [@frenck](https://github.com/frenck)
+> :ambulance: Fixes version pinning in Dockerfile 
 
-2019/08/23 20:24 UTC - [d802e35](https://github.com/hassio-addons/addon-grocy/commit/d802e3548a8b64d5b6b8089675aee03e163b41d4) by [@frenck](https://github.com/frenck)
-> :hammer: Use Hass.io DNS as NGinx resolver 
+2019/09/22 19:06 UTC - [f5d7ec3](https://github.com/hassio-addons/addon-grocy/commit/f5d7ec36148b53a900106f3d9a50fb47572c1caf) by [@tjorim](https://github.com/tjorim)
+> :sparkles: Adds php7-simplexml (#50)
 
-2019/08/23 20:24 UTC - [7e88091](https://github.com/hassio-addons/addon-grocy/commit/7e880916014f0432cfe8159ab3bddbeae5077a64) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.1.1 
+Should fix "slim/slim 3.12.2 requires ext-simplexml" 
 
-2019/08/23 20:24 UTC - [b270ca4](https://github.com/hassio-addons/addon-grocy/commit/b270ca440d12346e89ab2a48461d8c34059ec5f8) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes path handling for SSL certificates 
+2019/09/22 19:06 UTC - [aaddc1f](https://github.com/hassio-addons/addon-grocy/commit/aaddc1fb542817328c9d87f7463add7f1f72483a) by [@tjorim](https://github.com/tjorim)
+> ⬆️ Upgrades add-on base image to v5.0.1 
 
-2019/08/23 20:24 UTC - [1ee1874](https://github.com/hassio-addons/addon-grocy/commit/1ee18743f906867fa2a87dd9d222ed168786a287) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.16.1-r0 
+2019/09/22 19:06 UTC - [4d4c49f](https://github.com/hassio-addons/addon-grocy/commit/4d4c49f82ee7783f3f97869ec8868334b545a34d) by [@tjorim](https://github.com/tjorim)
+> :arrow_up: Upgrades Grocy to v2.5.0 
 
-2019/08/23 20:24 UTC - [ba31b7c](https://github.com/hassio-addons/addon-grocy/commit/ba31b7c6986b925cf03369e741eb3e749f7df557) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades php7 to 7.3.8-r0 
+2019/09/22 19:06 UTC - [6a9caa4](https://github.com/hassio-addons/addon-grocy/commit/6a9caa4543603b174e3cf429faeb5eaa705a0f58) by [@tjorim](https://github.com/tjorim)
+> :arrow_up: Add php7-gd 7.3.9-r0
 
-2019/08/23 20:24 UTC - [fca7575](https://github.com/hassio-addons/addon-grocy/commit/fca7575634a5cb2c582ea7ea3c025de51c8f3caf) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.0.3 
+"All uploaded pictures (currently for products and recipes) are now automatically downscaled to the appropriate size when serving them to improve page load times (this requires the php-gd extension, if not installed, images will not be downscaled)" 
 
-2019/08/23 20:24 UTC - [b736a66](https://github.com/hassio-addons/addon-grocy/commit/b736a66e83f9d759f13f366db17ba58a089c424c) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades php to 7.3.7-r0 
+2019/09/22 19:06 UTC - [b352e22](https://github.com/hassio-addons/addon-grocy/commit/b352e22e76835a0007300ebec78be379640a7cea) by [@tjorim](https://github.com/tjorim)
+> ⬆️ Upgrades php7 to 7.3.9-r0 
 
-2019/08/23 20:24 UTC - [87e60ff](https://github.com/hassio-addons/addon-grocy/commit/87e60ffe0e18ecedaa113dde5a0240980c5aaed7) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.0.2 
+2019/09/22 19:06 UTC - [6a0a376](https://github.com/hassio-addons/addon-grocy/commit/6a0a376a9ada84197cd554e7a07c82ee77017f5f) by [@tjorim](https://github.com/tjorim)
+> Revert "Mimic commit 3dbce7547fb2b0c9b5acbed1926d98b5f61d10b0 (#44)"
+
+This reverts commit e0e6e9d803315e539bb571c707bc9fa11706066b. 
 
