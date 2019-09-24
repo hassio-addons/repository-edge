@@ -1,20 +1,14 @@
-# Changelog since v0.3.2
+# Changelog since v0.3.3
 
-2019/08/22 18:11 UTC - [6f36f85](https://github.com/hassio-addons/addon-zwave2mqtt/commit/6f36f85bfa47bf000a12c006d51178f95a531521) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Zwave2Mqtt to v2.0.3 
+2019/09/24 17:16 UTC - [26b08bb](https://github.com/hassio-addons/addon-zwave2mqtt/commit/26b08bbafe2aa98447d10d1507d7d69fb58c382b) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades openssl to 1.1.1d-r0 
 
-2019/08/22 18:11 UTC - [a8cfa70](https://github.com/hassio-addons/addon-zwave2mqtt/commit/a8cfa703e30db34f2dd221f0cc2ed8591b264d90) by [@frenck](https://github.com/frenck)
-> :hammer: Use Hass.io DNS as NGinx resolver 
+2019/09/24 17:16 UTC - [a62f594](https://github.com/hassio-addons/addon-zwave2mqtt/commit/a62f594fe425d32be77bf8e4eae1a2791086467e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nodejs to 10.16.3-r0 
 
-2019/08/22 18:11 UTC - [a9e356d](https://github.com/hassio-addons/addon-zwave2mqtt/commit/a9e356deba83557402f00afbae4bb9143abb5d88) by [@frenck](https://github.com/frenck)
-> :hammer: Updates HA Auth URL in NGinx LUA script 
+2019/09/24 17:16 UTC - [428b43d](https://github.com/hassio-addons/addon-zwave2mqtt/commit/428b43de8601985d5a7dd97c79d72e6bcc67c927) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades npm to 10.16.3-r0 
 
-2019/08/22 18:11 UTC - [871e738](https://github.com/hassio-addons/addon-zwave2mqtt/commit/871e738233d9da2d74bfd2ca3e6375d3488b1bea) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes path handling for SSL certificates 
-
-2019/08/22 18:11 UTC - [3c27f13](https://github.com/hassio-addons/addon-zwave2mqtt/commit/3c27f135fae1eab1a6ce5de90fc1a491c2e17d38) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.1.1 
-
-2019/08/22 18:11 UTC - [e6af2dd](https://github.com/hassio-addons/addon-zwave2mqtt/commit/e6af2dd17f628b1eda9b058254d97c3d4dbd1456) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.16.1-r0 
+2019/09/24 17:16 UTC - [4fb704c](https://github.com/hassio-addons/addon-zwave2mqtt/commit/4fb704c3ccfc576f2120a9c919b44c1f4c4049a1) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v5.0.1 
 
