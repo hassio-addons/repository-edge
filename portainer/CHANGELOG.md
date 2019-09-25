@@ -1,20 +1,8 @@
-# Changelog since v0.7.3
+# Changelog since v0.7.4
 
-2019/08/23 21:54 UTC - [d669d22](https://github.com/hassio-addons/addon-portainer/commit/d669d222f04d5772cbcd7f09361dc432a6143e6c) by [@frenck](https://github.com/frenck)
-> :hammer: Hide Hass.io DNS containers by default 
+2019/09/25 18:18 UTC - [e616085](https://github.com/hassio-addons/addon-portainer/commit/e616085c4ad7c8196877096e922afd9c63be24b3) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v5.0.1 
 
-2019/08/23 21:54 UTC - [a69964d](https://github.com/hassio-addons/addon-portainer/commit/a69964de4a96e8cf1751b5c0790b62ce3ca90144) by [@frenck](https://github.com/frenck)
-> :hammer: Use Hass.io DNS as NGinx resolver 
-
-2019/08/23 21:54 UTC - [037566d](https://github.com/hassio-addons/addon-portainer/commit/037566ddb66bd33d10b7116f997b4d2d1267d0ae) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes path handling for SSL certificates 
-
-2019/08/23 21:54 UTC - [1de628f](https://github.com/hassio-addons/addon-portainer/commit/1de628f21c8a035de4b4a9b131ad485ca4eb33ba) by [@frenck](https://github.com/frenck)
-> :hammer: Updates HA Auth URL in NGinx LUA script 
-
-2019/08/23 21:54 UTC - [2e0955b](https://github.com/hassio-addons/addon-portainer/commit/2e0955b0286ea33033468a47c8b706d92158231e) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.1.1 
-
-2019/08/23 21:54 UTC - [519026e](https://github.com/hassio-addons/addon-portainer/commit/519026e07ea9df3f4e98049178dc02e1dcc75fd9) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.16.1-r0 
+2019/09/25 18:18 UTC - [69c095c](https://github.com/hassio-addons/addon-portainer/commit/69c095ca24b39c9e01f9465c2ae2d93f547d4d0e) by [@frenck](https://github.com/frenck)
+> :fire: Removes unneeded access to config folder 
 
