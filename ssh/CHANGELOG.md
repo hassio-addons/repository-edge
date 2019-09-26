@@ -1,14 +1,11 @@
-# Changelog since v6.3.2
+# Changelog since v6.3.3
 
-2019/08/21 18:28 UTC - [3e8d588](https://github.com/hassio-addons/addon-ssh/commit/3e8d588a1e0835ee0743030613e36a4a2f1b36ac) by [@frenck](https://github.com/frenck)
-> :hammer: Use Hass.io DNS as NGinx resolver 
+2019/09/26 15:29 UTC - [ea71cfb](https://github.com/hassio-addons/addon-ssh/commit/ea71cfb418500a5234e2d337798fcfa1630ccd62) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades openssl to 1.1.1d-r0 
 
-2019/08/21 18:28 UTC - [d84f904](https://github.com/hassio-addons/addon-ssh/commit/d84f904e12af00868e89faf81735722ba337e87c) by [@frenck](https://github.com/frenck)
-> :hammer: Updates HA Auth URL in NGinx LUA script 
+2019/09/26 15:29 UTC - [73b050d](https://github.com/hassio-addons/addon-ssh/commit/73b050d419379ce7172bd991c8913f5914971fdb) by [@frenck](https://github.com/frenck)
+> :fire: Removes secrets support, now natively supported by Hassio 
 
-2019/08/21 18:28 UTC - [aac423e](https://github.com/hassio-addons/addon-ssh/commit/aac423ea0b5708bfe3f09accfee5637f2091f504) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes path handling for SSL certificates 
-
-2019/08/21 18:28 UTC - [3c796b6](https://github.com/hassio-addons/addon-ssh/commit/3c796b620150d50f5bf59122f0544af5c72d07b7) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.1.1 
+2019/09/26 15:29 UTC - [d52eb89](https://github.com/hassio-addons/addon-ssh/commit/d52eb8981f03254f853d31b7d8f7637bb8bc21a3) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v5.0.1 
 
