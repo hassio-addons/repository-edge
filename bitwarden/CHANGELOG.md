@@ -1,9 +1,8 @@
-# Changelog since v0.2.2
+# Changelog since v0.3.0
 
-2019/09/03 08:48 UTC - [eef44d1](https://github.com/hassio-addons/addon-bitwarden/commit/eef44d1703492c0ae769a1d717718a4e41a0ee8e) by [@tjorim](https://github.com/tjorim)
-> ⬆️ Upgrades Bitwarden RS to 1.10.0 (#6)
+2019/09/26 15:22 UTC - [8f1e369](https://github.com/hassio-addons/addon-bitwarden/commit/8f1e36985f8a71d6037545b2054ba1a003078a47) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v4.0.0 
 
-* ⬆️ Upgrades Bitwarden RS to 1.10.0
-
-* Correct the image location 
+2019/09/26 15:22 UTC - [a1cd2cb](https://github.com/hassio-addons/addon-bitwarden/commit/a1cd2cb1b02b81dcb0b6e7c9a968b64d3c6eea09) by [@frenck](https://github.com/frenck)
+> :fire: Removes unneeded access to config folder 
 
