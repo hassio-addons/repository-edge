@@ -1,8 +1,5 @@
-# Changelog since v0.7.4
+# Changelog since v0.7.5
 
-2019/09/25 18:18 UTC - [e616085](https://github.com/hassio-addons/addon-portainer/commit/e616085c4ad7c8196877096e922afd9c63be24b3) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v5.0.1 
-
-2019/09/25 18:18 UTC - [69c095c](https://github.com/hassio-addons/addon-portainer/commit/69c095ca24b39c9e01f9465c2ae2d93f547d4d0e) by [@frenck](https://github.com/frenck)
-> :fire: Removes unneeded access to config folder 
+2019/10/11 06:11 UTC - [c4f8a11](https://github.com/hassio-addons/addon-portainer/commit/c4f8a113089f6d5e30a1598af38aef028df65983) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Portainer to v1.22.1 
 
