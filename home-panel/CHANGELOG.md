@@ -1,5 +1,10 @@
-# Changelog since v1.4.1
+# Changelog since v1.4.2
 
-2019/10/09 18:06 UTC - [52d2f52](https://github.com/hassio-addons/addon-home-panel/commit/52d2f52caa6fb47abc3d59dcb447fb0137ea5e33) by [@timmo001](https://github.com/timmo001)
-> :arrow_up: Update Home Panel to v2.4.2 
+2019/10/12 16:41 UTC - [a150809](https://github.com/hassio-addons/addon-home-panel/commit/a150809b0e1ee1d8291349c209673ae206aa1181) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Update Home Panel to v2.4.4 
+
+2019/10/12 16:41 UTC - [9f6969d](https://github.com/hassio-addons/addon-home-panel/commit/9f6969d012e32ee58f8abcff9a72991a314739ea) by [@timmo001](https://github.com/timmo001)
+> :art: Update screenshots
+
+Closes #39 
 
