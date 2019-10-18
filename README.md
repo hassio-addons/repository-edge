@@ -950,10 +950,10 @@ SOFTWARE.
 [happy-bubbles-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [happy-bubbles-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [happy-bubbles-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/bb7d110
-[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/bb7d110/README.md
+[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/9333344
+[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/9333344/README.md
 [home-panel-issue]: https://github.com/hassio-addons/addon-home-panel/issues
-[home-panel-version-shield]: https://img.shields.io/badge/version-bb7d110-blue.svg
+[home-panel-version-shield]: https://img.shields.io/badge/version-9333344-blue.svg
 [home-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/home-panel-armhf.svg
 [home-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [home-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
