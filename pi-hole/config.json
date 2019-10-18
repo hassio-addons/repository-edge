@@ -1,6 +1,6 @@
 {
   "name": "Pi-hole",
-  "version": "491413f",
+  "version": "8e998e9",
   "slug": "pi-hole",
   "description": "Network-wide ad blocking using your Hass.io instance",
   "url": "https://github.com/hassio-addons/addon-pi-hole",
@@ -47,7 +47,6 @@
     "ipv6": true,
     "ipv4_address": "",
     "ipv6_address": "",
-    "virtual_host": "",
     "hosts": []
   },
   "schema": {
@@ -60,7 +59,6 @@
     "ipv6": "bool",
     "ipv4_address": "str",
     "ipv6_address": "str",
-    "virtual_host": "str",
     "hosts": [
       {
         "name": "str",

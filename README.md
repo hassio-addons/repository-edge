@@ -1080,10 +1080,10 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/491413f
-[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/491413f/README.md
+[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/8e998e9
+[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/8e998e9/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
-[pi-hole-version-shield]: https://img.shields.io/badge/version-491413f-blue.svg
+[pi-hole-version-shield]: https://img.shields.io/badge/version-8e998e9-blue.svg
 [pi-hole-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/pi-hole-armhf.svg
 [pi-hole-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
