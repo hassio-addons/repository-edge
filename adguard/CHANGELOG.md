@@ -1,5 +1,5 @@
-# Changelog since v2.2.0
+# Changelog since v2.2.1
 
-2019/10/24 13:16 UTC - [d2c611c](https://github.com/hassio-addons/addon-adguard-home/commit/d2c611ccff7e0a53e8c2ae2b7dfbbdb90e1a28b2) by [@tjorim](https://github.com/tjorim)
-> ⬆️ Upgrade AdGuard Home to v0.99.1 (#36) 
+2019/10/25 10:57 UTC - [a374afd](https://github.com/hassio-addons/addon-adguard-home/commit/a374afdb0781c005bccc526e009dded9911bd7ac) by [@frenck](https://github.com/frenck)
+> :arrow_down: Downgrades AdGuard Home to v0.99.0 
 
