@@ -1,3 +1,3 @@
-2019/10/24 21:07 UTC - [57be397](https://github.com/hassio-addons/addon-firefly-iii/commit/57be397af57c4e109967136253d364b0f6d3b018) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update php to 7.3.11 
+2019/10/26 13:07 UTC - [5976ca3](https://github.com/hassio-addons/addon-firefly-iii/commit/5976ca35cc7c3e2e48ba07aa393bd8659dfdddcc) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ⬆Update firefly-iii to 4.8.1.7 
 
