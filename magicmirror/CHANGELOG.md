@@ -1,3 +1,3 @@
-2019/05/06 11:02 UTC - [c482c88](https://github.com/hassio-addons/addon-magicmirror/commit/c482c8823ebe36f9aa303ea77b6a7c2ca036f252) by [@tjorim](https://github.com/tjorim)
-> ⬆️ Updates lua-resty-http to 0.13-r0 (#11) 
+2019/10/29 16:19 UTC - [e5fd24d](https://github.com/hassio-addons/addon-magicmirror/commit/e5fd24d7b9a071f1ac5578c5965babe79e117c2b) by [@bonanitech](https://github.com/bonanitech)
+> :books: Component > Integration (#13) 
 
