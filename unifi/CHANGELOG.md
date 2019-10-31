@@ -1,13 +1,19 @@
-# Changelog since v0.13.0
+# Changelog since v0.13.1
 
-2019/10/20 20:18 UTC - [e838891](https://github.com/hassio-addons/addon-unifi/commit/e838891b79f9533ea5a3cf8bfef739e255c25c7c) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 📚Minor update to readme (#56) 
+2019/10/31 20:12 UTC - [c58f047](https://github.com/hassio-addons/addon-unifi/commit/c58f047a52f3093c7d2df2c80fa707ad516e76c1) by [@frenck](https://github.com/frenck)
+> :shirt: Fixes Markdownlint warnings 
 
-2019/10/20 20:18 UTC - [e7e8eeb](https://github.com/hassio-addons/addon-unifi/commit/e7e8eebd64b790be8643fd4389c02129247e748e) by [@LEJOUI](https://github.com/LEJOUI)
-> :arrow_up: Upgrades UniFi Controller to 5.11.50 (#59)
+2019/10/31 20:12 UTC - [d9143c4](https://github.com/hassio-addons/addon-unifi/commit/d9143c4efadb030ae2635257a578db699882978b) by [@PixelJonas](https://github.com/PixelJonas)
+> add information about device adoption (#63)
 
-Upgrades UniFi Controller to 5.11.50 
+* add information about device adoption
 
-2019/10/20 20:18 UTC - [541cbaa](https://github.com/hassio-addons/addon-unifi/commit/541cbaac4ee1e288b0c1ccd8489d781b42abc530) by [@LEJOUI](https://github.com/LEJOUI)
-> Upgrades UniFi Controller to 5.11.47 (#57) 
+Since I struggled to get adoption to work I added a small section about the settings needed the manual SSH way
+
+* remove duplicate information
+
+Remove information about setting up a custom inform URL since it's already part of the installation steps 
+
+2019/10/31 20:12 UTC - [d46616e](https://github.com/hassio-addons/addon-unifi/commit/d46616e8d1609bbda7f0d816d96b7e2386ec356f) by [@schliflo](https://github.com/schliflo)
+> ⬆️ Upgrades UniFi Controller to 5.12.22 (#62) 
 
