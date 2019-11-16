@@ -1,8 +1,5 @@
-# Changelog since v1.1.0
+# Changelog since v1.1.1
 
-2019/11/04 12:56 UTC - [6dad565](https://github.com/hassio-addons/addon-vscode/commit/6dad5657f52c6b84a48c9ca46c95952baa24e34e) by [@frenck](https://github.com/frenck)
-> ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.3.3 
-
-2019/11/04 12:56 UTC - [1333a06](https://github.com/hassio-addons/addon-vscode/commit/1333a0644616ba595a595a24be056a7c02fa2763) by [@HoppingMonk](https://github.com/HoppingMonk)
-> ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.3.1 (#62) 
+2019/11/16 18:02 UTC - [2325061](https://github.com/hassio-addons/addon-vscode/commit/2325061e0d0f3ac6215fcbf8f93ca40c7b5151b5) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades code-server to 2.1692-vsc1.39.2 
 
