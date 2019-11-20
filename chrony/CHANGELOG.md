@@ -1,5 +1,5 @@
-# Changelog since v1.0.3
+# Changelog since v1.0.4
 
-2019/09/18 00:28 UTC - [fa10656](https://github.com/hassio-addons/addon-chrony/commit/fa106565afda5d6847f0ed98ea436594ff0c3904) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update base to 5.0.1 
+2019/11/20 13:34 UTC - [e72afc9](https://github.com/hassio-addons/addon-chrony/commit/e72afc98c01794373833c0791d0db3b0800a1517) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ⬆ Upgrades add-on base image to v5.0.2 
 
