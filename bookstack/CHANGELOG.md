@@ -1,3 +1,3 @@
-2019/11/02 23:06 UTC - [9a5349c](https://github.com/hassio-addons/addon-bookstack/commit/9a5349ca7860bdef4ad0ccf1b6e27c875c74227a) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update nginx to 1.16.1-r1 
+2019/11/20 16:14 UTC - [88b4526](https://github.com/hassio-addons/addon-bookstack/commit/88b4526786ae85b101b880a6cd26f26b1ac37668) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ⬆ Upgrades add-on base image to v5.0.2 
 
