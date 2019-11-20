@@ -1,35 +1,26 @@
-# Changelog since v0.7.2
+# Changelog since v0.7.3
 
-2019/08/21 19:25 UTC - [7b914b7](https://github.com/hassio-addons/addon-matrix/commit/7b914b7e13d3594d6331038b62580ffbff3d421c) by [@frenck](https://github.com/frenck)
-> :hammer: Use Hass.io DNS as NGinx resolver 
+2019/11/20 22:39 UTC - [2783a9b](https://github.com/hassio-addons/addon-matrix/commit/2783a9b28664b09c9a3eaf8267b2cee5e52f7b1f) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades tiff to 4.0.10-r2 
 
-2019/08/21 19:25 UTC - [eca0326](https://github.com/hassio-addons/addon-matrix/commit/eca03262793ebd935017c718cdf6d0c35173a1cc) by [@frenck](https://github.com/frenck)
-> :hammer: Updates HA Auth URL in NGinx LUA script 
+2019/11/20 22:39 UTC - [18fbcea](https://github.com/hassio-addons/addon-matrix/commit/18fbceae0396cfd05ec239a669d7a2ae08d0db64) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.16.1-r1 
 
-2019/08/21 19:25 UTC - [98533a4](https://github.com/hassio-addons/addon-matrix/commit/98533a40122d5edfd450554e8dbff396cd5c5e61) by [@frenck](https://github.com/frenck)
-> :ambulance: Fixes path handling for SSL certificates 
+2019/11/20 22:39 UTC - [1a85e41](https://github.com/hassio-addons/addon-matrix/commit/1a85e410e6189d5cee6015b574c56def91504444) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libpq to 11.6-r0 
 
-2019/08/21 19:25 UTC - [07ab01e](https://github.com/hassio-addons/addon-matrix/commit/07ab01e63fddf375e456f0dc443c8ea35c6f933d) by [@frenck](https://github.com/frenck)
-> arrow_up: Upgrades nginx to 1.16.1-r0 
+2019/11/20 22:39 UTC - [6dddbed](https://github.com/hassio-addons/addon-matrix/commit/6dddbedd15e6d4267910983f4ec1fd723c79b16f) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libxslt to 1.1.33-r2 
 
-2019/08/21 19:25 UTC - [ba84452](https://github.com/hassio-addons/addon-matrix/commit/ba844526f52faf0e6113ae5ea60d156d904c11f0) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx-mod-http-lua to 1.16.1-r0 
+2019/11/20 22:39 UTC - [cde56cc](https://github.com/hassio-addons/addon-matrix/commit/cde56cc74a2b36f6a997b04df3fd7db62b6c4c00) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades libjpeg-turbo to 2.0.3-r0 
 
-2019/08/21 19:25 UTC - [eab8be5](https://github.com/hassio-addons/addon-matrix/commit/eab8be575019fb475c9eb0ddb90ad0399d30a0b5) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades libpq to 11.5-r0 
+2019/11/20 22:39 UTC - [17febf0](https://github.com/hassio-addons/addon-matrix/commit/17febf0b23b223e4d298b7e6d5db07c0485b8963) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v3.0.1 
 
-2019/08/21 19:25 UTC - [b646375](https://github.com/hassio-addons/addon-matrix/commit/b64637536eb9d6d73ebba500f96a836f688151cc) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades musl-dev to 1.1.22-r3 
+2019/11/20 22:39 UTC - [522dcf3](https://github.com/hassio-addons/addon-matrix/commit/522dcf3d6aa85c5fca80aaba8760053476e335ed) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Update riot to v1.4.0 
 
-2019/08/21 19:25 UTC - [483558e](https://github.com/hassio-addons/addon-matrix/commit/483558e006105ecd8aaf1d6f0c7e7e4194350809) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades libjpeg-turbo to 2.0.2-r0 
-
-2019/08/21 19:25 UTC - [2dddc7a](https://github.com/hassio-addons/addon-matrix/commit/2dddc7adc7a53f43957de480b29342cf12073c4f) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades libjpeg-turbo-dev to 2.1.0-r0 
-
-2019/08/21 19:25 UTC - [b8ec9fe](https://github.com/hassio-addons/addon-matrix/commit/b8ec9fe72d15da6b05ff135e5ef3d140dc478c72) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v2.1.0 
-
-2019/08/21 19:25 UTC - [c07f3ad](https://github.com/hassio-addons/addon-matrix/commit/c07f3ad6f1093878907b19f2cf91bfb861cc9961) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates matrix-synapse to v1.3.1 (#30) 
+2019/11/20 22:39 UTC - [cc452ca](https://github.com/hassio-addons/addon-matrix/commit/cc452ca520cd407592b6ecd20d19bb711ad693fb) by [@timmo001](https://github.com/timmo001)
+> :arrow_up: Update base image to v3.0.0 
 
