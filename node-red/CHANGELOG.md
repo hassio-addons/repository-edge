@@ -1,32 +1,22 @@
-# Changelog since v5.0.2
+# Changelog since v5.0.3
 
-2019/11/04 18:34 UTC - [238dc40](https://github.com/hassio-addons/addon-node-red/commit/238dc40d18279e1c2c83463cb15b26f6aa314de7) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.16.1-r1 
+2019/11/20 11:25 UTC - [2ba3917](https://github.com/hassio-addons/addon-node-red/commit/2ba391749b82f947bfb0c200eabbd29ed1ae9bc2) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v5.0.2 
 
-2019/11/04 18:34 UTC - [9c74774](https://github.com/hassio-addons/addon-node-red/commit/9c74774b718c60e522748da5b7bfc8abfb900ba6) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates snyk to v1.241.1 (#357) 
-
-2019/11/04 18:34 UTC - [284aeaa](https://github.com/hassio-addons/addon-node-red/commit/284aeaae38c22c7a8eedb5f6d38a259375f08041) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-theme-midnight-red to v1.0.8 (#359)
+2019/11/20 11:25 UTC - [5751253](https://github.com/hassio-addons/addon-node-red/commit/57512535f5c9ed829e35df297f2a37041913c66c) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-node-serialport to v0.9.1 (#367)
 
 
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 
-2019/11/04 18:34 UTC - [1acbe31](https://github.com/hassio-addons/addon-node-red/commit/1acbe31b42322d49d033a8ef74a83615f025c0db) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-node-base64 to v0.2.0 (#358) 
-
-2019/11/04 18:34 UTC - [19d2523](https://github.com/hassio-addons/addon-node-red/commit/19d2523b89bdc096be9f23383410cae0f9665e61) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-node-ping to v0.1.0 (#356)
+2019/11/20 11:25 UTC - [20e98ea](https://github.com/hassio-addons/addon-node-red/commit/20e98ead0d2915e84e83b9535f7f056504dabcaa) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-contrib-theme-midnight-red to v1.0.10 (#368)
 
 
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 
-2019/11/04 18:34 UTC - [66e67b2](https://github.com/hassio-addons/addon-node-red/commit/66e67b25ba7ab0e89ede8963635216c9a82be50c) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates node-red-contrib-interval-length to v0.0.4 (#355)
-
-
-
-Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+2019/11/20 11:25 UTC - [11f7b13](https://github.com/hassio-addons/addon-node-red/commit/11f7b13663a9120e776c6e43db0f8ef36f4d8eb7) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates node-red-node-email to v1.7.2 (#362) 
 
