@@ -1,3 +1,3 @@
-2019/11/12 21:56 UTC - [f830a9f](https://github.com/hassio-addons/addon-ledfx/commit/f830a9f0a9017f74ecc42ae153a9f5c946374f72) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 🚑Remove auth from Websockets under SSL 
+2019/11/20 23:33 UTC - [d49ca76](https://github.com/hassio-addons/addon-ledfx/commit/d49ca76d4b43916d67fa5ec3eb446dd383ac6ee0) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ⬆ Upgrades add-on base image to v3.0.1 
 
