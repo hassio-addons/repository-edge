@@ -1,29 +1,28 @@
-# Changelog since v6.3.3
+# Changelog since v6.4.0
 
-2019/10/20 20:38 UTC - [2047667](https://github.com/hassio-addons/addon-ssh/commit/2047667be0c89a7f22dd416782e2b741bc98075b) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades sqlite to 3.28.0-r1 
+2019/11/25 20:47 UTC - [0ce0a79](https://github.com/hassio-addons/addon-ssh/commit/0ce0a7981d80578c2dc17fe04f42096b6e7f3df0) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades bind-tools to 9.14.8-r0 
 
-2019/10/20 20:38 UTC - [9a451cd](https://github.com/hassio-addons/addon-ssh/commit/9a451cdd1b2ee86c6ed7cba95ef14d8f1e13d35d) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades openssh to 8.1_p1-r0 
+2019/11/25 20:47 UTC - [d3ed559](https://github.com/hassio-addons/addon-ssh/commit/d3ed559c66806c04f59eecc6c056da8225844e2c) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nmap to 7.70-r4 
 
-2019/10/20 20:38 UTC - [f0502fe](https://github.com/hassio-addons/addon-ssh/commit/f0502feeda7dca6c6139b17f6b32ec857d00f11b) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades mariadb-client to 10.3.18-r0 
+2019/11/25 20:47 UTC - [ef36d93](https://github.com/hassio-addons/addon-ssh/commit/ef36d93d39a6d03c9011396b3aa1923f0ad61224) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades bind-tools to 9.14.7-r0 
 
-2019/10/20 20:38 UTC - [c036572](https://github.com/hassio-addons/addon-ssh/commit/c036572539e09d578c89ec7691e2e7bff95fb7ba) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades python3 to 3.7.5-r1 
+2019/11/25 20:47 UTC - [57afe11](https://github.com/hassio-addons/addon-ssh/commit/57afe119acb81135b49d9bb7f3e10f90517619cf) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.16.1-r1 
 
-2019/10/20 20:38 UTC - [7056669](https://github.com/hassio-addons/addon-ssh/commit/70566698ba184d5ce8279a8afe1661ba6d8974f0) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 📚Remove iframe reference due to ingress (#100) 
+2019/11/25 20:47 UTC - [4560a64](https://github.com/hassio-addons/addon-ssh/commit/4560a64acba6ae2d7e9c2dd854f5e39e8b5d5e2e) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v5.0.2 
 
-2019/10/20 20:38 UTC - [67631ea](https://github.com/hassio-addons/addon-ssh/commit/67631ea157c6b5102e32f0b9ee40f4c33dd3f945) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates yamllint to v1.18.0 (#99) 
+2019/11/25 20:47 UTC - [ff15f16](https://github.com/hassio-addons/addon-ssh/commit/ff15f162bb54ced8be3e72461fb3af0c129c58ca) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates yamllint to v1.19.0 (#104) 
 
-2019/10/20 20:38 UTC - [ea71cfb](https://github.com/hassio-addons/addon-ssh/commit/ea71cfb418500a5234e2d337798fcfa1630ccd62) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades openssl to 1.1.1d-r0 
+2019/11/25 20:47 UTC - [2425834](https://github.com/hassio-addons/addon-ssh/commit/2425834dea41da1186039801b008ee54f3838288) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates homeassistant_cli to v0.8.0 (#103) 
 
-2019/10/20 20:38 UTC - [73b050d](https://github.com/hassio-addons/addon-ssh/commit/73b050d419379ce7172bd991c8913f5914971fdb) by [@frenck](https://github.com/frenck)
-> :fire: Removes secrets support, now natively supported by Hassio 
+2019/11/25 20:47 UTC - [037deb4](https://github.com/hassio-addons/addon-ssh/commit/037deb4af63330b29ab9d3e7143d7a3ced800fa7) by [@Cooper-Dale](https://github.com/Cooper-Dale)
+> typo (#102)
 
-2019/10/20 20:38 UTC - [d52eb89](https://github.com/hassio-addons/addon-ssh/commit/d52eb8981f03254f853d31b7d8f7637bb8bc21a3) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v5.0.1 
+corrected typo 
 
