@@ -1,6 +1,6 @@
 {
   "name": "IDE",
-  "version": "684a979",
+  "version": "18dc45c",
   "slug": "ide",
   "description": "Advanced IDE for Home Assistant, based on Cloud9 IDE",
   "url": "https://github.com/hassio-addons/addon-ide",
