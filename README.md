@@ -985,10 +985,10 @@ SOFTWARE.
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ide-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/3dfe02b
-[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/3dfe02b/README.md
+[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/9145dbe
+[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/9145dbe/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
-[influxdb-version-shield]: https://img.shields.io/badge/version-3dfe02b-blue.svg
+[influxdb-version-shield]: https://img.shields.io/badge/version-9145dbe-blue.svg
 [influxdb-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/influxdb-amd64.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
