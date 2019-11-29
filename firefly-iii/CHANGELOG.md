@@ -1,3 +1,3 @@
-2019/11/20 16:16 UTC - [ced03f4](https://github.com/hassio-addons/addon-firefly-iii/commit/ced03f42fa205560f6c81d76fdbf254736ef5413) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆ Upgrades add-on base image to v4.0.1 
+2019/11/29 13:29 UTC - [6779ac1](https://github.com/hassio-addons/addon-firefly-iii/commit/6779ac1ed24ac1dcfe132be3e66623f14f30ca6b) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ✨ Add Swedish language support 
 
