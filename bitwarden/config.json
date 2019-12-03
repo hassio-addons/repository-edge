@@ -1,6 +1,6 @@
 {
   "name": "Bitwarden RS",
-  "version": "6b96aa9",
+  "version": "54f0d2d",
   "slug": "bitwarden",
   "description": "Open source password management solution",
   "url": "https://github.com/hassio-addons/addon-bitwarden",
