@@ -1,3 +1,3 @@
-2019/11/29 13:29 UTC - [6779ac1](https://github.com/hassio-addons/addon-firefly-iii/commit/6779ac1ed24ac1dcfe132be3e66623f14f30ca6b) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ✨ Add Swedish language support 
+2019/12/03 21:17 UTC - [db78ef8](https://github.com/hassio-addons/addon-firefly-iii/commit/db78ef80b27e8d3339971d9675c709dd5655c59e) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 🔨Add armhf support 
 
