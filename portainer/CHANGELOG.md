@@ -1,11 +1,8 @@
-# Changelog since v0.8.0
+# Changelog since v0.8.1
 
-2019/11/27 19:59 UTC - [077c54c](https://github.com/hassio-addons/addon-portainer/commit/077c54cb9315f4f4b34a9a62c408ca0f9c6dfab8) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.16.1-r1 
+2019/12/04 10:48 UTC - [1dee495](https://github.com/hassio-addons/addon-portainer/commit/1dee495527057ee95cd59af791f07129f901ed47) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v5.0.3 
 
-2019/11/27 19:59 UTC - [1d8c208](https://github.com/hassio-addons/addon-portainer/commit/1d8c2089513c81afb2a6abc0be37796c7d17ea73) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v5.0.2 
-
-2019/11/27 19:59 UTC - [9539867](https://github.com/hassio-addons/addon-portainer/commit/9539867ba512edd5e16aa000fa25fc8a8b5c5cac) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades Portainer to v1.22.2 
+2019/12/04 10:48 UTC - [ad1eda3](https://github.com/hassio-addons/addon-portainer/commit/ad1eda3fe8d00aec93806456b91b233f0d5f9cc7) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Portainer to v1.23.0 
 
