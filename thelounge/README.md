@@ -42,7 +42,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-thelounge/blob/25e13df/README.md
+[docs]: https://github.com/hassio-addons/addon-thelounge/blob/f63eca9/README.md
 [forest-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/forest-theme.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=timmo001
@@ -51,7 +51,7 @@ If you are more interested in stable releases of our add-ons:
 [midnight-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/midnight-theme.png
 [more-info-light]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/more-info-light.png
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-25e13df-blue.svg
-[release]: https://github.com/hassio-addons/addon-thelounge/tree/25e13df
+[release-shield]: https://img.shields.io/badge/version-f63eca9-blue.svg
+[release]: https://github.com/hassio-addons/addon-thelounge/tree/f63eca9
 [screenshot]: https://raw.githubusercontent.com/hassio-addons/addon-thelounge/master/images/screenshot.png
 [thelounge]: https://github.com/timmo001/thelounge
