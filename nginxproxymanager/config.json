@@ -1,6 +1,6 @@
 {
   "name": "Nginx Proxy Manager",
-  "version": "a7325f1",
+  "version": "9287703",
   "slug": "nginxproxymanager",
   "description": "Manage Nginx proxy hosts with a simple, powerful interface",
   "url": "https://github.com/hassio-addons/addon-nginx-proxy-manager",
