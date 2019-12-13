@@ -1,28 +1,14 @@
-# Changelog since v6.4.0
+# Changelog since v6.4.1
 
-2019/11/25 20:47 UTC - [0ce0a79](https://github.com/hassio-addons/addon-ssh/commit/0ce0a7981d80578c2dc17fe04f42096b6e7f3df0) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades bind-tools to 9.14.8-r0 
+2019/12/13 10:28 UTC - [e3126dc](https://github.com/hassio-addons/addon-ssh/commit/e3126dc2472d04c3381e3069d2334d21890422c5) by [@frenck](https://github.com/frenck)
+> :books: Adjust add-on installation instructions 
 
-2019/11/25 20:47 UTC - [d3ed559](https://github.com/hassio-addons/addon-ssh/commit/d3ed559c66806c04f59eecc6c056da8225844e2c) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nmap to 7.70-r4 
+2019/12/13 10:28 UTC - [27ede52](https://github.com/hassio-addons/addon-ssh/commit/27ede52554a34a09c777e6aade8edc215ea0a997) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Hass.io CLI to 3.1.1 
 
-2019/11/25 20:47 UTC - [ef36d93](https://github.com/hassio-addons/addon-ssh/commit/ef36d93d39a6d03c9011396b3aa1923f0ad61224) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades bind-tools to 9.14.7-r0 
+2019/12/13 10:28 UTC - [e3cbaca](https://github.com/hassio-addons/addon-ssh/commit/e3cbaca4dc193e82295b3031f8cee08f208a9f3f) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades mariadb-client to 10.3.20-r0 
 
-2019/11/25 20:47 UTC - [57afe11](https://github.com/hassio-addons/addon-ssh/commit/57afe119acb81135b49d9bb7f3e10f90517619cf) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades nginx to 1.16.1-r1 
-
-2019/11/25 20:47 UTC - [4560a64](https://github.com/hassio-addons/addon-ssh/commit/4560a64acba6ae2d7e9c2dd854f5e39e8b5d5e2e) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v5.0.2 
-
-2019/11/25 20:47 UTC - [ff15f16](https://github.com/hassio-addons/addon-ssh/commit/ff15f162bb54ced8be3e72461fb3af0c129c58ca) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates yamllint to v1.19.0 (#104) 
-
-2019/11/25 20:47 UTC - [2425834](https://github.com/hassio-addons/addon-ssh/commit/2425834dea41da1186039801b008ee54f3838288) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates homeassistant_cli to v0.8.0 (#103) 
-
-2019/11/25 20:47 UTC - [037deb4](https://github.com/hassio-addons/addon-ssh/commit/037deb4af63330b29ab9d3e7143d7a3ced800fa7) by [@Cooper-Dale](https://github.com/Cooper-Dale)
-> typo (#102)
-
-corrected typo 
+2019/12/13 10:28 UTC - [f9dc589](https://github.com/hassio-addons/addon-ssh/commit/f9dc589eca7b45b2c9e1a9dd29945823013047dd) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades git to 2.22.2-r0 
 
