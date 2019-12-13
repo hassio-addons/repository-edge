@@ -1,12 +1,5 @@
-[Full Changelog][changelog]
+# Changelog since v3.0.2
 
-This is a general maintenance release.
+2019/12/13 10:33 UTC - [ea66514](https://github.com/hassio-addons/addon-grafana/commit/ea66514c13581376520b52d278690bca80a2df23) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Grafana to 6.5.2 
 
-### 🔨  Changes
-
-- :arrow_up: Upgrades Grafana to v6.5.1
-
-[changelog]: https://github.com/hassio-addons/addon-grafana/compare/v3.0.1...v3.0.2
-
-Questions? Join our Discord server! https://discord.me/hassioaddons
-Enjoying my add-ons? Consider supporting my work: https://patreon.com/frenck
