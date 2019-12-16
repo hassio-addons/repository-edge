@@ -1,3 +1,3 @@
-2019/12/16 20:06 UTC - [e6ea959](https://github.com/hassio-addons/addon-nut/commit/e6ea959a5f913a30b1f10d5f2d29fac29f50ed49) by [@dale3h](https://github.com/dale3h)
-> 🔨Add option to show connected USB devices 
+2019/12/16 21:28 UTC - [911a2d3](https://github.com/hassio-addons/addon-nut/commit/911a2d3db411c67ee5eb528a2e0a9b88a98c3281) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ✏Minor typo 
 
