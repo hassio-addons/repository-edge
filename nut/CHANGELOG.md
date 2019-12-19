@@ -1,3 +1,3 @@
-2019/12/16 23:17 UTC - [b7293c2](https://github.com/hassio-addons/addon-nut/commit/b7293c2d266a2077eb64eb1a673ff4ca60622da8) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 🚑Fix spaces from device config 
+2019/12/19 15:17 UTC - [601c052](https://github.com/hassio-addons/addon-nut/commit/601c052ab12935be0d7c3faa0c6976673ae0ab33) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 📚Update docs for upsd.conf MAXAGE 
 
