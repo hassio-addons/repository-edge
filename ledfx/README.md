@@ -42,11 +42,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ledfx/blob/d49ca76/README.md
+[docs]: https://github.com/hassio-addons/addon-ledfx/blob/fd83e74/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-d49ca76-blue.svg
-[release]: https://github.com/hassio-addons/addon-ledfx/tree/d49ca76
+[release-shield]: https://img.shields.io/badge/version-fd83e74-blue.svg
+[release]: https://github.com/hassio-addons/addon-ledfx/tree/fd83e74
 [screenshot]: https://github.com/hassio-addons/addon-ledfx/raw/master/images/screenshot.png
