@@ -44,18 +44,18 @@ If you are more interested in stable releases of our add-ons:
 
 [banner]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/banner.png
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/frenck
+[buymeacoffee]: https://www.buymeacoffee.com/timmo
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-home-panel/blob/85505d1/README.md
+[docs]: https://github.com/hassio-addons/addon-home-panel/blob/a42adc2/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-panel-a-touch-compatible-webapp-for-controlling-the-home/62597?u=timmo001
 [hass]: https://www.home-assistant.io/
 [home-panel]: https://github.com/timmo001/home-panel
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-85505d1-blue.svg
-[release]: https://github.com/hassio-addons/addon-home-panel/tree/85505d1
+[release-shield]: https://img.shields.io/badge/version-a42adc2-blue.svg
+[release]: https://github.com/hassio-addons/addon-home-panel/tree/a42adc2
 [screen-configuration-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/screen-configuration-main.png
 [screen-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/screen-main.png
 [showcase-purple-space]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/docs/showcase/timmo/purple-space.png
