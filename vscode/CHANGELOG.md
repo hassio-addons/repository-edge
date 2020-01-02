@@ -1,29 +1,42 @@
-# Changelog since v1.1.1
+# Changelog since v1.2.0
 
-2019/11/24 20:23 UTC - [7cee9ee](https://github.com/hassio-addons/addon-vscode/commit/7cee9ee4e74474a8525ff45df6c996e53237a1aa) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades keesschollaart.vscode-home-assistant to 1.4.5 
+2020/01/02 19:48 UTC - [4346545](https://github.com/hassio-addons/addon-vscode/commit/4346545f7e40206c50a5c1dcc584da77fd2c6843) by [@frenck](https://github.com/frenck)
+> :books: Adjust add-on installation instructions 
 
-2019/11/24 20:23 UTC - [3328cf4](https://github.com/hassio-addons/addon-vscode/commit/3328cf41bd54e2241f1f8602d80ce4fda33d9de1) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades openssl to 1.1.1-1ubuntu2.1~18.04.5 
+2020/01/02 19:48 UTC - [b0bee66](https://github.com/hassio-addons/addon-vscode/commit/b0bee669212503caa082034db4646d07b259b94a) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades git to 1:2.17.1-1ubuntu0.5 
 
-2019/11/24 20:23 UTC - [e50da80](https://github.com/hassio-addons/addon-vscode/commit/e50da8009678179a54777ff7285bc2ca521e7d1e) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades keesschollaart.vscode-home-assistant to 1.4.4 
+2020/01/02 19:48 UTC - [9c33b77](https://github.com/hassio-addons/addon-vscode/commit/9c33b776b5872f30c00234d8d223a620c5958a98) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades vscode-icons-team.vscode-icons to 9.7.0 
 
-2019/11/24 20:23 UTC - [eb0f0a1](https://github.com/hassio-addons/addon-vscode/commit/eb0f0a16e406af51b0e4799c78c12f450a7a6a0a) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades redhat.vscode-yaml to 0.6.1 
+2020/01/02 19:48 UTC - [d3280dd](https://github.com/hassio-addons/addon-vscode/commit/d3280ddc53bb91ce7657df539ffb1de7d3e9ec72) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades usernamehw.errorlens to 2.8.1 
 
-2019/11/24 20:23 UTC - [e7aa07d](https://github.com/hassio-addons/addon-vscode/commit/e7aa07d6b8bde20c93e98513fad5c741ba4043b8) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades vscode-icons-team.vscode-icons to 9.6.0 
+2020/01/02 19:48 UTC - [80b16f9](https://github.com/hassio-addons/addon-vscode/commit/80b16f9ee93b0fbe92bd3cbf07042ee4cdfd08da) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades emilast.LogFileHighlighter to 2.7.0 
 
-2019/11/24 20:23 UTC - [c0d5e97](https://github.com/hassio-addons/addon-vscode/commit/c0d5e971bd8050505d7597f551439026b7aab1de) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v4.0.1 
+2020/01/02 19:48 UTC - [1c5ebc3](https://github.com/hassio-addons/addon-vscode/commit/1c5ebc38bcc80a57dcee395dacaa585574b28137) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades Hassio CLI to v3.1.2 
 
-2019/11/24 20:23 UTC - [284607b](https://github.com/hassio-addons/addon-vscode/commit/284607bfea870afe189b3c54ccd110d6e2ab91ee) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates yamllint to v1.19.0 (#66) 
+2020/01/02 19:48 UTC - [287910d](https://github.com/hassio-addons/addon-vscode/commit/287910d04f2f9defe5f3902bde83143bff95ffc9) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades lua-resty-http to 0.15-0 
 
-2019/11/24 20:23 UTC - [3a3bb77](https://github.com/hassio-addons/addon-vscode/commit/3a3bb775fc76d6ea4d408a8475e82b4763e21611) by [@renovate[bot]](https://github.com/apps/renovate)
-> :arrow_up: Updates homeassistant_cli to v0.8.0 (#65) 
+2020/01/02 19:48 UTC - [962cdb5](https://github.com/hassio-addons/addon-vscode/commit/962cdb5c8b54fea46928808b676b41d7ce55382f) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v4.0.3 
 
-2019/11/24 20:23 UTC - [2325061](https://github.com/hassio-addons/addon-vscode/commit/2325061e0d0f3ac6215fcbf8f93ca40c7b5151b5) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades code-server to 2.1692-vsc1.39.2 
+2020/01/02 19:48 UTC - [449739e](https://github.com/hassio-addons/addon-vscode/commit/449739e1e8d6628c649d08f450f35e750789d08e) by [@frenck](https://github.com/frenck)
+> :pencil2: Fixes some spelling and grammar 
+
+2020/01/02 19:48 UTC - [5a4d8b9](https://github.com/hassio-addons/addon-vscode/commit/5a4d8b91b5c12cf22fa6ad3e077250a4df1a2abe) by [@frenck](https://github.com/frenck)
+> :pencil2: Funding adjustments 
+
+2020/01/02 19:48 UTC - [ab456aa](https://github.com/hassio-addons/addon-vscode/commit/ab456aa73f6e44fac5dc847bc15ff7b970bb26b5) by [@frenck](https://github.com/frenck)
+> :fireworks: Updates maintenance/license year to 2020 
+
+2020/01/02 19:48 UTC - [f1c7855](https://github.com/hassio-addons/addon-vscode/commit/f1c785507be11e9373ec93d5bca3a63b06ef83af) by [@renovate[bot]](https://github.com/apps/renovate)
+> :arrow_up: Updates yamllint to v1.20.0 (#69)
+
+
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 
