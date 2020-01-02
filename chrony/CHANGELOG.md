@@ -1,8 +1,14 @@
-# Changelog since v1.0.5
+# Changelog since v1.0.6
 
-2019/12/28 21:30 UTC - [fc25239](https://github.com/hassio-addons/addon-chrony/commit/fc252393c2f563e0aeeb334de57f28febfa358bf) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update chrony to v3.5-r1 
+2020/01/02 01:11 UTC - [4d73cab](https://github.com/hassio-addons/addon-chrony/commit/4d73cab1c5c3ca469651660136a6031b5ed0d7aa) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ✏Update maintenance shield 
 
-2019/12/28 21:30 UTC - [de62360](https://github.com/hassio-addons/addon-chrony/commit/de6236066ff7cb933e8cb1fa977fa79496475c16) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update add-on base image to v6.0.1 
+2020/01/02 01:11 UTC - [52167a3](https://github.com/hassio-addons/addon-chrony/commit/52167a33099dd04a4844c1b9c81acc929fcef1d8) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 📚Align readme installation instructions 
+
+2020/01/02 01:11 UTC - [ce7c1c0](https://github.com/hassio-addons/addon-chrony/commit/ce7c1c0ad1bfc668c9dd3c66fd627ff88e7053ee) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 📚Adjust funding 
+
+2020/01/02 01:11 UTC - [a700f89](https://github.com/hassio-addons/addon-chrony/commit/a700f89f1760fbf125dd09455775b9b460f916a8) by [@sinclairpaul](https://github.com/sinclairpaul)
+> ✏Update license year 
 
