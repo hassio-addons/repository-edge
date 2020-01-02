@@ -1,3 +1,3 @@
-2019/12/28 22:14 UTC - [80e0ac4](https://github.com/hassio-addons/addon-bookstack/commit/80e0ac4462a98746f0119a2958570f3e8634a37f) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update nginx to v1.16.1-r4 
+2020/01/02 01:15 UTC - [ce3e894](https://github.com/hassio-addons/addon-bookstack/commit/ce3e894a038e3ab7c2794fd58449d71322592583) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 📚Align readme and change maintenance year 
 
