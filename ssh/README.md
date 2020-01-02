@@ -95,20 +95,20 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ssh/blob/0e82120/README.md
+[docs]: https://github.com/hassio-addons/addon-ssh/blob/e231598/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ssh-web-terminal/33820?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [ohmyzsh]: http://ohmyz.sh/
 [openssh]: https://www.openssh.com/
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-0e82120-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/0e82120
+[release-shield]: https://img.shields.io/badge/version-e231598-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/e231598
 [screenshot]: https://github.com/hassio-addons/addon-ssh/raw/master/images/screenshot.png
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
 [ssh-audit]: https://github.com/arthepsy/ssh-audit
