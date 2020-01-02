@@ -1,3 +1,3 @@
-2020/01/02 01:15 UTC - [ce3e894](https://github.com/hassio-addons/addon-bookstack/commit/ce3e894a038e3ab7c2794fd58449d71322592583) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 📚Align readme and change maintenance year 
+2020/01/02 01:30 UTC - [abc76f8](https://github.com/hassio-addons/addon-bookstack/commit/abc76f8da154d28d01440cfa6f8d3b78a775b999) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 📚Readme alignment 
 
