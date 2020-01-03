@@ -1,6 +1,6 @@
 {
   "name": "FTP",
-  "version": "cf74182",
+  "version": "1c0e48e",
   "slug": "ftp",
   "description": "A secure and fast FTP server for Hass.io",
   "url": "https://github.com/hassio-addons/addon-ftp",
