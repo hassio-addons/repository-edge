@@ -39,19 +39,19 @@ If you are more interested in stable releases of our add-ons:
 
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/frenck
+[buymeacoffee]: https://www.buymeacoffee.com/timmo
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-thelounge/blob/f63eca9/README.md
+[docs]: https://github.com/hassio-addons/addon-thelounge/blob/ad7e1cc/README.md
 [forest-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/forest-theme.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=timmo001
 [hass]: https://www.home-assistant.io/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [midnight-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/midnight-theme.png
 [more-info-light]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/more-info-light.png
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-f63eca9-blue.svg
-[release]: https://github.com/hassio-addons/addon-thelounge/tree/f63eca9
+[release-shield]: https://img.shields.io/badge/version-ad7e1cc-blue.svg
+[release]: https://github.com/hassio-addons/addon-thelounge/tree/ad7e1cc
 [screenshot]: https://raw.githubusercontent.com/hassio-addons/addon-thelounge/master/images/screenshot.png
 [thelounge]: https://github.com/timmo001/thelounge
