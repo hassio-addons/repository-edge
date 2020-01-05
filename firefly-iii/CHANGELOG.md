@@ -1,3 +1,3 @@
-2020/01/02 01:17 UTC - [a7ae813](https://github.com/hassio-addons/addon-firefly-iii/commit/a7ae813314bebfff797ff9b632d37d6182b69f5b) by [@sinclairpaul](https://github.com/sinclairpaul)
-> 📚Align readme and change maintenance year 
+2020/01/05 09:57 UTC - [d32074c](https://github.com/hassio-addons/addon-firefly-iii/commit/d32074c8c25947d772749e06682a30d285b6200c) by [@cskiwi](https://github.com/cskiwi)
+> 🚑 Fixes incorrect use of base images for different archs (#4) 
 
