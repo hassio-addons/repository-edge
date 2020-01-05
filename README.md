@@ -1065,10 +1065,10 @@ SOFTWARE.
 [mopidy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mopidy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mopidy-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/10653a1
-[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/10653a1/README.md
+[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/4213c06
+[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/4213c06/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
-[nut-version-shield]: https://img.shields.io/badge/version-10653a1-blue.svg
+[nut-version-shield]: https://img.shields.io/badge/version-4213c06-blue.svg
 [nut-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nut-armhf.svg
 [nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

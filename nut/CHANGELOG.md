@@ -1,3 +1,3 @@
-2019/12/28 21:40 UTC - [10653a1](https://github.com/hassio-addons/addon-nut/commit/10653a14ad457102aa0f1566d33a1fab8849a107) by [@sinclairpaul](https://github.com/sinclairpaul)
-> ⬆Update add-on base image to v6.0.1 
+2020/01/05 22:18 UTC - [4213c06](https://github.com/hassio-addons/addon-nut/commit/4213c06f1c7193da0f735cc5fa75d51492c03d27) by [@sinclairpaul](https://github.com/sinclairpaul)
+> 🎆 Updates maintenance/license year to 2020 
 
