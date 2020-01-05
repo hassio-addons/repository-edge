@@ -795,7 +795,7 @@ and of course, give you developer access to your contribution.
 
 MIT License
 
-Copyright (c) 2018-2019 Franck Nijhof
+Copyright (c) 2018-2020 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1195,10 +1195,10 @@ SOFTWARE.
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/6b1c076
-[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/6b1c076/README.md
+[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/974e843
+[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/974e843/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-6b1c076-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-974e843-blue.svg
 [traccar-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/traccar-armhf.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
@@ -1296,7 +1296,7 @@ SOFTWARE.
 [gitlabci]: https://gitlab.com/hassio-addons/repository-edge/pipelines
 [issue]: https://github.com/hassio-addons/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/repository-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
