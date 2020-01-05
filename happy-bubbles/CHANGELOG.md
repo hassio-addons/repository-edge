@@ -1,14 +1,20 @@
-# Changelog since v3.0.3
+# Changelog since v3.0.4
 
-2019/11/20 11:49 UTC - [9356b91](https://github.com/hassio-addons/addon-happy-bubbles/commit/9356b91e9adf8bb2496ccd9926428dcce147d2a9) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades ginx to 1.16.1-r1 
+2020/01/05 13:31 UTC - [ac57336](https://github.com/hassio-addons/addon-happy-bubbles/commit/ac57336bd5f45b7963ce6f7cd192ae19653cb217) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades nginx to 1.16.1-r4 
 
-2019/11/20 11:49 UTC - [eb6d3f1](https://github.com/hassio-addons/addon-happy-bubbles/commit/eb6d3f17e293ca7ce13ea41c922971ffda1ef093) by [@frenck](https://github.com/frenck)
-> :fire: Removes unneeded access to config folder 
+2020/01/05 13:31 UTC - [aab9612](https://github.com/hassio-addons/addon-happy-bubbles/commit/aab96128a1b44f4245362bb753eae56f08589444) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades lua-resty-http to 0.15-r0 
 
-2019/11/20 11:49 UTC - [aee7baa](https://github.com/hassio-addons/addon-happy-bubbles/commit/aee7baa49345601a09c38e04615dc0b9ae0ceb1b) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v5.0.2 
+2020/01/05 13:31 UTC - [330a565](https://github.com/hassio-addons/addon-happy-bubbles/commit/330a565e29d1e88e6a2887d6ee26797085e54a33) by [@frenck](https://github.com/frenck)
+> :arrow_up: Upgrades add-on base image to v6.0.1 
 
-2019/11/20 11:49 UTC - [0acb843](https://github.com/hassio-addons/addon-happy-bubbles/commit/0acb84391a7be32b70f831c64e4bbde2176803e1) by [@bonanitech](https://github.com/bonanitech)
-> :books: Component > Integration (#7) 
+2020/01/05 13:31 UTC - [3435f00](https://github.com/hassio-addons/addon-happy-bubbles/commit/3435f0044c60f5af0d6ad50f9dec1f60c0696e7d) by [@frenck](https://github.com/frenck)
+> :pencil2: Fixes some spelling and grammar 
+
+2020/01/05 13:31 UTC - [9441d11](https://github.com/hassio-addons/addon-happy-bubbles/commit/9441d1186c9cd0ab5590616740e48e3281019e93) by [@frenck](https://github.com/frenck)
+> :pencil2: Funding adjustments 
+
+2020/01/05 13:31 UTC - [92c260b](https://github.com/hassio-addons/addon-happy-bubbles/commit/92c260bb48ee342dfa3425188f1f72a873a52399) by [@frenck](https://github.com/frenck)
+> :fireworks: Updates maintenance/license year to 2020 
 
