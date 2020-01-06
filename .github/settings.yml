@@ -56,7 +56,7 @@ labels:
     color: d4c5f9
     description: "Marks an issue as a generic discussion ticket."
     oldname: "Discussion"
-  - name: "Type: Maintaince"
+  - name: "Type: Maintenance"
     color: 2af79e
     description: "Generic maintaince tasks, e.g., package updates."
 
