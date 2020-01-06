@@ -1085,10 +1085,10 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/a968264
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/a968264/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/4e7c31b
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/4e7c31b/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-a968264-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-4e7c31b-blue.svg
 [node-red-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/node-red-armhf.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
