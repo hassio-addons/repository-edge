@@ -1,4 +1,10 @@
 # Changelog since v6.0.0
+- :arrow_up: Updates node-red-node-email to v1.7.4 (#420)
+
+Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
+- :arrow_up: Updates node-red-contrib-home-assistant-websocket to… (#418)
+
+Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
 - :arrow_up: Updates snyk to v1.274.0 (#414)
 
 Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
