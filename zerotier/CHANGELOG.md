@@ -1,5 +1,10 @@
-# Changelog since v0.5.0
-
-2019/11/27 19:57 UTC - [367ba90](https://github.com/hassio-addons/addon-zerotier/commit/367ba904a000d0dddbea99c60a4fcbbd6b475b66) by [@frenck](https://github.com/frenck)
-> :arrow_up: Upgrades add-on base image to v5.0.2 
-
+# Changelog since v0.5.1
+- :ambulance: GCC 9.0 compatibility patch, since armv5 has been removed 
+- :pencil2: Fixes some spelling and grammar 
+- :arrow_up: Upgrades libgcc to 9.2.0-r3 
+- :arrow_up: Upgrades git to 2.24.1-r0 
+- :arrow_up: Upgrades add-on base image to v6.0.1 
+- :pencil2: Fixes some spelling and grammar 
+- :pencil2: Funding adjustments 
+- :books: Adjust add-on installation instructions 
+- :fireworks: Updates maintenance/license year to 2020 
