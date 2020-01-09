@@ -1,4 +1,6 @@
 # Changelog since v0.3.1
+- :ambulance: Fix MySQL init for new installations 
+- :hammer: Ensure new paths exists 
 - :ambulance: Hotfix for new Nginx paths 
 - :arrow_up: Upgrades openssl to 1.1.1d-r3 
 - :arrow_up: Upgrades mariadb to 10.4.10-r0 
