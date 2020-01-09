@@ -1,4 +1,7 @@
 # Changelog since v0.1.1
+- 🚑 Move name variable up in script (#33)
+
+Name is currently being used before set in the error handling. 
 - :fire: Remove unused config mapping 
 - :books: Adjust add-on installation instructions 
 - :arrow_up: Upgrades git to 2.24.1-r0 
