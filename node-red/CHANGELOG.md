@@ -1,4 +1,7 @@
 # Changelog since v6.0.0
+- :arrow_up: Updates snyk to v1.277.3 (#419)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :arrow_up: Updates node-red-node-email to v1.7.4 (#420)
 
 Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
