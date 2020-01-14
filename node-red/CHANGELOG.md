@@ -1,24 +1,4 @@
-# Changelog since v6.0.0
-- :arrow_up: Updates snyk to v1.277.3 (#419)
+# Changelog since v6.0.1
+- :arrow_up: Updates node-red-contrib-home-assistant-websocket to… (#425)
 
 Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
-- :arrow_up: Updates node-red-node-email to v1.7.4 (#420)
-
-Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
-- :arrow_up: Updates node-red-contrib-home-assistant-websocket to… (#418)
-
-Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
-- :arrow_up: Updates snyk to v1.274.0 (#414)
-
-Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
-- 🔨Install all npm packages in a single command (#412)
-
-* 🔨Install all npm packages in a single command
-
-* 🔨Change npmlist to array 
-- :arrow_up: Updates node-red-contrib-home-assistant-websocket to… (#416)
-
-Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
-- :arrow_up: Updates node-red-contrib-cast to v0.2.13 (#410)
-
-Co-authored-by: Renovate Bot <renovatebot@gmail.com> 
