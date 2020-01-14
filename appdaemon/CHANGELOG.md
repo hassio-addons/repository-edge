@@ -1,1 +1,1 @@
-- :ambulance: Fix HA Dasboard
+- :hammer: Update community forum links

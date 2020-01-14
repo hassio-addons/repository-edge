@@ -880,10 +880,10 @@ SOFTWARE.
 [appdaemon3-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [appdaemon3-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [appdaemon3-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/4bd9878
-[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/4bd9878/README.md
+[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/78f1ebd
+[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/78f1ebd/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/addon-appdaemon/issues
-[appdaemon-version-shield]: https://img.shields.io/badge/version-4bd9878-blue.svg
+[appdaemon-version-shield]: https://img.shields.io/badge/version-78f1ebd-blue.svg
 [appdaemon-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/appdaemon-armhf.svg
 [appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
