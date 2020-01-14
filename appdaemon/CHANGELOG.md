@@ -1,1 +1,2 @@
-- :hammer: Update community forum links
+# Changelog since v0.1.0
+- :ambulance: Fix Patreon link 
