@@ -1,1 +1,1 @@
-- :pencil2: Add small additional note about tokens
+- :ambulance: Fix HA Dasboard
