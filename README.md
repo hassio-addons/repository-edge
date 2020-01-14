@@ -111,6 +111,20 @@ Python Apps and HADashboard using AppDaemon 3.x for Home Assistant
 
 [:books: AppDaemon add-on documentation][addon-doc-appdaemon3]
 
+### &#10003; [AppDaemon 4][addon-appdaemon]
+
+![Latest Version][appdaemon-version-shield]
+![Supports armhf Architecture][appdaemon-armhf-shield]
+![Supports armv7 Architecture][appdaemon-armv7-shield]
+![Supports aarch64 Architecture][appdaemon-aarch64-shield]
+![Supports amd64 Architecture][appdaemon-amd64-shield]
+![Supports i386 Architecture][appdaemon-i386-shield]
+![Docker Pulls][appdaemon-pulls-shield]
+
+Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
+
+[:books: AppDaemon 4 add-on documentation][addon-doc-appdaemon]
+
 ### &#10003; [Bitwarden RS][addon-bitwarden]
 
 ![Latest Version][bitwarden-version-shield]
@@ -724,6 +738,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: AirCast][aircast-issue]
 - [Open an issue for the add-on: AirSonos][airsonos-issue]
 - [Open an issue for the add-on: AppDaemon][appdaemon3-issue]
+- [Open an issue for the add-on: AppDaemon 4][appdaemon-issue]
 - [Open an issue for the add-on: Bitwarden RS][bitwarden-issue]
 - [Open an issue for the add-on: Bookstack][bookstack-issue]
 - [Open an issue for the add-on: Example][example-issue]
@@ -865,6 +880,16 @@ SOFTWARE.
 [appdaemon3-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [appdaemon3-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [appdaemon3-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/9673c12
+[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/9673c12/README.md
+[appdaemon-issue]: https://github.com/hassio-addons/addon-appdaemon/issues
+[appdaemon-version-shield]: https://img.shields.io/badge/version-9673c12-blue.svg
+[appdaemon-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/appdaemon-armhf.svg
+[appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[appdaemon-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[appdaemon-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/873e674
 [addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/873e674/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues

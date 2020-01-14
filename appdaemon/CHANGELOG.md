@@ -1,0 +1,1 @@
+- :pencil2: Add small additional note about tokens
