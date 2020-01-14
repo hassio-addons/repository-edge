@@ -1,2 +1,2 @@
-# Changelog since v3.5.0
-- :arrow_up: Upgrades Chronograf to 1.7.17 
+# Changelog since v3.5.1
+- :ambulance: Fix Patreon link 

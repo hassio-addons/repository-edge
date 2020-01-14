@@ -47,7 +47,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-influxdb/blob/6b291f1/README.md
+[docs]: https://github.com/hassio-addons/addon-influxdb/blob/39c2120/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-influxdb/54491?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -56,6 +56,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-6b291f1-blue.svg
-[release]: https://github.com/hassio-addons/addon-influxdb/tree/6b291f1
+[release-shield]: https://img.shields.io/badge/version-39c2120-blue.svg
+[release]: https://github.com/hassio-addons/addon-influxdb/tree/39c2120
 [screenshot]: https://github.com/hassio-addons/addon-influxdb/raw/master/images/screenshot.png
