@@ -17,6 +17,10 @@ addons:
     repository: hassio-addons/addon-airsonos
     target: airsonos
     image: hassioaddons/airsonos-{arch}
+  appdaemon:
+    repository: hassio-addons/addon-appdaemon
+    target: appdaemon
+    image: hassioaddons/appdaemon-{arch}
   appdaemon3:
     repository: hassio-addons/addon-appdaemon3
     target: appdaemon
@@ -189,4 +193,3 @@ addons:
     repository: hassio-addons/addon-zwave2mqtt
     target: zwave2mqtt
     image: hassioaddons/zwave2mqtt-{arch}
-
