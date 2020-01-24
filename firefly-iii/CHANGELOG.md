@@ -1,1 +1,1 @@
-- ⬆Update Firefly to 5.0.0
+- ⬆Update firefly-iii to 5.0.1
