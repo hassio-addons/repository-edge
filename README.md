@@ -1290,10 +1290,10 @@ SOFTWARE.
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [chrony-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [chrony-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ledfx]: https://github.com/hassio-addons/addon-ledfx/tree/64b4d5d
-[addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/64b4d5d/README.md
+[addon-ledfx]: https://github.com/hassio-addons/addon-ledfx/tree/b987dd4
+[addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/b987dd4/README.md
 [ledfx-issue]: https://github.com/hassio-addons/addon-ledfx/issues
-[ledfx-version-shield]: https://img.shields.io/badge/version-64b4d5d-blue.svg
+[ledfx-version-shield]: https://img.shields.io/badge/version-b987dd4-blue.svg
 [ledfx-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ledfx-armhf.svg
 [ledfx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ledfx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
