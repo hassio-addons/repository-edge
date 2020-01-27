@@ -1,4 +1,12 @@
 # Changelog since v0.7.4
+- :arrow_up: Upgrades riot-web to v1.5.7 
+- :arrow_up: Upgrades nginx to 1.16.1-r6 
+- :arrow_up: Updates matrix-synapse to v1.9.0 (#43)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
+- :arrow_up: Updates pysaml2 to v5 (#42)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :arrow_up: Upgrades libjpeg-turbo to 2.0.4-r0 
 - :arrow_up: Updates matrix-synapse to v1.8.0 (#41)
 
