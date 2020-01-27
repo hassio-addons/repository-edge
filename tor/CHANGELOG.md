@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- :ambulance: Fix hostname detection 
 - :arrow_up: Upgrades tor to 0.4.1.7-r0 
 - :arrow_up: Upgrades add-on base image to v6.0.1 
 - :pencil2: Fixes some spelling and grammar 
