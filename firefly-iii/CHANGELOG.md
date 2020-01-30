@@ -1,1 +1,1 @@
-- 🔨Remove deprecated ssl command
+- ⬆Update firefly-iii to 5.0.3
