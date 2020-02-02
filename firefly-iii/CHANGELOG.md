@@ -1,1 +1,1 @@
-- ⬆Update firefly-iii to 5.0.3
+- 🔨Set database type explicitly
