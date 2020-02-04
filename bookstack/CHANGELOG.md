@@ -1,1 +1,1 @@
-- 🔨Remove deprecated ssl command
+- ⬆Update Bookstack to v0.28.0
