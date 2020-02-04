@@ -1,4 +1,7 @@
 # Changelog since v1.0.6
+- 🔨Align config.json layout 
+- 💄Add logo 
+- ✏Update license year 
 - 💄Add icon 
 - 📚Grammar/year changes 
 - 📚Readme alignment 
