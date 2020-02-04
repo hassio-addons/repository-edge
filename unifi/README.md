@@ -47,7 +47,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-unifi/blob/4d181a1/README.md
+[docs]: https://github.com/hassio-addons/addon-unifi/blob/a4cdd14/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-unifi-controller/56297?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -56,6 +56,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-4d181a1-blue.svg
-[release]: https://github.com/hassio-addons/addon-unifi/tree/4d181a1
+[release-shield]: https://img.shields.io/badge/version-a4cdd14-blue.svg
+[release]: https://github.com/hassio-addons/addon-unifi/tree/a4cdd14
 [screenshot]: https://github.com/hassio-addons/addon-unifi/raw/master/images/screenshot.jpg
