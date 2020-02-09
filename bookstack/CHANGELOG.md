@@ -1,1 +1,1 @@
-- ⬆Update Bookstack to v0.28.0
+- 📚Prep for rebranding
