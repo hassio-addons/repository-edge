@@ -1,1 +1,1 @@
-- 📚Prep for rebranding
+- 📚Typo
