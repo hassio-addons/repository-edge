@@ -1,1 +1,1 @@
-- 💄Add images
+- 📚Prep for rebranding
