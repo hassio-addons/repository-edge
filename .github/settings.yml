@@ -1,8 +1,8 @@
 ---
 repository:
-  description: "EDGE - Community Hass.io Add-ons for Home Assistant"
+  description: "EDGE - Community Home Assistant Add-ons"
   homepage: https://addons.community
-  topics: edge, unstable, nightly, home-assistant, hassio, addons, hassio-repository
+  topics: edge, unstable, home-assistant, homeassistant, addons, addons-repository, repository
   private: false
   has_issues: true
   has_projects: false
