@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Grafana
+# Community Home Assistant Add-on: Grafana
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -28,8 +28,8 @@ insights to your home.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -47,7 +47,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grafana/blob/125ae1e/README.md
+[docs]: https://github.com/hassio-addons/addon-grafana/blob/13630a2/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-grafana/54674?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -56,6 +56,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-125ae1e-blue.svg
-[release]: https://github.com/hassio-addons/addon-grafana/tree/125ae1e
+[release-shield]: https://img.shields.io/badge/version-13630a2-blue.svg
+[release]: https://github.com/hassio-addons/addon-grafana/tree/13630a2
 [screenshot]: https://github.com/hassio-addons/addon-grafana/raw/master/images/screenshot.png
