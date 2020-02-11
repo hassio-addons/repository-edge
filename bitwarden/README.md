@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Bitwarden RS
+# Community Home Assistant Add-on: Bitwarden RS
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -33,8 +33,8 @@ email, bank, and other important accounts. USE A PASSWORD MANAGER!
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -53,7 +53,7 @@ If you are more interested in stable releases of our add-ons:
 [bitwarden-rs]: https://github.com/dani-garcia/bitwarden_rs
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-bitwarden/blob/873e674/README.md
+[docs]: https://github.com/hassio-addons/addon-bitwarden/blob/d8b67cb/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-bitwarden-rs/115573?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -62,6 +62,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-873e674-blue.svg
-[release]: https://github.com/hassio-addons/addon-bitwarden/tree/873e674
+[release-shield]: https://img.shields.io/badge/version-d8b67cb-blue.svg
+[release]: https://github.com/hassio-addons/addon-bitwarden/tree/d8b67cb
 [screenshot]: https://github.com/hassio-addons/addon-bitwarden/raw/master/images/screenshot.png
