@@ -1,6 +1,6 @@
 {
   "name": "Bookstack",
-  "version": "a447bcd",
+  "version": "5049dcb",
   "slug": "bookstack",
   "description": "A platform for organising and storing information",
   "url": "https://github.com/hassio-addons/addon-bookstack",
@@ -32,12 +32,12 @@
     "keyfile": "privkey.pem"
   },
   "schema": {
-    "database_location": "match(^(local|remote)$)?",
+    "database_location": "list(local|remote)?",
     "mysql_host": "str?",
     "mysql_database": "str?",
     "mysql_user": "str?",
-    "mysql_password": "str?",
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "mysql_password": "password?",
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "certfile": "str",
     "keyfile": "str",
     "ssl": "bool"

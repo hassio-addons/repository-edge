@@ -1,4 +1,4 @@
-# Community Home Assistant Add-ons: Bookstack
+# Community Home Assistant Add-on: Bookstack
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -19,8 +19,8 @@ storing information.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistanto Add-ons repository contains edge builds of add-ons. Edge
-builds add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -40,11 +40,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-bookstack/blob/a447bcd/README.md
+[docs]: https://github.com/hassio-addons/addon-bookstack/blob/5049dcb/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-a447bcd-blue.svg
-[release]: https://github.com/hassio-addons/addon-bookstack/tree/a447bcd
+[release-shield]: https://img.shields.io/badge/version-5049dcb-blue.svg
+[release]: https://github.com/hassio-addons/addon-bookstack/tree/5049dcb
 [screenshot]: https://github.com/hassio-addons/addon-bookstack/raw/master/images/screenshot.png
