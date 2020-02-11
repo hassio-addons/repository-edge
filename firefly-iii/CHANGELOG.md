@@ -1,1 +1,1 @@
-- 📚Prep for rebranding
+- :hammer: Updates for upstream Supervisor changes

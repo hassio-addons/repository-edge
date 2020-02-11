@@ -1,6 +1,6 @@
 {
   "name": "Firefly III",
-  "version": "4f39b0d",
+  "version": "273d9da",
   "slug": "firefly-iii",
   "description": "A free and open source personal finance manager",
   "url": "https://github.com/hassio-addons/addon-firefly-iii",
@@ -34,12 +34,12 @@
     "keyfile": "privkey.pem"
   },
   "schema": {
-    "database": "match(^(sqlite|mysql)$)",
+    "database": "list(sqlite|mysql)",
     "mysql_host": "str?",
     "mysql_database": "str?",
     "mysql_user": "str?",
-    "mysql_password": "str?",
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "mysql_password": "password?",
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "certfile": "str",
     "keyfile": "str",
     "ssl": "bool"

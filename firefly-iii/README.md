@@ -1,4 +1,4 @@
-# Community Home Assistant Add-ons: Firefly-III
+# Community Home Assistant Add-on: Firefly-III
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -21,8 +21,8 @@ use it to save and organise money.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
-build add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -42,11 +42,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-firefly-iii/blob/4f39b0d/README.md
+[docs]: https://github.com/hassio-addons/addon-firefly-iii/blob/273d9da/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-4f39b0d-blue.svg
-[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/4f39b0d
+[release-shield]: https://img.shields.io/badge/version-273d9da-blue.svg
+[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/273d9da
 [screenshot]: https://github.com/hassio-addons/addon-firefly-iii/raw/master/images/screenshot.png
