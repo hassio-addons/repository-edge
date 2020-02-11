@@ -1,4 +1,4 @@
-# Community Home Assistant Add-ons: chrony
+# Community Home Assistant Add-on: chrony
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -17,8 +17,8 @@ time on devices with controlled internet access (such as cameras).
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
-build add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -38,10 +38,10 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-chrony/blob/2dc6d5d/README.md
+[docs]: https://github.com/hassio-addons/addon-chrony/blob/8a8638c/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-2dc6d5d-blue.svg
-[release]: https://github.com/hassio-addons/addon-chrony/tree/2dc6d5d
+[release-shield]: https://img.shields.io/badge/version-8a8638c-blue.svg
+[release]: https://github.com/hassio-addons/addon-chrony/tree/8a8638c
