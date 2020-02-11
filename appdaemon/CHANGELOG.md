@@ -1,4 +1,5 @@
-# Changelog since v0.1.1
-- :arrow_up: Updates appdaemon to v4.0.1 (#4)
-
-Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
+# Changelog since v0.1.2
+- :hammer: Updates for upstream Supervisor changes 
+- :books: Update add-on documentation to use new YAML configuration format 
+- :hammer: Re-branding 
+- :arrow_up: Upgrades add-on base image to v7.0.0 
