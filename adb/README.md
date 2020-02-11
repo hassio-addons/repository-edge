@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Android Debug Bridge
+# Community Home Assistant Add-on: Android Debug Bridge
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -20,8 +20,8 @@ used to get full local control over your Android (TV) devices.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -39,7 +39,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-adb/blob/e8e3118/README.md
+[docs]: https://github.com/hassio-addons/addon-adb/blob/b203208/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-adb-android-debug-bridge/96375?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -48,5 +48,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-e8e3118-blue.svg
-[release]: https://github.com/hassio-addons/addon-adb/tree/e8e3118
+[release-shield]: https://img.shields.io/badge/version-b203208-blue.svg
+[release]: https://github.com/hassio-addons/addon-adb/tree/b203208
