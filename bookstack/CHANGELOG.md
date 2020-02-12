@@ -1,1 +1,1 @@
-- :hammer: Updates for upstream Supervisor changes
+- :hammer: Re-branding
