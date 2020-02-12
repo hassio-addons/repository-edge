@@ -1,4 +1,4 @@
-# Community Home Assistant Add-on: Firefly-III
+# Home Assistant Community Add-on: Firefly-III
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -42,11 +42,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-firefly-iii/blob/273d9da/README.md
+[docs]: https://github.com/hassio-addons/addon-firefly-iii/blob/26bfb26/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-273d9da-blue.svg
-[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/273d9da
+[release-shield]: https://img.shields.io/badge/version-26bfb26-blue.svg
+[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/26bfb26
 [screenshot]: https://github.com/hassio-addons/addon-firefly-iii/raw/master/images/screenshot.png
