@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- :hammer: Re-branding 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Re-branding 
 - :books: Update add-on documentation to use new YAML configuration format 
