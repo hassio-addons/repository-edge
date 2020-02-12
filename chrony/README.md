@@ -1,4 +1,4 @@
-# Community Home Assistant Add-on: chrony
+# Home Assistant Community Add-on: chrony
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -38,10 +38,10 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-chrony/blob/8a8638c/README.md
+[docs]: https://github.com/hassio-addons/addon-chrony/blob/45c54a5/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-8a8638c-blue.svg
-[release]: https://github.com/hassio-addons/addon-chrony/tree/8a8638c
+[release-shield]: https://img.shields.io/badge/version-45c54a5-blue.svg
+[release]: https://github.com/hassio-addons/addon-chrony/tree/45c54a5

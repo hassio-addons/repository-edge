@@ -1281,10 +1281,10 @@ SOFTWARE.
 [zerotier-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [zerotier-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [zerotier-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/8a8638c
-[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/8a8638c/README.md
+[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/45c54a5
+[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/45c54a5/README.md
 [chrony-issue]: https://github.com/hassio-addons/addon-chrony/issues
-[chrony-version-shield]: https://img.shields.io/badge/version-8a8638c-blue.svg
+[chrony-version-shield]: https://img.shields.io/badge/version-45c54a5-blue.svg
 [chrony-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/chrony-armhf.svg
 [chrony-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [chrony-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
