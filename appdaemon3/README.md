@@ -1,4 +1,4 @@
-# Community Home Assistant Add-on: AppDaemon 3
+# Home Assistant Community Add-on: AppDaemon 3
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -55,7 +55,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-appdaemon3/blob/ff3b9b9/README.md
+[docs]: https://github.com/hassio-addons/addon-appdaemon3/blob/1cf48a8/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-appdaemon3/41261?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -64,6 +64,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-%20!%20DEPRECATED%20%20%20!-ff0000.svg
-[release-shield]: https://img.shields.io/badge/version-ff3b9b9-blue.svg
-[release]: https://github.com/hassio-addons/addon-appdaemon3/tree/ff3b9b9
+[release-shield]: https://img.shields.io/badge/version-1cf48a8-blue.svg
+[release]: https://github.com/hassio-addons/addon-appdaemon3/tree/1cf48a8
 [screenshot]: https://github.com/hassio-addons/addon-appdaemon3/raw/master/images/screenshot.png
