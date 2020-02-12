@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- :hammer: Re-branding 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Update add-on config with new password & list features 
 - :hammer: Re-branding 
