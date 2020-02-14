@@ -1,6 +1,6 @@
 {
   "name": "ledfx",
-  "version": "64ff87b",
+  "version": "12eee4b",
   "slug": "ledfx",
   "description": "A network based LED effect controller with support for advanced real-time audio effects!",
   "url": "https://github.com/hassio-addons/addon-ledfx",
@@ -35,7 +35,7 @@
     "keyfile": "privkey.pem"
   },
   "schema": {
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "certfile": "str",
     "keyfile": "str",
     "ssl": "bool"
