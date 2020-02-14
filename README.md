@@ -715,6 +715,20 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras
 
 [:books: motionEye add-on documentation][addon-doc-motioneye]
 
+### &#10003; [phpMyAdmin][addon-phpmyadmin]
+
+![Latest Version][phpmyadmin-version-shield]
+![Supports armhf Architecture][phpmyadmin-armhf-shield]
+![Supports armv7 Architecture][phpmyadmin-armv7-shield]
+![Supports aarch64 Architecture][phpmyadmin-aarch64-shield]
+![Supports amd64 Architecture][phpmyadmin-amd64-shield]
+![Supports i386 Architecture][phpmyadmin-i386-shield]
+![Docker Pulls][phpmyadmin-pulls-shield]
+
+A web interface for the official MariaDB add-on
+
+[:books: phpMyAdmin add-on documentation][addon-doc-phpmyadmin]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -784,6 +798,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: chrony][chrony-issue]
 - [Open an issue for the add-on: ledfx][ledfx-issue]
 - [Open an issue for the add-on: motionEye][motioneye-issue]
+- [Open an issue for the add-on: phpMyAdmin][phpmyadmin-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -1311,6 +1326,16 @@ SOFTWARE.
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [motioneye-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [motioneye-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/tree/3835929
+[addon-doc-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/blob/3835929/README.md
+[phpmyadmin-issue]: https://github.com/hassio-addons/addon-phpmyadmin/issues
+[phpmyadmin-version-shield]: https://img.shields.io/badge/version-3835929-blue.svg
+[phpmyadmin-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phpmyadmin-armhf.svg
+[phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[phpmyadmin-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
