@@ -1,1 +1,1 @@
-- :fire: Remove unused dependency cleanup
+- :ambulance: Fix permissions and checks
