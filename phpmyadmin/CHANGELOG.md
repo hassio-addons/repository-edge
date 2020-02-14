@@ -1,1 +1,1 @@
-- :ambulance: Fix permissions of blowfish secret
+- :shirt: Use bashio for file exists check
