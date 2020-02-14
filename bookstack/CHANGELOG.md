@@ -1,1 +1,1 @@
-- :hammer: Re-branding
+- ✨Utilise HA services for MariaDB
