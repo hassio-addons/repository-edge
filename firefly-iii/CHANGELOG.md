@@ -1,1 +1,1 @@
-- :hammer: Re-branding
+- ⬆Update firefly-iii to v5.0.5
