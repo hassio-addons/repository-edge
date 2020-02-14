@@ -1,1 +1,1 @@
-- ✨Utilise HA services for MariaDB
+- 📚Add notice on MariaDB addon
