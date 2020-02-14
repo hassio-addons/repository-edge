@@ -1,1 +1,1 @@
-- :ambulance: Fix permissions and checks
+- :ambulance: Fix permissions of blowfish secret
