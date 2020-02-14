@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: IDE
+# Home Assistant Community Add-on: IDE
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -46,8 +46,8 @@ editor.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -65,7 +65,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ide/blob/f8b2574/README.md
+[docs]: https://github.com/hassio-addons/addon-ide/blob/f8a4afd/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ide-based-on-cloud9/33810?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -76,7 +76,7 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-%20!%20DEPRECATED%20%20%20!-ff0000.svg
-[release-shield]: https://img.shields.io/badge/version-f8b2574-blue.svg
-[release]: https://github.com/hassio-addons/addon-ide/tree/f8b2574
+[release-shield]: https://img.shields.io/badge/version-f8a4afd-blue.svg
+[release]: https://github.com/hassio-addons/addon-ide/tree/f8a4afd
 [screenshot]: https://github.com/hassio-addons/addon-ide/raw/master/images/screenshot.png
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
