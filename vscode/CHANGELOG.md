@@ -1,4 +1,7 @@
 # Changelog since v1.2.3
+- :shirt: Fixes linter warnings 
+- :hammer: Improve download if extensions during build 
+- :hammer: Mark delivered extensions as builtin 
 - :rocket: Add aarch64 CI/build 
 - :sparkles: Adds aarch64 support 
 - :hammer: Install extensions from Marketplace, removes a stage layer 
