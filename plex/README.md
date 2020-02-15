@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Plex Media Server
+# Home Assistant Community Add-on: Plex Media Server
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -22,8 +22,8 @@ and streams them to all of your devices.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -41,7 +41,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-plex/blob/9509233/README.md
+[docs]: https://github.com/hassio-addons/addon-plex/blob/bf52b96/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-plex-media-server/54383?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -50,5 +50,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-9509233-blue.svg
-[release]: https://github.com/hassio-addons/addon-plex/tree/9509233
+[release-shield]: https://img.shields.io/badge/version-bf52b96-blue.svg
+[release]: https://github.com/hassio-addons/addon-plex/tree/bf52b96

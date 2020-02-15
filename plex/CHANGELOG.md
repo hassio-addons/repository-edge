@@ -1,4 +1,5 @@
-# Changelog since v2.2.4
-- :arrow_up: Upgrades Plex Media Server to 1.18.6.2348 
-- :arrow_up: Upgrades uuid-runtime to 2.31.1-0.4ubuntu3.5 
-- ⬆️ Upgrades Plex Media Server to 1.18.5.2309 (#26) 
+# Changelog since v2.2.5
+- :hammer: Update add-on config with new password & list features 
+- :hammer: Re-branding 
+- :books: Update add-on documentation to use new YAML configuration format 
+- :arrow_up: Upgrades add-on base image to v5.0.0 
