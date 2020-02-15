@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Log Viewer
+# Home Assistant Community Add-on: Log Viewer
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -6,7 +6,7 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-Browser-based log utility for Hass.io.
+Browser-based log utility for Home Assistant.
 
 ## About
 
@@ -17,8 +17,8 @@ is available to make it simple to differentiate different types of logs.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -38,10 +38,10 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-log-viewer/blob/77c10e1/README.md
+[docs]: https://github.com/hassio-addons/addon-log-viewer/blob/be82828/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-log-viewer/64377?u=dale3h
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-77c10e1-blue.svg
-[release]: https://github.com/hassio-addons/addon-log-viewer/tree/77c10e1
+[release-shield]: https://img.shields.io/badge/version-be82828-blue.svg
+[release]: https://github.com/hassio-addons/addon-log-viewer/tree/be82828
