@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Portainer
+# Home Assistant Community Add-on: Portainer
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -32,8 +32,8 @@ it could damage your system.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -51,7 +51,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-portainer/blob/3163534/README.md
+[docs]: https://github.com/hassio-addons/addon-portainer/blob/a53c5ab/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-portainer/68836?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -60,6 +60,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-3163534-blue.svg
-[release]: https://github.com/hassio-addons/addon-portainer/tree/3163534
+[release-shield]: https://img.shields.io/badge/version-a53c5ab-blue.svg
+[release]: https://github.com/hassio-addons/addon-portainer/tree/a53c5ab
 [screenshot]: https://github.com/hassio-addons/addon-portainer/raw/master/images/screenshot.png

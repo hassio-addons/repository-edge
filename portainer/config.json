@@ -1,6 +1,6 @@
 {
   "name": "Portainer",
-  "version": "3163534",
+  "version": "a53c5ab",
   "slug": "portainer",
   "description": "Manage your Docker environment with ease",
   "url": "https://github.com/hassio-addons/addon-portainer",
@@ -24,7 +24,7 @@
     "8000/tcp": null
   },
   "ports_description": {
-    "80/tcp": "Web interface (Not required for Hass.io Ingress)",
+    "80/tcp": "Web interface (Not required for Ingress)",
     "8000/tcp": "Edge Agent Api (Enable when managing remote edge agents)"
   },
   "boot": "auto",
@@ -38,7 +38,7 @@
     "keyfile": "privkey.pem"
   },
   "schema": {
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "ssl": "bool",
     "certfile": "str",
     "keyfile": "str",
