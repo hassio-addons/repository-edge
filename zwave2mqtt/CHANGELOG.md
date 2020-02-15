@@ -1,4 +1,15 @@
 # Changelog since v0.4.2
+- :hammer: Updates for upstream Supervisor changes 
+- :hammer: Update add-on config with new password & list features 
+- :hammer: Re-branding 
+- :books: Update add-on documentation to use new YAML configuration format 
+- :arrow_up: Upgrades nodejs to 12.15.0-r1 
+- :arrow_up: Upgrades add-on base image to v7.0.0 
+- :arrow_up: Upgrades Zwave2Mqtt to v2.1.1 
+- :arrow_up: Upgrades open-zwave database to 0d94c9427bbd19e47457578bccc60b16c6679b49 
+- :arrow_up: Upgrades nginx to 1.16.1-r6 
+- :ambulance: Fix Patreon link 
+- :art: Config.json file formatting 
 - :arrow_up: Update OpenZWave database to 07acd31 
 - :arrow_up: Upgrades Zwave2Mqtt to to 
 - :pencil2: Fixes some spelling and grammar 

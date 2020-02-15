@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Z-Wave to MQTT
+# Home Assistant Community Add-on: Z-Wave to MQTT
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -31,8 +31,8 @@ Some advantages and use-cases for this are:
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -50,7 +50,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/267b6b9/README.md
+[docs]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/209a28a/README.md
 [esphome]: https://esphome.io/components/mqtt.html#on-message-trigger
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-z-wave-to-mqtt/115899?u=frenck
@@ -61,5 +61,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-267b6b9-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/267b6b9
+[release-shield]: https://img.shields.io/badge/version-209a28a-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/209a28a
