@@ -1,6 +1,6 @@
 {
   "name": "MagicMirror²",
-  "version": "e5fd24d",
+  "version": "d707953",
   "slug": "magicmirror",
   "description": "MagicMirror² is an open source modular smart mirror platform.",
   "url": "https://github.com/hassio-addons/addon-magicmirror/tree/master/README.md",
@@ -35,7 +35,7 @@
     "modules": []
   },
   "schema": {
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "ssl": "bool",
     "certfile": "str",
     "keyfile": "str",
