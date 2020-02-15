@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Tautulli
+# Home Assistant Community Add-on: Tautulli
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -25,8 +25,8 @@ graphs, which makes it easy to brag about your server to everyone else.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -46,11 +46,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-tautulli/blob/e7a4060/README.md
+[docs]: https://github.com/hassio-addons/addon-tautulli/blob/8111a3c/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-tautulli/68745?u=ludeeus
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-e7a4060-blue.svg
-[release]: https://github.com/hassio-addons/addon-tautulli/tree/e7a4060
+[release-shield]: https://img.shields.io/badge/version-8111a3c-blue.svg
+[release]: https://github.com/hassio-addons/addon-tautulli/tree/8111a3c
 [screenshot]: https://github.com/hassio-addons/addon-tautulli/raw/master/images/screenshot.png
