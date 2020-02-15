@@ -1,6 +1,6 @@
 {
   "name": "Visual Studio Code",
-  "version": "b6636bb",
+  "version": "3c50dd9",
   "slug": "vscode",
   "description": "Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!",
   "url": "https://github.com/hassio-addons/addon-vscode",
@@ -23,7 +23,7 @@
     "80/tcp": null
   },
   "ports_description": {
-    "80/tcp": "VSCode (Not required for Hass.io Ingress)"
+    "80/tcp": "VSCode (Not required for Ingress)"
   },
   "map": [
     "config:rw",
@@ -41,7 +41,7 @@
     "disable_telemetry": false
   },
   "schema": {
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "ssl": "bool",
     "certfile": "str",
     "keyfile": "str",
