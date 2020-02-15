@@ -1,4 +1,8 @@
 # Changelog since v1.2.3
+- :rocket: Add aarch64 CI/build 
+- :sparkles: Adds aarch64 support 
+- :hammer: Install extensions from Marketplace, removes a stage layer 
+- :ambulance: Fix broken semver link 
 - :fire: Remove unused dependencies 
 - :pencil2: Fixes some typos 
 - :arrow_up: Updates the Home Assistant CLI to v4.0.1 
