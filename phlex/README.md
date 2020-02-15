@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: FlexTV
+# Home Assistant Community Add-on: FlexTV
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -21,8 +21,8 @@ web applications like Plex.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -42,12 +42,12 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-phlex/blob/07e40ef/README.md
+[docs]: https://github.com/hassio-addons/addon-phlex/blob/715ca37/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-ons-phlex/70378
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [flextv-wiki]: https://github.com/d8ahazard/FlexTV/wiki
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-07e40ef-blue.svg
-[release]: https://github.com/hassio-addons/addon-phlex/tree/07e40ef
+[release-shield]: https://img.shields.io/badge/version-715ca37-blue.svg
+[release]: https://github.com/hassio-addons/addon-phlex/tree/715ca37
 [screenshot]: https://github.com/hassio-addons/addon-phlex/raw/master/images/screenshot.png
