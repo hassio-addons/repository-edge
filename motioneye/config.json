@@ -1,6 +1,6 @@
 {
   "name": "motionEye",
-  "version": "f3df893",
+  "version": "c684127",
   "slug": "motioneye",
   "description": "Simple, elegant and feature-rich CCTV/NVR for your cameras",
   "url": "https://github.com/hassio-addons/addon-motioneye",
@@ -21,7 +21,7 @@
     "80/tcp": null
   },
   "ports_description": {
-    "80/tcp": "Web interface (Not required for Hass.io Ingress)"
+    "80/tcp": "Web interface (Not required for Ingress)"
   },
   "boot": "auto",
   "hassio_api": true,
@@ -43,7 +43,7 @@
     "keyfile": "privkey.pem"
   },
   "schema": {
-    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)?",
+    "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "motion_webcontrol": "bool",
     "ssl": "bool",
     "certfile": "str",

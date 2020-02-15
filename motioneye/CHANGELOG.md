@@ -1,4 +1,9 @@
 # Changelog since v0.6.0
+- :hammer: Updates for upstream Supervisor changes 
+- :hammer: Update add-on config with new password & list features 
+- :hammer: Re-branding 
+- :books: Update add-on documentation to use new YAML configuration format 
+- :arrow_up: Upgrades add-on base image to v7.0.0 
 - :arrow_up: Upgrades motion to 4.3.0-r0 
 - :ambulance: Fix Patreon link 
 - :arrow_up: Upgrades nginx to 1.16.1-r6 
