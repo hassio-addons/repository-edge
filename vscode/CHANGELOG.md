@@ -1,4 +1,9 @@
 # Changelog since v1.2.3
+- :fire: Remove unused dependencies 
+- :pencil2: Fixes some typos 
+- :arrow_up: Updates the Home Assistant CLI to v4.0.1 
+- :fire: Remove direct access support 
+- :books: Update add-on documentation to use new YAML configuration format 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Update add-on config with new password & list features 
 - :hammer: Re-branding 
