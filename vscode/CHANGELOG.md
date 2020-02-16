@@ -1,4 +1,5 @@
 # Changelog since v1.2.3
+- :ambulance: Fix old extension cleanup 
 - :shirt: Remove log spam about extensions during add-on start 
 - :sparkles: Add hook up with the MySQL service 
 - :sparkles: Add hook up with the MQTT service 
