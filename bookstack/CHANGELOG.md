@@ -1,1 +1,1 @@
-- 📚Add notice on MariaDB addon
+- 📚Fix semver link
