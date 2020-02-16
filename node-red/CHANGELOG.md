@@ -1,4 +1,7 @@
 # Changelog since v6.0.4
+- :arrow_up: Updates node-red-contrib-theme-midnight-red to v1.0.27 (#453)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :shirt: Improve indenting in NGINX configuration 
 - :hammer: Re-branding 
 - :arrow_up: Upgrades add-on base image to v7.0.0 
