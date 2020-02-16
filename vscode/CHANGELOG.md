@@ -1,4 +1,8 @@
 # Changelog since v1.2.3
+- :shirt: Remove log spam about extensions during add-on start 
+- :sparkles: Add hook up with the MySQL service 
+- :sparkles: Add hook up with the MQTT service 
+- :sparkles: Add hassio fallback command for backward compatibility 
 - :shirt: Fixes linter warnings 
 - :hammer: Improve download if extensions during build 
 - :hammer: Mark delivered extensions as builtin 
