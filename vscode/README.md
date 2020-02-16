@@ -48,15 +48,15 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-vscode/blob/85b0a6b/README.md
+[docs]: https://github.com/hassio-addons/addon-vscode/blob/4c33266/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/?u=frenck
+[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-visual-studio-code/107863?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-85b0a6b-blue.svg
-[release]: https://github.com/hassio-addons/addon-vscode/tree/85b0a6b
+[release-shield]: https://img.shields.io/badge/version-4c33266-blue.svg
+[release]: https://github.com/hassio-addons/addon-vscode/tree/4c33266
 [screenshot]: https://github.com/hassio-addons/addon-vscode/raw/master/images/screenshot.png
