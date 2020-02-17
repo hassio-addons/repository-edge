@@ -1,24 +1,2 @@
-# Changelog since v1.2.3
-- :pencil2: Corrects forum URL links 
-- :ambulance: Fix old extension cleanup 
-- :shirt: Remove log spam about extensions during add-on start 
-- :sparkles: Add hook up with the MySQL service 
-- :sparkles: Add hook up with the MQTT service 
-- :sparkles: Add hassio fallback command for backward compatibility 
-- :shirt: Fixes linter warnings 
-- :hammer: Improve download if extensions during build 
-- :hammer: Mark delivered extensions as builtin 
-- :rocket: Add aarch64 CI/build 
-- :sparkles: Adds aarch64 support 
-- :hammer: Install extensions from Marketplace, removes a stage layer 
-- :ambulance: Fix broken semver link 
-- :fire: Remove unused dependencies 
-- :pencil2: Fixes some typos 
-- :arrow_up: Updates the Home Assistant CLI to v4.0.1 
-- :fire: Remove direct access support 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :hammer: Updates for upstream Supervisor changes 
-- :hammer: Update add-on config with new password & list features 
-- :hammer: Re-branding 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :arrow_up: Upgrades add-on base image to v5.0.0 
+# Changelog since v2.0.0
+- ✏️ Correct typo in README (#80) 
