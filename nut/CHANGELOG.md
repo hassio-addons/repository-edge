@@ -1,1 +1,1 @@
-- :pencil2: Fixes some typos
+- 🚑Add auto_uart config option
