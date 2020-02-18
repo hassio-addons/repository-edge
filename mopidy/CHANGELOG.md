@@ -1,5 +1,5 @@
-- Updated README.md and Added pinning of all packages (#23)
+- Fixed issue with breaking of this addon without python 3 and Upda… (#24)
 
-* Added pinning of other packages
+* Hotfix fixed issue with removing python and Updated lua-rest
 
-* Updated README.md
+* Updated lua-rest
