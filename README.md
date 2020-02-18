@@ -1104,8 +1104,8 @@ SOFTWARE.
 [mopidy-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [mopidy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mopidy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[mopidy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[mopidy-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[mopidy-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[mopidy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-nut]: https://github.com/hassio-addons/addon-nut/tree/ac56583
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/ac56583/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
