@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- :arrow_up: Upgrades Grafana to v6.6.2 
 - :hammer: Re-branding 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Update add-on config with new password & list features 
