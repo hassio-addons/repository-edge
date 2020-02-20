@@ -1,1 +1,1 @@
-- 🚑Add auto_uart config option
+- 📚Disable lint line length
