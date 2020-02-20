@@ -1,5 +1,3 @@
-- Fixed issue with breaking of this addon without python 3 and Upda… (#24)
+- :arrow_up: Updates Mopidy-Iris to v3.45.0 (#25)
 
-* Hotfix fixed issue with removing python and Updated lua-rest
-
-* Updated lua-rest
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com>
