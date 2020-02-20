@@ -1,1 +1,1 @@
-- 📚Disable lint line length
+- 📚Fix links in Readme
