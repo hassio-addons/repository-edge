@@ -1,4 +1,7 @@
 # Changelog since v6.0.4
+- :arrow_up: Updates node-red-contrib-theme-midnight-red to v1.0.28 (#455)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :arrow_up: Updates node-red-contrib-theme-midnight-red to v1.0.27 (#453)
 
 Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
