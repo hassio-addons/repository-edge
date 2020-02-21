@@ -1,1 +1,1 @@
-- 📚Fix semver link
+- 🔨Change to bashio service available check
