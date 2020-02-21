@@ -1,1 +1,1 @@
-- 📚Fix links in Readme
+- :shirt: Fix lint warnings
