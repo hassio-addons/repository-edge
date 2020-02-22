@@ -1,18 +1,2 @@
-# Changelog since v7.0.1
-- :ambulance: Correct MySQL cnf path 
-- :ambulance: Fix incorrect version tag on ttyd 
-- :sparkles: Add hook up with the MQTT &  MySQL services 
-- :arrow_up: Upgrades sudo to 1.8.31-r0 
-- :arrow_up: Upgrades mariadb-client to 10.4.12-r0 
-- :arrow_up: Upgrades libxml2-utils to 2.9.10-r2 
-- :arrow_up: Upgrades python3 to 3.8.1-r0 
-- :arrow_up: Upgrades libwebsockets to 3.2.2 
-- :arrow_up: Upgrades ttyd to v1.6.0 
-- :hammer: Re-branding 
-- :arrow_up: Upgrades Home Assistant CLI to 4.0.1 
-- :hammer: Update add-on config with new password & list features 
-- :hammer: Re-branding 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :arrow_up: Upgrades add-on base image to v7.0.0 
-- :pencil2: Fixes some spelling and grammar 
-- :fireworks: Updates maintenance/license year to 2020 
+# Changelog since v7.1.0
+- :shirt: Remove unnecessary execute permissions (#122) 
