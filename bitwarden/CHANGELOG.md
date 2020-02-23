@@ -1,4 +1,5 @@
 # Changelog since v0.5.1
+- :arrow_up: Upgrades add-on base image to v3.0.1 
 - :hammer: Re-branding 
 - :hammer: Re-branding 
 - :books: Update add-on documentation to use new YAML configuration format 
