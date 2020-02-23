@@ -1,4 +1,5 @@
 # Changelog since v6.0.4
+- :ambulance: Add migration script for upstream breaking change 
 - Update flows.json to use addon property (#451)
 
 - Add addon property to flows.json
