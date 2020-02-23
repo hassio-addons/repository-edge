@@ -1,4 +1,6 @@
 # Changelog since v0.6.0
+- :hammer: Update community forum links 
+- :arrow_up: Upgrades add-on base image to v7.0.2 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Update add-on config with new password & list features 
 - :hammer: Re-branding 
