@@ -1,4 +1,5 @@
 # Changelog since v3.5.1
+- :hammer: Update community forum links 
 - :arrow_up: Upgrades add-on base image to v5.0.1 
 - :arrow_up: Upgrades Chronograf to 1.8.0 
 - :arrow_up: Upgrades libnginx-mod-http-lua to 1.14.0-0ubuntu1.7 
