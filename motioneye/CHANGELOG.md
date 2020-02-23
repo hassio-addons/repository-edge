@@ -1,4 +1,33 @@
 # Changelog since v0.6.0
+- :shirt: Fix lint warnings 
+- :books: Update readme 
+- :hammer: Use bashio for action buttons 
+- :sparkles: Add action buttons (#75)
+
+* Amended creation of /data/motioneye/motion.conf if it doesn't exist.
+
+* Removed redundant copy statement.
+
+* Testing action buttons implementation.
+
+* Fixed migration dir.
+
+* Fixed variable target dirs.
+
+* Added options for configuring action buttons.
+
+* Fixed links in readme.
+
+* Style, best-practise  and efficiency fixes.
+
+* Typo in old action button scripts deletion.
+
+* Typo in old action button scripts deletion. 
+- :fire: Removed redundant copy statement. (#73)
+
+* Amended creation of /data/motioneye/motion.conf if it doesn't exist.
+
+* Removed redundant copy statement. 
 - :hammer: Update community forum links 
 - :arrow_up: Upgrades add-on base image to v7.0.2 
 - :hammer: Updates for upstream Supervisor changes 
