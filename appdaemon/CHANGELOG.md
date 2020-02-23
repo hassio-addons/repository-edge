@@ -1,4 +1,5 @@
 # Changelog since v0.1.2
+- :arrow_up: Upgrades add-on base image to v7.0.2 
 - :sparkles: Add access to serial ports 
 - :hammer: Re-branding 
 - :hammer: Updates for upstream Supervisor changes 
