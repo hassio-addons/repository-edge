@@ -1,4 +1,9 @@
 # Changelog since v2.1.0
+- :hammer: Update community forum links 
+- :arrow_up: Upgrades add-on base image to v5.0.1 
+- :arrow_up: Updates datasette to v0.36 (#65)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Update add-on config with new password & list features 
 - :hammer: Re-branding 
