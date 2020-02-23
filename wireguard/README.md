@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: WireGuard
+# Home Assistant Community Add-on: WireGuard
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -32,8 +32,8 @@ in the industry.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -51,15 +51,15 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-wireguard/blob/51ea54b/README.md
+[docs]: https://github.com/hassio-addons/addon-wireguard/blob/d752c0b/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-wireguard/134662?u=frenck
+[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-wireguard/134662?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-51ea54b-blue.svg
-[release]: https://github.com/hassio-addons/addon-wireguard/tree/51ea54b
+[release-shield]: https://img.shields.io/badge/version-d752c0b-blue.svg
+[release]: https://github.com/hassio-addons/addon-wireguard/tree/d752c0b
 [wireguard]: https://www.wireguard.com
