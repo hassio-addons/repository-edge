@@ -1,4 +1,5 @@
 # Changelog since v2.3.1
+- :arrow_up: Upgrades add-on base image to v7.0.2 
 - :hammer: Re-branding 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Re-branding 
