@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- :hammer: Update community forum links 
 - :arrow_up: Upgrades add-on base image to v5.0.1 
 - :arrow_up: Upgrades Grafana to v6.6.2 
 - :hammer: Re-branding 
