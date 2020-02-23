@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- :hammer: Update community forum links 
 - :arrow_up: Upgrades add-on base image to v7.0.2 
 - :hammer: Re-branding 
 - :arrow_up: Upgrades nodejs to 12.15.0-r1 
