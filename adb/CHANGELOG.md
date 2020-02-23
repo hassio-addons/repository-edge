@@ -1,4 +1,5 @@
 # Changelog since v0.5.6
+- :arrow_up: Upgrades add-on base image to v5.0.1 
 - :hammer: Re-branding 
 - :hammer: Re-branding 
 - :hammer: Update add-on config with new password & list features 
