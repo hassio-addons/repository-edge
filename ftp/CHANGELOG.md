@@ -1,4 +1,6 @@
 # Changelog since v3.2.0
+- :hammer: Don't use apk cache on cleanup 
+- :hammer: Update community forum links 
 - :arrow_up: Upgrades add-on base image to v7.0.2 
 - :hammer: Re-branding 
 - :hammer: Re-branding 
