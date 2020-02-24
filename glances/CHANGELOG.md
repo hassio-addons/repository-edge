@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- :hammer: Update community forum links 
 - :shirt: Fix lint warnings 
 - :arrow_up: Upgrades add-on base image to v7.0.2 
 - :arrow_up: Updates requests to v2.23.0 (#54)
