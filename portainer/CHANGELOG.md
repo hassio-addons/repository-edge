@@ -1,4 +1,32 @@
 # Changelog since v0.9.0
+- :hammer: Improve Portainer service script 
+- :books: Remove Hass.io references 
+- :fire: Remove direct access support 
+- :sparkles: Adds agent secret support (#31)
+
+* Set the Agent Secret environment variable
+
+* Update portainer.sh
+
+* Update README.md
+
+* Update portainer.sh
+
+* fixing the location of the export command
+
+* Update run
+
+* Update README.md
+
+* :fire: Revert unrelated changes
+
+* :shirt: Fix lint warnings
+
+* :shirt: Remove empty default value
+
+* I failed at a rebase... need more coffee
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - :hammer: Update community forum links 
 - :arrow_up: Upgrades add-on base image to v7.0.2 
 - :arrow_up: Upgrades Portainer to v1.23.1 
