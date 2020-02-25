@@ -1,4 +1,6 @@
 # Changelog since v1.4.0
+- :hammer: Don't use apk cache on cleanup 
+- :hammer: Update community forum links 
 - :arrow_up: Upgrades Tautulli to v2.1.44 
 - :pencil2: Replace some Hass.io occurances 
 - :ambulance: Fix SSL
