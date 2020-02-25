@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- :tada: Make add-on stable/production ready 
 - :hammer: Improve Portainer service script 
 - :books: Remove Hass.io references 
 - :fire: Remove direct access support 
