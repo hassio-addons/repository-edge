@@ -1,4 +1,7 @@
 # Changelog since v6.1.0
+- :arrow_up: Updates node-red-contrib-sunevents to v2 (#459)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :hammer: Change Midnight theme configuration to reflect recent changes in… (#461)
 
 * Change Midnight theme GitHub address
