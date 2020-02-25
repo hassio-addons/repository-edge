@@ -1,4 +1,10 @@
 # Changelog since v6.1.0
+- :arrow_up: Updates snyk to v1.297.1 (#464)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
+- :arrow_up: Updates node-red-node-msgpack to v1.2.1 (#465)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :arrow_up: Updates snyk to v1.296.1 (#460)
 
 Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
