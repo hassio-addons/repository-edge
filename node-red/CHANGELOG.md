@@ -1,4 +1,7 @@
 # Changelog since v6.1.0
+- :arrow_up: Updates node-red-contrib-home-assistant-websocket to… (#468)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
 - :arrow_up: Updates snyk to v1.297.1 (#464)
 
 Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
