@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Traccar
+# Home Assistant Community Add-on: Traccar
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -32,8 +32,8 @@ your Home Assistant instance as well.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -52,7 +52,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-traccar/blob/2bf9b87/README.md
+[docs]: https://github.com/hassio-addons/addon-traccar/blob/bb1c27a/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-traccar/81407?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -61,7 +61,7 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-2bf9b87-blue.svg
-[release]: https://github.com/hassio-addons/addon-traccar/tree/2bf9b87
+[release-shield]: https://img.shields.io/badge/version-bb1c27a-blue.svg
+[release]: https://github.com/hassio-addons/addon-traccar/tree/bb1c27a
 [screenshot]: https://github.com/hassio-addons/addon-traccar/raw/master/images/screenshot.png
 [traccar]: https://www.traccar.org
