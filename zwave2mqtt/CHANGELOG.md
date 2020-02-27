@@ -1,4 +1,8 @@
 # Changelog since v0.4.2
+- :hammer: Don't use apk cache on cleanup 
+- :arrow_up: Upgrades Zwave2Mqtt to to 
+- :arrow_up: Upgrades open-zwave database to 2e18ba844ff75965819c0dad74817a3178dbe8da 
+- :arrow_up: Upgrades add-on base image to v7.0.2 
 - :hammer: Updates for upstream Supervisor changes 
 - :hammer: Update add-on config with new password & list features 
 - :hammer: Re-branding 
