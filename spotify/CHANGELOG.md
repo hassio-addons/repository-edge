@@ -1,2 +1,12 @@
-# Changelog since v0.7.0
-- :arrow_up: Upgrades spotifyd to v0.2.22 
+# Changelog since v0.7.1
+- :arrow_down: Downgrade Spotifyd to v0.2.23 
+- :pencil2: Replace some Hass.io occurances 
+- :sparkles: Adds libasound2-plugins 
+- :arrow_up: Upgrades rustc to 1.39.0+dfsg1+llvm-3ubuntu1~18.04.1 
+- :arrow_up: Upgrades cargo to 0.40.0-3ubuntu1~18.04.1 
+- :arrow_up: Upgrades add-on base image to v5.0.1 
+- :hammer: Update add-on config with new password & list features 
+- :hammer: Re-branding 
+- :books: Update add-on documentation to use new YAML configuration format 
+- :arrow_up: Upgrades add-on base image to v5.0.0 
+- :arrow_up: Upgrades spotifyd to v0.2.24 
