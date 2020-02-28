@@ -1,4 +1,5 @@
 # Changelog since v0.7.1
+- :art: Updated screenshot 
 - :hammer: Update community forum links 
 - :books: Update add-on instructions 
 - :hammer: Refactor add-on configuration 
