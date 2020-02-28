@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- :hammer: Update community forum links 
 - :arrow_up: Upgrades add-on base image to v5.0.2 
 - :arrow_up: Upgrades add-on base image to v5.0.1 
 - :arrow_up: Updates requests to v2.23.0 (#8)
