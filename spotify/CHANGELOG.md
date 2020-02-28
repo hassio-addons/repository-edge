@@ -1,4 +1,6 @@
 # Changelog since v0.7.1
+- :hammer: Refactor add-on configuration 
+- :hammer: Put add-on on the host network 
 - :arrow_down: Downgrade Spotifyd to v0.2.23 
 - :pencil2: Replace some Hass.io occurances 
 - :sparkles: Adds libasound2-plugins 
