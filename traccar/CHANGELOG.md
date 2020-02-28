@@ -1,4 +1,6 @@
 # Changelog since v0.6.1
+- :books: Update add-on installation instructions 
+- :hammer: Update community forum links 
 - :fire: Disable all ports by default, add example to custom config 
 - :sparkles: Automatically use and discovery MySQL service 
 - :arrow_up: Upgrades Traccar to v4.8 
