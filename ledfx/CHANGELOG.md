@@ -1,1 +1,1 @@
-- :hammer: Updates for upstream Supervisor changes
+- 🔨Generate config to bind to localhost
