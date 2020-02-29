@@ -1,4 +1,4 @@
-# Community Hass.io Add-ons: Nginx Proxy Manager
+# Home Assistant Community Add-on: Nginx Proxy Manager
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -32,8 +32,8 @@ Nginx proxy manager by providing additional Nginx directives.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -51,7 +51,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/117c233/README.md
+[docs]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/b6a2149/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-nginx-proxy-manager/111830?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -60,6 +60,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-117c233-blue.svg
-[release]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/117c233
+[release-shield]: https://img.shields.io/badge/version-b6a2149-blue.svg
+[release]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/b6a2149
 [screenshot]: https://github.com/hassio-addons/addon-nginx-proxy-manager/raw/master/images/screenshot.gif

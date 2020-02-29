@@ -1,16 +1,18 @@
-# Changelog since v0.3.1
-- :ambulance: Fix MySQL init for new installations 
-- :hammer: Ensure new paths exists 
-- :ambulance: Hotfix for new Nginx paths 
-- :arrow_up: Upgrades openssl to 1.1.1d-r3 
-- :arrow_up: Upgrades mariadb to 10.4.10-r0 
-- :arrow_up: Upgrades nginx to 1.16.1-r4 
-- :arrow_up: Upgrades certbot to 1.0.0-r0 
-- :arrow_up: Upgrades yarn to 1.19.2-r0 
-- :arrow_up: Upgrades python2 to 2.7.16-r3 
-- :arrow_up: Upgrades nodejs to 12.14.0-r0 
-- :arrow_up: Upgrades git to 2.24.1-r0 
-- :arrow_up: Upgrades add-on base image to v6.0.1 
-- :pencil2: Fixes some spelling and grammar 
-- :pencil2: Funding adjustments 
-- :fireworks: Updates maintenance/license year to 2020 
+# Changelog since v0.4.0
+- :hammer: Adds migration to official MariaDB add-on (#77)
+
+* :hammer: Adds migration to official MariaDB add-on
+
+* :ambulance: Actual remove the previous database 
+- :arrow_up: Upgrades add-on base image to v7.0.2 
+- :rocket: Remove unneeded eslint from build 
+- :arrow_up: Upgrades nginx-proxy-manager to v2.1.1 
+- :arrow_up: Upgrades mariadb to 10.4.12-r0 
+- :arrow_up: Upgrades nginx to 1.16.1-r6 
+- :arrow_up: Upgrades nodejs to 12.15.0-r1 
+- :hammer: Updates for upstream Supervisor changes 
+- :hammer: Update add-on config with new password & list features 
+- :ambulance: Fix Patreon link 
+- :books: Update add-on documentation to use new YAML configuration format 
+- :hammer: Re-branding 
+- :arrow_up: Upgrades add-on base image to v7.0.0 
