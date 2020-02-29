@@ -1,2 +1,4 @@
-# Changelog since v0.2.0
-- :ambulance: Pin astral package to 1.10.1 
+# Changelog since v0.2.1
+- :arrow_up: Updates appdaemon to v4.0.2 (#15)
+
+Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
