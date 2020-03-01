@@ -351,20 +351,6 @@ Mosquitto MQTT Server bundled with Hivemq's web client
 
 [:books: MQTT Server & Web client add-on documentation][addon-doc-mqtt]
 
-### &#10003; [MagicMirror²][addon-magicmirror]
-
-![Latest Version][magicmirror-version-shield]
-![Supports armhf Architecture][magicmirror-armhf-shield]
-![Supports armv7 Architecture][magicmirror-armv7-shield]
-![Supports aarch64 Architecture][magicmirror-aarch64-shield]
-![Supports amd64 Architecture][magicmirror-amd64-shield]
-![Supports i386 Architecture][magicmirror-i386-shield]
-![Docker Pulls][magicmirror-pulls-shield]
-
-MagicMirror² is an open source modular smart mirror platform.
-
-[:books: MagicMirror² add-on documentation][addon-doc-magicmirror]
-
 ### &#10003; [Matrix][addon-matrix]
 
 ![Latest Version][matrix-version-shield]
@@ -758,7 +744,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: Lutron Certificate][lutron-cert-issue]
 - [Open an issue for the add-on: MQTT Server & Web client][mqtt-issue]
-- [Open an issue for the add-on: MagicMirror²][magicmirror-issue]
 - [Open an issue for the add-on: Matrix][matrix-issue]
 - [Open an issue for the add-on: Mopidy][mopidy-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
@@ -1051,16 +1036,6 @@ SOFTWARE.
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/tree/d707953
-[addon-doc-magicmirror]: https://github.com/hassio-addons/addon-magicmirror/blob/d707953/README.md
-[magicmirror-issue]: https://github.com/hassio-addons/addon-magicmirror/issues
-[magicmirror-version-shield]: https://img.shields.io/badge/version-d707953-blue.svg
-[magicmirror-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/magicmirror-armhf.svg
-[magicmirror-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[magicmirror-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[magicmirror-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[magicmirror-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[magicmirror-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/088dc87
 [addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/088dc87/README.md
 [matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues

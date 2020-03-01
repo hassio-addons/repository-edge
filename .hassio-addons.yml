@@ -89,10 +89,6 @@ addons:
     repository: hassio-addons/addon-lutron-cert
     target: lutron-cert
     image: hassioaddons/lutron-cert-{arch}
-  magicmirror:
-    repository: hassio-addons/addon-magicmirror
-    target: magicmirror
-    image: hassioaddons/magicmirror-{arch}
   matrix:
     repository: hassio-addons/addon-matrix
     target: matrix

@@ -1,1 +1,0 @@
-- :arrow_up: Upgrades MagicMirror² to v2.10.1
