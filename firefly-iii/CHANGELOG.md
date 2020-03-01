@@ -1,1 +1,1 @@
-- ⬆Update firefly-iii to v5.0.5
+- ⬇Downgrade to php 7.3.11-1 (arm issues)

@@ -1,12 +1,13 @@
 {
   "name": "Firefly III",
-  "version": "bc84a8e",
+  "version": "2c11e5b",
   "slug": "firefly-iii",
   "description": "A free and open source personal finance manager",
   "url": "https://github.com/hassio-addons/addon-firefly-iii",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
-  "ingress": false,
-  "ingress_port": 1337,
+  "services": [
+    "mysql:want"
+  ],
   "startup": "application",
   "arch": [
     "aarch64",
@@ -28,17 +29,16 @@
     "80/tcp": "Web interface"
   },
   "options": {
-    "database": "sqlite",
-    "ssl": true,
+    "ssl": false,
     "certfile": "fullchain.pem",
     "keyfile": "privkey.pem"
   },
   "schema": {
-    "database": "list(sqlite|mysql)",
-    "mysql_host": "str?",
-    "mysql_database": "str?",
-    "mysql_user": "str?",
-    "mysql_password": "password?",
+    "remote_mysql_host": "str?",
+    "remote_mysql_database": "str?",
+    "remote_mysql_username": "str?",
+    "remote_mysql_password": "password?",
+    "remote_mysql_port": "int?",
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "certfile": "str",
     "keyfile": "str",
