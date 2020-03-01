@@ -1,1 +1,1 @@
-- 🔨Change to bashio service available check
+- :pencil2: Small text tweaks
