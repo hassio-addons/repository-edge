@@ -7,7 +7,7 @@
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 A Network UPS Tools daemon to allow you to easily manage battery backup (UPS)
-devices connected to your Hass.io machine.
+devices connected to your Home Assistant machine.
 
 ## About
 
@@ -70,7 +70,7 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-nut/blob/6944df4/README.md
+[docs]: https://github.com/hassio-addons/addon-nut/blob/5715820/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-network-ups-tools/68516
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
@@ -79,5 +79,5 @@ If you are more interested in stable releases of our add-ons:
 [nut-features]: https://networkupstools.org/features.html
 [nut-sensor-docs]: https://www.home-assistant.io/components/sensor.nut/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6944df4-blue.svg
-[release]: https://github.com/hassio-addons/addon-nut/tree/6944df4
+[release-shield]: https://img.shields.io/badge/version-5715820-blue.svg
+[release]: https://github.com/hassio-addons/addon-nut/tree/5715820

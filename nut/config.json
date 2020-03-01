@@ -1,6 +1,6 @@
 {
   "name": "Network UPS Tools",
-  "version": "6944df4",
+  "version": "5715820",
   "slug": "nut",
   "description": "Manage battery backup (UPS) devices",
   "url": "https://github.com/hassio-addons/addon-nut",
@@ -46,7 +46,7 @@
       }
     ],
     "mode": "netserver",
-    "shutdown_hassio": "false"
+    "shutdown_host": "false"
   },
   "schema": {
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
@@ -74,7 +74,7 @@
       }
     ],
     "mode": "list(netserver|netclient)",
-    "shutdown_hassio": "bool",
+    "shutdown_host": "bool",
     "list_usb_devices": "bool?",
     "remote_ups_name": "str?",
     "remote_ups_host": "str?",
