@@ -52,7 +52,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-traccar/blob/38753ba/README.md
+[docs]: https://github.com/hassio-addons/addon-traccar/blob/d1f780f/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-traccar/81407?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -61,7 +61,7 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-38753ba-blue.svg
-[release]: https://github.com/hassio-addons/addon-traccar/tree/38753ba
+[release-shield]: https://img.shields.io/badge/version-d1f780f-blue.svg
+[release]: https://github.com/hassio-addons/addon-traccar/tree/d1f780f
 [screenshot]: https://github.com/hassio-addons/addon-traccar/raw/master/images/screenshot.png
 [traccar]: https://www.traccar.org
