@@ -931,10 +931,10 @@ SOFTWARE.
 [firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [firefly-iii-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/715ca37
-[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/715ca37/README.md
+[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/224e081
+[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/224e081/README.md
 [phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
-[phlex-version-shield]: https://img.shields.io/badge/version-715ca37-blue.svg
+[phlex-version-shield]: https://img.shields.io/badge/version-224e081-blue.svg
 [phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex-armhf.svg
 [phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

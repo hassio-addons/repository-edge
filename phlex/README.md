@@ -42,12 +42,12 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-phlex/blob/715ca37/README.md
+[docs]: https://github.com/hassio-addons/addon-phlex/blob/224e081/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-ons-phlex/70378
+[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-flextv/70378?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [flextv-wiki]: https://github.com/d8ahazard/FlexTV/wiki
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-715ca37-blue.svg
-[release]: https://github.com/hassio-addons/addon-phlex/tree/715ca37
+[release-shield]: https://img.shields.io/badge/version-224e081-blue.svg
+[release]: https://github.com/hassio-addons/addon-phlex/tree/224e081
 [screenshot]: https://github.com/hassio-addons/addon-phlex/raw/master/images/screenshot.png

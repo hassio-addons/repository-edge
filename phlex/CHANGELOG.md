@@ -1,4 +1,7 @@
 # Changelog since v1.1.0
+- :arrow_up: Upgrades php7 to 7.3.15-r0 
+- :hammer: Update community forum links 
+- :arrow_up: Upgrades add-on base image to v7.0.2 
 - :arrow_up: Upgrades nginx to 1.16.1-r6 
 - :arrow_up: Upgrades php7 to 7.3.14-r0 
 - :arrow_up: Upgrades add-on base image to v7.0.0 
