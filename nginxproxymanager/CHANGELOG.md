@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- :hammer: Re-branding 
 - :books: Update add-on instructions 
 - :hammer: Adds migration to official MariaDB add-on (#77)
 
