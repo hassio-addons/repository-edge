@@ -1,1 +1,1 @@
-- :art: Replace icon with one that is actually viewable
+- :hammer: Disable SSL by default
