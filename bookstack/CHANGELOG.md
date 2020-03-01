@@ -1,1 +1,1 @@
-- :pencil2: Small text tweaks
+- :art: Replace icon with one that is actually viewable
