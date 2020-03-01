@@ -137,7 +137,7 @@ Open source password management solution
 ![Supports i386 Architecture][bookstack-i386-shield]
 ![Docker Pulls][bookstack-pulls-shield]
 
-A platform for organising and storing information
+Simple & Free Wiki Software
 
 [:books: Bookstack add-on documentation][addon-doc-bookstack]
 
