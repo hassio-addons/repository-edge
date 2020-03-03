@@ -1036,10 +1036,10 @@ SOFTWARE.
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/088dc87
-[addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/088dc87/README.md
+[addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/d2c4625
+[addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/d2c4625/README.md
 [matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues
-[matrix-version-shield]: https://img.shields.io/badge/version-088dc87-blue.svg
+[matrix-version-shield]: https://img.shields.io/badge/version-d2c4625-blue.svg
 [matrix-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/matrix-armhf.svg
 [matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
