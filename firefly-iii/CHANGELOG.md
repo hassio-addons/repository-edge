@@ -1,1 +1,1 @@
-- ⬇Downgrade to php 7.3.11-1 (arm issues)
+- 🔨Add fi_FI locale
