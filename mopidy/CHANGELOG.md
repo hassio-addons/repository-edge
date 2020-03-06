@@ -1,3 +1,3 @@
-- :arrow_up: Updates Mopidy-Iris to v3.45.1 (#26)
+- :arrow_up: Updates Mopidy-Youtube to v3.0 (#27)
 
-Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com>
+Co-authored-by: Renovate Bot <bot@renovateapp.com>

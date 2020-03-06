@@ -1046,10 +1046,10 @@ SOFTWARE.
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [matrix-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-mopidy]: https://github.com/hassio-addons/addon-mopidy/tree/82a6f28
-[addon-doc-mopidy]: https://github.com/hassio-addons/addon-mopidy/blob/82a6f28/README.md
+[addon-mopidy]: https://github.com/hassio-addons/addon-mopidy/tree/aa89641
+[addon-doc-mopidy]: https://github.com/hassio-addons/addon-mopidy/blob/aa89641/README.md
 [mopidy-issue]: https://github.com/hassio-addons/addon-mopidy/issues
-[mopidy-version-shield]: https://img.shields.io/badge/version-82a6f28-blue.svg
+[mopidy-version-shield]: https://img.shields.io/badge/version-aa89641-blue.svg
 [mopidy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mopidy-amd64.svg
 [mopidy-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [mopidy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
