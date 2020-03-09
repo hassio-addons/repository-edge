@@ -1,3 +1,8 @@
 # Changelog since v2.1.0
+- :arrow_up: Upgrades usernamehw.errorlens to 3.0.0 
+- :arrow_up: Upgrades redhat.vscode-yaml to 0.7.2 
+- :arrow_up: Upgrades keesschollaart.vscode-home-assistant to 1.6.1 
+- :arrow_up: Upgrades Home Assistant CLI to 4.1.0 
+- :arrow_up: Upgrades bsdtar to 3.2.2-3.1ubuntu0.6 
 - :hammer: Use new Bashio service availablity checks 
 - :arrow_up: Upgrades add-on base image to v5.0.1 
