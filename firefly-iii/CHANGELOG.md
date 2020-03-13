@@ -1,1 +1,1 @@
-- 🔨Add fi_FI locale
+- ⬆Update firefly-iii to 5.1.1
