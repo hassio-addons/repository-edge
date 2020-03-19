@@ -1,4 +1,16 @@
 # Changelog since v6.1.3
+- :arrow_up: Updates node-red-contrib-cast to v0.2.15 (#506)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- :arrow_up: Updates snyk to v1.299.0 (#505)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- :arrow_up: Updates @node-red-contrib-themes/midnight-red to v1.2… (#504)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- :arrow_up: Updates @node-red-contrib-themes/midnight-red to v1.2… (#503)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - :arrow_up: Upgrades add-on base image to v7.0.3 
 - :arrow_up: Updates node-red-contrib-home-assistant-websocket to… (#498)
 
