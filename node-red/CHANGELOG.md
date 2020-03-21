@@ -1,4 +1,8 @@
 # Changelog since v6.1.3
+- :arrow_up: Updates snyk to v1.301.0 (#507)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- :arrow_up: Upgrades gcc to 9.2.0-r4 
 - :arrow_up: Updates node-red-contrib-cast to v0.2.15 (#506)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
