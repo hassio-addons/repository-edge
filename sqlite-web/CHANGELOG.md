@@ -1,4 +1,5 @@
 # Changelog since v2.2.0
+- :arrow_up: Upgrades gcc to 9.2.0-r4 
 - :arrow_up: Upgrades add-on base image to v5.0.3 
 - :arrow_up: Updates datasette to v0.38 (#69)
 
