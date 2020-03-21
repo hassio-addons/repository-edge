@@ -926,10 +926,10 @@ SOFTWARE.
 [phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [phlex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [phlex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/a8ee566
-[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/a8ee566/README.md
+[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/7cea92a
+[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/7cea92a/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-a8ee566-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-7cea92a-blue.svg
 [glances-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/glances-armhf.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

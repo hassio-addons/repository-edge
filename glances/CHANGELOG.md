@@ -1,20 +1,15 @@
-# Changelog since v0.6.0
-- :hammer: Update community forum links 
-- :shirt: Fix lint warnings 
-- :arrow_up: Upgrades add-on base image to v7.0.2 
-- :arrow_up: Updates requests to v2.23.0 (#54)
+# Changelog since v0.7.0
+- :hammer: Don't use apk cache on cleanup 
+- :arrow_up: Upgrades python3 to 3.8.2-r0 
+- :arrow_up: Upgrades musl-dev to 1.1.24-r1 
+- :arrow_up: Upgrades gcc to 9.2.0-r4 
+- :arrow_up: Upgrades add-on base image to v7.0.3 
+- :arrow_up: Updates glances to v3.1.4 (#56)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- :arrow_up: Updates zeroconf to v0.24.5 (#55)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- :arrow_up: Updates docker to v4.2.0 (#49)
 
 Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
-- :arrow_up: Updates psutil to v5.7.0 (#53)
-
-Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
-- :hammer: Re-branding 
-- :hammer: Updates for upstream Supervisor changes 
-- :hammer: Update add-on config with new password & list features 
-- :hammer: Re-branding 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :arrow_up: Upgrades nginx to 1.16.1-r6 
-- :arrow_up: Upgrades add-on base image to v7.0.0 
-- :books: Add integrations setup instructions. (#48)
-
-For those that are YAML-averse, or are trying to do as much in the UI as possible, added instructions for integrating Glances through the integration panel. 
