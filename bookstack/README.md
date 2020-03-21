@@ -40,11 +40,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-bookstack/blob/926c223/README.md
+[docs]: https://github.com/hassio-addons/addon-bookstack/blob/c444a2b/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-926c223-blue.svg
-[release]: https://github.com/hassio-addons/addon-bookstack/tree/926c223
+[release-shield]: https://img.shields.io/badge/version-c444a2b-blue.svg
+[release]: https://github.com/hassio-addons/addon-bookstack/tree/c444a2b
 [screenshot]: https://github.com/hassio-addons/addon-bookstack/raw/master/images/screenshot.png
