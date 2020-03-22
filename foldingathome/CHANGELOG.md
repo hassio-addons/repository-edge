@@ -1,0 +1,1 @@
+- :ambulance: Fix GitLab CI
