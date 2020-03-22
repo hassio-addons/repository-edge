@@ -45,6 +45,10 @@ addons:
     repository: hassio-addons/addon-firefly-iii
     target: firefly-iii
     image: hassioaddons/firefly-iii-{arch}
+  foldingathome:
+    repository: hassio-addons/addon-foldingathome
+    target: foldingathome
+    image: hassioaddons/foldingathome-{arch}
   glances:
     repository: hassio-addons/addon-glances
     target: glances
