@@ -1,1 +1,1 @@
-- :ambulance: Fix GitLab CI
+- :art: Improved screenshot
