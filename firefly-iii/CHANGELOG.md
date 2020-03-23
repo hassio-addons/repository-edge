@@ -1,1 +1,1 @@
-- ⬆Update firefly-iii to 5.1.1
+- 🚑Add Git and Unzip to build
