@@ -1,4 +1,7 @@
 # Changelog since v2.1.0
+- :arrow_up: Updates yamllint to v1.21.0 (#84)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - :arrow_up: Upgrades usernamehw.errorlens to 3.0.0 
 - :arrow_up: Upgrades redhat.vscode-yaml to 0.7.2 
 - :arrow_up: Upgrades keesschollaart.vscode-home-assistant to 1.6.1 
