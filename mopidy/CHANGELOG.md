@@ -1,3 +1,2 @@
-- :arrow_up: Updates Mopidy-Youtube to v3.0 (#27)
-
-Co-authored-by: Renovate Bot <bot@renovateapp.com>
+- Fixed typo in fs.directory_exists
+converted all files back to eol LN
