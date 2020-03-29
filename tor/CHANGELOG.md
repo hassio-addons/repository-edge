@@ -1,8 +1,4 @@
-# Changelog since v2.2.0
-- :pencil2: Replace some Hass.io occurances 
-- :hammer: Update community forum links 
-- :arrow_up: Upgrades add-on base image to v7.0.2 
-- :hammer: Update add-on config with new password & list features 
-- :hammer: Re-branding 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :arrow_up: Upgrades add-on base image to v7.0.0 
+# Changelog since v2.3.0
+- :hammer: Disable Docker init 
+- :arrow_up: Upgrades tor to 0.4.1.9-r0 
+- :arrow_up: Upgrades add-on base image to v7.0.5 
