@@ -1,5 +1,3 @@
-# Changelog since v0.7.1
-- :books: Update add-on documentation on enabling protocols 
-- :ambulance: Skip MySQL container init when database is override by user 
-- :ambulance: Allow lock releasing to fail 
-- :sparkles: Open up osmand protocol by default 
+# Changelog since v0.7.2
+- :hammer: Disable Docker init 
+- :arrow_up: Upgrades add-on base image to v7.0.5 
