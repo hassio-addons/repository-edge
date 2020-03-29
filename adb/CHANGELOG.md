@@ -1,8 +1,3 @@
-# Changelog since v0.5.6
-- :hammer: Update community forum links 
-- :arrow_up: Upgrades add-on base image to v5.0.1 
-- :hammer: Re-branding 
-- :hammer: Re-branding 
-- :hammer: Update add-on config with new password & list features 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :arrow_up: Upgrades add-on base image to v5.0.0 
+# Changelog since v0.6.0
+- :hammer: Disable Docker init 
+- :arrow_up: Upgrades add-on base image to v5.0.2 

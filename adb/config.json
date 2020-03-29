@@ -1,6 +1,6 @@
 {
   "name": "ADB - Android Debug Bridge",
-  "version": "636beb6",
+  "version": "478cab8",
   "slug": "adb",
   "description": "The Android Debug Bridge server program",
   "url": "https://github.com/hassio-addons/addon-adb",
@@ -17,6 +17,7 @@
     "armv7",
     "i386"
   ],
+  "init": false,
   "map": [
     "config:rw",
     "share:rw",
