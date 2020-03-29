@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- :books: Update add-on documentation, now supporting USB camera's 
 - :hammer: Disable Docker init 
 - :arrow_up: Upgrades add-on base image to v7.0.5 
 - :arrow_up: Upgrades musl-dev to 1.1.24-r2 
