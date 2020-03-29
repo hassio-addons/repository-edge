@@ -1,4 +1,8 @@
-# Changelog since v7.2.0
-- :arrow_up: Upgrades Home Assistant CLI to 4.1.0 
-- :sparkles: Add pulseaudio-utils 
-- :arrow_up: Upgrades python3 to 3.8.2-r0 
+# Changelog since v7.3.0
+- :hammer: Disable Docker init 
+- :arrow_up: Upgrades bluez to 5.52-r1 
+- :arrow_up: Upgrades Home Assistant CLI to v4.2.0 
+- :arrow_up: Upgrades add-on base image to v7.0.5 
+- :arrow_up: Updates yamllint to v1.21.0 (#125)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
