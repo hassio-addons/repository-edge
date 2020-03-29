@@ -1,6 +1,6 @@
 {
   "name": "Portainer",
-  "version": "b8f283b",
+  "version": "85bad73",
   "slug": "portainer",
   "description": "Manage your Docker environment with ease",
   "url": "https://github.com/hassio-addons/addon-portainer",
