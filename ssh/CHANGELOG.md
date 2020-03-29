@@ -1,4 +1,7 @@
 # Changelog since v7.3.0
+- Revert ":hammer: Disable Docker init"
+
+This reverts commit 654597f45a5ebfca01539eabc463a24f361f114e. 
 - :hammer: Disable Docker init 
 - :arrow_up: Upgrades bluez to 5.52-r1 
 - :arrow_up: Upgrades Home Assistant CLI to v4.2.0 
