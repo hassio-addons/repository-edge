@@ -1,10 +1,4 @@
-# Changelog since v0.7.0
-- 🔨Add mealplan and calendar first day of week (#72)
-
-* 🔨Add mealplan first day of week
-
-* 🔨Rename variable to mealday
-
-* 📚Update documentation
-
-* 🔨Add Calendar Day of week option 
+# Changelog since v0.7.1
+- :arrow_up: Upgrades Grocy to 2.6.1 
+- :arrow_up: Upgrades php7 to 7.3.16-r0 
+- :arrow_up: Upgrades add-on base image to v7.0.5 
