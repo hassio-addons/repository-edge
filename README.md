@@ -1111,10 +1111,10 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/c4e82ef
-[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/c4e82ef/README.md
+[addon-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/tree/5e6e32a
+[addon-doc-pi-hole]: https://github.com/hassio-addons/addon-pi-hole/blob/5e6e32a/README.md
 [pi-hole-issue]: https://github.com/hassio-addons/addon-pi-hole/issues
-[pi-hole-version-shield]: https://img.shields.io/badge/version-c4e82ef-blue.svg
+[pi-hole-version-shield]: https://img.shields.io/badge/version-5e6e32a-blue.svg
 [pi-hole-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/pi-hole-armhf.svg
 [pi-hole-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [pi-hole-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
