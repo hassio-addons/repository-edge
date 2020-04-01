@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- :arrow_up: Upgrades riot-web to v1.5.15 
 - :arrow_up: Upgrades riot-web to v1.5.14 
 - :hammer: Disable Docker init 
 - :arrow_up: Upgrades musl-dev to 1.1.24-r2 
