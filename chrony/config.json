@@ -1,6 +1,6 @@
 {
   "name": "chrony",
-  "version": "be84d0f",
+  "version": "89df682",
   "slug": "chrony",
   "description": "A local NTP (Network Time Protocol) server for cameras etc.",
   "url": "https://github.com/hassio-addons/addon-chrony",

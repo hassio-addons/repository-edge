@@ -1,2 +1,2 @@
-# Changelog since v1.0.8
-- ⬆Update base to 7.0.4 
+# Changelog since v1.0.9
+- ⬆Update base image to 7.1.0 
