@@ -1,1 +1,1 @@
-- 🚑Add Git and Unzip to build
+- ⬆Update base image to 3.0.2
