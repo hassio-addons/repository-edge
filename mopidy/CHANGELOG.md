@@ -1,2 +1,1 @@
-- Fixed typo in fs.directory_exists
-converted all files back to eol LN
+- :arrow_up: Updates Mopidy to v3.0.2
