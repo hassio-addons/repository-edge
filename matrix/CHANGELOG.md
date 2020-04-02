@@ -1,4 +1,7 @@
 # Changelog since v0.9.0
+- :arrow_up: Updates matrix-synapse to v1.12.2 (#48)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - :arrow_up: Upgrades riot-web to v1.5.15 
 - :arrow_up: Upgrades riot-web to v1.5.14 
 - :hammer: Disable Docker init 
