@@ -1,11 +1,6 @@
-# Changelog since v0.4.0
-- :hammer: Update community forum links 
-- :arrow_up: Upgrades add-on base image to v5.0.2 
-- :arrow_up: Upgrades add-on base image to v5.0.1 
-- :arrow_up: Updates requests to v2.23.0 (#8)
+# Changelog since v0.5.0
+- :arrow_up: Updates cryptography to v2.9 (#9)
 
-Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
-- :hammer: Update add-on config with new password & list features 
-- :hammer: Re-branding 
-- :arrow_up: Upgrades add-on base image to v5.0.0 
-- :books: Update add-on documentation to use new YAML configuration format 
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- :arrow_up: Upgrades gcc to 9.2.0-r4 
+- :arrow_up: Upgrades add-on base image to v5.0.4 
