@@ -1221,10 +1221,10 @@ SOFTWARE.
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [traccar-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [traccar-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/b4b9346
-[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/b4b9346/README.md
+[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/9226169
+[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/9226169/README.md
 [unifi-issue]: https://github.com/hassio-addons/addon-unifi/issues
-[unifi-version-shield]: https://img.shields.io/badge/version-b4b9346-blue.svg
+[unifi-version-shield]: https://img.shields.io/badge/version-9226169-blue.svg
 [unifi-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/unifi-amd64.svg
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
