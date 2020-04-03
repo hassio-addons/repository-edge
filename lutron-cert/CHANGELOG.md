@@ -1,4 +1,7 @@
 # Changelog since v0.5.0
+- :arrow_up: Updates Flask to v1.1.2 (#10)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - :arrow_up: Updates cryptography to v2.9 (#9)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
