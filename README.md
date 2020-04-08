@@ -1011,10 +1011,10 @@ SOFTWARE.
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ide-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/9a24d34
-[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/9a24d34/README.md
+[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/82009ad
+[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/82009ad/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
-[influxdb-version-shield]: https://img.shields.io/badge/version-9a24d34-blue.svg
+[influxdb-version-shield]: https://img.shields.io/badge/version-82009ad-blue.svg
 [influxdb-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/influxdb-amd64.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
