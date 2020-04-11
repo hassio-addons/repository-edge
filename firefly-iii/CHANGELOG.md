@@ -1,1 +1,1 @@
-- ⬆Update base image to 3.1.0
+- 🔨Move version to ENV so can be reused
