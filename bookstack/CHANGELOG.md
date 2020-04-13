@@ -1,2 +1,2 @@
-# Changelog since v0.2.3
-- ⬆Update base image to 7.1.0 
+# Changelog since v0.2.4
+- ⬆Update Bookstack to v0.29.0 
