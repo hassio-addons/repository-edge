@@ -45,7 +45,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-zerotier/blob/bb7ca09/README.md
+[docs]: https://github.com/hassio-addons/addon-zerotier/blob/c3453cc/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-zerotier-one/109091?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -54,5 +54,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-bb7ca09-blue.svg
-[release]: https://github.com/hassio-addons/addon-zerotier/tree/bb7ca09
+[release-shield]: https://img.shields.io/badge/version-c3453cc-blue.svg
+[release]: https://github.com/hassio-addons/addon-zerotier/tree/c3453cc
