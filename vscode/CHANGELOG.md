@@ -1,4 +1,9 @@
 # Changelog since v2.1.0
+- :arrow_up: Upgrades code-server to 3.1.0 
+- :hammer: Download extensions sooner, fail fast 
+- :shirt: Fix/disable lint warning 
+- :shirt: Fix/disable lint warning 
+- :ambulance: Make build fail when extensions fail 
 - :hammer: Disable Docker init 
 - :arrow_up: Upgrades base image to v5.1.0 
 - :arrow_up: Updates homeassistant_cli to v0.9.0 (#93)
