@@ -1,10 +1,4 @@
-# Changelog since v0.7.0
-- :books: Update add-on documentation, now supporting USB camera's 
-- :hammer: Disable Docker init 
-- :arrow_up: Upgrades add-on base image to v7.0.5 
-- :arrow_up: Upgrades musl-dev to 1.1.24-r2 
-- :arrow_up: Upgrades gcc to 9.2.0-r4 
-- :arrow_up: Upgrades add-on base image to v7.0.4 
-- ✨ Give add-on access to video devices (#79)
+# Changelog since v0.8.0
+- :arrow_up: Updates jinja2 to v2.11.2 (#86)
 
-Should allow to use usb webcams ( /dev/video* ) after recent merge in supervisor: https://github.com/home-assistant/supervisor/pull/1516 
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
