@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- :ambulance: Correct database paths 
 - :arrow_up: Upgrades open-zwave database to e3bae88 
 - :hammer: Disable Docker init 
 - :ambulance: Symlink addition database location 
