@@ -1,4 +1,6 @@
 # Changelog since v0.5.0
+- :arrow_up: Upgrades open-zwave database to e3bae88 
+- :hammer: Disable Docker init 
 - :ambulance: Symlink addition database location 
 - Use correct webUI protocol depending on config (#43)
 
