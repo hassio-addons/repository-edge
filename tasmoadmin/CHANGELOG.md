@@ -1,9 +1,4 @@
-# Changelog since v0.9.0
-- :hammer: Update community forum links 
-- :arrow_up: Upgrades add-on base image to v7.0.2 
-- :hammer: Update add-on config with new password & list features 
-- :hammer: Re-branding 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :arrow_up: Upgrades add-on base image to v7.0.0 
-- :arrow_up: Upgrades php7 to 7.3.14-r0 
-- :arrow_up: Upgrades nginx to 1.16.1-r6 
+# Changelog since v0.10.0
+- :hammer: Disable Docker init 
+- :arrow_up: Upgrades php7 to 7.3.16-r0 
+- :arrow_up: Upgrades base image to v7.1.0 
