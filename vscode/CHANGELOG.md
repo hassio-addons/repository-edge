@@ -1,4 +1,6 @@
 # Changelog since v2.1.0
+- :hammer: Disable Docker init 
+- :arrow_up: Upgrades base image to v5.1.0 
 - :arrow_up: Updates homeassistant_cli to v0.9.0 (#93)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
