@@ -1,4 +1,7 @@
 # Changelog since v2.1.0
+- :arrow_up: Updates homeassistant_cli to v0.9.0 (#93)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - :arrow_up: Updates yamllint to v1.22.0 (#92)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
