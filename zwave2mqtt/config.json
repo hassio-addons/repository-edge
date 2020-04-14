@@ -1,10 +1,10 @@
 {
   "name": "Z-Wave to MQTT",
-  "version": "4f1a80a",
+  "version": "521f3f6",
   "slug": "zwave2mqtt",
   "description": "Fully configurable Z-Wave to MQTT gateway and control panel",
   "url": "https://github.com/hassio-addons/addon-zwave2mqtt",
-  "webui": "http://[HOST]:[PORT:8091]",
+  "webui": "[PROTO:ssl]://[HOST]:[PORT:8091]",
   "startup": "system",
   "arch": [
     "aarch64",
