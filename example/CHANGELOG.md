@@ -1,2 +1,2 @@
-# Changelog since v3.3.0
-- :arrow_up: Upgrades add-on base image to v7.0.3 
+# Changelog since v3.3.1
+- :arrow_up: Upgrades base image to v7.1.0 
