@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- :arrow_up: Upgrades code-server to 3.1.1 
 - ⬆️ Upgrades git to 1:2.17.1-1ubuntu0.6 (#95) 
 - :arrow_up: Upgrades usernamehw.errorlens to 3.1.0 
 - :arrow_up: Upgrades emilast.LogFileHighlighter to 2.8.0 
