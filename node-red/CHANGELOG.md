@@ -1,4 +1,5 @@
 # Changelog since v6.1.4
+- :hammer: Disable Docker init 
 - :arrow_up: Upgrades base image to v7.1.0 
 - :arrow_up: Updates node-red-node-pi-gpio to v1.0.9 (#540)
 
