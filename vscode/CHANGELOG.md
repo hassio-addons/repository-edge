@@ -1,4 +1,11 @@
 # Changelog since v2.1.0
+- ⬆️ Upgrades git to 1:2.17.1-1ubuntu0.6 (#95) 
+- :arrow_up: Upgrades usernamehw.errorlens to 3.1.0 
+- :arrow_up: Upgrades emilast.LogFileHighlighter to 2.8.0 
+- :arrow_up: Upgrades Home Assistant CLI to 4.3.0 
+- :arrow_up: Updates yamllint to v1.22.1 (#94)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - :arrow_up: Upgrades code-server to 3.1.0 
 - :hammer: Download extensions sooner, fail fast 
 - :shirt: Fix/disable lint warning 
