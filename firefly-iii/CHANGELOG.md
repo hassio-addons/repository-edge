@@ -1,1 +1,1 @@
-- 🚑Remove CSV Import change
+- ⬆Update firefly-iii to 5.2.2

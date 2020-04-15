@@ -42,11 +42,11 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-firefly-iii/blob/c6b9c21/README.md
+[docs]: https://github.com/hassio-addons/addon-firefly-iii/blob/d688559/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c6b9c21-blue.svg
-[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/c6b9c21
+[release-shield]: https://img.shields.io/badge/version-d688559-blue.svg
+[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/d688559
 [screenshot]: https://github.com/hassio-addons/addon-firefly-iii/raw/master/images/screenshot.png
