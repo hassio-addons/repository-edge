@@ -1,4 +1,6 @@
 # Changelog since v0.5.0
+- :arrow_up: Upgrades git to 2.24.2-r0 
+- :ambulance: Change database path again, update documentation with known issue 
 - :ambulance: Correct database paths 
 - :arrow_up: Upgrades open-zwave database to e3bae88 
 - :hammer: Disable Docker init 
