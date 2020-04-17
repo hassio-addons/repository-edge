@@ -1,10 +1,11 @@
 {
   "name": "ZeroTier One",
-  "version": "c3453cc",
+  "version": "9c2a8ec",
   "slug": "zerotier",
   "description": "Radically simplify your network with a virtual networking layer that works the same everywhere",
   "url": "https://github.com/hassio-addons/addon-zerotier",
   "startup": "services",
+  "init": false,
   "arch": [
     "aarch64",
     "amd64",
