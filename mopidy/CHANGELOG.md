@@ -1,1 +1,1 @@
-- :arrow_up: Updates Mopidy to v3.0.2
+- :arrow_up: Updates Mopidy-Iris to v3.47.0
