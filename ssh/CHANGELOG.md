@@ -1,4 +1,5 @@
 # Changelog since v7.3.1
+- :arrow_up: Upgrades git to 2.24.2-r1 
 - :arrow_up: Upgrades Home Assistant CLI to 4.3.0 
 - :arrow_up: Upgrades ncurses to 6.1_p20200118-r3 
 - :arrow_up: Upgrades git to 2.24.2-r0 
