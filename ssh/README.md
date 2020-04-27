@@ -44,7 +44,7 @@ well. Additionally, it comes out of the box with the following:
 - A secure default configuration of SSH:
   - Only allows login by the configured user, even if more users are created.
   - Only uses known secure ciphers and algorithms.
-  - Limits login attempts to hold of brute-force attacks better.
+  - Limits login attempts to hold off brute-force attacks better.
   - Many more security tweaks, *this addon passes all [ssh-audit] checks
     without warnings!*
     ![Result of SSH-Audit][ssh-audit-image]
@@ -95,7 +95,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ssh/blob/3ffb6fa/README.md
+[docs]: https://github.com/hassio-addons/addon-ssh/blob/2d4b0b7/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-ssh-web-terminal/33820?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -107,8 +107,8 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-3ffb6fa-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/3ffb6fa
+[release-shield]: https://img.shields.io/badge/version-2d4b0b7-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/2d4b0b7
 [screenshot]: https://github.com/hassio-addons/addon-ssh/raw/master/images/screenshot.png
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
 [ssh-audit]: https://github.com/arthepsy/ssh-audit
