@@ -1,4 +1,5 @@
 # Changelog since v6.2.0
+- :arrow_up: Updates node-red-node-suncalc to v1 (#552) 
 - :arrow_up: Upgrades base image to v7.1.1 
 - :arrow_up: Upgrades git to 2.24.3-r0 
 - 📚Doc updates (#550) 
