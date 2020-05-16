@@ -1,11 +1,10 @@
-# Changelog since v0.5.0
-- :hammer: Disable Docker init 
-- :arrow_up: Upgrades base image to v5.1.0 
-- :arrow_up: Updates Flask to v1.1.2 (#10)
+# Changelog since v0.5.1
+- ⬆ Upgrades openssl-dev to 1.1.1g-r0 
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v5.2.0 
+- ⬆ Updates cryptography to v2.9.2 (#12)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
-- :arrow_up: Updates cryptography to v2.9 (#9)
+- ⬆ Updates cryptography to v2.9.1 (#11)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
-- :arrow_up: Upgrades gcc to 9.2.0-r4 
-- :arrow_up: Upgrades add-on base image to v5.0.4 
