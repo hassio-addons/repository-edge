@@ -1,3 +1,4 @@
-# Changelog since v0.7.2
-- :hammer: Disable Docker init 
-- :arrow_up: Upgrades add-on base image to v7.0.5 
+# Changelog since v0.7.3
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades mariadb-client to 10.4.13-r0 
+- ⬆ Upgrades add-on base image to v7.2.0 
