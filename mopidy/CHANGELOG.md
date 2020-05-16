@@ -1,1 +1,1 @@
-- :arrow_up: Updates Mopidy-Iris to v3.48.0
+- ⬆ Upgrades git to 1:2.20.1-2+deb10u3
