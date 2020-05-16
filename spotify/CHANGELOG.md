@@ -1,17 +1,8 @@
-# Changelog since v0.7.1
-- :art: Updated screenshot 
-- :hammer: Update community forum links 
-- :books: Update add-on instructions 
-- :hammer: Refactor add-on configuration 
-- :hammer: Put add-on on the host network 
-- :arrow_down: Downgrade Spotifyd to v0.2.23 
-- :pencil2: Replace some Hass.io occurances 
-- :sparkles: Adds libasound2-plugins 
-- :arrow_up: Upgrades rustc to 1.39.0+dfsg1+llvm-3ubuntu1~18.04.1 
-- :arrow_up: Upgrades cargo to 0.40.0-3ubuntu1~18.04.1 
-- :arrow_up: Upgrades add-on base image to v5.0.1 
-- :hammer: Update add-on config with new password & list features 
-- :hammer: Re-branding 
-- :books: Update add-on documentation to use new YAML configuration format 
-- :arrow_up: Upgrades add-on base image to v5.0.0 
-- :arrow_up: Upgrades spotifyd to v0.2.24 
+# Changelog since v0.8.0
+- ⬆ Upgrades Spotifyd to v0.2.24 
+- ⬆ Upgrades rustc to 1.41.0+dfsg1+llvm-0ubuntu1~18.04.1 
+- ⬆ Upgrades libasound2 to 1.1.3-5ubuntu0.5 
+- ⬆ Upgrades git to 1:2.17.1-1ubuntu0.7 
+- ⬆ Upgrades cargo to 0.42.0-0ubuntu1~18.04.1 
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v5.2.0 
