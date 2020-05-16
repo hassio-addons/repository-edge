@@ -1,4 +1,4 @@
-# Changelog since v2.3.1
-- :arrow_up: Upgrades Plex Media Server to 1.19.1.2645 
-- :arrow_up: Upgrades uuid-runtime to 2.31.1-0.4ubuntu3.6 
-- :arrow_up: Upgrades base image to v5.1.0 
+# Changelog since v2.3.2
+- ⬆ Upgrades Plex Media Server to 1.19.3.2793 
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v5.2.0 
