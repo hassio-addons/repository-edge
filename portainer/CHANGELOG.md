@@ -1,6 +1,5 @@
-# Changelog since v1.0.0
-- :hammer: Hide CLI & Audio containers by default 
-- :hammer: Disable Docker init 
-- :arrow_up: Upgrades add-on base image to v7.0.5 
-- :arrow_up: Upgrades Portainer to v1.23.2 
-- :arrow_up: Upgrades add-on base image to v7.0.3 
+# Changelog since v1.1.0
+- 🔨 Mark add-on as advanced 
+- 🔨 Hide Home Assistant Multicast container by default 
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v7.2.0 
