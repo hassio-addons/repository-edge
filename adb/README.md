@@ -39,7 +39,7 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-adb/blob/478cab8/README.md
+[docs]: https://github.com/hassio-addons/addon-adb/blob/f136ec9/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-ons-adb-android-debug-bridge/96375?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -48,5 +48,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-478cab8-blue.svg
-[release]: https://github.com/hassio-addons/addon-adb/tree/478cab8
+[release-shield]: https://img.shields.io/badge/version-f136ec9-blue.svg
+[release]: https://github.com/hassio-addons/addon-adb/tree/f136ec9
