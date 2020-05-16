@@ -1,15 +1,19 @@
-# Changelog since v0.7.0
-- :hammer: Don't use apk cache on cleanup 
-- :arrow_up: Upgrades python3 to 3.8.2-r0 
-- :arrow_up: Upgrades musl-dev to 1.1.24-r1 
-- :arrow_up: Upgrades gcc to 9.2.0-r4 
-- :arrow_up: Upgrades add-on base image to v7.0.3 
-- :arrow_up: Updates glances to v3.1.4 (#56)
+# Changelog since v0.7.1
+- ⬆ Upgrades musl-dev to 1.1.24-r2 
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v7.2.0 
+- 📚Update integration details (#68) 
+- ⬆ Updates zeroconf to v0.26.1 (#65) 
+- ⬆ Updates zeroconf to v0.26.0 (#64) 
+- ⬆ Updates zeroconf to v0.25.1 (#63)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
-- :arrow_up: Updates zeroconf to v0.24.5 (#55)
+- ⬆ Updates influxdb to v5.3.0 (#62)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
-- :arrow_up: Updates docker to v4.2.0 (#49)
+- ⬆ Updates zeroconf to v0.25.0 (#60)
 
-Co-authored-by: WhiteSource Renovate <renovatebot@gmail.com> 
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- ⬆ Updates glances to v3.1.4.1 (#59)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
