@@ -1,3 +1,3 @@
-# Changelog since v3.3.1
-- :hammer: Disable Docker init 
-- :arrow_up: Upgrades base image to v7.1.0 
+# Changelog since v3.3.2
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v7.2.0 
