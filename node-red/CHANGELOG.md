@@ -1,4 +1,5 @@
 # Changelog since v6.2.0
+- ⬆ Updates node-red-contrib-modbus to v5.12.0 (#565) 
 - ⬆ Upgrades python2 to 2.7.18-r0 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades add-on base image to v7.2.0 
