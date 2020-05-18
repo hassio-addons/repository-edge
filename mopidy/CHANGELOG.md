@@ -1,1 +1,1 @@
-- ⬆ Upgrades git to 1:2.20.1-2+deb10u3
+- ⬆ Updates Mopidy-Iris to v3.49.0

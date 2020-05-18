@@ -43,13 +43,13 @@ If you are more interested in stable releases of our add-ons:
 [github-sponsors]: https://github.com/sponsors/frenck
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-mopidy/blob/6c8e2ed/README.md
+[docs]: https://github.com/hassio-addons/addon-mopidy/blob/06fcfd1/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6c8e2ed-blue.svg
-[release]: https://github.com/hassio-addons/addon-mopidy/tree/6c8e2ed
+[release-shield]: https://img.shields.io/badge/version-06fcfd1-blue.svg
+[release]: https://github.com/hassio-addons/addon-mopidy/tree/06fcfd1
 [screenshot]: https://github.com/hassio-addons/addon-mopidy/raw/master/images/screenshot.png
