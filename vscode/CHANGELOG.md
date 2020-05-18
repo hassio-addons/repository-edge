@@ -1,4 +1,11 @@
 # Changelog since v2.2.0
+- 🚑 Update architecture name for amd64, changed in v3.3.0 
+- 🚑 Remove disable-updates flag, not longer used in v3.3.0 
+- 🚑 Fix code-server executable path, changed in v3.3.0 
+- 🚑 Fix download location of code-server 
+- ⬆ Upgrades code-server to 3.3.0 
+- 🚑 Remove disable-ssh flag from code-server run 
+- 🚑 Ensure locales are generated 
 - ⬆ Upgrades usernamehw.errorlens to 3.1.1 
 - ⬆ Upgrades redhat.vscode-yaml to 0.8.0 
 - ⬆ Upgrades lukas-tr.materialdesignicons-intellisense to 2.0.2 
