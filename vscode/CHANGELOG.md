@@ -1,4 +1,5 @@
 # Changelog since v2.2.0
+- 🚑 Fix auto indent for YAML 
 - 👕 Slow down fetching extensions from Marketplace a bit, to prevent rate limiting 
 - 🚑 Fix locales handling 
 - ⬆ Upgrades code-server to 3.3.1 
