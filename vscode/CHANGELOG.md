@@ -1,4 +1,7 @@
 # Changelog since v2.2.0
+- 👕 Slow down fetching extensions from Marketplace a bit, to prevent rate limiting 
+- 🚑 Fix locales handling 
+- ⬆ Upgrades code-server to 3.3.1 
 - 🚑 Update architecture name for amd64, changed in v3.3.0 
 - 🚑 Remove disable-updates flag, not longer used in v3.3.0 
 - 🚑 Fix code-server executable path, changed in v3.3.0 
