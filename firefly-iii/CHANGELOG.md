@@ -1,1 +1,1 @@
-- ⬆Update firefly-iii to 5.2.5
+- 🔨 Implement OCI image specification on labels
