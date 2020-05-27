@@ -1,4 +1,8 @@
 # Changelog since v6.2.0
+- ⬆ Updates node-red-contrib-modbus to v5.13.2 (#572)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- ⬆ Updates node-red-contrib-modbus to v5.13.1 (#571) 
 - ⬆ Updates js-yaml to v3.14.0 (#569) 
 - ⬆ Updates node-red-contrib-modbus to v5.13.0 (#567) 
 - ⬆ Updates node-red-contrib-modbus to v5.12.0 (#565) 
