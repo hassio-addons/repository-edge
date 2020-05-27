@@ -1,4 +1,7 @@
 # Changelog since v0.7.1
+- ⬆ Updates zeroconf to v0.26.3 (#71)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates zeroconf to v0.26.2 (#70) 
 - ⬆ Upgrades musl-dev to 1.1.24-r2 
 - 🔨 Implement OCI image specification on labels 
