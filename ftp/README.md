@@ -24,8 +24,6 @@ home directories.
 Of course, if you'd really want to, you could also use this add-on to again
 access to your Home Assistant configuration via FTP.
 
-[Click here for the full documentation][docs]
-
 ## WARNING! THIS IS AN EDGE VERSION!
 
 This Home Assistant Add-ons repository contains edge builds of add-ons.
@@ -47,7 +45,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-ftp/blob/fe232c8/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-ftp/36799?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -56,5 +53,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-fe232c8-blue.svg
-[release]: https://github.com/hassio-addons/addon-ftp/tree/fe232c8
+[release-shield]: https://img.shields.io/badge/version-501598e-blue.svg
+[release]: https://github.com/hassio-addons/addon-ftp/tree/501598e
