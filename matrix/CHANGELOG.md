@@ -1,4 +1,6 @@
 # Changelog since v0.9.0
+- ✏ Split add-on documentation 
+- ⬆ Upgrades add-on base image to v5.2.1 
 - ⬆ Updates matrix-synapse to v1.14.0 (#52)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
