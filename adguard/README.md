@@ -20,8 +20,6 @@ using a client-side program.
 AdGuard Home provides a beautiful, easy and feature-rich web interface to
 easily manage the filtering process and its settings.
 
-[Click here for the full documentation][docs]
-
 ![AdGuard Home in the Home Assistant frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -45,7 +43,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-adguard-home/blob/6346a8c/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-adguard-home/90684?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -54,6 +51,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-6346a8c-blue.svg
-[release]: https://github.com/hassio-addons/addon-adguard-home/tree/6346a8c
-[screenshot]: https://github.com/hassio-addons/addon-adguard-home/raw/6346a8c/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-5aafc88-blue.svg
+[release]: https://github.com/hassio-addons/addon-adguard-home/tree/5aafc88
+[screenshot]: https://github.com/hassio-addons/addon-adguard-home/raw/5aafc88/images/screenshot.png
