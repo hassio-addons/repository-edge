@@ -20,8 +20,6 @@ It detects Chromecast players in your network and creates virtual AirPlay
 devices for each of them. It acts as a bridge between the AirPlay client
 and the real Chromecast player.
 
-[Click here for the full documentation][docs]
-
 ## WARNING! THIS IS AN EDGE VERSION!
 
 This Home Assistant Add-ons repository contains edge builds of add-ons.
@@ -43,7 +41,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-aircast/blob/6fa8059/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-aircast/36742?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -52,5 +49,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-6fa8059-blue.svg
-[release]: https://github.com/hassio-addons/addon-aircast/tree/6fa8059
+[release-shield]: https://img.shields.io/badge/version-5f3345b-blue.svg
+[release]: https://github.com/hassio-addons/addon-aircast/tree/5f3345b
