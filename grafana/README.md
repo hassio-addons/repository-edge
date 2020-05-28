@@ -22,8 +22,6 @@ data visualizations.
 Combine this add-on with the InfluxDB add-on to get insanely powerful
 insights to your home.
 
-[Click here for the full documentation][docs]
-
 ![Grafana in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -47,7 +45,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-grafana/blob/377d54b/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-grafana/54674?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -56,6 +53,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-377d54b-blue.svg
-[release]: https://github.com/hassio-addons/addon-grafana/tree/377d54b
+[release-shield]: https://img.shields.io/badge/version-3c5bbf7-blue.svg
+[release]: https://github.com/hassio-addons/addon-grafana/tree/3c5bbf7
 [screenshot]: https://github.com/hassio-addons/addon-grafana/raw/master/images/screenshot.png
