@@ -1,4 +1,7 @@
 # Changelog since v0.9.0
+- ⬆ Updates matrix-synapse to v1.14.0 (#52)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates matrix-synapse to v1.13.0 (#51) 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades add-on base image to v5.2.0 
