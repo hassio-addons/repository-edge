@@ -1,4 +1,5 @@
 # Changelog since v0.7.1
+- ✏ Split add-on documentation 
 - ⬆ Updates zeroconf to v0.27.0 (#72)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 

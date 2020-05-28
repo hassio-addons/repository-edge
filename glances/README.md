@@ -18,8 +18,6 @@ information in a minimum of space through a Web-based interface.
 Glances can export all system statistics to InfluxDB, allowing you to look
 at all your system information and its behavior over time.
 
-[Click here for the full documentation][docs]
-
 ![Glances screenshot][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -43,7 +41,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-glances/blob/ebaf2a0/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-glances/97102?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -52,6 +49,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-ebaf2a0-blue.svg
-[release]: https://github.com/hassio-addons/addon-glances/tree/ebaf2a0
+[release-shield]: https://img.shields.io/badge/version-9a17f75-blue.svg
+[release]: https://github.com/hassio-addons/addon-glances/tree/9a17f75
 [screenshot]: https://github.com/hassio-addons/addon-glances/raw/master/images/screenshot.png
