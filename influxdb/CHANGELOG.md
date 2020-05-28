@@ -1,4 +1,6 @@
 # Changelog since v3.6.2
+- ✏ Split add-on documentation 
+- 🔨 Switch add-on from Ubuntu to Debian 
 - ⬆ Upgrades InfluxDB to 1.8.0 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades add-on base image to v5.2.0 
