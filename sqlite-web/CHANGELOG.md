@@ -1,4 +1,7 @@
 # Changelog since v2.2.1
+- ⬆ Updates datasette to v0.43 (#78)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades add-on base image to v5.2.0 
 - ⬆ Updates datasette to v0.42 (#77) 
