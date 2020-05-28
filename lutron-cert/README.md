@@ -38,8 +38,6 @@ lutron_caseta:
 For more information on how to configure Lutron Caseta in Home Assistant see
 the [Lutron Caseta documentation][lutron-caseta-docs].
 
-[Click here for the full documentation][docs]
-
 ## WARNING! THIS IS AN EDGE VERSION!
 
 This Home Assistant Add-ons repository contains edge builds of add-ons.
@@ -64,11 +62,10 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/dale3h
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-lutron-cert/blob/44906a1/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-lutron-certificate/70317?u=frenck
 [lutron-caseta-docs]: https://www.home-assistant.io/components/lutron_caseta/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-44906a1-blue.svg
-[release]: https://github.com/hassio-addons/addon-lutron-cert/tree/44906a1
+[release-shield]: https://img.shields.io/badge/version-9e04c14-blue.svg
+[release]: https://github.com/hassio-addons/addon-lutron-cert/tree/9e04c14

@@ -1,4 +1,6 @@
 # Changelog since v0.5.1
+- ✏ Split add-on documentation 
+- ⬆ Upgrades add-on base image to v5.2.1 
 - ⬆ Upgrades openssl-dev to 1.1.1g-r0 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades add-on base image to v5.2.0 

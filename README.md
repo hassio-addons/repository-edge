@@ -1026,10 +1026,10 @@ SOFTWARE.
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/44906a1
-[addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/44906a1/README.md
+[addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/9e04c14
+[addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/9e04c14/README.md
 [lutron-cert-issue]: https://github.com/hassio-addons/addon-lutron-cert/issues
-[lutron-cert-version-shield]: https://img.shields.io/badge/version-44906a1-blue.svg
+[lutron-cert-version-shield]: https://img.shields.io/badge/version-9e04c14-blue.svg
 [lutron-cert-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/lutron-cert-armhf.svg
 [lutron-cert-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [lutron-cert-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
