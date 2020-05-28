@@ -1,1 +1,1 @@
-- 🔨 Implement OCI image specification on labels
+- ✏ Split add-on documentation
