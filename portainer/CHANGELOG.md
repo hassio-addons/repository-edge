@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- ✏ Split add-on documentation 
 - 🔨 Mark add-on as advanced 
 - 🔨 Hide Home Assistant Multicast container by default 
 - 🔨 Implement OCI image specification on labels 
