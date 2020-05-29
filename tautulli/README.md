@@ -21,8 +21,6 @@ who watched it, when and where they watched it, and how it was watched.
 All statistics are presented in a nice and clean interface with many tables and
 graphs, which makes it easy to brag about your server to everyone else.
 
-[Click here for the full documentation][docs]
-
 ## WARNING! THIS IS AN EDGE VERSION!
 
 This Home Assistant Add-ons repository contains edge builds of add-ons.
@@ -46,11 +44,10 @@ If you are more interested in stable releases of our add-ons:
 [buymeacoffee]: https://www.buymeacoffee.com/ludeeus
 [discord-shield]: https://img.shields.io/discord/330944238910963714.svg
 [discord]: https://discord.gg/c5DvZ4e
-[docs]: https://github.com/hassio-addons/addon-tautulli/blob/49b23e8/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-tautulli/68745?u=ludeeus
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-49b23e8-blue.svg
-[release]: https://github.com/hassio-addons/addon-tautulli/tree/49b23e8
+[release-shield]: https://img.shields.io/badge/version-dc010d7-blue.svg
+[release]: https://github.com/hassio-addons/addon-tautulli/tree/dc010d7
 [screenshot]: https://github.com/hassio-addons/addon-tautulli/raw/master/images/screenshot.png
