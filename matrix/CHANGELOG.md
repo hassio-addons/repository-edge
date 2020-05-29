@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- ⬆ Upgrades riot-web to v1.6.2 
 - ✏ Split add-on documentation 
 - ⬆ Upgrades add-on base image to v5.2.1 
 - ⬆ Updates matrix-synapse to v1.14.0 (#52)
