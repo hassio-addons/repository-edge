@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- ✏ Split add-on documentation 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades tor to 0.4.1.9-r1 
 - ⬆ Upgrades add-on base image to v7.2.0 
