@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- ⬆ Upgrades open-zwave database to 2a76bdcd04513aa02618cc34432f8d5242fc73d1 
+- ⬆ Upgrades Zwave2Mqtt to v3.2.1 
+- ✏ Split add-on documentation 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades Zwave2Mqtt to v3.1.0 
 - ⬆ Upgrades open-zwave database to 1d7f512f3bb9b304fae25fafaf6d3073956b7210 
