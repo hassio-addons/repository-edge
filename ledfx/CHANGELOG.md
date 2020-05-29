@@ -1,1 +1,1 @@
-- 🔨Generate config to bind to localhost
+- ✏ Split add-on documentation
