@@ -1,4 +1,7 @@
 # Changelog since v6.2.0
+- ⬆ Updates snyk to v1.332.1 (#546)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ✏ Split add-on documentation 
 - ⬆ Updates node-red-contrib-modbus to v5.13.2 (#572)
 
