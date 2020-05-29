@@ -19,8 +19,6 @@ It provides a browser-based editor that makes it easy to wire together flows
 using the wide range of nodes in the palette that can be deployed to its
 runtime in a single click.
 
-[Click here for the full documentation][docs]
-
 ![Node-RED in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -44,7 +42,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-node-red/blob/cf04aec/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -53,6 +50,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-cf04aec-blue.svg
-[release]: https://github.com/hassio-addons/addon-node-red/tree/cf04aec
+[release-shield]: https://img.shields.io/badge/version-6010d5f-blue.svg
+[release]: https://github.com/hassio-addons/addon-node-red/tree/6010d5f
 [screenshot]: https://github.com/hassio-addons/addon-node-red/raw/master/images/screenshot.png

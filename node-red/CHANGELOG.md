@@ -1,4 +1,5 @@
 # Changelog since v6.2.0
+- ✏ Split add-on documentation 
 - ⬆ Updates node-red-contrib-modbus to v5.13.2 (#572)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
