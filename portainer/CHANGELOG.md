@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- ⬆ Upgrades Portainer to v1.24.0 
 - ✏ Split add-on documentation 
 - 🔨 Mark add-on as advanced 
 - 🔨 Hide Home Assistant Multicast container by default 
