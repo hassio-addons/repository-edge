@@ -1,4 +1,6 @@
 # Changelog since v2.2.1
+- ✏ Split add-on documentation 
+- ⬆ Upgrades add-on base image to v5.2.1 
 - ⬆ Updates datasette to v0.43 (#78)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
