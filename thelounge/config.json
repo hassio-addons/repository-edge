@@ -1,6 +1,6 @@
 {
   "name": "The Lounge",
-  "version": "729b4fe",
+  "version": "d59624d",
   "slug": "thelounge",
   "description": "A self-hosted web IRC client",
   "url": "https://github.com/hassio-addons/addon-thelounge",
