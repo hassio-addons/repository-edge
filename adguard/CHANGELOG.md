@@ -1,4 +1,5 @@
 # Changelog since v2.3.3
+- 🔨 Configure Adguard port/protocol dynamically on startup (#67) 
 - ✏ Documentation tweak 
 - ✏ Split add-on documentation 
 - 🔨 Implement OCI image specification on labels 
