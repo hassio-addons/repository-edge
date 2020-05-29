@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- ⬆ Upgrades Zwave2Mqtt to v3.2.2 
 - ⬆ Upgrades open-zwave database to 2a76bdcd04513aa02618cc34432f8d5242fc73d1 
 - ⬆ Upgrades Zwave2Mqtt to v3.2.1 
 - ✏ Split add-on documentation 
