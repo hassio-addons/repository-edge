@@ -1,4 +1,7 @@
 # Changelog since v2.2.0
+- 🚑 Increase sleep between extension downloads 
+- ✏ Split add-on documentation 
+- ⬆ Upgrades code-server to 3.4.0 
 - 🚑 Fix auto indent for YAML 
 - 👕 Slow down fetching extensions from Marketplace a bit, to prevent rate limiting 
 - 🚑 Fix locales handling 
