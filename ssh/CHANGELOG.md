@@ -1,4 +1,6 @@
 # Changelog since v7.4.0
+- ✏ Fix core SSH add-on links in documentation 
+- ✏ Split add-on documentation 
 - ⬆ Upgrades sqlite to 3.30.1-r2 
 - ⬆ Upgrades ncurses to 6.1_p20200118-r4 
 - ⬆ Upgrades mariadb-client to 10.4.13-r0 
