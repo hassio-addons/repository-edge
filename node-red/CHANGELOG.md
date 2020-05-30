@@ -1,4 +1,7 @@
 # Changelog since v6.2.0
+- [Snyk] Fix for 1 vulnerabilities (#553)
+
+Co-authored-by: Franck Nijhof <frenck@addons.community> 
 - ⬆ Updates snyk to v1.332.1 (#546)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
