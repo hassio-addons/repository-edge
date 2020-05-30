@@ -21,8 +21,6 @@ For example; Running Home Assistant on a Raspberry Pi with this add-on
 installed will allow you to play your Spotify music via the Pi. So all
 you'll have to do is hook up your sound system to the Pi!
 
-[Click here for the full documentation][docs]
-
 ![Spotify Connect][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -46,7 +44,6 @@ If you are more interested in stable releases of our add-ons:
 
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-spotify-connect/blob/768f6a6/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-spotify-connect/61210?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
@@ -55,6 +52,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-768f6a6-blue.svg
-[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/768f6a6
+[release-shield]: https://img.shields.io/badge/version-c230a30-blue.svg
+[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/c230a30
 [screenshot]: https://github.com/hassio-addons/addon-spotify-connect/raw/master/images/screenshot.png

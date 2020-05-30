@@ -1,4 +1,7 @@
 # Changelog since v0.8.0
+- ⬆ Upgrades libssl-dev to 1.1.1-1ubuntu2.1~18.04.6 
+- ✏ Split add-on documentation 
+- ⬆ Upgrades add-on base image to v5.2.1 
 - ⬆ Upgrades Spotifyd to v0.2.24 
 - ⬆ Upgrades rustc to 1.41.0+dfsg1+llvm-0ubuntu1~18.04.1 
 - ⬆ Upgrades libasound2 to 1.1.3-5ubuntu0.5 
