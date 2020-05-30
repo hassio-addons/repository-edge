@@ -1,4 +1,7 @@
 # Changelog since v1.5.0
+- ⬆ Updates plexapi to v3.6.0 (#57)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ✏ Split add-on documentation 
 - 🔨 Implement OCI image specification on labels 
 - ⬆ Upgrades python2 to 2.7.18-r0 
