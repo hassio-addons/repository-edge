@@ -1,4 +1,5 @@
 # Changelog since v0.7.1
+- 🚑 Set history_size to 0, to deal with memory leak 
 - ✏ Split add-on documentation 
 - ⬆ Updates zeroconf to v0.27.0 (#72)
 
