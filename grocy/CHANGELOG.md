@@ -1,5 +1,14 @@
 # Changelog since v0.7.1
+- ✏ Split add-on documentation 
+- ⬆ Update Grocy to v2.7.1 (#86) 
+- 🔨Update cultures (#85) 
+- 🚑Remove base path variable (#84) 
+- 🚑 Do not use cache on package cleanup 
+- ⬆ Upgrades php7 to 7.3.18-r0 
+- ⬆ Upgrades git to 2.24.3-r0 
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v7.2.0 
 - 📚 Update README features tweaks (#81) 
-- :arrow_up: Upgrades Grocy to 2.6.1 
-- :arrow_up: Upgrades php7 to 7.3.16-r0 
-- :arrow_up: Upgrades add-on base image to v7.0.5 
+- ⬆ Upgrades Grocy to 2.6.1 
+- ⬆ Upgrades php7 to 7.3.16-r0 
+- ⬆ Upgrades add-on base image to v7.0.5 
