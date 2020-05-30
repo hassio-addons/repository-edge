@@ -1,2 +1,19 @@
 # Changelog since v0.5.0
-- :hammer: Update community forum links 
+- ⬆ Upgrades NGINX Proxy Manager to v2.3.0 
+- ✏ Split add-on documentation 
+- ⬆ Upgrades openssl to 1.1.1g-r0 
+- ⬆ Upgrades mariadb to 10.4.13-r0 
+- ⬆ Upgrades python2 to 2.7.18-r0 
+- ⬆ Upgrades git to 2.24.3-r0 
+- 🔨 Implement OCI image specification on labels 
+- ⬆ Upgrades add-on base image to v7.2.0 
+- ⬆ Upgrades NGINX Proxy Manager to v2.2.3 
+- ⬆ Upgrades git to 2.24.2-r0 
+- 🔨 Disable Docker init 
+- 🔨 Disable IPv6 by default 
+- ⬆ Upgrades NGINX Proxy Manager to v2.2.2 
+- ⬆ Upgrades apache2-utils to 2.4.43-r0 
+- ⬆ Upgrades base image to v7.1.0 
+- ⬆ Upgrades NGINX Proxy Maneger to v2.1.2 
+- ⬆ Upgrades add-on base image to v7.0.3 
+- 🔨 Update community forum links 
