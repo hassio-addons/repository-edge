@@ -946,10 +946,10 @@ SOFTWARE.
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [glances-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [glances-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/3c5bbf7
-[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/3c5bbf7/README.md
+[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/3f591d4
+[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/3f591d4/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-3c5bbf7-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-3f591d4-blue.svg
 [grafana-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grafana-amd64.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
