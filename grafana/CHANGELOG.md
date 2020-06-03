@@ -1,2 +1,2 @@
-# Changelog since v5.0.0
-- ✨ Add Grafana Image Renderer plugin for amd64 (#71) 
+# Changelog since v5.1.0
+- ⬆ Upgrades Grafana to v7.0.2 
