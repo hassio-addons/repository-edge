@@ -1,1 +1,1 @@
-- ✏ Split add-on documentation
+- ⬆ Update firefly-iii to v5.2.8
