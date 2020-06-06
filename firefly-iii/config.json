@@ -1,6 +1,6 @@
 {
   "name": "Firefly III",
-  "version": "8cf023d",
+  "version": "f68a563",
   "slug": "firefly-iii",
   "description": "A free and open source personal finance manager",
   "url": "https://github.com/hassio-addons/addon-firefly-iii",
@@ -42,7 +42,8 @@
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "certfile": "str",
     "keyfile": "str",
-    "ssl": "bool"
+    "ssl": "bool",
+    "mapbox_api_key": "str?"
   },
   "image": "hassioaddons/firefly-iii-{arch}"
 }

@@ -1,1 +1,1 @@
-- ⬆ Update firefly-iii to v5.2.8
+- 🔨 Shellcheck fix

@@ -88,6 +88,10 @@ Only applies if a remote MYSQL database is used, the password of the above user.
 Only applies if a remote MYSQL database is used, the port that the database
 server is listening on.
 
+### Option: `mapbox_api_key`
+
+Your Mapbox API key for showing a map on the page of a tag.
+
 ## Database usage
 
 By default, Firefly-III will automatically use and configure the Home Assistant
