@@ -1,4 +1,7 @@
 # Changelog since v0.8.0
+- ⬆ Updates requests to v2.24.0 (#78)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates zeroconf to v0.27.1 (#75)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
