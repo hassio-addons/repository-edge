@@ -1,4 +1,8 @@
-# Changelog since v1.7.2
-- ✏ Split add-on documentation 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v7.2.0 
+# Changelog since v1.7.3
+- Fix broken screenshots (#56)
+
+* Fix broken screenshots
+
+* Update Readme banner URL
+
+Co-authored-by: João Meneses <31192225+MenesesPT@users.noreply.github.com> 
