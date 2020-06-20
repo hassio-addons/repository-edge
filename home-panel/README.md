@@ -40,7 +40,7 @@ If you are more interested in stable releases of our add-ons:
 <https://github.com/hassio-addons/repository>
 
 
-[banner]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/banner.png
+[banner]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/banner.png
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/timmo
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
@@ -51,8 +51,8 @@ If you are more interested in stable releases of our add-ons:
 [home-panel]: https://github.com/timmo001/home-panel
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-ab475a8-blue.svg
-[release]: https://github.com/hassio-addons/addon-home-panel/tree/ab475a8
-[screen-configuration-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/screen-configuration-main.png
-[screen-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/screen-main.png
-[showcase-purple-space]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/docs/showcase/timmo/purple-space.png
+[release-shield]: https://img.shields.io/badge/version-fc8fb5c-blue.svg
+[release]: https://github.com/hassio-addons/addon-home-panel/tree/fc8fb5c
+[screen-configuration-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/screen-configuration-main.png
+[screen-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/screen-main.png
+[showcase-purple-space]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/docs/showcase/timmo/purple-space.png
