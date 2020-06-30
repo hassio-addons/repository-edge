@@ -1,4 +1,7 @@
 # Changelog since v0.8.0
+- ⬆ Updates docker to v4.2.2 (#79)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates requests to v2.24.0 (#78)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
