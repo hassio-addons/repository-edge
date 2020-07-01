@@ -1,4 +1,7 @@
 # Changelog since v6.3.0
+- ⬆ Updates snyk to v1.356.0 (#596)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates @node-red-contrib-themes/midnight-red to v1.4.0 (#594)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
