@@ -1,4 +1,13 @@
 # Changelog since v6.3.0
+- ⬆ Updates snyk to v1.358.0 (#597)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- ⬆ Updates node-red-node-ping to v0.2.1 (#598)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
+- ⬆ Updates node-red-contrib-modbus to v5.13.3 (#599)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates snyk to v1.356.0 (#596)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
