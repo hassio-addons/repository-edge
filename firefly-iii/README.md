@@ -44,6 +44,6 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-f68a563-blue.svg
-[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/f68a563
+[release-shield]: https://img.shields.io/badge/version-e9bfb0b-blue.svg
+[release]: https://github.com/hassio-addons/addon-firefly-iii/tree/e9bfb0b
 [screenshot]: https://github.com/hassio-addons/addon-firefly-iii/raw/master/images/screenshot.png

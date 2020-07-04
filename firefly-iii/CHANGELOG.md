@@ -1,1 +1,1 @@
-- 🔨 Shellcheck fix
+- 🔥Drop armhf support
