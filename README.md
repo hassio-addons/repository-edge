@@ -910,10 +910,10 @@ SOFTWARE.
 [addon-doc-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/blob/f68a563/README.md
 [firefly-iii-issue]: https://github.com/hassio-addons/addon-firefly-iii/issues
 [firefly-iii-version-shield]: https://img.shields.io/badge/version-f68a563-blue.svg
-[firefly-iii-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/firefly-iii-armhf.svg
+[firefly-iii-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/firefly-iii-amd64.svg
 [firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [firefly-iii-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/224e081
