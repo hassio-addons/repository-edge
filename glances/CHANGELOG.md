@@ -1,4 +1,7 @@
 # Changelog since v0.8.0
+- ⬆ Updates zeroconf to v0.28.0 (#81)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates docker to v4.2.2 (#79)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
