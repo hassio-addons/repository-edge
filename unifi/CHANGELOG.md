@@ -1,7 +1,6 @@
-# Changelog since v0.15.0
-- ✏ Split add-on documentation 
-- ⬆ Upgrades add-on base image to v5.2.1 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v5.2.0 
-- Update Unifi Controller to 5.12.72 (#84) 
-- ✏Typo (#80) 
+# Changelog since v0.16.0
+- ✨ Add logrotate dependency 
+- 🔥 Remove Renovatebot 
+- Update unifi controller to 5.13.32 (#95)
+
+https://community.ui.com/releases/UniFi-Network-Controller-5-13-32/85eee834-c987-4875-8de2-51c6842d7bd3 
