@@ -1,4 +1,14 @@
 # Changelog since v6.3.0
+- ⬆️ Bump snyk from 1.358.0 to 1.360.0 in /node-red (#603)
+
+Bumps [snyk](https://github.com/snyk/snyk) from 1.358.0 to 1.360.0.
+- [Release notes](https://github.com/snyk/snyk/releases)
+- [Changelog](https://github.com/snyk/snyk/blob/master/.releaserc)
+- [Commits](https://github.com/snyk/snyk/compare/v1.358.0...v1.360.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - 👕 Fix lint warnings 
 - 🔨 Replace renovate with dependabot 
 - ⬆ Replace Python 2 with Python 3 
