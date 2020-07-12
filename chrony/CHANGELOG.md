@@ -1,6 +1,3 @@
-# Changelog since v1.0.10
-- ✏ Split add-on documentation 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v7.2.0 
-- ⬆Update base image to 7.1.1 
-- 🔨Set init false 
+# Changelog since v1.0.11
+- ⬆ Update base to 8.0.1 
+- ⬆ Update chrony to 3.5-r2 
