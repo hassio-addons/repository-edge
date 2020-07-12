@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.7.1 
 - 🚑  Fix extension downloads (#120) 
 - 🚑 Increase sleep between extension downloads 
 - 🔥 Remove Renovatebot 
