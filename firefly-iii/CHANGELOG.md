@@ -1,1 +1,1 @@
-- 🔥Drop armhf support
+- ⬆ Update base to 3.2.1
