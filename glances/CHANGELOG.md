@@ -1,4 +1,7 @@
 # Changelog since v0.8.0
+- ⬆ Updates psutil to v5.7.1 (#82)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates zeroconf to v0.28.0 (#81)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
