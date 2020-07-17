@@ -1,4 +1,13 @@
 # Changelog since v7.0.0
+- ⬆️ Bump @node-red-contrib-themes/midnight-red from 1.4.2 to 1.4.3 in /node-red (#621)
+
+Bumps [@node-red-contrib-themes/midnight-red](https://github.com/node-red-contrib-themes/midnight-red) from 1.4.2 to 1.4.3.
+- [Release notes](https://github.com/node-red-contrib-themes/midnight-red/releases)
+- [Commits](https://github.com/node-red-contrib-themes/midnight-red/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump @node-red-contrib-themes/midnight-red from 1.4.1 to 1.4.2 in /node-red (#616)
 
 Bumps [@node-red-contrib-themes/midnight-red](https://github.com/node-red-contrib-themes/midnight-red) from 1.4.1 to 1.4.2.
