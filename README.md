@@ -906,10 +906,10 @@ SOFTWARE.
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/tree/fd17f51
-[addon-doc-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/blob/fd17f51/README.md
+[addon-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/tree/ed8e155
+[addon-doc-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/blob/ed8e155/README.md
 [firefly-iii-issue]: https://github.com/hassio-addons/addon-firefly-iii/issues
-[firefly-iii-version-shield]: https://img.shields.io/badge/version-fd17f51-blue.svg
+[firefly-iii-version-shield]: https://img.shields.io/badge/version-ed8e155-blue.svg
 [firefly-iii-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/firefly-iii-amd64.svg
 [firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
