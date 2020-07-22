@@ -1,5 +1,7 @@
-# Changelog since v0.7.3
-- ✏ Split add-on documentation 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades mariadb-client to 10.4.13-r0 
-- ⬆ Upgrades add-on base image to v7.2.0 
+# Changelog since v0.7.4
+- 🔥 Remove Renovatebot 
+- ⬆ Upgrades Traccar to v4.9 
+- ⬆ Upgrades openjdk8-jre to 8.242.08-r2 
+- ⬆ Upgrades nss to 3.54-r0 
+- ⬆ Upgrades nginx to 1.18.0-r0 
+- ⬆ Upgrades base image to v8.0.1 
