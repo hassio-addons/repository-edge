@@ -1,7 +1,4 @@
-# Changelog since v1.1.0
-- ⬆ Upgrades Portainer to v1.24.0 
-- ✏ Split add-on documentation 
-- 🔨 Mark add-on as advanced 
-- 🔨 Hide Home Assistant Multicast container by default 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v7.2.0 
+# Changelog since v1.2.0
+- ⬆ Upgrades Portainer to v1.24.1 
+- 🔥 Remove Renovatebot 
+- ⬆ Upgrades base image to v8.0.1 
