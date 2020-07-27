@@ -1,0 +1,34 @@
+{
+  "name": "Prometheus",
+  "version": "d79d1fb",
+  "slug": "prometheus",
+  "description": "Cloud native metrics",
+  "url": "https://github.com/hassio-addons/addon-prometheus",
+  "startup": "services",
+  "ingress": true,
+  "ingress_port": 9090,
+  "ingress_entry": "graph",
+  "panel_icon": "mdi:chart-timeline",
+  "panel_title": "Prometheus",
+  "arch": [
+    "aarch64",
+    "amd64",
+    "armv7"
+  ],
+  "boot": "auto",
+  "hassio_api": true,
+  "homeassistant_api": true,
+  "hassio_role": "default",
+  "map": [
+    "share:rw"
+  ],
+  "options": {},
+  "ports": {
+    "9090/tcp": null
+  },
+  "ports_description": {
+    "9090/tcp": "Not required for Ingress"
+  },
+  "schema": {},
+  "image": "hassioaddons/prometheus-{arch}"
+}

@@ -1,0 +1,1 @@
+- Linter and build fixed (#3)
