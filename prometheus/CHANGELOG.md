@@ -1,1 +1,1 @@
-- Linter and build fixed (#3)
+- 📚 Added documentation for home-assistiant addon page
