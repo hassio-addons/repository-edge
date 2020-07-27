@@ -1,1 +1,1 @@
-- 📚 Added documentation for home-assistiant addon page
+- 📚 Fixing markdownlint issues

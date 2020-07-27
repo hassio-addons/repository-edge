@@ -37,11 +37,24 @@ static_configs:
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
 
 The job names `home-assistant` and `prometheus` are already defined by default.
+For the `homeassistant` target you must add add the following to
+the Home Assistant configuration:
+
+```yaml
+prometheus:
+```
 
 Rules can be created under `/share/prometheus/rules/`
 
 The addon will reload the configuration if a valid configuration is available.
 If not it will log errors in the addon log
+
+## Grafana
+
+Grafana can use prometheus as a datasource, to configure this go to grafana
+and add a datasource.
+The hostname to connect to is depending on the release you installed.
+For stable this is `http://a0d7b954-prometheus:9090`
 
 ## Known issues and limitations
 
