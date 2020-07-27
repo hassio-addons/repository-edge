@@ -133,6 +133,10 @@ addons:
     repository: hassio-addons/addon-plex
     target: plex
     image: hassioaddons/plex-{arch}
+  prometheus:
+    repository: hassio-addons/addon-prometheus
+    target: prometheus
+    image: hassioaddons/prometheus-{arch}       
   portainer:
     repository: hassio-addons/addon-portainer
     target: portainer
