@@ -1,4 +1,10 @@
 # Changelog since v2.3.0
+- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.8.1 
+- ⬆ Upgrades redhat.vscode-yaml to 0.9.1 
+- ⬆ Upgrades emilast.LogFileHighlighter to 2.9.0 
+- Revert "🔒 MDI icons version to 4.5.95"
+
+This reverts commit eca4b2be22d449a5a87a1388847c77c0d8269abf. 
 - 🚑 Fix MDI icon to new name (#121)
 
 Icon mdi:visual-studio-code was renamed to mdi:microsoft-visual-studio-code, please change your config, it will be removed in version 0.115. 
