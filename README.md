@@ -603,6 +603,20 @@ Manage your UniFi network using a web browser
 
 [:books: UniFi Controller add-on documentation][addon-doc-unifi]
 
+### &#10003; [VSCode Remote][addon-vscode-remote]
+
+![Latest Version][vscode-remote-version-shield]
+![Supports armhf Architecture][vscode-remote-armhf-shield]
+![Supports armv7 Architecture][vscode-remote-armv7-shield]
+![Supports aarch64 Architecture][vscode-remote-aarch64-shield]
+![Supports amd64 Architecture][vscode-remote-amd64-shield]
+![Supports i386 Architecture][vscode-remote-i386-shield]
+![Docker Pulls][vscode-remote-pulls-shield]
+
+VSCode Remote access to Home Assistant
+
+[:books: VSCode Remote add-on documentation][addon-doc-vscode-remote]
+
 ### &#10003; [Visual Studio Code][addon-vscode]
 
 ![Latest Version][vscode-version-shield]
@@ -776,6 +790,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Tor][tor-issue]
 - [Open an issue for the add-on: Traccar][traccar-issue]
 - [Open an issue for the add-on: UniFi Controller][unifi-issue]
+- [Open an issue for the add-on: VSCode Remote][vscode-remote-issue]
 - [Open an issue for the add-on: Visual Studio Code][vscode-issue]
 - [Open an issue for the add-on: WireGuard][wireguard-issue]
 - [Open an issue for the add-on: Z-Wave to MQTT][zwave2mqtt-issue]
@@ -1231,6 +1246,16 @@ SOFTWARE.
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [unifi-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/tree/5380bcd
+[addon-doc-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/blob/5380bcd/README.md
+[vscode-remote-issue]: https://github.com/hassio-addons/addon-vscode-remote/issues
+[vscode-remote-version-shield]: https://img.shields.io/badge/version-5380bcd-blue.svg
+[vscode-remote-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/vscode-remote-armhf.svg
+[vscode-remote-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[vscode-remote-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[vscode-remote-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[vscode-remote-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[vscode-remote-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/94e3701
 [addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/94e3701/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
