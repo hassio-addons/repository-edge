@@ -1,1 +1,1 @@
-- ✨ Add build essential
+- ✨ Pre-install extensions
