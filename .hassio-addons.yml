@@ -181,6 +181,10 @@ addons:
     repository: hassio-addons/addon-vscode
     target: vscode
     image: hassioaddons/vscode-{arch}
+  vscode-remote:
+    repository: hassio-addons/addon-vscode-remote
+    target: vscode-remote
+    image: hassioaddons/vscode-remote-{arch}
   wireguard:
     repository: hassio-addons/addon-wireguard
     target: wireguard
