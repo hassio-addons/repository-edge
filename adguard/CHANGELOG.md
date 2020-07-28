@@ -1,4 +1,5 @@
 # Changelog since v2.4.2
+- 🔒 Set minimal required HA version to 1.113.2 
 - ⬆ Upgrades AdGuard Home to 0.103.3 
 - Revert "⬆ Upgrades AdGuard Home to 0.103.3, from source"
 
