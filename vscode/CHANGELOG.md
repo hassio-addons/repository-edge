@@ -1,4 +1,7 @@
 # Changelog since v2.3.0
+- 🚑 Fix MDI icon to new name (#121)
+
+Icon mdi:visual-studio-code was renamed to mdi:microsoft-visual-studio-code, please change your config, it will be removed in version 0.115. 
 - ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.7.1 
 - 🚑  Fix extension downloads (#120) 
 - 🚑 Increase sleep between extension downloads 
