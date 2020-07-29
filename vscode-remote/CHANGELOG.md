@@ -1,1 +1,1 @@
-- ✨ Pre-install extensions
+- 🚑 Ensure correct permissions
