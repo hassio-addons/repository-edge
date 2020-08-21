@@ -1,2 +1,4 @@
-# Changelog since v5.2.0
-- ⬆ Upgrades Grafana to v7.1.1 
+# Changelog since v5.2.1
+- ✏️ Update create db link (#76)
+
+The path to the InfluxDB docs has been changed. 
