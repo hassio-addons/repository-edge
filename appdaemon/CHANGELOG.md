@@ -1,4 +1,5 @@
 # Changelog since v0.2.6
+- 🔨 Install pip as dependency 
 - 🚑 Fix build 
 - 🚑 Fix build 
 - ✏ Remove unused variable found by shellcheck: 
