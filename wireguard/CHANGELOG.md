@@ -1,7 +1,7 @@
-# Changelog since v0.3.1
-- ✏ Remove references to decomissioned Pi-hole add-on 
-- ✏ Split add-on documentation 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades go to 1.13.10-r0 
-- ⬆ Upgrades git to 2.24.3-r0 
-- ⬆ Upgrades add-on base image to v7.2.0 
+# Changelog since v0.3.2
+- ⬆ Upgrades wireguard-tools@edge to 1.0.20200510-r0 
+- ⬆ Upgrades openresolv to 3.10.0-r0 
+- ⬆ Upgrades go@edge to 1.13.14-r0 
+- ⬆ Upgrades git to 2.26.2-r0 
+- ⬆ Upgrades build-base to 0.5-r2 
+- ⬆ Upgrades add-on base image to v8.0.1 
