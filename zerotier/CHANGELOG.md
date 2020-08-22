@@ -1,5 +1,6 @@
-# Changelog since v0.7.1
-- ✏ Split add-on documentation 
-- ⬆ Upgrades git to 2.24.3-r0 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v7.2.0 
+# Changelog since v0.7.2
+- ⬆ Upgrades libgcc to 9.3.0-r2 
+- ⬆ Upgrades git to 2.26.2-r0 
+- ⬆ Upgrades linux-headers to 5.4.5-r1 
+- ⬆ Upgrades build-base to 0.5-r2 
+- ⬆ Upgrades add-on base image to v8.0.1 
