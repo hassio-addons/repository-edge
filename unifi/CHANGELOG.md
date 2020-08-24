@@ -1,6 +1,4 @@
-# Changelog since v0.16.0
-- ✨ Add logrotate dependency 
-- 🔥 Remove Renovatebot 
-- Update unifi controller to 5.13.32 (#95)
-
-https://community.ui.com/releases/UniFi-Network-Controller-5-13-32/85eee834-c987-4875-8de2-51c6842d7bd3 
+# Changelog since v0.17.0
+- ⬆ Upgrades UniFi Network Controller to 5.14.22 
+- ⬆ Upgrades openjdk-8-jdk-headless to 8u265-b01-0ubuntu2~18.04 
+- ⬆ Upgrades binutils to 2.30-21ubuntu1~18.04.4 
