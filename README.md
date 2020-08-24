@@ -1176,10 +1176,10 @@ SOFTWARE.
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ssh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ssh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/c230a30
-[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/c230a30/README.md
+[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/c5ac097
+[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/c5ac097/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-c230a30-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-c5ac097-blue.svg
 [spotify-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/spotify-amd64.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
