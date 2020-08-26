@@ -1,4 +1,4 @@
-# Changelog since v0.17.0
-- ⬆ Upgrades UniFi Network Controller to 5.14.22 
-- ⬆ Upgrades openjdk-8-jdk-headless to 8u265-b01-0ubuntu2~18.04 
-- ⬆ Upgrades binutils to 2.30-21ubuntu1~18.04.4 
+# Changelog since v0.18.0
+- ⬆️ Upgrades UniFi Network Controller to 5.14.23 (#102)
+
+Release notes: https://community.ui.com/releases/UniFi-Network-Controller-5-14-23/daf90732-30ad-48ee-81e7-1dcb374eba2a 
