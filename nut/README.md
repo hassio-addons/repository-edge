@@ -76,5 +76,5 @@ If you are more interested in stable releases of our add-ons:
 [nut-features]: https://networkupstools.org/features.html
 [nut-sensor-docs]: https://www.home-assistant.io/components/sensor.nut/
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-37c3dd6-blue.svg
-[release]: https://github.com/hassio-addons/addon-nut/tree/37c3dd6
+[release-shield]: https://img.shields.io/badge/version-26c592f-blue.svg
+[release]: https://github.com/hassio-addons/addon-nut/tree/26c592f

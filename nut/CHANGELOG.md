@@ -1,8 +1,4 @@
-# Changelog since v0.1.2
-- ✏ Split add-on documentation 
-- ⬆ Upgrades add-on base image to v7.2.0 
-- 📚Update note on host for sensor 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Update base to 7.2.0 
-- 🔨 Remove no longer needed permissions 
-- 🔨 Change to run as root 
+# Changelog since v0.2.0
+- 🔥 Remove Renovatebot 
+- ⬆ Upgrades hwids to 20200306-r0 
+- ⬆ Upgrades add-on base image to v8.0.1 
