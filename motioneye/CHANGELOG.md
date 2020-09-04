@@ -1,4 +1,15 @@
 # Changelog since v0.8.1
+- Revert "⬆ Upgrades Pillow from 6.2.2 to 6.2.3 (#99)"
+
+This reverts commit ba58d4a656b96ab52bae622d7ae6e3eb38de6dcc. 
+- ⬆ Upgrades Pillow from 6.2.2 to 6.2.3 (#99)
+
+The following vulnerabilities are fixed by pinning transitive dependencies:
+- https://snyk.io/vuln/SNYK-PYTHON-PILLOW-574573
+- https://snyk.io/vuln/SNYK-PYTHON-PILLOW-574574
+- https://snyk.io/vuln/SNYK-PYTHON-PILLOW-574575
+- https://snyk.io/vuln/SNYK-PYTHON-PILLOW-574576
+- https://snyk.io/vuln/SNYK-PYTHON-PILLOW-574577 
 - 🔥 Remove Renovatebot 
 - 🔨 Correct upstream Python2 changes in upstream Alpine 
 - ⬆ Upgrades mosquitto-clients to 1.6.9-r0 
