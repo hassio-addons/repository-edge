@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- ⬆ Upgrades NGINX Proxy Manager to v2.5.0 
 - ⬆ Upgrades NGINX Proxy Manager to v2.4.0 
 - ⬆ Upgrades nodejs to 12.18.3-r0 
 - ⬆ Upgrades apache2-utils to 2.4.46-r0 
