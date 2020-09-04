@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- 🚑 Add Python2 to satisfy node-gyp 
+- 🚑 Bump to Python3 
+- ✨ Add certbot-dns-cloudflare 
 - ⬆ Upgrades NGINX Proxy Manager to v2.5.0 
 - ⬆ Upgrades NGINX Proxy Manager to v2.4.0 
 - ⬆ Upgrades nodejs to 12.18.3-r0 
