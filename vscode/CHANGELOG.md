@@ -1,22 +1,8 @@
-# Changelog since v2.3.0
-- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.8.1 
-- ⬆ Upgrades redhat.vscode-yaml to 0.9.1 
-- ⬆ Upgrades emilast.LogFileHighlighter to 2.9.0 
-- Revert "🔒 MDI icons version to 4.5.95"
-
-This reverts commit eca4b2be22d449a5a87a1388847c77c0d8269abf. 
-- 🚑 Fix MDI icon to new name (#121)
-
-Icon mdi:visual-studio-code was renamed to mdi:microsoft-visual-studio-code, please change your config, it will be removed in version 0.115. 
-- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.7.1 
-- 🚑  Fix extension downloads (#120) 
-- 🚑 Increase sleep between extension downloads 
-- 🔥 Remove Renovatebot 
-- ⬆ Upgrades lukas-tr.materialdesignicons-intellisense to 3.0.0 
-- ⬆ Upgrades ESPHome.esphome-vscode to 0.3.0 
-- 🔒 MDI icons version to 4.5.95 
-- ⬆ Upgrades base image to v3.2.1 
-- Update README for removal of disable_telemetry config option (#110) 
-- ⬆️  Upgrades code-server to 3.4.1 (#112)
-
-Fixes #107 
+# Changelog since v2.4.0
+- ⬆ Upgrades usernamehw.errorlens to 3.2.1 
+- ⬆ Upgrades redhat.vscode-yaml to 0.10.1 
+- ⬆ Upgrades code-server to 3.5.0 
+- ⬆ Upgrades Home Assistant CLI to v4.4.0 
+- ⬆ Upgrades nmap to 7.70+dfsg1-6+deb10u1 
+- ⬆ Upgrades mariadb-client to 1:10.3.23-0+deb10u1 
+- ⬆ Upgrades add-on base image to v3.2.2 
