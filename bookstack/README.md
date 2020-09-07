@@ -42,6 +42,6 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-06f5854-blue.svg
-[release]: https://github.com/hassio-addons/addon-bookstack/tree/06f5854
+[release-shield]: https://img.shields.io/badge/version-c05c559-blue.svg
+[release]: https://github.com/hassio-addons/addon-bookstack/tree/c05c559
 [screenshot]: https://github.com/hassio-addons/addon-bookstack/raw/master/images/screenshot.png
