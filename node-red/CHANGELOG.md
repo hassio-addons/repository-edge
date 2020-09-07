@@ -1,41 +1,21 @@
-# Changelog since v7.1.0
-- ⬆️ Bump node-red-node-pi-gpio to 1.2.0 (#675)
+# Changelog since v7.1.1
+- ⬆️ Bump node-red-dashboard from 2.23.2 to 2.23.3 in /node-red (#679)
 
-Bumps [node-red-node-pi-gpio](https://github.com/node-red/node-red-nodes) from 1.1.1 to 1.2.0.
-- [Release notes](https://github.com/node-red/node-red-nodes/releases)
-- [Commits](https://github.com/node-red/node-red-nodes/commits)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump node-red-node-serialport to 0.11.0 (#674)
-
-Bumps [node-red-node-serialport](https://github.com/node-red/node-red-nodes) from 0.10.3 to 0.11.0.
-- [Release notes](https://github.com/node-red/node-red-nodes/releases)
-- [Commits](https://github.com/node-red/node-red-nodes/commits)
+Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.23.2 to 2.23.3.
+- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
+- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red-dashboard/compare/2.23.2...2.23.3)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump node-red-node-email to 1.7.9(#671)
+- ⬆️ Bump snyk from 1.381.1 to 1.389.0 in /node-red (#680)
 
-Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.7.8 to 1.7.9.
-- [Release notes](https://github.com/node-red/node-red-nodes/releases)
-- [Commits](https://github.com/node-red/node-red-nodes/commits)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump node-red-contrib-time-range-switch from 1.0.0 to 1.0.1 in /node-red (#673)
-
-Bumps [node-red-contrib-time-range-switch](https://github.com/biddster/node-red-contrib-time-range-switch) from 1.0.0 to 1.0.1.
-- [Release notes](https://github.com/biddster/node-red-contrib-time-range-switch/releases)
-- [Commits](https://github.com/biddster/node-red-contrib-time-range-switch/compare/1.0.0...1.0.1)
+Bumps [snyk](https://github.com/snyk/snyk) from 1.381.1 to 1.389.0.
+- [Release notes](https://github.com/snyk/snyk/releases)
+- [Changelog](https://github.com/snyk/snyk/blob/master/.releaserc)
+- [Commits](https://github.com/snyk/snyk/compare/v1.381.1...v1.389.0)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Upgrade node-red-contrib-home-assistant-websocket to 0.25.0 (#669)
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-FLAT-596927 
