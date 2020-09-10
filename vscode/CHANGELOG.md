@@ -1,4 +1,5 @@
 # Changelog since v2.4.0
+- ⬆ Upgrades Home Assistant CLI to v4.4.1 
 - ⬆ Upgrades usernamehw.errorlens to 3.2.1 
 - ⬆ Upgrades redhat.vscode-yaml to 0.10.1 
 - ⬆ Upgrades code-server to 3.5.0 
