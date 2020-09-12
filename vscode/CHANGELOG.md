@@ -1,4 +1,6 @@
 # Changelog since v2.4.0
+- ✨ Add symlink from code to code-server for natrual use 
+- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.9.0 
 - ⬆ Upgrades Home Assistant CLI to v4.4.1 
 - ⬆ Upgrades usernamehw.errorlens to 3.2.1 
 - ⬆ Upgrades redhat.vscode-yaml to 0.10.1 
