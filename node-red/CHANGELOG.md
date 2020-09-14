@@ -1,4 +1,14 @@
 # Changelog since v7.1.1
+- ⬆️ Bump node-red-contrib-home-assistant-websocket to 0.25.1
+
+Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.25.0 to 0.25.1.
+- [Release notes](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/releases)
+- [Changelog](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.25.0...v0.25.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-dashboard from 2.23.2 to 2.23.3 in /node-red (#679)
 
 Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.23.2 to 2.23.3.
