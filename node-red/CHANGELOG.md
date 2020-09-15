@@ -1,4 +1,14 @@
 # Changelog since v7.1.1
+- ⬆️ Bump snyk from 1.389.0 to 1.395.0 (#687)
+
+Bumps [snyk](https://github.com/snyk/snyk) from 1.389.0 to 1.395.0.
+- [Release notes](https://github.com/snyk/snyk/releases)
+- [Changelog](https://github.com/snyk/snyk/blob/master/.releaserc)
+- [Commits](https://github.com/snyk/snyk/compare/v1.389.0...v1.395.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-contrib-home-assistant-websocket to 0.25.1
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.25.0 to 0.25.1.
