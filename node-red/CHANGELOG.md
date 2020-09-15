@@ -1,4 +1,5 @@
 # Changelog since v7.1.1
+- ⬆ Upgrades add-on base image to v8.0.2 
 - ✨ Add support for the new media folder 
 - ⬆️ Bump snyk from 1.389.0 to 1.395.0 (#687)
 
