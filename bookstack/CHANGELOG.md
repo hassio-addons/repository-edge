@@ -1,6 +1,3 @@
-# Changelog since v0.4.4
-- ⬆Update composer to 1.10.10-r0 
-- ⬆Update php to 7.3.22-r0 
-- 🔨Fix file permissions
-User permissions can be incorrect in case of system move/restore.
-Fixes #18 #19 
+# Changelog since v0.5.0
+- ⬆Update bookstack to v0.30.0 
+- ⬆Update base to 8.0.2 
