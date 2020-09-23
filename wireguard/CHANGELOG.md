@@ -1,4 +1,5 @@
 # Changelog since v0.3.2
+- 🔨Remove Alpine edge repo usage (#49) 
 - ⬆ Upgrades wireguard-tools@edge to 1.0.20200510-r0 
 - ⬆ Upgrades openresolv to 3.10.0-r0 
 - ⬆ Upgrades go@edge to 1.13.14-r0 
