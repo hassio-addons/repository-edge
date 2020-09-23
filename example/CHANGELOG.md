@@ -1,4 +1,3 @@
-# Changelog since v3.3.2
-- ✏ Split add-on documentation 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v7.2.0 
+# Changelog since v3.5.0
+- 👕 Ignore shellcheck warning 
+- ⬆ Upgrades add-on base image to v8.0.3 
