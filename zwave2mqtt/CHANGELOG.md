@@ -1,4 +1,8 @@
 # Changelog since v0.7.0
+- ⬆ Upgrades open-zwave database to 189b9050ee857bc177a26973cd99b81ebc9fcd92 
+- ⬆ Upgrades nodejs to 12.18.4-r0 
+- ⬆ Upgrades Zwave2Mqtt to v4.0.3 
+- ⬆ Upgrades add-on base image to v8.0.3 
 - ⬆ Upgrades Zwave2Mqtt to v4.0.2 
 - ⬆ Upgrades nginx to 1.18.0-r0 
 - ⬆ Upgrades eudev to 3.2.9-r3 
