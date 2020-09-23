@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- ⬆ Upgrades nodejs to 12.18.4-r0 
+- ✨ Add option to reset database (#104) 
+- ⬆ Upgrades add-on base image to v8.0.3 
 - 🚑 Add Python2 to satisfy node-gyp 
 - 🚑 Bump to Python3 
 - ✨ Add certbot-dns-cloudflare 
