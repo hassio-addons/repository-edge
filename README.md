@@ -906,10 +906,10 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/76dae13
-[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/76dae13/README.md
+[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/aed8288
+[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/aed8288/README.md
 [bookstack-issue]: https://github.com/hassio-addons/addon-bookstack/issues
-[bookstack-version-shield]: https://img.shields.io/badge/version-76dae13-blue.svg
+[bookstack-version-shield]: https://img.shields.io/badge/version-aed8288-blue.svg
 [bookstack-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/bookstack-armhf.svg
 [bookstack-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bookstack-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
