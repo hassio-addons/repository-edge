@@ -1,9 +1,7 @@
-# Changelog since v7.2.0
-- ⬆ Upgrades nodejs to 12.18.4-r0 
-- ⬆ Upgrades add-on base image to v8.0.3 
-- ⬆️ Bump node-red-node-email from 1.7.9 to 1.7.10 in /node-red (#692)
+# Changelog since v7.2.1
+- ⬆️ Bump node-red-node-email from 1.7.10 to 1.7.11 in /node-red (#693)
 
-Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.7.9 to 1.7.10.
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.7.10 to 1.7.11.
 - [Release notes](https://github.com/node-red/node-red-nodes/releases)
 - [Commits](https://github.com/node-red/node-red-nodes/commits)
 
