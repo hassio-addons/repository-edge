@@ -1,15 +1,2 @@
-# Changelog since v0.7.0
-- ⬆ Upgrades open-zwave database to 189b9050ee857bc177a26973cd99b81ebc9fcd92 
-- ⬆ Upgrades nodejs to 12.18.4-r0 
-- ⬆ Upgrades Zwave2Mqtt to v4.0.3 
-- ⬆ Upgrades add-on base image to v8.0.3 
-- ⬆ Upgrades Zwave2Mqtt to v4.0.2 
-- ⬆ Upgrades nginx to 1.18.0-r0 
-- ⬆ Upgrades eudev to 3.2.9-r3 
-- ⬆ Upgrades yarn to 1.22.4-r0 
-- ⬆ Upgrades nodejs to 12.18.3-r0 
-- ⬆ Upgrades npm to 12.18.3-r0 
-- ⬆ Upgrades linux-headers to 5.4.5-r1 
-- ⬆ Upgrades git to 2.26.2-r0 
-- ⬆ Upgrades build-base to 0.5-r2 
-- ⬆ Upgrades add-on base image to v8.0.1 
+# Changelog since v0.8.0
+- ⬆ Upgrades Zwave2Mqtt to v4.0.4 
