@@ -1146,10 +1146,10 @@ SOFTWARE.
 [portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [portainer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [portainer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/1846953
-[addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/1846953/README.md
+[addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/df9e618
+[addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/df9e618/README.md
 [prometheus-issue]: https://github.com/hassio-addons/addon-prometheus/issues
-[prometheus-version-shield]: https://img.shields.io/badge/version-1846953-blue.svg
+[prometheus-version-shield]: https://img.shields.io/badge/version-df9e618-blue.svg
 [prometheus-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/prometheus-amd64.svg
 [prometheus-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [prometheus-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

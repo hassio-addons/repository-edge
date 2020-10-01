@@ -1,6 +1,6 @@
 {
   "name": "Prometheus",
-  "version": "1846953",
+  "version": "df9e618",
   "slug": "prometheus",
   "description": "Cloud native metrics",
   "url": "https://github.com/hassio-addons/addon-prometheus",
