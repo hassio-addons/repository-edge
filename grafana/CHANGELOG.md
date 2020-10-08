@@ -1,3 +1,3 @@
-# Changelog since v5.2.3
-- ⬆ Upgrades Grafana to v7.2.0 
-- ⬆ Upgrades nginx to 1.14.2-2+deb10u3 
+# Changelog since v5.3.0
+- ⬆ Upgrades Grafana to v7.2.1 
+- ⬆ Upgrades libx11-6 to 2:1.6.7-1+deb10u1 
