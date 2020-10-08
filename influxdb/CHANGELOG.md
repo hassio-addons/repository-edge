@@ -1,2 +1,2 @@
-# Changelog since v3.7.5
-- ⬆ Upgrades InfluxDB to 1.8.3 
+# Changelog since v3.7.6
+- ⬆ Upgrades Chronograf to 1.8.7 
