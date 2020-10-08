@@ -1,5 +1,5 @@
-# Changelog since v2.7.0
-- ⬆ Upgrades esbenp.prettier-vscode to 5.7.1 
-- ⬆ Upgrades usernamehw.errorlens to 3.2.2 
-- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.9.1 
-- ⬆ Upgrades yamllint to 1.25.0 
+# Changelog since v2.7.1
+- ✨ Add UUID generator extension 
+- ⬆ Upgrades usernamehw.errorlens to 3.2.3 
+- ⬆ Upgrades redhat.vscode-yaml to 0.11.1 
+- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.10.0 
