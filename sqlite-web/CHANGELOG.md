@@ -1,4 +1,7 @@
 # Changelog since v2.2.2
+- ⬆ Updates datasette to v0.50 (#91)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - 🚑 Fix cache warning during build 
 - 🔨 Refactor add-on to use the generic base image 
 - ⬆ Updates datasette to v0.49.1 (#90)
