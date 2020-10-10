@@ -1,4 +1,7 @@
 # Changelog since v2.2.2
+- ⬆ Updates datasette to v0.50.2 (#92)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Updates datasette to v0.50 (#91)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
