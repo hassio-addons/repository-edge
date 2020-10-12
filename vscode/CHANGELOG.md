@@ -1,2 +1,2 @@
-# Changelog since v2.8.0
-- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.11.0 
+# Changelog since v2.8.1
+- ⬆ Upgrades code-server to 3.6.0 
