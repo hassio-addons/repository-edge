@@ -926,10 +926,10 @@ SOFTWARE.
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [example-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/e1583e8
-[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/e1583e8/README.md
+[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/b80e346
+[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/b80e346/README.md
 [ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
-[ftp-version-shield]: https://img.shields.io/badge/version-e1583e8-blue.svg
+[ftp-version-shield]: https://img.shields.io/badge/version-b80e346-blue.svg
 [ftp-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ftp-armhf.svg
 [ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
