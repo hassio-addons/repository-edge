@@ -1,4 +1,5 @@
 # Changelog since v2.2.2
+- 🔨Add optional configurable folder path for DB (#94) 
 - 🔨Change path to /usr/lib from /usr/local/lib 
 - 🔨Add py3-setuptools 47.0.0-r0 
 - 🔨Add patch 2.7.6-r6 
