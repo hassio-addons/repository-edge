@@ -1,4 +1,7 @@
 # Changelog since v2.2.2
+- 🔨Change path to /usr/lib from /usr/local/lib 
+- 🔨Add py3-setuptools 47.0.0-r0 
+- 🔨Add patch 2.7.6-r6 
 - ⬆ Updates datasette to v0.50.2 (#92)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
