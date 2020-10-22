@@ -1,6 +1,6 @@
 {
   "name": "Grafana",
-  "version": "0367ede",
+  "version": "875b83d",
   "slug": "grafana",
   "description": "The open platform for beautiful analytics and monitoring",
   "url": "https://github.com/hassio-addons/addon-grafana",

@@ -53,6 +53,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-0367ede-blue.svg
-[release]: https://github.com/hassio-addons/addon-grafana/tree/0367ede
+[release-shield]: https://img.shields.io/badge/version-875b83d-blue.svg
+[release]: https://github.com/hassio-addons/addon-grafana/tree/875b83d
 [screenshot]: https://github.com/hassio-addons/addon-grafana/raw/master/images/screenshot.png
