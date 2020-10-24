@@ -1,4 +1,5 @@
 # Changelog since v7.2.5
+- ⬆ Upgrades base image to v8.0.5 
 - ⬆ Upgrades nginx to 1.18.0-r1 
 - ⬆ Upgrades base image to v8.0.4 
 - ⬆️ Bump snyk to 1.419.1 (#730)
