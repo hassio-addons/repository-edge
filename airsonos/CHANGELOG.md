@@ -1,6 +1,4 @@
-# Changelog since v2.3.1
-- ✏ Split add-on documentation 
-- ⬆ Upgrades add-on base image to v5.2.1 
-- ⬆ Upgrades AirConnect to 0.2.25.0 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v5.2.0 
+# Changelog since v2.3.2
+- ⬆ Upgrades AirConnect to 0.2.28.2 
+- ⬆ Upgrades libssl1.0.0 to 1.0.2n-1ubuntu5.4 
+- ⬆ Upgrades base image to v5.2.2 
