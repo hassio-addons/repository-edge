@@ -1,1 +1,1 @@
-- ⬆Update debian-base to v3.2.3
+- 🔨Align artisan commands with upstream
