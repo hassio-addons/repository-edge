@@ -1,4 +1,6 @@
 # Changelog since v2.2.2
+- ⬆ Upgrades add-on base image to v8.0.5 
+- ⬆ Upgrades nginx to 1.18.0-r1 
 - 🔨Add optional configurable folder path for DB (#94) 
 - 🔨Change path to /usr/lib from /usr/local/lib 
 - 🔨Add py3-setuptools 47.0.0-r0 
