@@ -1,11 +1,4 @@
-# Changelog since v0.8.1
-- ⬆ Upgrades git to 2.26.2-r0 
-- ⬆ Upgrades npm to 12.18.3-r0 
-- ⬆ Upgrades nodejs to 12.18.3-r0 
-- ⬆ Upgrades nginx to 1.18.0-r0 
-- ⬆ Upgrades add-on base image to v8.0.1 
-- 🚑 Fix Ingress sidebar icon with Home Assistant 0.113+ (#33) 
-- ✏ Split add-on documentation 
-- ⬆ Upgrades git to 2.24.3-r0 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades add-on base image to v7.2.0 
+# Changelog since v0.9.0
+- ⬆ Upgrades nodejs to 12.18.4-r0 
+- ⬆ Upgrades nginx to 1.18.0-r1 
+- ⬆ Upgrades add-on base image to v8.0.5 
