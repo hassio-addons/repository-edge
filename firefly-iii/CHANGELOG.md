@@ -1,1 +1,1 @@
-- 🔨Align artisan commands with upstream
+- ⬆Update firefly to v5.4.5
