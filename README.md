@@ -1226,10 +1226,10 @@ SOFTWARE.
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/2f6e421
-[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/2f6e421/README.md
+[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/12ec69d
+[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/12ec69d/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-2f6e421-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-12ec69d-blue.svg
 [traccar-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/traccar-armhf.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
