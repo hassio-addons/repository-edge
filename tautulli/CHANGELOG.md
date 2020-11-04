@@ -1,15 +1,12 @@
-# Changelog since v1.5.0
-- ⬆ Updates plexapi to v3.6.0 (#57)
-
-Co-authored-by: Renovate Bot <bot@renovateapp.com> 
-- ✏ Split add-on documentation 
-- 🔨 Implement OCI image specification on labels 
-- ⬆ Upgrades python2 to 2.7.18-r0 
-- ⬆ Upgrades Tautulli to v2.2.4 
-- ⬆ Upgrades add-on base image to v7.2.0 
-- ⬆ Upgrades Tautulli to v2.2.3 
-- ⬆ Upgrades git to 2.24.3-r0 
-- ⬆ Upgrades base image to v7.1.1 
-- ⬆ Upgrades Tautulli to v2.2.1 
-- ⬆ Upgrades gcc to 9.2.0-r4 
-- ⬆ Upgrades add-on base image to v7.0.4 
+# Changelog since v1.5.1
+- ⬆ Upgrades Tautulli to v2.6.1 
+- ⬆ Upgrades libressl to 3.1.2-r0 
+- ⬆ Upgrade Tautulli to v2.6.0 
+- ⬆ Upgrades wget to 1.20.3-r1 
+- ⬆ Upgrades git to 2.26.2-r0 
+- ⬆ Upgrades make to 4.3-r0 
+- ⬆ Upgrades libressl-dev to 3.1.2-r0 
+- ⬆ Upgrades libffi-dev to 3.3-r2 
+- ⬆ Upgrades gcc to 9.3.0-r2 
+- ⬆ Upgrades g++ to 9.3.0-r2 
+- ⬆ Upgrades add-on base image to v8.0.5 
