@@ -1,4 +1,9 @@
 # Changelog since v1.5.1
+- ⬆ Upgrades pycryptodomex to 3.9.9 
+- ⬆ Upgrades crudini to 0.9.3 
+- ⬆ Updates plexapi to v4 (#60)
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com> 
 - ⬆ Upgrades Tautulli to v2.6.1 
 - ⬆ Upgrades libressl to 3.1.2-r0 
 - ⬆ Upgrade Tautulli to v2.6.0 
