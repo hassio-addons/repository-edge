@@ -1,4 +1,4 @@
-# Changelog since v2.3.0
-- ⬆ Updates datasette to v0.51.1 (#95)
+# Changelog since v2.3.1
+- ⬆ Updates peewee to v3.14.0 (#97)
 
 Co-authored-by: Renovate Bot <bot@renovateapp.com> 
