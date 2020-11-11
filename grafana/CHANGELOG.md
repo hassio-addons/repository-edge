@@ -1,2 +1,2 @@
-# Changelog since v5.3.3
-- ⬆ Upgrades Grafana to v7.3.1 
+# Changelog since v5.3.4
+- ⬆ Upgrades Grafana to v7.3.2 
