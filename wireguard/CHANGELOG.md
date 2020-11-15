@@ -1,4 +1,6 @@
 # Changelog since v0.3.2
+- ⬆ Upgrades go to 1.13.15-r0 
+- ⬆ Upgrades add-on base image to v8.0.5 
 - 🔨Remove Alpine edge repo usage (#49) 
 - ⬆ Upgrades wireguard-tools@edge to 1.0.20200510-r0 
 - ⬆ Upgrades openresolv to 3.10.0-r0 
