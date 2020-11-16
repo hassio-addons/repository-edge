@@ -1,1 +1,1 @@
-- ⬆ Update prometheus to 2.21.0
+- arrow_up: Updated prometheus to 2.22.2
