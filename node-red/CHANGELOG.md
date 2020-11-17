@@ -1,4 +1,22 @@
 # Changelog since v7.2.8
+- ⬆️ Bump node-red-node-pi-gpio from 1.2.0 to 1.2.1 (#759)
+
+Bumps [node-red-node-pi-gpio](https://github.com/node-red/node-red-nodes) from 1.2.0 to 1.2.1.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump node-red-node-twitter from 1.1.6 to 1.1.7 (#760)
+
+Bumps [node-red-node-twitter](https://github.com/node-red/node-red-nodes) from 1.1.6 to 1.1.7.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-contrib-cast from 0.2.15 to 0.2.16 (#756)
 
 Bumps [node-red-contrib-cast](https://github.com/Hypnos3/node-red-contrib-cast) from 0.2.15 to 0.2.16.
