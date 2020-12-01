@@ -1,3 +1,3 @@
-# Changelog since v0.19.1
-- ⬆ Upgrades base image to v5.2.2 
-- ⬆️ Upgrade UniFi Controller to v6.0.28 (#111) 
+# Changelog since v0.19.2
+- ⬆ Upgrades openjdk-8-jdk-headless to 8u275-b01-0ubuntu1~18.04 
+- ⬆️ Upgrade UniFi Controller v6.0.36 (#118) 
