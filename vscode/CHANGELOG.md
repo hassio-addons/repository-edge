@@ -1,14 +1,3 @@
-# Changelog since v2.8.2
-- ⬆ Upgrades Home Assistant CLI to v4.9.0 
-- ⬆ Upgrades usernamehw.errorlens to 3.2.4 
-- ⬆ Upgrades redhat.vscode-yaml to 0.13.0 
-- ⬆ Upgrades lukas-tr.materialdesignicons-intellisense to 3.1.0 
-- ⬆ Upgrades esbenp.prettier-vscode to 5.8.0 
-- ⬆ Upgrades emilast.LogFileHighlighter to 2.10.0 
-- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.12.0 
-- ⬆ Upgrades code-server to 3.7.3 
-- ⬆ Upgrades code-server to 3.7.2 
-- ⬆ Upgrades code-server to 3.6.2 
-- ⬆ Upgrades Home Assistant CLI to v4.7.0 
-- ⬆ Upgrades code-server to 3.6.1 
-- ⬆ Upgrades base image to v3.2.3 
+# Changelog since v2.9.0
+- 🔨 Disable update check 
+- ⬆ Upgrades code-server to 3.7.4 
