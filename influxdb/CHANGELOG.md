@@ -1,2 +1,2 @@
-# Changelog since v3.7.8
-- ⬆ Upgrades Chronograf to 1.8.8 
+# Changelog since v3.7.9
+- ⬆ Upgrades Chronograf to 1.8.9 
