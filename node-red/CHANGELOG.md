@@ -1,4 +1,33 @@
 # Changelog since v7.2.11
+- ⬆️ Bump node-red-contrib-home-assistant-websocket from 0.27.7 to 0.27.8 (#794)
+
+Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.27.7 to 0.27.8.
+- [Release notes](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/releases)
+- [Changelog](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.27.7...v0.27.8)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump node-red-node-pi-gpio from 1.2.1 to 1.2.3 in /node-red (#795)
+
+Bumps [node-red-node-pi-gpio](https://github.com/node-red/node-red-nodes) from 1.2.1 to 1.2.3.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump snyk from 1.434.0 to 1.434.2 in /node-red (#793)
+
+Bumps [snyk](https://github.com/snyk/snyk) from 1.434.0 to 1.434.2.
+- [Release notes](https://github.com/snyk/snyk/releases)
+- [Changelog](https://github.com/snyk/snyk/blob/master/.releaserc)
+- [Commits](https://github.com/snyk/snyk/compare/v1.434.0...v1.434.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-contrib-home-assistant-websocket from 0.27.6 to 0.27.7 (#791)
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.27.6 to 0.27.7.
