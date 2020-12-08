@@ -1,4 +1,14 @@
 # Changelog since v7.2.11
+- ⬆️ Bump js-yaml from 3.14.0 to 3.14.1 (#798)
+
+Bumps [js-yaml](https://github.com/nodeca/js-yaml) from 3.14.0 to 3.14.1.
+- [Release notes](https://github.com/nodeca/js-yaml/releases)
+- [Changelog](https://github.com/nodeca/js-yaml/blob/3.14.1/CHANGELOG.md)
+- [Commits](https://github.com/nodeca/js-yaml/compare/3.14.0...3.14.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-contrib-home-assistant-websocket from 0.27.7 to 0.27.8 (#794)
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.27.7 to 0.27.8.
