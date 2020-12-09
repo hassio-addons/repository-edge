@@ -1,4 +1,33 @@
 # Changelog since v7.2.11
+- ⬆️ Bump node-red-contrib-cast from 0.2.16 to 0.2.17 (#799)
+
+Bumps [node-red-contrib-cast](https://github.com/Hypnos3/node-red-contrib-cast) from 0.2.16 to 0.2.17.
+- [Release notes](https://github.com/Hypnos3/node-red-contrib-cast/releases)
+- [Commits](https://github.com/Hypnos3/node-red-contrib-cast/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump snyk from 1.434.2 to 1.434.3 (#800)
+
+Bumps [snyk](https://github.com/snyk/snyk) from 1.434.2 to 1.434.3.
+- [Release notes](https://github.com/snyk/snyk/releases)
+- [Changelog](https://github.com/snyk/snyk/blob/master/.releaserc)
+- [Commits](https://github.com/snyk/snyk/compare/v1.434.2...v1.434.3)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump node-red-dashboard from 2.24.2 to 2.25.0 in /node-red (#801)
+
+Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.24.2 to 2.25.0.
+- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
+- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red-dashboard/compare/2.24.2...2.25.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump js-yaml from 3.14.0 to 3.14.1 (#798)
 
 Bumps [js-yaml](https://github.com/nodeca/js-yaml) from 3.14.0 to 3.14.1.
