@@ -1,4 +1,23 @@
 # Changelog since v7.2.11
+- ⬆️ Bump node-red-contrib-alexa-home-skill from 0.1.17 to 0.1.18 (#806)
+
+Bumps [node-red-contrib-alexa-home-skill](https://github.com/hardillb/node-red-contrib-alexa-home-skill) from 0.1.17 to 0.1.18.
+- [Release notes](https://github.com/hardillb/node-red-contrib-alexa-home-skill/releases)
+- [Commits](https://github.com/hardillb/node-red-contrib-alexa-home-skill/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump node-red-contrib-home-assistant-websocket from 0.27.8 to 0.27.9 in /node-red (#807)
+
+Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.27.8 to 0.27.9.
+- [Release notes](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/releases)
+- [Changelog](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/blob/dev/CHANGELOG.md)
+- [Commits](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.27.8...v0.27.9)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-contrib-cast from 0.2.16 to 0.2.17 (#799)
 
 Bumps [node-red-contrib-cast](https://github.com/Hypnos3/node-red-contrib-cast) from 0.2.16 to 0.2.17.
