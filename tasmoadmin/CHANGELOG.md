@@ -1,5 +1,5 @@
-# Changelog since v0.13.0
-- ⬆ Upgrades add-on base image to v8.0.5 
-- ⬆ Upgrades nginx to 1.18.0-r1 
-- ⬆ Upgrades PHP to 7.3.23 (#100) 
-- 🔥 Remove portable dir from upstream (#99) 
+# Changelog since v0.13.1
+- 📚 Remove non-existing IPv6 option from documentation (#107)
+
+There is no IPV6 option in config.json causing a supervisor error if enabled
+"WARNING (MainThread) [supervisor.addons.validate] Unknown options ipv6" 
