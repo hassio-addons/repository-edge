@@ -4,9 +4,6 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![GitLab CI][gitlabci-shield]][gitlabci]
-![Awesome][awesome-shield]
-
 [![Discord][discord-shield]][discord]
 [![Community Forum][forum-shield]][forum]
 
@@ -1336,7 +1333,6 @@ SOFTWARE.
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [phpmyadmin-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
@@ -1344,8 +1340,6 @@ SOFTWARE.
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io?u=frenck
 [frenck]: https://github.com/frenck
-[gitlabci-shield]: https://gitlab.com/hassio-addons/repository-edge/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/hassio-addons/repository-edge/pipelines
 [issue]: https://github.com/hassio-addons/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/repository-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
