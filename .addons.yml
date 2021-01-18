@@ -36,7 +36,7 @@ addons:
   example:
     repository: hassio-addons/addon-example
     target: example
-    image: hassioaddons/example-{arch}
+    image: ghcr.io/hassio-addons/example/{arch}
   ftp:
     repository: hassio-addons/addon-ftp
     target: ftp
