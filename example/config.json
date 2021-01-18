@@ -1,6 +1,6 @@
 {
   "name": "Example",
-  "version": "3f16a8b",
+  "version": "3b7d61b",
   "slug": "example",
   "description": "Example add-on by Community Home Assistant Add-ons",
   "url": "https://github.com/hassio-addons/addon-example",
@@ -12,7 +12,6 @@
     "armv7",
     "i386"
   ],
-  "hassio_api": true,
   "options": {
     "log_level": "info",
     "seconds_between_quotes": 5
