@@ -48,7 +48,6 @@ https://github.com/hassio-addons/repository-edge
 ![Supports aarch64 Architecture][adb-aarch64-shield]
 ![Supports amd64 Architecture][adb-amd64-shield]
 ![Supports i386 Architecture][adb-i386-shield]
-![Docker Pulls][adb-pulls-shield]
 
 The Android Debug Bridge server program
 
@@ -62,7 +61,6 @@ The Android Debug Bridge server program
 ![Supports aarch64 Architecture][adguard-aarch64-shield]
 ![Supports amd64 Architecture][adguard-amd64-shield]
 ![Supports i386 Architecture][adguard-i386-shield]
-![Docker Pulls][adguard-pulls-shield]
 
 Network-wide ads & trackers blocking DNS server
 
@@ -76,7 +74,6 @@ Network-wide ads & trackers blocking DNS server
 ![Supports aarch64 Architecture][aircast-aarch64-shield]
 ![Supports amd64 Architecture][aircast-amd64-shield]
 ![Supports i386 Architecture][aircast-i386-shield]
-![Docker Pulls][aircast-pulls-shield]
 
 AirPlay capabilities for your Chromecast devices.
 
@@ -90,7 +87,6 @@ AirPlay capabilities for your Chromecast devices.
 ![Supports aarch64 Architecture][airsonos-aarch64-shield]
 ![Supports amd64 Architecture][airsonos-amd64-shield]
 ![Supports i386 Architecture][airsonos-i386-shield]
-![Docker Pulls][airsonos-pulls-shield]
 
 AirPlay capabilities for your Sonos (and UPnP) devices.
 
@@ -104,7 +100,6 @@ AirPlay capabilities for your Sonos (and UPnP) devices.
 ![Supports aarch64 Architecture][appdaemon-aarch64-shield]
 ![Supports amd64 Architecture][appdaemon-amd64-shield]
 ![Supports i386 Architecture][appdaemon-i386-shield]
-![Docker Pulls][appdaemon-pulls-shield]
 
 Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 
@@ -118,7 +113,6 @@ Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 ![Supports aarch64 Architecture][bitwarden-aarch64-shield]
 ![Supports amd64 Architecture][bitwarden-amd64-shield]
 ![Supports i386 Architecture][bitwarden-i386-shield]
-![Docker Pulls][bitwarden-pulls-shield]
 
 Open source password management solution
 
@@ -132,7 +126,6 @@ Open source password management solution
 ![Supports aarch64 Architecture][bookstack-aarch64-shield]
 ![Supports amd64 Architecture][bookstack-amd64-shield]
 ![Supports i386 Architecture][bookstack-i386-shield]
-![Docker Pulls][bookstack-pulls-shield]
 
 Simple & Free Wiki Software
 
@@ -146,7 +139,6 @@ Simple & Free Wiki Software
 ![Supports aarch64 Architecture][example-aarch64-shield]
 ![Supports amd64 Architecture][example-amd64-shield]
 ![Supports i386 Architecture][example-i386-shield]
-![Docker Pulls][example-pulls-shield]
 
 Example add-on by Community Home Assistant Add-ons
 
@@ -160,7 +152,6 @@ Example add-on by Community Home Assistant Add-ons
 ![Supports aarch64 Architecture][ftp-aarch64-shield]
 ![Supports amd64 Architecture][ftp-amd64-shield]
 ![Supports i386 Architecture][ftp-i386-shield]
-![Docker Pulls][ftp-pulls-shield]
 
 A secure and fast FTP server for Home Assistant
 
@@ -174,7 +165,6 @@ A secure and fast FTP server for Home Assistant
 ![Supports aarch64 Architecture][firefly-iii-aarch64-shield]
 ![Supports amd64 Architecture][firefly-iii-amd64-shield]
 ![Supports i386 Architecture][firefly-iii-i386-shield]
-![Docker Pulls][firefly-iii-pulls-shield]
 
 A free and open source personal finance manager
 
@@ -188,7 +178,6 @@ A free and open source personal finance manager
 ![Supports aarch64 Architecture][phlex-aarch64-shield]
 ![Supports amd64 Architecture][phlex-amd64-shield]
 ![Supports i386 Architecture][phlex-i386-shield]
-![Docker Pulls][phlex-pulls-shield]
 
 A super-sexy text and voice interface for Plex
 
@@ -202,7 +191,6 @@ A super-sexy text and voice interface for Plex
 ![Supports aarch64 Architecture][foldingathome-aarch64-shield]
 ![Supports amd64 Architecture][foldingathome-amd64-shield]
 ![Supports i386 Architecture][foldingathome-i386-shield]
-![Docker Pulls][foldingathome-pulls-shield]
 
 Fighting disease with a world wide distributed super computer
 
@@ -216,7 +204,6 @@ Fighting disease with a world wide distributed super computer
 ![Supports aarch64 Architecture][glances-aarch64-shield]
 ![Supports amd64 Architecture][glances-amd64-shield]
 ![Supports i386 Architecture][glances-i386-shield]
-![Docker Pulls][glances-pulls-shield]
 
 A cross-platform system monitoring tool
 
@@ -230,7 +217,6 @@ A cross-platform system monitoring tool
 ![Supports aarch64 Architecture][grafana-aarch64-shield]
 ![Supports amd64 Architecture][grafana-amd64-shield]
 ![Supports i386 Architecture][grafana-i386-shield]
-![Docker Pulls][grafana-pulls-shield]
 
 The open platform for beautiful analytics and monitoring
 
@@ -244,7 +230,6 @@ The open platform for beautiful analytics and monitoring
 ![Supports aarch64 Architecture][grocy-aarch64-shield]
 ![Supports amd64 Architecture][grocy-amd64-shield]
 ![Supports i386 Architecture][grocy-i386-shield]
-![Docker Pulls][grocy-pulls-shield]
 
 ERP beyond your fridge! A groceries & household management solution for your home
 
@@ -258,7 +243,6 @@ ERP beyond your fridge! A groceries & household management solution for your hom
 ![Supports aarch64 Architecture][happy-bubbles-aarch64-shield]
 ![Supports amd64 Architecture][happy-bubbles-amd64-shield]
 ![Supports i386 Architecture][happy-bubbles-i386-shield]
-![Docker Pulls][happy-bubbles-pulls-shield]
 
 Presence detection server for Happy Bubbles Bluetooth beacon-based presence detection system.
 
@@ -272,7 +256,6 @@ Presence detection server for Happy Bubbles Bluetooth beacon-based presence dete
 ![Supports aarch64 Architecture][home-panel-aarch64-shield]
 ![Supports amd64 Architecture][home-panel-amd64-shield]
 ![Supports i386 Architecture][home-panel-i386-shield]
-![Docker Pulls][home-panel-pulls-shield]
 
 A web frontend for controlling the home
 
@@ -286,7 +269,6 @@ A web frontend for controlling the home
 ![Supports aarch64 Architecture][ide-aarch64-shield]
 ![Supports amd64 Architecture][ide-amd64-shield]
 ![Supports i386 Architecture][ide-i386-shield]
-![Docker Pulls][ide-pulls-shield]
 
 Advanced IDE for Home Assistant, based on Cloud9 IDE
 
@@ -300,7 +282,6 @@ Advanced IDE for Home Assistant, based on Cloud9 IDE
 ![Supports aarch64 Architecture][influxdb-aarch64-shield]
 ![Supports amd64 Architecture][influxdb-amd64-shield]
 ![Supports i386 Architecture][influxdb-i386-shield]
-![Docker Pulls][influxdb-pulls-shield]
 
 Scalable datastore for metrics, events, and real-time analytics
 
@@ -314,7 +295,6 @@ Scalable datastore for metrics, events, and real-time analytics
 ![Supports aarch64 Architecture][jupyterlablite-aarch64-shield]
 ![Supports amd64 Architecture][jupyterlablite-amd64-shield]
 ![Supports i386 Architecture][jupyterlablite-i386-shield]
-![Docker Pulls][jupyterlablite-pulls-shield]
 
 Create documents containing live code, equations, visualizations, and explanatory text.
 
@@ -328,7 +308,6 @@ Create documents containing live code, equations, visualizations, and explanator
 ![Supports aarch64 Architecture][log-viewer-aarch64-shield]
 ![Supports amd64 Architecture][log-viewer-amd64-shield]
 ![Supports i386 Architecture][log-viewer-i386-shield]
-![Docker Pulls][log-viewer-pulls-shield]
 
 Browser-based log utility for Home Assistant
 
@@ -342,7 +321,6 @@ Browser-based log utility for Home Assistant
 ![Supports aarch64 Architecture][lutron-cert-aarch64-shield]
 ![Supports amd64 Architecture][lutron-cert-amd64-shield]
 ![Supports i386 Architecture][lutron-cert-i386-shield]
-![Docker Pulls][lutron-cert-pulls-shield]
 
 Generate certificate to control Lutron Caseta bridge locally
 
@@ -356,7 +334,6 @@ Generate certificate to control Lutron Caseta bridge locally
 ![Supports aarch64 Architecture][mqtt-aarch64-shield]
 ![Supports amd64 Architecture][mqtt-amd64-shield]
 ![Supports i386 Architecture][mqtt-i386-shield]
-![Docker Pulls][mqtt-pulls-shield]
 
 Mosquitto MQTT Server bundled with Hivemq's web client
 
@@ -370,7 +347,6 @@ Mosquitto MQTT Server bundled with Hivemq's web client
 ![Supports aarch64 Architecture][matrix-aarch64-shield]
 ![Supports amd64 Architecture][matrix-amd64-shield]
 ![Supports i386 Architecture][matrix-i386-shield]
-![Docker Pulls][matrix-pulls-shield]
 
 A secure and decentralized communication platform.
 
@@ -384,7 +360,6 @@ A secure and decentralized communication platform.
 ![Supports aarch64 Architecture][mopidy-aarch64-shield]
 ![Supports amd64 Architecture][mopidy-amd64-shield]
 ![Supports i386 Architecture][mopidy-i386-shield]
-![Docker Pulls][mopidy-pulls-shield]
 
 Mopidy is an extensible music server
 
@@ -398,7 +373,6 @@ Mopidy is an extensible music server
 ![Supports aarch64 Architecture][nut-aarch64-shield]
 ![Supports amd64 Architecture][nut-amd64-shield]
 ![Supports i386 Architecture][nut-i386-shield]
-![Docker Pulls][nut-pulls-shield]
 
 Manage battery backup (UPS) devices
 
@@ -412,7 +386,6 @@ Manage battery backup (UPS) devices
 ![Supports aarch64 Architecture][nginxproxymanager-aarch64-shield]
 ![Supports amd64 Architecture][nginxproxymanager-amd64-shield]
 ![Supports i386 Architecture][nginxproxymanager-i386-shield]
-![Docker Pulls][nginxproxymanager-pulls-shield]
 
 Manage Nginx proxy hosts with a simple, powerful interface
 
@@ -426,7 +399,6 @@ Manage Nginx proxy hosts with a simple, powerful interface
 ![Supports aarch64 Architecture][node-red-aarch64-shield]
 ![Supports amd64 Architecture][node-red-amd64-shield]
 ![Supports i386 Architecture][node-red-i386-shield]
-![Docker Pulls][node-red-pulls-shield]
 
 Flow-based programming for the Internet of Things
 
@@ -440,7 +412,6 @@ Flow-based programming for the Internet of Things
 ![Supports aarch64 Architecture][plex-aarch64-shield]
 ![Supports amd64 Architecture][plex-amd64-shield]
 ![Supports i386 Architecture][plex-i386-shield]
-![Docker Pulls][plex-pulls-shield]
 
 Recorded media, live TV, online news, and podcasts ready to stream.
 
@@ -454,7 +425,6 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 ![Supports aarch64 Architecture][portainer-aarch64-shield]
 ![Supports amd64 Architecture][portainer-amd64-shield]
 ![Supports i386 Architecture][portainer-i386-shield]
-![Docker Pulls][portainer-pulls-shield]
 
 Manage your Docker environment with ease
 
@@ -468,7 +438,6 @@ Manage your Docker environment with ease
 ![Supports aarch64 Architecture][prometheus-aarch64-shield]
 ![Supports amd64 Architecture][prometheus-amd64-shield]
 ![Supports i386 Architecture][prometheus-i386-shield]
-![Docker Pulls][prometheus-pulls-shield]
 
 Cloud native metrics
 
@@ -482,7 +451,6 @@ Cloud native metrics
 ![Supports aarch64 Architecture][sqlite-web-aarch64-shield]
 ![Supports amd64 Architecture][sqlite-web-amd64-shield]
 ![Supports i386 Architecture][sqlite-web-i386-shield]
-![Docker Pulls][sqlite-web-pulls-shield]
 
 Explore your SQLite database
 
@@ -496,7 +464,6 @@ Explore your SQLite database
 ![Supports aarch64 Architecture][ssh-aarch64-shield]
 ![Supports amd64 Architecture][ssh-amd64-shield]
 ![Supports i386 Architecture][ssh-i386-shield]
-![Docker Pulls][ssh-pulls-shield]
 
 SSH & Web Terminal access to your Home Assistant instance
 
@@ -510,7 +477,6 @@ SSH & Web Terminal access to your Home Assistant instance
 ![Supports aarch64 Architecture][spotify-aarch64-shield]
 ![Supports amd64 Architecture][spotify-amd64-shield]
 ![Supports i386 Architecture][spotify-i386-shield]
-![Docker Pulls][spotify-pulls-shield]
 
 Play Spotify music on your Home Assistant device
 
@@ -524,7 +490,6 @@ Play Spotify music on your Home Assistant device
 ![Supports aarch64 Architecture][tasmoadmin-aarch64-shield]
 ![Supports amd64 Architecture][tasmoadmin-amd64-shield]
 ![Supports i386 Architecture][tasmoadmin-i386-shield]
-![Docker Pulls][tasmoadmin-pulls-shield]
 
 Centrally manage all your Sonoff-Tasmota devices
 
@@ -538,7 +503,6 @@ Centrally manage all your Sonoff-Tasmota devices
 ![Supports aarch64 Architecture][tautulli-aarch64-shield]
 ![Supports amd64 Architecture][tautulli-amd64-shield]
 ![Supports i386 Architecture][tautulli-i386-shield]
-![Docker Pulls][tautulli-pulls-shield]
 
 Monitoring and tracking tool for Plex Media Server
 
@@ -552,7 +516,6 @@ Monitoring and tracking tool for Plex Media Server
 ![Supports aarch64 Architecture][thelounge-aarch64-shield]
 ![Supports amd64 Architecture][thelounge-amd64-shield]
 ![Supports i386 Architecture][thelounge-i386-shield]
-![Docker Pulls][thelounge-pulls-shield]
 
 A self-hosted web IRC client
 
@@ -566,7 +529,6 @@ A self-hosted web IRC client
 ![Supports aarch64 Architecture][tor-aarch64-shield]
 ![Supports amd64 Architecture][tor-amd64-shield]
 ![Supports i386 Architecture][tor-i386-shield]
-![Docker Pulls][tor-pulls-shield]
 
 Protect your privacy and access Home Assistant via Tor.
 
@@ -580,7 +542,6 @@ Protect your privacy and access Home Assistant via Tor.
 ![Supports aarch64 Architecture][traccar-aarch64-shield]
 ![Supports amd64 Architecture][traccar-amd64-shield]
 ![Supports i386 Architecture][traccar-i386-shield]
-![Docker Pulls][traccar-pulls-shield]
 
 Modern GPS Tracking Platform
 
@@ -594,7 +555,6 @@ Modern GPS Tracking Platform
 ![Supports aarch64 Architecture][unifi-aarch64-shield]
 ![Supports amd64 Architecture][unifi-amd64-shield]
 ![Supports i386 Architecture][unifi-i386-shield]
-![Docker Pulls][unifi-pulls-shield]
 
 Manage your UniFi network using a web browser
 
@@ -608,7 +568,6 @@ Manage your UniFi network using a web browser
 ![Supports aarch64 Architecture][vscode-remote-aarch64-shield]
 ![Supports amd64 Architecture][vscode-remote-amd64-shield]
 ![Supports i386 Architecture][vscode-remote-i386-shield]
-![Docker Pulls][vscode-remote-pulls-shield]
 
 VSCode Remote access to Home Assistant
 
@@ -622,7 +581,6 @@ VSCode Remote access to Home Assistant
 ![Supports aarch64 Architecture][vscode-aarch64-shield]
 ![Supports amd64 Architecture][vscode-amd64-shield]
 ![Supports i386 Architecture][vscode-i386-shield]
-![Docker Pulls][vscode-pulls-shield]
 
 Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!
 
@@ -636,7 +594,6 @@ Fully featured VSCode experience, to edit your HA config in the browser, includi
 ![Supports aarch64 Architecture][wireguard-aarch64-shield]
 ![Supports amd64 Architecture][wireguard-amd64-shield]
 ![Supports i386 Architecture][wireguard-i386-shield]
-![Docker Pulls][wireguard-pulls-shield]
 
 Fast, modern, secure VPN tunnel
 
@@ -650,7 +607,6 @@ Fast, modern, secure VPN tunnel
 ![Supports aarch64 Architecture][zwave2mqtt-aarch64-shield]
 ![Supports amd64 Architecture][zwave2mqtt-amd64-shield]
 ![Supports i386 Architecture][zwave2mqtt-i386-shield]
-![Docker Pulls][zwave2mqtt-pulls-shield]
 
 Fully configurable Z-Wave to MQTT gateway and control panel
 
@@ -664,7 +620,6 @@ Fully configurable Z-Wave to MQTT gateway and control panel
 ![Supports aarch64 Architecture][zerotier-aarch64-shield]
 ![Supports amd64 Architecture][zerotier-amd64-shield]
 ![Supports i386 Architecture][zerotier-i386-shield]
-![Docker Pulls][zerotier-pulls-shield]
 
 Radically simplify your network with a virtual networking layer that works the same everywhere
 
@@ -678,7 +633,6 @@ Radically simplify your network with a virtual networking layer that works the s
 ![Supports aarch64 Architecture][chrony-aarch64-shield]
 ![Supports amd64 Architecture][chrony-amd64-shield]
 ![Supports i386 Architecture][chrony-i386-shield]
-![Docker Pulls][chrony-pulls-shield]
 
 A local NTP (Network Time Protocol) server for cameras etc.
 
@@ -692,7 +646,6 @@ A local NTP (Network Time Protocol) server for cameras etc.
 ![Supports aarch64 Architecture][ledfx-aarch64-shield]
 ![Supports amd64 Architecture][ledfx-amd64-shield]
 ![Supports i386 Architecture][ledfx-i386-shield]
-![Docker Pulls][ledfx-pulls-shield]
 
 A network based LED effect controller with support for advanced real-time audio effects!
 
@@ -706,7 +659,6 @@ A network based LED effect controller with support for advanced real-time audio 
 ![Supports aarch64 Architecture][motioneye-aarch64-shield]
 ![Supports amd64 Architecture][motioneye-amd64-shield]
 ![Supports i386 Architecture][motioneye-i386-shield]
-![Docker Pulls][motioneye-pulls-shield]
 
 Simple, elegant and feature-rich CCTV/NVR for your cameras
 
@@ -720,7 +672,6 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras
 ![Supports aarch64 Architecture][phpmyadmin-aarch64-shield]
 ![Supports amd64 Architecture][phpmyadmin-amd64-shield]
 ![Supports i386 Architecture][phpmyadmin-i386-shield]
-![Docker Pulls][phpmyadmin-pulls-shield]
 
 A web interface for the official MariaDB add-on
 
@@ -847,7 +798,6 @@ SOFTWARE.
 [addon-doc-adb]: https://github.com/hassio-addons/addon-adb/blob/2d811e5/README.md
 [adb-issue]: https://github.com/hassio-addons/addon-adb/issues
 [adb-version-shield]: https://img.shields.io/badge/version-2d811e5-blue.svg
-[adb-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/adb-amd64.svg
 [adb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -857,7 +807,6 @@ SOFTWARE.
 [addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/ab2190d/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
 [adguard-version-shield]: https://img.shields.io/badge/version-ab2190d-blue.svg
-[adguard-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/adguard-armhf.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -867,7 +816,6 @@ SOFTWARE.
 [addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/2d7ec69/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
 [aircast-version-shield]: https://img.shields.io/badge/version-2d7ec69-blue.svg
-[aircast-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/aircast-amd64.svg
 [aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -877,7 +825,6 @@ SOFTWARE.
 [addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/a51d20c/README.md
 [airsonos-issue]: https://github.com/hassio-addons/addon-airsonos/issues
 [airsonos-version-shield]: https://img.shields.io/badge/version-a51d20c-blue.svg
-[airsonos-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/airsonos-amd64.svg
 [airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -887,7 +834,6 @@ SOFTWARE.
 [addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/0378903/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/addon-appdaemon/issues
 [appdaemon-version-shield]: https://img.shields.io/badge/version-0378903-blue.svg
-[appdaemon-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/appdaemon-armhf.svg
 [appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -897,7 +843,6 @@ SOFTWARE.
 [addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/a43e92c/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
 [bitwarden-version-shield]: https://img.shields.io/badge/version-a43e92c-blue.svg
-[bitwarden-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/bitwarden-amd64.svg
 [bitwarden-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bitwarden-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -907,7 +852,6 @@ SOFTWARE.
 [addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/e7c5f86/README.md
 [bookstack-issue]: https://github.com/hassio-addons/addon-bookstack/issues
 [bookstack-version-shield]: https://img.shields.io/badge/version-e7c5f86-blue.svg
-[bookstack-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/bookstack-armhf.svg
 [bookstack-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bookstack-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -917,7 +861,6 @@ SOFTWARE.
 [addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/796e201/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
 [example-version-shield]: https://img.shields.io/badge/version-796e201-blue.svg
-[example-pulls-shield]: https://img.shields.io/docker/pulls/ghcr.io/hassio-addons/example/armhf.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -927,7 +870,6 @@ SOFTWARE.
 [addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/1c615cc/README.md
 [ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
 [ftp-version-shield]: https://img.shields.io/badge/version-1c615cc-blue.svg
-[ftp-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ftp-armhf.svg
 [ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -937,7 +879,6 @@ SOFTWARE.
 [addon-doc-firefly-iii]: https://github.com/hassio-addons/addon-firefly-iii/blob/3609591/README.md
 [firefly-iii-issue]: https://github.com/hassio-addons/addon-firefly-iii/issues
 [firefly-iii-version-shield]: https://img.shields.io/badge/version-3609591-blue.svg
-[firefly-iii-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/firefly-iii-amd64.svg
 [firefly-iii-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [firefly-iii-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -947,7 +888,6 @@ SOFTWARE.
 [addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/224e081/README.md
 [phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
 [phlex-version-shield]: https://img.shields.io/badge/version-224e081-blue.svg
-[phlex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phlex-armhf.svg
 [phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -957,7 +897,6 @@ SOFTWARE.
 [addon-doc-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/blob/65580fd/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/addon-foldingathome/issues
 [foldingathome-version-shield]: https://img.shields.io/badge/version-65580fd-blue.svg
-[foldingathome-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/foldingathome-amd64.svg
 [foldingathome-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [foldingathome-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [foldingathome-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -967,7 +906,6 @@ SOFTWARE.
 [addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/068f182/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
 [glances-version-shield]: https://img.shields.io/badge/version-068f182-blue.svg
-[glances-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/glances-armhf.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -977,7 +915,6 @@ SOFTWARE.
 [addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/1b8b498/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
 [grafana-version-shield]: https://img.shields.io/badge/version-1b8b498-blue.svg
-[grafana-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grafana-amd64.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -987,7 +924,6 @@ SOFTWARE.
 [addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/1cdc62f/README.md
 [grocy-issue]: https://github.com/hassio-addons/addon-grocy/issues
 [grocy-version-shield]: https://img.shields.io/badge/version-1cdc62f-blue.svg
-[grocy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/grocy-armhf.svg
 [grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -997,7 +933,6 @@ SOFTWARE.
 [addon-doc-happy-bubbles]: https://github.com/hassio-addons/addon-happy-bubbles/blob/6c25122/README.md
 [happy-bubbles-issue]: https://github.com/hassio-addons/addon-happy-bubbles/issues
 [happy-bubbles-version-shield]: https://img.shields.io/badge/version-6c25122-blue.svg
-[happy-bubbles-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/happy-bubbles-armhf.svg
 [happy-bubbles-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [happy-bubbles-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [happy-bubbles-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1007,7 +942,6 @@ SOFTWARE.
 [addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/060b7d1/README.md
 [home-panel-issue]: https://github.com/hassio-addons/addon-home-panel/issues
 [home-panel-version-shield]: https://img.shields.io/badge/version-060b7d1-blue.svg
-[home-panel-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/home-panel-armhf.svg
 [home-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [home-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1017,7 +951,6 @@ SOFTWARE.
 [addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/f8a4afd/README.md
 [ide-issue]: https://github.com/hassio-addons/addon-ide/issues
 [ide-version-shield]: https://img.shields.io/badge/version-f8a4afd-blue.svg
-[ide-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ide-armhf.svg
 [ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1027,7 +960,6 @@ SOFTWARE.
 [addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/9ff7ab8/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
 [influxdb-version-shield]: https://img.shields.io/badge/version-9ff7ab8-blue.svg
-[influxdb-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/influxdb-amd64.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1037,7 +969,6 @@ SOFTWARE.
 [addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/ba6de32/README.md
 [jupyterlablite-issue]: https://github.com/hassio-addons/addon-jupyterlab-lite/issues
 [jupyterlablite-version-shield]: https://img.shields.io/badge/version-ba6de32-blue.svg
-[jupyterlablite-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/jupyterlablite-amd64.svg
 [jupyterlablite-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlablite-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlablite-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1047,7 +978,6 @@ SOFTWARE.
 [addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/fade46f/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
 [log-viewer-version-shield]: https://img.shields.io/badge/version-fade46f-blue.svg
-[log-viewer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/log-viewer-armhf.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1057,7 +987,6 @@ SOFTWARE.
 [addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/1587b8a/README.md
 [lutron-cert-issue]: https://github.com/hassio-addons/addon-lutron-cert/issues
 [lutron-cert-version-shield]: https://img.shields.io/badge/version-1587b8a-blue.svg
-[lutron-cert-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/lutron-cert-armhf.svg
 [lutron-cert-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [lutron-cert-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lutron-cert-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1067,7 +996,6 @@ SOFTWARE.
 [addon-doc-mqtt]: https://github.com/hassio-addons/addon-mqtt/blob/2dba78d/README.md
 [mqtt-issue]: https://github.com/hassio-addons/addon-mqtt/issues
 [mqtt-version-shield]: https://img.shields.io/badge/version-2dba78d-blue.svg
-[mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mqtt-armhf.svg
 [mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1077,7 +1005,6 @@ SOFTWARE.
 [addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/1bc84ce/README.md
 [matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues
 [matrix-version-shield]: https://img.shields.io/badge/version-1bc84ce-blue.svg
-[matrix-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/matrix-armhf.svg
 [matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1087,7 +1014,6 @@ SOFTWARE.
 [addon-doc-mopidy]: https://github.com/hassio-addons/addon-mopidy/blob/06fcfd1/README.md
 [mopidy-issue]: https://github.com/hassio-addons/addon-mopidy/issues
 [mopidy-version-shield]: https://img.shields.io/badge/version-06fcfd1-blue.svg
-[mopidy-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/mopidy-amd64.svg
 [mopidy-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [mopidy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mopidy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1097,7 +1023,6 @@ SOFTWARE.
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/c022f38/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
 [nut-version-shield]: https://img.shields.io/badge/version-c022f38-blue.svg
-[nut-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nut-armhf.svg
 [nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1107,7 +1032,6 @@ SOFTWARE.
 [addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/c3fa718/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/addon-nginx-proxy-manager/issues
 [nginxproxymanager-version-shield]: https://img.shields.io/badge/version-c3fa718-blue.svg
-[nginxproxymanager-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/nginxproxymanager-armhf.svg
 [nginxproxymanager-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nginxproxymanager-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1117,7 +1041,6 @@ SOFTWARE.
 [addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/a6442d0/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
 [node-red-version-shield]: https://img.shields.io/badge/version-a6442d0-blue.svg
-[node-red-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/node-red-armhf.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1127,7 +1050,6 @@ SOFTWARE.
 [addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/ae65483/README.md
 [plex-issue]: https://github.com/hassio-addons/addon-plex/issues
 [plex-version-shield]: https://img.shields.io/badge/version-ae65483-blue.svg
-[plex-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/plex-amd64.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1137,7 +1059,6 @@ SOFTWARE.
 [addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/ffbbff3/README.md
 [portainer-issue]: https://github.com/hassio-addons/addon-portainer/issues
 [portainer-version-shield]: https://img.shields.io/badge/version-ffbbff3-blue.svg
-[portainer-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/portainer-armhf.svg
 [portainer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [portainer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1147,7 +1068,6 @@ SOFTWARE.
 [addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/45a1472/README.md
 [prometheus-issue]: https://github.com/hassio-addons/addon-prometheus/issues
 [prometheus-version-shield]: https://img.shields.io/badge/version-45a1472-blue.svg
-[prometheus-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/prometheus-amd64.svg
 [prometheus-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [prometheus-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [prometheus-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1157,7 +1077,6 @@ SOFTWARE.
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/05c5270/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
 [sqlite-web-version-shield]: https://img.shields.io/badge/version-05c5270-blue.svg
-[sqlite-web-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sqlite-web-armhf.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1167,7 +1086,6 @@ SOFTWARE.
 [addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/efbd7c2/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
 [ssh-version-shield]: https://img.shields.io/badge/version-efbd7c2-blue.svg
-[ssh-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ssh-armhf.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1177,7 +1095,6 @@ SOFTWARE.
 [addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/57d017d/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
 [spotify-version-shield]: https://img.shields.io/badge/version-57d017d-blue.svg
-[spotify-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/spotify-amd64.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1187,7 +1104,6 @@ SOFTWARE.
 [addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/3cc0410/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/addon-tasmoadmin/issues
 [tasmoadmin-version-shield]: https://img.shields.io/badge/version-3cc0410-blue.svg
-[tasmoadmin-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/sonweb-armhf.svg
 [tasmoadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1197,7 +1113,6 @@ SOFTWARE.
 [addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/0e66044/README.md
 [tautulli-issue]: https://github.com/hassio-addons/addon-tautulli/issues
 [tautulli-version-shield]: https://img.shields.io/badge/version-0e66044-blue.svg
-[tautulli-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tautulli-armhf.svg
 [tautulli-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1207,7 +1122,6 @@ SOFTWARE.
 [addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/d777369/README.md
 [thelounge-issue]: https://github.com/hassio-addons/addon-thelounge/issues
 [thelounge-version-shield]: https://img.shields.io/badge/version-d777369-blue.svg
-[thelounge-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/thelounge-armhf.svg
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1217,7 +1131,6 @@ SOFTWARE.
 [addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/ed15106/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
 [tor-version-shield]: https://img.shields.io/badge/version-ed15106-blue.svg
-[tor-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/tor-armhf.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1227,7 +1140,6 @@ SOFTWARE.
 [addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/12ec69d/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
 [traccar-version-shield]: https://img.shields.io/badge/version-12ec69d-blue.svg
-[traccar-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/traccar-armhf.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1237,7 +1149,6 @@ SOFTWARE.
 [addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/84c6577/README.md
 [unifi-issue]: https://github.com/hassio-addons/addon-unifi/issues
 [unifi-version-shield]: https://img.shields.io/badge/version-84c6577-blue.svg
-[unifi-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/unifi-amd64.svg
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1247,7 +1158,6 @@ SOFTWARE.
 [addon-doc-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/blob/1d26708/README.md
 [vscode-remote-issue]: https://github.com/hassio-addons/addon-vscode-remote/issues
 [vscode-remote-version-shield]: https://img.shields.io/badge/version-1d26708-blue.svg
-[vscode-remote-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/vscode-remote-armhf.svg
 [vscode-remote-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-remote-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-remote-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1257,7 +1167,6 @@ SOFTWARE.
 [addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/150dc82/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
 [vscode-version-shield]: https://img.shields.io/badge/version-150dc82-blue.svg
-[vscode-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/vscode-amd64.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1267,7 +1176,6 @@ SOFTWARE.
 [addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/4153744/README.md
 [wireguard-issue]: https://github.com/hassio-addons/addon-wireguard/issues
 [wireguard-version-shield]: https://img.shields.io/badge/version-4153744-blue.svg
-[wireguard-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/wireguard-armhf.svg
 [wireguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wireguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1277,7 +1185,6 @@ SOFTWARE.
 [addon-doc-zwave2mqtt]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/c93da0d/README.md
 [zwave2mqtt-issue]: https://github.com/hassio-addons/addon-zwave2mqtt/issues
 [zwave2mqtt-version-shield]: https://img.shields.io/badge/version-c93da0d-blue.svg
-[zwave2mqtt-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/zwave2mqtt-armhf.svg
 [zwave2mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zwave2mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zwave2mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1287,7 +1194,6 @@ SOFTWARE.
 [addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/c97814b/README.md
 [zerotier-issue]: https://github.com/hassio-addons/addon-zerotier/issues
 [zerotier-version-shield]: https://img.shields.io/badge/version-c97814b-blue.svg
-[zerotier-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/zerotier-armhf.svg
 [zerotier-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zerotier-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zerotier-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1297,7 +1203,6 @@ SOFTWARE.
 [addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/1d98037/README.md
 [chrony-issue]: https://github.com/hassio-addons/addon-chrony/issues
 [chrony-version-shield]: https://img.shields.io/badge/version-1d98037-blue.svg
-[chrony-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/chrony-armhf.svg
 [chrony-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [chrony-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1307,7 +1212,6 @@ SOFTWARE.
 [addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/d56084f/README.md
 [ledfx-issue]: https://github.com/hassio-addons/addon-ledfx/issues
 [ledfx-version-shield]: https://img.shields.io/badge/version-d56084f-blue.svg
-[ledfx-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/ledfx-armhf.svg
 [ledfx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ledfx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ledfx-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1317,7 +1221,6 @@ SOFTWARE.
 [addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/5678f5a/README.md
 [motioneye-issue]: https://github.com/hassio-addons/addon-motioneye/issues
 [motioneye-version-shield]: https://img.shields.io/badge/version-5678f5a-blue.svg
-[motioneye-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/motioneye-armhf.svg
 [motioneye-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [motioneye-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -1327,7 +1230,6 @@ SOFTWARE.
 [addon-doc-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/blob/e976198/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/addon-phpmyadmin/issues
 [phpmyadmin-version-shield]: https://img.shields.io/badge/version-e976198-blue.svg
-[phpmyadmin-pulls-shield]: https://img.shields.io/docker/pulls/hassioaddons/phpmyadmin-armhf.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
