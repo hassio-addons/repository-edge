@@ -8,7 +8,7 @@ on:
 
 jobs:
   publish:
-    name: Publishing add-on
+    name: Publish add-on update
     runs-on: ubuntu-latest
     steps:
       - name: 🚀 Run Repository Updater
