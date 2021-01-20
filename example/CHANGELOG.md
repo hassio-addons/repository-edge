@@ -1,2 +1,3 @@
-# Changelog since v4.0.3
-- Upgrade add-on base image to 9.0.1 (#31) 
+# Changelog since v4.0.4
+- Fix add-on description extraction (#34) 
+- Upgrade Code of Conduct (#33) 
