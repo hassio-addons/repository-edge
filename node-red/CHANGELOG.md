@@ -1,4 +1,5 @@
 # Changelog since v7.2.11
+- Fix add-on description extraction (#857) 
 - Upgrade add-on base image to 9.0.1 (#856)
 
 * Upgrade add-on base image to 9.0.1
