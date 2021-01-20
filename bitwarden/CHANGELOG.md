@@ -1,4 +1,19 @@
 # Changelog since v0.6.2
+- ⬆️ Bump frenck/action-addon-linter from v1.2.3 to v1.3 (#66)
+
+* ⬆ Bump frenck/action-addon-linter from v1.2.3 to v1.3
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.2.3 to v1.3.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v1.2.3...744441c93386c59d3ed959a71efa6fa7c40d062a)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+* Update .github/workflows/ci.yaml
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <frenck@addons.community> 
+- Add missing database dependencies (#67) 
 - Upgrade add-on base image to 4.0.0 (#65)
 
 * Upgrade add-on base image to 4.0.0
