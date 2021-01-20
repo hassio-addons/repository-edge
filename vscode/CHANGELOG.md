@@ -1,4 +1,5 @@
 # Changelog since v2.9.1
+- ⬆ Upgrades redhat.vscode-yaml to 0.14.0 (#166) 
 - Documentation tweaks (#165) 
 - ⬆ Upgrades oderwat.indent-rainbow to 7.5.0 (#164) 
 - Add zip/unzip commands (#163) 
