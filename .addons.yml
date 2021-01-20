@@ -180,7 +180,7 @@ addons:
   vscode:
     repository: hassio-addons/addon-vscode
     target: vscode
-    image: hassioaddons/vscode-{arch}
+    image: ghcr.io/hassio-addons/vscode/{arch}
   vscode-remote:
     repository: hassio-addons/addon-vscode-remote
     target: vscode-remote
