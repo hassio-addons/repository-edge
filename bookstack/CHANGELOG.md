@@ -1,4 +1,11 @@
 # Changelog since v0.7.0
+- 📚 Documentation updates (#31)
+
+* 📚 Update to Github Actions
+
+* 📚 Maintenance year
+
+* 📚 Doc tweaks 
 - 📚 Update Code of Conduct (#28) 
 - 🔨 Remove no longer needed gitlab config (#29) 
 - ⬆ Update image to 9.0.1 and package dependencies (#30)
