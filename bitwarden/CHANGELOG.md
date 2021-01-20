@@ -1,4 +1,9 @@
 # Changelog since v0.6.2
+- Upgrade add-on base image to 4.0.0 (#65)
+
+* Upgrade add-on base image to 4.0.0
+
+* Update base image location to GHCR 
 - ⬆ Upgrades Bitwarden RS to 1.18.0 (#64) 
 - ⬆ Upgrades nginx to 1.14.2-2+deb10u3 (#63) 
 - Add new repository workflow (#62)
