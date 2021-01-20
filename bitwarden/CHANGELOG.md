@@ -1,4 +1,5 @@
 # Changelog since v0.6.2
+- Documentation tweaks (#68) 
 - ⬆️ Bump frenck/action-addon-linter from v1.2.3 to v1.3 (#66)
 
 * ⬆ Bump frenck/action-addon-linter from v1.2.3 to v1.3
