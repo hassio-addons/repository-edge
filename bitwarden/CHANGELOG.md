@@ -1,4 +1,5 @@
 # Changelog since v0.6.2
+- ⬆ Upgrades Bitwarden RS to 1.18.0 (#64) 
 - ⬆ Upgrades nginx to 1.14.2-2+deb10u3 (#63) 
 - Add new repository workflow (#62)
 
