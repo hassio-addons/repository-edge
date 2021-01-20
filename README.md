@@ -1145,10 +1145,10 @@ SOFTWARE.
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [traccar-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [traccar-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/e17be82
-[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/e17be82/README.md
+[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/cadad4b
+[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/cadad4b/README.md
 [unifi-issue]: https://github.com/hassio-addons/addon-unifi/issues
-[unifi-version-shield]: https://img.shields.io/badge/version-e17be82-blue.svg
+[unifi-version-shield]: https://img.shields.io/badge/version-cadad4b-blue.svg
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
