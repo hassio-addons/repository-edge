@@ -1,31 +1,22 @@
-# Changelog since v0.7.0
-- 📚 Fix commit activity (#34) 
-- Fix add-on description extraction (#33) 
-- 📚 Documentation updates (#31)
+## What’s changed
 
-* 📚 Update to Github Actions
+## ✨ New features
 
-* 📚 Maintenance year
+- ✨ Add envvars option to configuration @sinclairpaul (#32)
 
-* 📚 Doc tweaks 
-- 📚 Update Code of Conduct (#28) 
-- 🔨 Remove no longer needed gitlab config (#29) 
-- ⬆ Update image to 9.0.1 and package dependencies (#30)
+## 🧰 Maintenance
 
-* 🔨 Update base image to v9.0.1
+- 🔨 Update CI @sinclairpaul (#25)
+- 📚 Update year @sinclairpaul (#27)
+- 🔨 Remove no longer needed gitlab config @sinclairpaul (#29)
+- 📚 Update Code of Conduct @sinclairpaul (#28)
+- Fix add-on description extraction @frenck (#33)
 
-* 📚 Update image labels
+## 📚 Documentation
 
-* ⬆ Update nginx to 1.18.0-r13
+- 📚 Documentation updates @sinclairpaul (#31)
+- 📚 Fix commit activity @sinclairpaul (#34)
 
-* ⬆ Update mariadb-client to 10.5.8-r0
+## ⬆️ Dependency updates
 
-* ⬆ Update php to 7.4.14-r0
-
-* ⬆ Update composer to 2.0.8-r0 
-- 📚 Update year (#27) 
-- 🔨 Update CI (#25)
-
-Co-authored-by: Franck Nijhof <frenck@frenck.nl>
-Co-authored-by: sinclairpaul <sinclairpaul@users.noreply.github.com> 
-- ⬆ Update Bookstack to v0.31.4 
+- ⬆ Update image to 9.0.1 and package dependencies @sinclairpaul (#30)

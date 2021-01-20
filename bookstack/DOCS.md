@@ -25,6 +25,9 @@ log_level: info
 ssl: false
 certfile: fullchain.pem
 keyfile: privkey.pem
+envvars:
+  - name: SESSION_COOKIE_NAME
+    value: bookstack_session
 ```
 
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
@@ -90,6 +93,27 @@ Only applies if a remote MYSQL database is used, the password of the above user.
 
 Only applies if a remote MYSQL database is used, the port that the database
 server is listening on.
+
+### Option: `envvars`
+
+This allows the setting of Environment Variables to control Bookstack
+configuration as documented at:
+
+<https://www.bookstackapp.com/docs/>
+
+**Note**: _Changing these options can possibly cause issues with you instance.
+USE AT YOUR OWN RISK!_
+
+These are case sensitive and any items set by specific configuration will take
+precedence.
+
+#### Sub-option: `name`
+
+The name of the environment variable to set.
+
+#### Sub-option: `value`
+
+The value of the environment variable to set.
 
 ## Database usage
 
