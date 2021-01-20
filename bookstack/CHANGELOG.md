@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- 📚 Update year (#27) 
 - 🔨 Update CI (#25)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl>
