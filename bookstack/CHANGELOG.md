@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- 📚 Fix commit activity (#34) 
 - Fix add-on description extraction (#33) 
 - 📚 Documentation updates (#31)
 
