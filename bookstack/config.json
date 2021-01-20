@@ -1,12 +1,11 @@
 {
   "name": "Bookstack",
-  "version": "e7c5f86",
+  "version": "2fb6c25",
   "slug": "bookstack",
   "description": "Simple & Free Wiki Software",
   "url": "https://github.com/hassio-addons/addon-bookstack",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
   "init": false,
-  "startup": "application",
   "arch": [
     "aarch64",
     "amd64",
@@ -14,9 +13,7 @@
     "armv7",
     "i386"
   ],
-  "boot": "auto",
   "hassio_api": true,
-  "hassio_role": "default",
   "services": [
     "mysql:want"
   ],
@@ -46,5 +43,5 @@
     "keyfile": "str",
     "ssl": "bool"
   },
-  "image": "hassioaddons/bookstack-{arch}"
+  "image": "ghcr.io/hassio-addons/bookstack/{arch}"
 }

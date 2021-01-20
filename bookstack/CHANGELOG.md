@@ -1,4 +1,6 @@
-# Changelog since v0.6.4
-- ⬆ Update Bookstack to v0.31.3 
-- ⬆ Update php to 7.3.26-r0 
-- ⬆ Update Bookstack to v0.31.0 
+# Changelog since v0.7.0
+- 🔨 Update CI (#25)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl>
+Co-authored-by: sinclairpaul <sinclairpaul@users.noreply.github.com> 
+- ⬆ Update Bookstack to v0.31.4 
