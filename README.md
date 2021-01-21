@@ -248,19 +248,6 @@ A web frontend for controlling the home
 
 [:books: Home Panel add-on documentation][addon-doc-home-panel]
 
-### &#10003; [IDE][addon-ide]
-
-![Latest Version][ide-version-shield]
-![Supports armhf Architecture][ide-armhf-shield]
-![Supports armv7 Architecture][ide-armv7-shield]
-![Supports aarch64 Architecture][ide-aarch64-shield]
-![Supports amd64 Architecture][ide-amd64-shield]
-![Supports i386 Architecture][ide-i386-shield]
-
-Advanced IDE for Home Assistant, based on Cloud9 IDE
-
-[:books: IDE add-on documentation][addon-doc-ide]
-
 ### &#10003; [InfluxDB][addon-influxdb]
 
 ![Latest Version][influxdb-version-shield]
@@ -701,7 +688,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Grafana][grafana-issue]
 - [Open an issue for the add-on: Grocy][grocy-issue]
 - [Open an issue for the add-on: Home Panel][home-panel-issue]
-- [Open an issue for the add-on: IDE][ide-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: JupyterLab Lite][jupyterlablite-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
@@ -924,15 +910,6 @@ SOFTWARE.
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [home-panel-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [home-panel-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ide]: https://github.com/hassio-addons/addon-ide/tree/f8a4afd
-[addon-doc-ide]: https://github.com/hassio-addons/addon-ide/blob/f8a4afd/README.md
-[ide-issue]: https://github.com/hassio-addons/addon-ide/issues
-[ide-version-shield]: https://img.shields.io/badge/version-f8a4afd-blue.svg
-[ide-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[ide-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ide-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[ide-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[ide-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/9ff7ab8
 [addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/9ff7ab8/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
