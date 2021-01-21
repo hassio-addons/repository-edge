@@ -170,19 +170,6 @@ A free and open source personal finance manager
 
 [:books: Firefly III add-on documentation][addon-doc-firefly-iii]
 
-### &#10003; [FlexTV][addon-phlex]
-
-![Latest Version][phlex-version-shield]
-![Supports armhf Architecture][phlex-armhf-shield]
-![Supports armv7 Architecture][phlex-armv7-shield]
-![Supports aarch64 Architecture][phlex-aarch64-shield]
-![Supports amd64 Architecture][phlex-amd64-shield]
-![Supports i386 Architecture][phlex-i386-shield]
-
-A super-sexy text and voice interface for Plex
-
-[:books: FlexTV add-on documentation][addon-doc-phlex]
-
 ### &#10003; [Folding@home][addon-foldingathome]
 
 ![Latest Version][foldingathome-version-shield]
@@ -682,7 +669,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Example][example-issue]
 - [Open an issue for the add-on: FTP][ftp-issue]
 - [Open an issue for the add-on: Firefly III][firefly-iii-issue]
-- [Open an issue for the add-on: FlexTV][phlex-issue]
 - [Open an issue for the add-on: Folding@home][foldingathome-issue]
 - [Open an issue for the add-on: Glances][glances-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
@@ -856,15 +842,6 @@ SOFTWARE.
 [firefly-iii-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [firefly-iii-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [firefly-iii-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phlex]: https://github.com/hassio-addons/addon-phlex/tree/224e081
-[addon-doc-phlex]: https://github.com/hassio-addons/addon-phlex/blob/224e081/README.md
-[phlex-issue]: https://github.com/hassio-addons/addon-phlex/issues
-[phlex-version-shield]: https://img.shields.io/badge/version-224e081-blue.svg
-[phlex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[phlex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[phlex-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[phlex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[phlex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/tree/65580fd
 [addon-doc-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/blob/65580fd/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/addon-foldingathome/issues
