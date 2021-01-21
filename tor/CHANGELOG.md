@@ -1,2 +1,11 @@
 # Changelog since v3.0.1
+- ⬆️ Bump frenck/action-addon-linter from v1.2.1 to v1.3.1 (#36)
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.2.1 to v1.3.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v1.2.1...755d28722e9057a6b847ded5e5e56515700b98ae)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Fix add-on description extraction (#35) 
