@@ -1,4 +1,5 @@
 # Changelog since v0.8.0
+- 🔨 Update build args (#37) 
 - Bump frenck/action-addon-linter from v1.3.0 to v1.3.1 (#36)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.0 to v1.3.1.
