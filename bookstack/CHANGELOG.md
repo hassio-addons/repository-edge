@@ -1,22 +1,10 @@
-## What’s changed
+# Changelog since v0.8.0
+- Bump frenck/action-addon-linter from v1.3.0 to v1.3.1 (#36)
 
-## ✨ New features
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.0 to v1.3.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v1.3.0...755d28722e9057a6b847ded5e5e56515700b98ae)
 
-- ✨ Add envvars option to configuration @sinclairpaul (#32)
+Signed-off-by: dependabot[bot] <support@github.com>
 
-## 🧰 Maintenance
-
-- 🔨 Update CI @sinclairpaul (#25)
-- 📚 Update year @sinclairpaul (#27)
-- 🔨 Remove no longer needed gitlab config @sinclairpaul (#29)
-- 📚 Update Code of Conduct @sinclairpaul (#28)
-- Fix add-on description extraction @frenck (#33)
-
-## 📚 Documentation
-
-- 📚 Documentation updates @sinclairpaul (#31)
-- 📚 Fix commit activity @sinclairpaul (#34)
-
-## ⬆️ Dependency updates
-
-- ⬆ Update image to 9.0.1 and package dependencies @sinclairpaul (#30)
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
