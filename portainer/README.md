@@ -53,10 +53,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-portainer/68836?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-ffbbff3-blue.svg
-[release]: https://github.com/hassio-addons/addon-portainer/tree/ffbbff3
-[screenshot]: https://github.com/hassio-addons/addon-portainer/raw/master/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-5a6696a-blue.svg
+[release]: https://github.com/hassio-addons/addon-portainer/tree/5a6696a
+[screenshot]: https://github.com/hassio-addons/addon-portainer/raw/main/images/screenshot.png
