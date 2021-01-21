@@ -1,2 +1,4 @@
-# Changelog since v1.1.2
-- ⬆ Update base image to 8.0.6 
+# Changelog since v1.1.3
+- 🔨 Update ci (#26)
+
+Co-authored-by: sinclairpaul <sinclairpaul@users.noreply.github.com> 
