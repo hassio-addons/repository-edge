@@ -1,4 +1,5 @@
 # Changelog since v1.1.3
+- 📚 Documentation updates (#31) 
 - ⬆ Update base image and Chrony version (#30)
 
 * ⬆ Update image to v9.0.1
