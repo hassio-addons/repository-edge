@@ -1,4 +1,5 @@
 # Changelog since v5.3.6
+- ⬆ Upgrades Grafana to v7.3.7 (#91) 
 - Upgrade add-on base image to 4.0.0 (#90)
 
 * Upgrade add-on base image to 4.0.0
