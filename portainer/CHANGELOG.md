@@ -1,4 +1,5 @@
 # Changelog since v1.3.0
+- Upgrade add-on base image to 9.0.1 (#61) 
 - Add new repository workflow (#60)
 
 * Add new repository workflow
