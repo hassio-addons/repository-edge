@@ -1,4 +1,5 @@
 # Changelog since v2.4.1
+- ⬆ Upgrades AirConnect to 0.2.43.1 (#28) 
 - Switch add-on base image to Debian (#27) 
 - Add new repository workflow (#26)
 
