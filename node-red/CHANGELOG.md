@@ -1,4 +1,42 @@
 # Changelog since v7.2.11
+- ⬆️ Bump js-yaml from 3.14.1 to 4.0.0 in /node-red (#834)
+
+Bumps [js-yaml](https://github.com/nodeca/js-yaml) from 3.14.1 to 4.0.0.
+- [Release notes](https://github.com/nodeca/js-yaml/releases)
+- [Changelog](https://github.com/nodeca/js-yaml/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/nodeca/js-yaml/compare/3.14.1...4.0.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump node-red-contrib-influxdb from 0.5.3 to 0.5.4 in /node-red (#847)
+
+Bumps [node-red-contrib-influxdb](https://github.com/mblackstock/node-red-contrib-influxdb) from 0.5.3 to 0.5.4.
+- [Release notes](https://github.com/mblackstock/node-red-contrib-influxdb/releases)
+- [Commits](https://github.com/mblackstock/node-red-contrib-influxdb/compare/0.5.3...0.5.4)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump node-red-node-email from 1.8.2 to 1.8.3 in /node-red (#842)
+
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.8.2 to 1.8.3.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump node-red-dashboard from 2.26.2 to 2.27.0 in /node-red (#850)
+
+Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.26.2 to 2.27.0.
+- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
+- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red-dashboard/compare/2.26.2...2.27.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Remove Snyk (#859) 
 - Fix add-on description extraction (#857) 
 - Upgrade add-on base image to 9.0.1 (#856)
