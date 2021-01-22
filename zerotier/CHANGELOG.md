@@ -1,4 +1,7 @@
-# Changelog since v0.8.0
-- Revert "⬆ Upgrades ZeroTier One to 1.6.0"
+# Changelog since v0.9.0
+- Add new repository workflow (#26)
 
-This reverts commit 92a49b7c418755339e33fc6f654208fb89d4d118. 
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
+- Upgrade Code of Conduct (#25) 
+- Happy New Year (#24) 
+- Cleanup repository (#22) 
