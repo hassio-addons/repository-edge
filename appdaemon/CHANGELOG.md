@@ -1,2 +1,17 @@
-# Changelog since v0.3.1
-- ⬆ Upgrades add-on base image to v8.0.6 
+# Changelog since v0.3.2
+- Add new repository workflow (#59)
+
+* Add new repository workflow
+
+* Prettified Code!
+
+* Migrate Docker build arguments
+
+* Address add-on lint errors
+
+* Documentation tweaks
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
+- Upgrade Code of Conduct (#58) 
+- Happy New Year (#57) 
+- Cleanup repository (#55) 
