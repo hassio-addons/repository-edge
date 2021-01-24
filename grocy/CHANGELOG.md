@@ -1,4 +1,5 @@
 # Changelog since v0.9.2
+- Upgrade add-on base image to 9.1.0 (#114) 
 - Upgrades Grocy to v3.0.1 (#113)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
