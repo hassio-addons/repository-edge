@@ -1,5 +1,18 @@
-# Changelog since v0.1.3
-- 🔥 Remove Renovatebot 
-- ⬆ Upgrades nginx to 1.18.0-r0 
-- ⬆ Upgrades php7 to 7.3.21-r0 
-- ⬆ Upgrades add-on base image to v8.0.1 
+# Changelog since v0.1.4
+- Upgrade add-on base image to 9.1.0 (#23) 
+- Add new repository workflow (#22)
+
+* Add new repository workflow
+
+* Prettified Code!
+
+* Migrate Docker build arguments
+
+* Address add-on lint errors
+
+* Documentation tweaks
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
+- Upgrade Code of Conduct (#21) 
+- Happy New Year (#20) 
+- Cleanup repository (#19) 
