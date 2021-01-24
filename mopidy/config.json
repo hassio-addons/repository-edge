@@ -1,11 +1,10 @@
 {
   "name": "Mopidy",
-  "version": "0ee141b",
+  "version": "80f2cb8",
   "slug": "mopidy",
   "panel_icon": "mdi:music-circle",
   "description": "Mopidy is an extensible music server",
   "url": "https://github.com/hassio-addons/addon-mopidy",
-  "webui": "http://[HOST]:[PORT:80]/iris/",
   "ingress": true,
   "ingress_port": 1337,
   "ingress_entry": "iris/",
