@@ -1,4 +1,9 @@
 # Changelog since v0.9.2
+- Refactor NGINX/PHP-FPM configuration (#115)
+
+* Refactor NGINX/PHP-FPM configuration
+
+* Use default ingress port 
 - Upgrade add-on base image to 9.1.0 (#114) 
 - Upgrades Grocy to v3.0.1 (#113)
 
