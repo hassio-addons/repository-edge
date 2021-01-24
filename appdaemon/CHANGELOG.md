@@ -1,4 +1,5 @@
 # Changelog since v0.3.2
+- Allow dependabot to upgrade Python dependencies (#60) 
 - Add new repository workflow (#59)
 
 * Add new repository workflow
