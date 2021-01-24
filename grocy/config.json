@@ -1,6 +1,6 @@
 {
   "name": "Grocy",
-  "version": "b7d4de7",
+  "version": "00dfc86",
   "slug": "grocy",
   "description": "ERP beyond your fridge! A groceries & household management solution for your home",
   "url": "https://github.com/hassio-addons/addon-grocy",
@@ -16,6 +16,7 @@
     "armv7",
     "i386"
   ],
+  "hassio_api": true,
   "map": [
     "ssl"
   ],

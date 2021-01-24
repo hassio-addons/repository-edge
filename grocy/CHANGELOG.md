@@ -1,4 +1,7 @@
 # Changelog since v0.9.2
+- Upgrades Grocy to v3.0.1 (#113)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Upgrades add-on base image to v9.0.1 (#111) 
 - Add new repository workflow (#109)
 
