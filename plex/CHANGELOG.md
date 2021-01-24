@@ -1,4 +1,5 @@
 # Changelog since v2.4.2
+- ⬆️ Upgrades Plex Media Server to 1.21.1.3876 (#45) 
 - Add new repository workflow (#50)
 
 * Add new repository workflow
