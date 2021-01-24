@@ -1148,10 +1148,10 @@ SOFTWARE.
 [ledfx-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ledfx-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ledfx-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/5678f5a
-[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/5678f5a/README.md
+[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/d3a7ad6
+[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/d3a7ad6/README.md
 [motioneye-issue]: https://github.com/hassio-addons/addon-motioneye/issues
-[motioneye-version-shield]: https://img.shields.io/badge/version-5678f5a-blue.svg
+[motioneye-version-shield]: https://img.shields.io/badge/version-d3a7ad6-blue.svg
 [motioneye-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [motioneye-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
