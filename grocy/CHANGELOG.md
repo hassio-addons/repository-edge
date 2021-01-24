@@ -1,4 +1,5 @@
 # Changelog since v0.9.2
+- Fix NGINX waiting for non-activated FPM (#116) 
 - Refactor NGINX/PHP-FPM configuration (#115)
 
 * Refactor NGINX/PHP-FPM configuration
