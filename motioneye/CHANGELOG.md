@@ -1,4 +1,5 @@
 # Changelog since v0.10.2
+- Refactor NGINX configuration (#158) 
 - Add .python-version for dependabot (#157) 
 - Upgrade motion to 4.3.2 (#156) 
 - ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#151)
