@@ -1,4 +1,5 @@
 # Changelog since v2.4.2
+- Upgrade add-on base image to 6.1.0 (#51) 
 - ⬆️ Upgrades Plex Media Server to 1.21.1.3876 (#45) 
 - Add new repository workflow (#50)
 
