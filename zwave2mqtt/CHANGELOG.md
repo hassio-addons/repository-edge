@@ -1,4 +1,5 @@
 # Changelog since v0.8.3
+- Refactor NGINX configuration and HA authentication (#77) 
 - Upgrade add-on base image to 9.1.0 (#76) 
 - Add new repository workflow (#75)
 
