@@ -1,1 +1,1 @@
-- 🚑 Ensure correct permissions
+- ⬆ Update base image and dependencies (#6)
