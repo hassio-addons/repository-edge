@@ -1,6 +1,6 @@
 {
   "name": "Traccar",
-  "version": "be3e407",
+  "version": "233d831",
   "slug": "traccar",
   "description": "Modern GPS Tracking Platform",
   "url": "https://github.com/hassio-addons/addon-traccar",
@@ -17,7 +17,6 @@
     "i386"
   ],
   "init": false,
-  "hassio_api": true,
   "host_network": true,
   "ports": {
     "80/tcp": null

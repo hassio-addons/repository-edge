@@ -1,4 +1,5 @@
 # Changelog since v0.9.2
+- Refactor NGINX configuration (#56) 
 - Upgrade add-on base image to 9.1.0 (#55) 
 - Add new repository workflow (#54)
 
