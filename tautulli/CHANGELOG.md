@@ -1,4 +1,21 @@
 # Changelog since v1.5.1
+- Upgrade add-on base image to 9.1.0 (#71) 
+- Add new repository workflow (#70)
+
+* Add new repository workflow
+
+* Prettified Code!
+
+* Migrate Docker build arguments
+
+* Documentation tweaks
+
+* Address add-on lint errors
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
+- Upgrade Code of Conduct (#69) 
+- Happy New Year (#68) 
+- Cleanup repository (#67) 
 - ⬆ Upgrades pycryptodomex to 3.9.9 
 - ⬆ Upgrades crudini to 0.9.3 
 - ⬆ Updates plexapi to v4 (#60)
