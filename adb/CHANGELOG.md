@@ -1,4 +1,11 @@
 # Changelog since v0.6.3
+- Upgrade add-on base image to 6.1.0 (#33)
+
+* Upgrade add-on base image to 6.1.0
+
+* Fix versions
+
+* And I didn't even drink yet.. :S 
 - Add new repository workflow (#32)
 
 * Add new repository workflow
