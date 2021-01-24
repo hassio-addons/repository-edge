@@ -1,4 +1,5 @@
 # Changelog since v1.5.1
+- ⬆ Upgrades Tautulli to v2.6.5 (#72) 
 - Upgrade add-on base image to 9.1.0 (#71) 
 - Add new repository workflow (#70)
 
