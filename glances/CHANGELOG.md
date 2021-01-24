@@ -1,4 +1,9 @@
 # Changelog since v0.9.1
+- Refactor NGINX configuration and HA authentication (#97)
+
+* Refactor NGINX configuration and HA authentication
+
+* Remove Lua packages 
 - Upgrade add-on base image to 9.1.0 (#96)
 
 * Upgrade add-on base image to 9.1.0
