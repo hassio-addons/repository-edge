@@ -1,4 +1,14 @@
-# Changelog since v3.4.0
-- ⬆ Upgrades base image to v8.0.4 
-- ⬆ Upgrades add-on base image to v8.0.3 
-- 🔨Add pasv_addr_resolve to config (#20) 
+# Changelog since v3.5.0
+- Upgrade add-on base image to 9.1.0 (#25) 
+- Add new repository workflow (#24)
+
+* Add new repository workflow
+
+* Migrate Docker build arguments
+
+* Address add-on lint errors
+
+* Documentation tweaks 
+- Upgrade Code of Conduct (#23) 
+- Happy New Year (#22) 
+- Cleanup repository (#21) 
