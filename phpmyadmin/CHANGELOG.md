@@ -1,4 +1,5 @@
 # Changelog since v0.1.4
+- Upgrade phpMyAdmin to 5.0.4 (#24) 
 - Upgrade add-on base image to 9.1.0 (#23) 
 - Add new repository workflow (#22)
 

@@ -1,6 +1,6 @@
 {
   "name": "phpMyAdmin",
-  "version": "f1efd76",
+  "version": "533af06",
   "slug": "phpmyadmin",
   "description": "A web interface for the official MariaDB add-on",
   "url": "https://github.com/hassio-addons/addon-phpmyadmin",
