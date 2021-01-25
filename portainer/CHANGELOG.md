@@ -1,21 +1,10 @@
-# Changelog since v1.3.0
-- Upgrade add-on base image to 9.0.1 (#61) 
-- Add new repository workflow (#60)
+# Changelog since v1.4.0
+- ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#62)
 
-* Add new repository workflow
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v1.3.1...c82c5e9ca0ce5fc9b15756f1c0e39531b95d11b0)
 
-* Prettified Code!
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* Migrate Docker build arguments
-
-* Documentation tweaks
-
-* Address add-on lint errors
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Upgrade Code of Conduct (#59) 
-- Happy New Year (#57) 
-- Cleanup repository (#56) 
-- 📚 Update mentioning "Advanced Mode", needed for Portainer (#53)
-
-Add a note about requiring "Advanced Mode", without which portainer does not appear in add-on searches. 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
