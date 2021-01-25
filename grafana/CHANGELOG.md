@@ -1,25 +1,10 @@
-# Changelog since v5.3.6
-- ⬆ Upgrades Grafana to v7.3.7 (#91) 
-- Upgrade add-on base image to 4.0.0 (#90)
+# Changelog since v6.0.0
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#95)
 
-* Upgrade add-on base image to 4.0.0
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-* Remove now obsolete supervisor API access
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* Oops :) 
-- Add new repository workflow (#89)
-
-* Add new repository workflow
-
-* Prettified Code!
-
-* Migrate Docker build arguments
-
-* Address add-on lint errors
-
-* Documentation tweaks
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Upgrade Code of Conduct (#88) 
-- Happy New Year (#87) 
-- Cleanup repository (#86) 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
