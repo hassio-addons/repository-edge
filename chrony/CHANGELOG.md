@@ -1,20 +1,10 @@
-# Changelog since v1.1.3
-- 📚 Documentation updates (#31) 
-- ⬆ Update base image and Chrony version (#30)
+# Changelog since v2.0.0
+- Bump actions/stale from v3.0.14 to v3.0.15 (#33)
 
-* ⬆ Update image to v9.0.1
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-* ⬆ Update chrony to v4.0-r1
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* 🔨 Update build labels
-
-* 🔨 Update build args 
-- 📚 Update year in documentation (#29)
-
-* 📚 Update year in docs
-
-* 📚 Update year in license 
-- 📚 Update Code of Conduct (#28) 
-- 🔨 Update ci (#26)
-
-Co-authored-by: sinclairpaul <sinclairpaul@users.noreply.github.com> 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
