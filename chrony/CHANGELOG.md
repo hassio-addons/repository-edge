@@ -1,4 +1,7 @@
 # Changelog since v2.0.0
+- Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#32)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump actions/stale from v3.0.14 to v3.0.15 (#33)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
