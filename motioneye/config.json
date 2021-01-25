@@ -1,10 +1,9 @@
 {
   "name": "motionEye",
-  "version": "73ebb43",
+  "version": "1adca23",
   "slug": "motioneye",
   "description": "Simple, elegant and feature-rich CCTV/NVR for your cameras",
   "url": "https://github.com/hassio-addons/addon-motioneye",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:8765]",
   "ingress": true,
   "ingress_port": 0,
   "panel_icon": "mdi:cctv",
