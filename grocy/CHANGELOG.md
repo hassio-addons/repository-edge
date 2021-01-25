@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- Remove obsolete webui from configuration (#119) 
 - ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#118)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
