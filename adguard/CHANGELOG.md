@@ -1,26 +1,10 @@
-# Changelog since v2.6.1
-- Refactor NGinx configuration & HA Authentication (#104)
+# Changelog since v3.0.0
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#106)
 
-* Refactor NGinx configuration & HA Authentication
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-* Remove stale code 
-- Upgrade add-on base image to 9.1.0 (#103) 
-- Upgrade add-on base image to 9.0.1 (#102) 
-- Add new repository workflow (#100)
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* Add new repository workflow
-
-* Prettified Code!
-
-* Migrate Docker build arguments
-
-* Address add-on lint errors
-
-* Documentation tweaks
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Upgrade Code of Conduct (#99) 
-- Happy New Year (#98) 
-- Cleanup repository (#96) 
-- ⬆ Upgrades AdGuard Home to v0.104.3 
-- ⬆ Upgrades add-on base image to v8.0.6 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
