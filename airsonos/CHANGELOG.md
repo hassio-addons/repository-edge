@@ -1,19 +1,10 @@
-# Changelog since v2.4.1
-- ⬆ Upgrades AirConnect to 0.2.43.1 (#28) 
-- Switch add-on base image to Debian (#27) 
-- Add new repository workflow (#26)
+# Changelog since v3.0.0
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#30)
 
-* Add new repository workflow
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-* Prettified Code!
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* Address add-on lint errors
-
-* Migrate Docker build arguments
-
-* Documentation tweaks
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Upgrade Code of Conduct (#25) 
-- Happy New Year (#24) 
-- Cleanup repository (#23) 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
