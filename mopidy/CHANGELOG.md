@@ -1,1 +1,1 @@
-- Refactor NGINX configuration and HA authentication (#88)
+- Restructure init scripts (#89)
