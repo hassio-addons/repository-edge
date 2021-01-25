@@ -1,10 +1,9 @@
 {
   "name": "InfluxDB",
-  "version": "6f29b63",
+  "version": "e556a7a",
   "slug": "influxdb",
   "description": "Scalable datastore for metrics, events, and real-time analytics",
   "url": "https://github.com/hassio-addons/addon-influxdb",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
   "ingress": true,
   "ingress_port": 1337,
   "panel_icon": "mdi:chart-areaspline",
