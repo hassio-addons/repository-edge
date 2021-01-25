@@ -1,24 +1,10 @@
-# Changelog since v0.6.3
-- Upgrade add-on base image to 6.1.0 (#33)
+# Changelog since v0.7.0
+- ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#35)
 
-* Upgrade add-on base image to 6.1.0
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v1.3.1...c82c5e9ca0ce5fc9b15756f1c0e39531b95d11b0)
 
-* Fix versions
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* And I didn't even drink yet.. :S 
-- Add new repository workflow (#32)
-
-* Add new repository workflow
-
-* Prettified Code!
-
-* Migrate Docker build arguments
-
-* Documentation tweaks
-
-* Address add-on lint errors
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Upgrade Code of Conduct (#31) 
-- Happy New Year (#30) 
-- Cleanup repository (#29) 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
