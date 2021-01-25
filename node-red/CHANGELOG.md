@@ -1,4 +1,10 @@
-# Changelog since v8.0.0
-- Refactor NGINX configuration & HA Authentication (#866) 
-- Fix order of installing customizations (#867) 
-- Upgrade add-on base image to 9.1.0 (#865) 
+# Changelog since v8.0.1
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#869)
+
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
