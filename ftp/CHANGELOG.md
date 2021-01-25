@@ -1,14 +1,10 @@
-# Changelog since v3.5.0
-- Upgrade add-on base image to 9.1.0 (#25) 
-- Add new repository workflow (#24)
+# Changelog since v4.0.0
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#27)
 
-* Add new repository workflow
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-* Migrate Docker build arguments
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* Address add-on lint errors
-
-* Documentation tweaks 
-- Upgrade Code of Conduct (#23) 
-- Happy New Year (#22) 
-- Cleanup repository (#21) 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
