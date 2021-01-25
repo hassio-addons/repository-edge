@@ -1,4 +1,13 @@
 # Changelog since v1.5.1
+- ⬆️ Bump plexapi from 4.2.0 to 4.3.0 in /tautulli (#79)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.2.0 to 4.3.0.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.2.0...4.3.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump pyopenssl from 19.1.0 to 20.0.1 (#78)
 
 Bumps [pyopenssl](https://github.com/pyca/pyopenssl) from 19.1.0 to 20.0.1.
