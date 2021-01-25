@@ -1,4 +1,5 @@
 # Changelog since v1.5.1
+- Upgrade add-on base image to 9.1.1 (#80) 
 - ⬆️ Bump plexapi from 4.2.0 to 4.3.0 in /tautulli (#79)
 
 Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.2.0 to 4.3.0.
