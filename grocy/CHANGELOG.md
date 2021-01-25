@@ -1,28 +1,10 @@
-# Changelog since v0.9.2
-- Fix NGINX waiting for non-activated FPM (#116) 
-- Refactor NGINX/PHP-FPM configuration (#115)
+# Changelog since v0.10.0
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#118)
 
-* Refactor NGINX/PHP-FPM configuration
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-* Use default ingress port 
-- Upgrade add-on base image to 9.1.0 (#114) 
-- Upgrades Grocy to v3.0.1 (#113)
+Signed-off-by: dependabot[bot] <support@github.com>
 
-Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
-- Upgrades add-on base image to v9.0.1 (#111) 
-- Add new repository workflow (#109)
-
-* Add new repository workflow
-
-* Prettified Code!
-
-* Address add-on lint errors
-
-* Migrate Docker build arguments
-
-* Documentation tweaks
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Upgrade Code of Conduct (#108) 
-- Happy New Year (#107) 
-- Cleanup repository (#106) 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
