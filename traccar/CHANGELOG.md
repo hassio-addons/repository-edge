@@ -1,4 +1,5 @@
 # Changelog since v0.9.2
+- Fix typo in Ingress NGINX template (#60) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#57)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
