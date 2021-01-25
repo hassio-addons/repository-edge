@@ -1,19 +1,10 @@
-# Changelog since v0.1.4
-- Upgrade phpMyAdmin to 5.0.4 (#24) 
-- Upgrade add-on base image to 9.1.0 (#23) 
-- Add new repository workflow (#22)
+# Changelog since v0.2.0
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#26)
 
-* Add new repository workflow
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-* Prettified Code!
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* Migrate Docker build arguments
-
-* Address add-on lint errors
-
-* Documentation tweaks
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Upgrade Code of Conduct (#21) 
-- Happy New Year (#20) 
-- Cleanup repository (#19) 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
