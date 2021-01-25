@@ -1,4 +1,5 @@
 # Changelog since v0.9.1
+- Upgrade add-on base image to 9.1.1 (#108) 
 - ⬆️ Bump docker from 4.3.1 to 4.4.1 in /glances (#106)
 
 Bumps [docker](https://github.com/docker/docker-py) from 4.3.1 to 4.4.1.
