@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- Make transparent icons (#21) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#29)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
