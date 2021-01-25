@@ -1,4 +1,17 @@
 # Changelog since v1.5.1
+- ⬆️ Bump pyopenssl from 19.1.0 to 20.0.1 (#78)
+
+Bumps [pyopenssl](https://github.com/pyca/pyopenssl) from 19.1.0 to 20.0.1.
+- [Release notes](https://github.com/pyca/pyopenssl/releases)
+- [Changelog](https://github.com/pyca/pyopenssl/blob/master/CHANGELOG.rst)
+- [Commits](https://github.com/pyca/pyopenssl/compare/19.1.0...20.0.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Fix Tautulli Python startup (#75) 
+- Allow dependabot to upgrade Python dependencies (#76) 
+- ⬆ Upgrades py3-pip to 20.3.4-r0 (#77) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#73)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
