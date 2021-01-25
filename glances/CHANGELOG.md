@@ -1,4 +1,6 @@
 # Changelog since v0.9.1
+- Allow dependabot to upgrade Python dependencies (#102) 
+- ⬆ Upgrades py3-pip to 20.3.4-r0 (#101) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#98)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
