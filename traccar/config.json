@@ -1,10 +1,9 @@
 {
   "name": "Traccar",
-  "version": "233d831",
+  "version": "5a50317",
   "slug": "traccar",
   "description": "Modern GPS Tracking Platform",
   "url": "https://github.com/hassio-addons/addon-traccar",
-  "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
   "ingress": true,
   "ingress_port": 0,
   "panel_icon": "mdi:car-connected",
