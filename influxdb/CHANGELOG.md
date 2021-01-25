@@ -1,8 +1,10 @@
-# Changelog since v4.0.0
-- Fix CI badges to show the right status (#112) 
-- Clarify user permissions step in documentation (#101)
+# Changelog since v4.0.1
+- ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#114)
 
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Upgrades Chronograf to 1.8.9.1 (#110)
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.14...86561461b92875de77a8b2d2e75f004c826e8f45)
 
-https://github.com/influxdata/chronograf/releases/tag/1.8.9.1 
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
