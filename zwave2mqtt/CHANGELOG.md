@@ -1,4 +1,6 @@
 # Changelog since v0.8.3
+- ⬆ Update OpenZWave database to ee90c896c137b3a473232565c45a5… (#82) 
+- ⬆ Upgrades Zwave2Mqtt to v4.1.1 (#81) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#79)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
