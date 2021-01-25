@@ -1,6 +1,6 @@
 {
   "name": "Tor",
-  "version": "5845023",
+  "version": "bf03730",
   "slug": "tor",
   "description": "Protect your privacy and access Home Assistant via Tor.",
   "url": "https://github.com/hassio-addons/addon-tor",
@@ -15,6 +15,9 @@
   "init": false,
   "ports": {
     "9050/tcp": 9050
+  },
+  "ports_description": {
+    "9050/tcp": "Tor SOCKS proxy port"
   },
   "map": [
     "ssl:rw"
