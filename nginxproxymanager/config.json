@@ -1,6 +1,6 @@
 {
   "name": "Nginx Proxy Manager",
-  "version": "32a2222",
+  "version": "9265d91",
   "slug": "nginxproxymanager",
   "description": "Manage Nginx proxy hosts with a simple, powerful interface",
   "url": "https://github.com/hassio-addons/addon-nginx-proxy-manager",
@@ -16,6 +16,7 @@
   "services": [
     "mysql:need"
   ],
+  "hassio_api": true,
   "ports": {
     "80/tcp": 80,
     "81/tcp": 81,

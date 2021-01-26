@@ -1,4 +1,5 @@
 # Changelog since v0.8.2
+- Grant Supervisor API access to retreive environment information (#144) 
 - Upgrade add-on base image to 9.1.1 (#143) 
 - ⬆ Upgrades py3-pip to 20.3.4-r0 (#140) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#142)
