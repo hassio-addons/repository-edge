@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- Upgrade add-on base image to 9.1.1 (#122) 
 - Add languages: cs, el_GR, fi, he_IL, ja, ko_KR, zh_CN, zh_TW (#121) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#117)
 
