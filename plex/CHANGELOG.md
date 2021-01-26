@@ -1,4 +1,6 @@
 # Changelog since v2.5.0
+- ⬆ Upgrades Plex Media Server to 1.21.2.3939 (#55) 
+- Upgrade add-on base image to 6.1.1 (#54) 
 - ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#52)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
