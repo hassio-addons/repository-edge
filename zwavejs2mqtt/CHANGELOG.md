@@ -1,1 +1,3 @@
-- Add initial add-on code (#1)
+- Extend setup instructions (#2)
+
+Co-authored-by: frenck <frenck@users.noreply.github.com>
