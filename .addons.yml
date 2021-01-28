@@ -76,7 +76,7 @@ addons:
   ledfx:
     repository: hassio-addons/addon-ledfx
     target: ledfx
-    image: hassioaddons/ledfx-{arch}
+    image: ghcr.io/hassio-addons/ledfx/{arch}
   log-viewer:
     repository: hassio-addons/addon-log-viewer
     target: log-viewer
