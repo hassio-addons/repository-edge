@@ -560,6 +560,19 @@ Fast, modern, secure VPN tunnel
 
 [:books: WireGuard add-on documentation][addon-doc-wireguard]
 
+### &#10003; [Z-Wave JS to MQTT][addon-zwavejs2mqtt]
+
+![Latest Version][zwavejs2mqtt-version-shield]
+![Supports armhf Architecture][zwavejs2mqtt-armhf-shield]
+![Supports armv7 Architecture][zwavejs2mqtt-armv7-shield]
+![Supports aarch64 Architecture][zwavejs2mqtt-aarch64-shield]
+![Supports amd64 Architecture][zwavejs2mqtt-amd64-shield]
+![Supports i386 Architecture][zwavejs2mqtt-i386-shield]
+
+Fully configurable Z-Wave JS to MQTT gateway and control panel
+
+[:books: Z-Wave JS to MQTT add-on documentation][addon-doc-zwavejs2mqtt]
+
 ### &#10003; [Z-Wave to MQTT][addon-zwave2mqtt]
 
 ![Latest Version][zwave2mqtt-version-shield]
@@ -699,6 +712,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: VSCode Remote][vscode-remote-issue]
 - [Open an issue for the add-on: Visual Studio Code][vscode-issue]
 - [Open an issue for the add-on: WireGuard][wireguard-issue]
+- [Open an issue for the add-on: Z-Wave JS to MQTT][zwavejs2mqtt-issue]
 - [Open an issue for the add-on: Z-Wave to MQTT][zwave2mqtt-issue]
 - [Open an issue for the add-on: ZeroTier One][zerotier-issue]
 - [Open an issue for the add-on: chrony][chrony-issue]
@@ -1112,6 +1126,15 @@ SOFTWARE.
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [wireguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [wireguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-zwavejs2mqtt]: https://github.com/hassio-addons/addon-zwavejs2mqtt/tree/c937fa4
+[addon-doc-zwavejs2mqtt]: https://github.com/hassio-addons/addon-zwavejs2mqtt/blob/c937fa4/README.md
+[zwavejs2mqtt-issue]: https://github.com/hassio-addons/addon-zwavejs2mqtt/issues
+[zwavejs2mqtt-version-shield]: https://img.shields.io/badge/version-c937fa4-blue.svg
+[zwavejs2mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[zwavejs2mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[zwavejs2mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[zwavejs2mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[zwavejs2mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-zwave2mqtt]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/6044a6f
 [addon-doc-zwave2mqtt]: https://github.com/hassio-addons/addon-zwave2mqtt/blob/6044a6f/README.md
 [zwave2mqtt-issue]: https://github.com/hassio-addons/addon-zwave2mqtt/issues
