@@ -1,3 +1,2 @@
-- Extend setup instructions (#2)
-
-Co-authored-by: frenck <frenck@users.noreply.github.com>
+# Changelog since v0.1.0
+- Initiate default configuration on first run (#3) 
