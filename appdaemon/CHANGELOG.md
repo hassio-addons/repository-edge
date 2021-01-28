@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- Upgrade add-on base image to 9.1.1 (#66) 
 - ⬆ Upgrades py3-pip to 20.3.4-r0 (#65) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#63)
 
