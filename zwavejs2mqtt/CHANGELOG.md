@@ -1,2 +1,2 @@
-# Changelog since v0.1.0
-- Initiate default configuration on first run (#3) 
+# Changelog since v0.2.0
+- Ensure HA Discovery awaits for Z-Wave JS Server (#5) 
