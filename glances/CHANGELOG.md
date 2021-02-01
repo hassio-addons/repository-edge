@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- Upgrade add-on base image to 9.1.2 (#113) 
 - ⬆️ Bump glances from 3.1.5 to 3.1.6.1 in /glances (#109)
 
 Bumps [glances](https://github.com/nicolargo/glances) from 3.1.5 to 3.1.6.1.
