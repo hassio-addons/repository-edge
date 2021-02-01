@@ -1,4 +1,6 @@
 # Changelog since v3.0.0
+- ⬆ Upgrades Home Assistant CLI to v4.10.0 (#175) 
+- Upgrade add-on base image to 4.1.2 (#174) 
 - ⬆ Upgrades openssl to 1.1.1d-0+deb10u4 (#173) 
 - ⬆️ Bump yamllint from 1.25.0 to 1.26.0 (#172)
 
