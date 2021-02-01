@@ -1,4 +1,16 @@
 # Changelog since v7.8.0
+- Update link and copy in DOCS (#177)
+
+- Fix/simplify the first sentence of the warning message
+- Update link to official SSH add-on
+
+Co-authored-by: Franck Nijhof <frenck@addons.community> 
+- Update link and copy in README (#176)
+
+- Fix/simplify the first sentence of the warning message
+- Update link to official SSH add-on
+
+Co-authored-by: Franck Nijhof <frenck@addons.community> 
 - Disable SSH DNS lookup (#171)
 
 This will improve SSH connect speed, as the SSH server won't need to reverse-lookup the incoming address. 
