@@ -1,4 +1,5 @@
 # Changelog since v7.8.0
+- ⬆ Upgrades Home Assistant CLI to v4.10.0 (#194) 
 - Update link and copy in DOCS (#177)
 
 - Fix/simplify the first sentence of the warning message
