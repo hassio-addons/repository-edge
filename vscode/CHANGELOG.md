@@ -1,4 +1,14 @@
 # Changelog since v3.0.0
+- ⬆️ Bump yamllint from 1.25.0 to 1.26.0 (#172)
+
+Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.25.0 to 1.26.0.
+- [Release notes](https://github.com/adrienverge/yamllint/releases)
+- [Changelog](https://github.com/adrienverge/yamllint/blob/master/CHANGELOG.rst)
+- [Commits](https://github.com/adrienverge/yamllint/compare/v1.25.0...v1.26.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#171)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.14 to v3.0.15.
