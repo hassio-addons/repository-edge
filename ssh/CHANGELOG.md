@@ -1,4 +1,5 @@
 # Changelog since v7.8.0
+- Allow dependabot to upgrade Python dependencies (#191) 
 - Upgrade ttyd 1.6.3 & libwebsockets 4.1.4 (#190) 
 - Upgrade add-on base image to 9.1.1 (#189) 
 - ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#184)
