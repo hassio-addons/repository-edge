@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- Upgrade add-on base image to 9.1.2 (#164) 
 - ⬆️ Bump jinja2 from 2.11.2 to 2.11.3 (#163)
 
 Bumps [jinja2](https://github.com/pallets/jinja) from 2.11.2 to 2.11.3.
