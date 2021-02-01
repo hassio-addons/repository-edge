@@ -1,4 +1,5 @@
 # Changelog since v0.8.2
+- Upgrade add-on base image to 9.1.2 (#146) 
 - Grant Supervisor API access to retreive environment information (#144) 
 - Upgrade add-on base image to 9.1.1 (#143) 
 - ⬆ Upgrades py3-pip to 20.3.4-r0 (#140) 
