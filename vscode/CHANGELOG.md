@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆ Upgrades openssl to 1.1.1d-0+deb10u4 (#173) 
 - ⬆️ Bump yamllint from 1.25.0 to 1.26.0 (#172)
 
 Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.25.0 to 1.26.0.
