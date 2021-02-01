@@ -1,4 +1,3 @@
-# Changelog since v0.2.0
-- Upgrade Z-Wave JS database to 93d505e97daa7649d0d4af16d0145b52cbdcc141 (#7) 
-- Upgrade zwavejs2mqtt to v1.0.1 (#6) 
-- Ensure HA Discovery awaits for Z-Wave JS Server (#5) 
+# Changelog since v0.2.1
+- ⬆ Update ZwaveJS device database to b62505309ef31c4717d321a (#10) 
+- ⬆ Upgrades ZwaveJS2Mqtt to v1.0.2 (#9) 
