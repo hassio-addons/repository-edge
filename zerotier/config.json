@@ -1,6 +1,6 @@
 {
   "name": "ZeroTier One",
-  "version": "a2eae0c",
+  "version": "32146d7",
   "slug": "zerotier",
   "description": "Radically simplify your network with a virtual networking layer that works the same everywhere",
   "url": "https://github.com/hassio-addons/addon-zerotier",
@@ -19,7 +19,6 @@
   "ports_description": {
     "9993/tcp": "ZeroTier's primary port"
   },
-  "hassio_api": true,
   "host_network": true,
   "privileged": [
     "NET_ADMIN",

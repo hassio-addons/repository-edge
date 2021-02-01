@@ -1,4 +1,6 @@
 # Changelog since v0.9.0
+- Upgrade ZeroTier to 1.6.2 (#31) 
+- Upgrade add-on base image to 9.1.2 (#28) 
 - Make transparent icons (#21) 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#29)
 
