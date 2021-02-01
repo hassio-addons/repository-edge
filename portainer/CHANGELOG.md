@@ -1,4 +1,5 @@
 # Changelog since v1.4.0
+- Upgrade add-on base image to 9.1.2 (#66) 
 - Upgrade add-on base image to 9.1.1 (#65) 
 - ⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#63)
 
