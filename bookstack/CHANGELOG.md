@@ -1,4 +1,14 @@
 # Changelog since v0.8.1
+- Bump frenck/action-yamllint from v1.0.2 to v1.1 (#43)
+
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.0.2...e21bcc770907b7207a05453ca9f1eb7129c945d1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆ Update base image to 9.1.2 (#44) 
 - ⬆ Upgrades composer to 2.0.9-r0 (#41) 
 - Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#39)
 
