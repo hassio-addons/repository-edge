@@ -1,4 +1,5 @@
 # Changelog since v0.8.1
+- ⬆ Update bookstack to v0.31.5 (#45) 
 - Bump frenck/action-yamllint from v1.0.2 to v1.1 (#43)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
