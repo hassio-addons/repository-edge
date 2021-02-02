@@ -1,8 +1,8 @@
-- ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#7)
+- ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#9)
 
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v1.3.1...c82c5e9ca0ce5fc9b15756f1c0e39531b95d11b0)
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.0.2...e21bcc770907b7207a05453ca9f1eb7129c945d1)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
