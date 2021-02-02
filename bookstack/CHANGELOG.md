@@ -1,4 +1,5 @@
 # Changelog since v0.8.1
+- ⬆ Upgrades composer to 2.0.9-r0 (#41) 
 - Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#39)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
