@@ -1,4 +1,12 @@
 # Changelog since v0.10.0
+- Add build dependencies for sqlite3 (#12)
+
+* Add build dependencies for sqlite3
+
+* ⬆ Upgrade dependencies in this PR
+
+Co-authored-by: Franck Nijhof <frenck@addons.community>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Refactor NGINX configuration and API access (#22) 
 - ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#21)
 
