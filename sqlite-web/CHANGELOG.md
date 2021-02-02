@@ -1,4 +1,5 @@
 # Changelog since v2.3.2
+- Fix larger table widths on larger screens (#116) 
 - ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#115)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
