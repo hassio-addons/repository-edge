@@ -1,4 +1,5 @@
 # Changelog since v0.2.2
+- ⬆ Upgrades ZwaveJS2Mqtt to v1.0.3 (#13) 
 - Bump frenck/action-yamllint from v1.0.2 to v1.1 (#12)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
