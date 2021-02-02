@@ -1,4 +1,13 @@
 # Changelog since v3.0.0
+- ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#31)
+
+Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
+- [Release notes](https://github.com/frenck/action-yamllint/releases)
+- [Commits](https://github.com/frenck/action-yamllint/compare/v1.0.2...e21bcc770907b7207a05453ca9f1eb7129c945d1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump frenck/action-addon-linter from v1.3.1 to v1.4 (#29)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.3.1 to v1.4.
