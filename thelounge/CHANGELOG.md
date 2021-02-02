@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- Refactor NGINX configuration and API access (#22) 
 - ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#21)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
