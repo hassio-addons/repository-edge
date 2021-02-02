@@ -1,4 +1,9 @@
 # Changelog since v0.4.1
+- Raise fatal error message on missing AppDaemon configuration file (#74)
+
+* Raise fatal error message on missing AppDaemon configuration file
+
+* Simper... 
 - ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#73)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
