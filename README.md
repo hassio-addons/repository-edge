@@ -928,10 +928,10 @@ SOFTWARE.
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/1587b8a
-[addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/1587b8a/README.md
+[addon-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/tree/8be2d51
+[addon-doc-lutron-cert]: https://github.com/hassio-addons/addon-lutron-cert/blob/8be2d51/README.md
 [lutron-cert-issue]: https://github.com/hassio-addons/addon-lutron-cert/issues
-[lutron-cert-version-shield]: https://img.shields.io/badge/version-1587b8a-blue.svg
+[lutron-cert-version-shield]: https://img.shields.io/badge/version-8be2d51-blue.svg
 [lutron-cert-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [lutron-cert-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lutron-cert-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
