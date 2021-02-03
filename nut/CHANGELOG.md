@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- 📚 Update docs to reflect integration (#72) 
 - Bump frenck/action-yamllint from v1.0.2 to v1.1 (#71)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
