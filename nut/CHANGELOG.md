@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- Upgrade add-on base image to 9.1.2 (#70) 
 - 📚 Update docs to reflect integration (#72) 
 - Bump frenck/action-yamllint from v1.0.2 to v1.1 (#71)
 
