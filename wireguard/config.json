@@ -1,10 +1,9 @@
 {
   "name": "WireGuard",
-  "version": "4153744",
+  "version": "9729d0b",
   "slug": "wireguard",
   "description": "Fast, modern, secure VPN tunnel",
   "url": "https://github.com/hassio-addons/addon-wireguard",
-  "startup": "application",
   "arch": [
     "aarch64",
     "amd64",
@@ -21,9 +20,7 @@
     "80/tcp": "WireGuard peers status API",
     "51820/udp": "WireGuard: forward this port in your router"
   },
-  "boot": "auto",
   "hassio_api": true,
-  "hassio_role": "default",
   "privileged": [
     "NET_ADMIN"
   ],
@@ -94,5 +91,5 @@
       }
     ]
   },
-  "image": "hassioaddons/wireguard-{arch}"
+  "image": "ghcr.io/hassio-addons/wireguard/{arch}"
 }
