@@ -1,4 +1,14 @@
 # Changelog since v8.0.1
+- ⬆️ Bump node-red from 1.2.7 to 1.2.8 (#882)
+
+Bumps [node-red](https://github.com/node-red/node-red) from 1.2.7 to 1.2.8.
+- [Release notes](https://github.com/node-red/node-red/releases)
+- [Changelog](https://github.com/node-red/node-red/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red/compare/1.2.7...1.2.8)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#881)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
