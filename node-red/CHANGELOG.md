@@ -1,4 +1,14 @@
 # Changelog since v8.0.1
+- ⬆️ Bump node-red from 1.2.8 to 1.2.9 (#886)
+
+Bumps [node-red](https://github.com/node-red/node-red) from 1.2.8 to 1.2.9.
+- [Release notes](https://github.com/node-red/node-red/releases)
+- [Changelog](https://github.com/node-red/node-red/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red/compare/1.2.8...1.2.9)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Remove NGINX access log from Supervisor log output (#883) 
 - Replace state-machine with persistent-fsm (#884) 
 - ⬆️ Bump node-red from 1.2.7 to 1.2.8 (#882)
