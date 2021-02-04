@@ -1,4 +1,13 @@
 # Changelog since v8.0.1
+- ⬆️ Bump node-red-contrib-actionflows from 2.0.3 to 2.0.4 (#885)
+
+Bumps [node-red-contrib-actionflows](https://github.com/Steveorevo/node-red-contrib-actionflows) from 2.0.3 to 2.0.4.
+- [Release notes](https://github.com/Steveorevo/node-red-contrib-actionflows/releases)
+- [Commits](https://github.com/Steveorevo/node-red-contrib-actionflows/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red from 1.2.8 to 1.2.9 (#886)
 
 Bumps [node-red](https://github.com/node-red/node-red) from 1.2.8 to 1.2.9.
