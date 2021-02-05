@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- ⬆ Upgrades Home Assistant CLI to v4.10.1 (#180) 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#178)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
