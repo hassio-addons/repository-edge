@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- ⬆ Upgrades php7 to 7.4.15-r0 (#119) 
 - ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#116)
 
 Bumps [frenck/action-yamllint](https://github.com/frenck/action-yamllint) from v1.0.2 to v1.1.
