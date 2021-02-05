@@ -910,9 +910,9 @@ SOFTWARE.
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/ba6de32
-[addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/ba6de32/README.md
-[jupyterlablite-issue]: https://github.com/hassio-addons/addon-jupyterlab-lite/issues
+[addon-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab/tree/ba6de32
+[addon-doc-jupyterlablite]: https://github.com/hassio-addons/addon-jupyterlab/blob/ba6de32/README.md
+[jupyterlablite-issue]: https://github.com/hassio-addons/addon-jupyterlab/issues
 [jupyterlablite-version-shield]: https://img.shields.io/badge/version-ba6de32-blue.svg
 [jupyterlablite-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlablite-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
