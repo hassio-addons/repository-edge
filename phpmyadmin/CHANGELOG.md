@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- ⬆ Upgrades php7 to 7.4.15-r0 (#34) 
 - Upgrade add-on base image to 9.1.2 (#28) 
 - ⬆️ Bump frenck/action-yamllint from v1.0.2 to v1.1 (#29)
 
