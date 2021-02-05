@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- ⬆ Upgrades ZeroTier One to 1.6.3 (#33) 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#34)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
