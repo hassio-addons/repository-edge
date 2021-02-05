@@ -1,4 +1,13 @@
 # Changelog since v8.0.1
+- ⬆️ Bump node-red-node-geofence from 0.2.0 to 0.2.1 (#890)
+
+Bumps [node-red-node-geofence](https://github.com/hardillb/node-red-node-geofence) from 0.2.0 to 0.2.1.
+- [Release notes](https://github.com/hardillb/node-red-node-geofence/releases)
+- [Commits](https://github.com/hardillb/node-red-node-geofence/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-contrib-actionflows from 2.0.3 to 2.0.4 (#885)
 
 Bumps [node-red-contrib-actionflows](https://github.com/Steveorevo/node-red-contrib-actionflows) from 2.0.3 to 2.0.4.
