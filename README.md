@@ -1153,10 +1153,10 @@ SOFTWARE.
 [zerotier-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [zerotier-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [zerotier-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/948a521
-[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/948a521/README.md
+[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/ab03ebc
+[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/ab03ebc/README.md
 [chrony-issue]: https://github.com/hassio-addons/addon-chrony/issues
-[chrony-version-shield]: https://img.shields.io/badge/version-948a521-blue.svg
+[chrony-version-shield]: https://img.shields.io/badge/version-ab03ebc-blue.svg
 [chrony-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [chrony-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

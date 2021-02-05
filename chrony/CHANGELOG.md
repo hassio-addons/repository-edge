@@ -1,4 +1,5 @@
 # Changelog since v2.0.0
+- Upgrade add-on base image to 9.1.2 (#35) 
 - Bump actions/cache from v2.1.3 to v2.1.4 (#38)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
