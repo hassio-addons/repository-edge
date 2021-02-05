@@ -766,10 +766,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adb]: https://github.com/hassio-addons/addon-adb/tree/0428840
-[addon-doc-adb]: https://github.com/hassio-addons/addon-adb/blob/0428840/README.md
+[addon-adb]: https://github.com/hassio-addons/addon-adb/tree/614d0f7
+[addon-doc-adb]: https://github.com/hassio-addons/addon-adb/blob/614d0f7/README.md
 [adb-issue]: https://github.com/hassio-addons/addon-adb/issues
-[adb-version-shield]: https://img.shields.io/badge/version-0428840-blue.svg
+[adb-version-shield]: https://img.shields.io/badge/version-614d0f7-blue.svg
 [adb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
