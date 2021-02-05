@@ -1,4 +1,6 @@
 # Changelog since v6.0.0
+- ⬆ Upgrades Grafana to v7.4.0 (#105) 
+- Upgrade add-on base image to 4.1.2 (#104) 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#102)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
