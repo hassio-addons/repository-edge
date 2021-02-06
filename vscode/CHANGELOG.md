@@ -1,4 +1,7 @@
 # Changelog since v3.0.1
+- ⬆ Upgrades keesschollaart.vscode-home-assistant to 1.14.1 (#183) 
+- ⬆ Upgrades code-server to 3.8.1 (#181) 
+- ⬆ Upgrades unzip to 6.0-23+deb10u2 (#182) 
 - ⬆ Upgrades Home Assistant CLI to v4.10.1 (#180) 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#178)
 
