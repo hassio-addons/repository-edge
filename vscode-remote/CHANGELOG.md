@@ -1,8 +1,8 @@
-- ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#11)
+- ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#12)
 
-Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
-- [Release notes](https://github.com/actions/cache/releases)
-- [Commits](https://github.com/actions/cache/compare/v2.1.3...26968a09c0ea4f3e233fdddbafd1166051a095f6)
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.15...9d6f46564a515a9ea11e7762ab3957ee58ca50da)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
