@@ -1,4 +1,6 @@
 # Changelog since v0.3.0
+- Update database to d86e9956f6b0160fcf675c2b3d33faed33dfba7c (#29) 
+- ⬆ Upgrades ZwaveJS2Mqtt to v1.1.0 (#28) 
 - Update add-on configuration for Supervisor 2021.2 (#27) 
 - ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#26)
 
