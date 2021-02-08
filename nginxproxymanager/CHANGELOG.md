@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- ⬆ Upgrades NGINX Proxy Manager to v2.8.0 (#153) 
 - ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#152)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
