@@ -1,4 +1,13 @@
 # Changelog since v0.9.1
+- ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#91)
+
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.15...9d6f46564a515a9ea11e7762ab3957ee58ca50da)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actionshub/markdownlint from 2.0.0 to 2.0.2 (#89)
 
 Bumps [actionshub/markdownlint](https://github.com/actionshub/markdownlint) from 2.0.0 to 2.0.2.
