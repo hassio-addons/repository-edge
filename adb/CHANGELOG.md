@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- ⬆ Bump actions/stale from v3.0.15 to v3.0.16 (#40) 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#39)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
