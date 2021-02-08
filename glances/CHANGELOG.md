@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- Add media folder (#91) 
 - ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#118)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
