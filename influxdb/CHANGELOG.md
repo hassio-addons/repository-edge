@@ -1,4 +1,5 @@
 # Changelog since v4.0.1
+- ⬆ Upgrades Chronograf to 1.8.10 (#126) 
 - Upgrade add-on base image to 4.1.2 (#125) 
 - ⬆ Bump actions/stale from v3.0.15 to v3.0.16 (#124) 
 - ⬆️ Bump actionshub/markdownlint from 2.0.0 to 2.0.2 (#121)
