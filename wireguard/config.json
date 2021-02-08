@@ -1,6 +1,6 @@
 {
   "name": "WireGuard",
-  "version": "ee80afb",
+  "version": "f2ae0d3",
   "slug": "wireguard",
   "description": "Fast, modern, secure VPN tunnel",
   "url": "https://github.com/hassio-addons/addon-wireguard",
@@ -25,7 +25,7 @@
     "NET_ADMIN"
   ],
   "devices": [
-    "/dev/net/tun:/dev/net/tun:rwm"
+    "/dev/net/tun"
   ],
   "map": [
     "ssl:rw"

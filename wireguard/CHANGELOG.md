@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- Update add-on configuration for Supervisor 2021.2 (#73) 
 - ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#72)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
