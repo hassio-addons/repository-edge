@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- ⬆ Upgrades BitwardenRS to 1.19.0 (#87) 
 - Upgrade add-on base image to 4.1.2 (#86) 
 - ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#84)
 
