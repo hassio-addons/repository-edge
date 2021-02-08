@@ -1,4 +1,13 @@
 # Changelog since v0.8.2
+- Bump actions/stale from v3.0.15 to v3.0.16 (#49)
+
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.15...9d6f46564a515a9ea11e7762ab3957ee58ca50da)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump actions/cache from v2.1.3 to v2.1.4 (#47)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
