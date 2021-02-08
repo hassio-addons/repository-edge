@@ -1,4 +1,5 @@
 # Changelog since v2.0.0
+- ⬆ Upgrades Tautulli to v2.6.6 (#87) 
 - ⬆ Bump actions/stale from v3.0.15 to v3.0.16 (#86) 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#85)
 
