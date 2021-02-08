@@ -1,4 +1,5 @@
 # Changelog since v1.4.0
+- ⬆ Bump actions/stale from v3.0.15 to v3.0.16 (#70) 
 - ⬆️ Bump actionshub/markdownlint from 2.0.0 to 2.0.2 (#68)
 
 Bumps [actionshub/markdownlint](https://github.com/actionshub/markdownlint) from 2.0.0 to 2.0.2.
