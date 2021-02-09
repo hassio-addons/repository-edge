@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- ⬆ Upgrades git to 2.30.1-r0 (#173) 
 - ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#171)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
