@@ -44,7 +44,7 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-e6ba9a3-blue.svg
-[release]: https://github.com/hassio-addons/addon-matrix/tree/e6ba9a3
+[release-shield]: https://img.shields.io/badge/version-ed32380-blue.svg
+[release]: https://github.com/hassio-addons/addon-matrix/tree/ed32380
 [screenshot]: https://github.com/hassio-addons/addon-matrix/raw/main/images/screenshot.png
 [clients]: https://matrix.org/docs/projects/try-matrix-now.html

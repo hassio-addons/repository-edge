@@ -1,4 +1,7 @@
 # Changelog since v0.10.0
+- ⬆️ Bump frenck/action-addon-linter from v1.4 to v2 (#103)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#100)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.3 to v2.1.4.
