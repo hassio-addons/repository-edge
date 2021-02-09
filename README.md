@@ -784,10 +784,10 @@ SOFTWARE.
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/692839c
-[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/692839c/README.md
+[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/43186c1
+[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/43186c1/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
-[aircast-version-shield]: https://img.shields.io/badge/version-692839c-blue.svg
+[aircast-version-shield]: https://img.shields.io/badge/version-43186c1-blue.svg
 [aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
