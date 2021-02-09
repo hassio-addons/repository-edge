@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- ⬆ Upgrades git to 2.30.1-r0 (#135) 
 - ⬆ Bump actions/stale from v3.0.15 to v3.0.16 (#133) 
 - ⬆️ Bump actions/cache from v2.1.3 to v2.1.4 (#129)
 
