@@ -1,4 +1,5 @@
 # Changelog since v4.0.2
+- ⬆ Upgrades InfluxDB to 1.8.4 (#128) 
 - ⬆️ Bump frenck/action-addon-linter from v1.4 to v2 (#127)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.4 to v2.
