@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- ⬆ Bump cryptography from 3.3.1 to 3.3.2 in /lutron-cert (#35) 
 - ⬆️ Bump frenck/action-addon-linter from v1.4 to v2 (#34)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.4 to v2.
