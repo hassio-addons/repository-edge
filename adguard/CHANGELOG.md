@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆️ Upgrades AdGuard Home to v0.105.0 (#117) 
 - ⬆️ Bump frenck/action-addon-linter from v1.4 to v2 (#116)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.4 to v2.
