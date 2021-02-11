@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- Make transparent icon and logo with name (#69) 
 - ⬆️ Bump frenck/action-addon-linter from v1.4 to v2 (#68)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.4 to v2.
