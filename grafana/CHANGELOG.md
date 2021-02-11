@@ -1,4 +1,5 @@
 # Changelog since v6.1.0
+- ⬆ Upgrades Grafana to v7.4.1 (#110) 
 - ⬆️ Bump frenck/action-addon-linter from v1.4 to v2 (#109)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v1.4 to v2.
