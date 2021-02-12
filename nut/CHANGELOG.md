@@ -1,6 +1,6 @@
-# Changelog since v0.6.0
-- 📚 Doc tweaks (#90)
+# Changelog since v0.6.1
+- 🔨 Add deadtime configuration option (#94)
 
-* 📚 Minor documentation tweaks
+* 🔨 Add deadtime config for upsmon
 
-* 📚 More doc tweaks 
+* 📚 Update documentation for new option 
