@@ -1,4 +1,7 @@
 # Changelog since v0.10.0
+- ⬆️ Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#104)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actions/stale from v3.0.15 to v3.0.16 (#102)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.15 to v3.0.16.
