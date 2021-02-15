@@ -1000,10 +1000,10 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-portainer]: https://github.com/hassio-addons/addon-portainer/tree/6fcfe4f
-[addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/6fcfe4f/README.md
+[addon-portainer]: https://github.com/hassio-addons/addon-portainer/tree/f5362ab
+[addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/f5362ab/README.md
 [portainer-issue]: https://github.com/hassio-addons/addon-portainer/issues
-[portainer-version-shield]: https://img.shields.io/badge/version-6fcfe4f-blue.svg
+[portainer-version-shield]: https://img.shields.io/badge/version-f5362ab-blue.svg
 [portainer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [portainer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
