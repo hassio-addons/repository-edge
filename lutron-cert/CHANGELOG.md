@@ -1,4 +1,13 @@
 # Changelog since v0.7.0
+- ⬆️ Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#36)
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.13.0...e5ccf147077e46b0225a80bbe314d795d77bb7a2)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆ Bump cryptography from 3.3.1 to 3.3.2 in /lutron-cert (#35) 
 - ⬆️ Bump frenck/action-addon-linter from v1.4 to v2 (#34)
 
