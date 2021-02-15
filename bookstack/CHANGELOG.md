@@ -1,4 +1,9 @@
 # Changelog since v0.8.2
+- 🔨 Refactor nginx config with template (#55)
+
+* 🔨 Refactor nginx config with template
+
+* 🔨 Linting 
 - ⬆ Add php-ldap (#54) 
 - ⬆ Update bookstack to v0.31.6 (#53) 
 - Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#51)
