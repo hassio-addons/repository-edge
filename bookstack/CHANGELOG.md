@@ -1,4 +1,5 @@
 # Changelog since v0.8.2
+- ⬆ Add php-ldap (#54) 
 - ⬆ Update bookstack to v0.31.6 (#53) 
 - Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#51)
 
