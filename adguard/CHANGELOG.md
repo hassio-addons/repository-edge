@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆️ Upgrades AdGuard Home to v0.105.1 (#120) 
 - ⬆️ Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#119)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
