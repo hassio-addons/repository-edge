@@ -1,4 +1,13 @@
 # Changelog since v0.11.0
+- ⬆️ Bump docker from 4.4.1 to 4.4.2 in /glances (#121)
+
+Bumps [docker](https://github.com/docker/docker-py) from 4.4.1 to 4.4.2.
+- [Release notes](https://github.com/docker/docker-py/releases)
+- [Commits](https://github.com/docker/docker-py/compare/4.4.1...4.4.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#120)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
