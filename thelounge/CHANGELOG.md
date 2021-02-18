@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- ⬆ Upgrades nodejs to 14.15.5-r0 (#29) 
 - ⬆️ Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#27)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
