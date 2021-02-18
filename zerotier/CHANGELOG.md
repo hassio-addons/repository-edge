@@ -1,4 +1,6 @@
 # Changelog since v0.10.2
+- Upgrade add-on base image to 9.1.3 (#43) 
+- ⬆ Upgrades ZeroTier One to 1.6.4 (#42) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#41)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
