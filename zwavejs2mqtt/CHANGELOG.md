@@ -1,4 +1,6 @@
 # Changelog since v0.4.1
+- ⬆ Upgrades ZwaveJS2Mqtt to v1.2.1 (#42) 
+- Update database to bcb1feca586b2fe1dc584283e548e1441d188547 (#41) 
 - ⬆ Upgrades ZwaveJS2Mqtt to v1.2.0 (#40) 
 - Upgrade add-on base image to 9.1.3 (#39) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#36)
