@@ -1,4 +1,5 @@
 # Changelog since v6.1.1
+- Upgrade add-on base image to 4.1.3 (#115) 
 - ⬆ Upgrades Grafana to v7.4.2 (#114) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#113)
 
