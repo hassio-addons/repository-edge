@@ -1,4 +1,5 @@
 # Changelog since v8.0.1
+- Remove full access parameter (#210) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#208)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
