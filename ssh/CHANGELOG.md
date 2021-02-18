@@ -1,4 +1,5 @@
 # Changelog since v8.0.1
+- Fix/Remove broken documentation link (#206) 
 - Upgrade add-on base image to 9.1.4 (#209) 
 - ⬆️ Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#207)
 
