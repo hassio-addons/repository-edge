@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- Upgrade add-on base image to 9.1.4 (#37) 
 - ⬆️ Bump release-drafter/release-drafter from v5.13.0 to v5.14.0 (#35)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.13.0 to v5.14.0.
