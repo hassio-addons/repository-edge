@@ -1,4 +1,5 @@
 # Changelog since v6.1.1
+- ⬆ Upgrades Grafana to v7.4.2 (#114) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#113)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
