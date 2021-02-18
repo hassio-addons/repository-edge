@@ -1,4 +1,6 @@
 # Changelog since v2.5.1
+- ⬆ Upgrades Plex Media Server to 1.21.3.4046 (#67) 
+- Upgrade add-on base image to 6.1.3 (#66) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#65)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
