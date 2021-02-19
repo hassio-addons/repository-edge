@@ -1,4 +1,5 @@
 # Changelog since v0.4.2
+- Allow Supervisor to use health check for watchdog (#49) 
 - ⬆ Upgrades ZwaveJS2Mqtt to v1.2.2 (#48) 
 - ⬆ Upgrades python3-dev to 3.8.7-r1 (#46) 
 - ⬆️ Bump actions/stale from v3.0.16 to v3.0.17 (#43)
