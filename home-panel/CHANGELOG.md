@@ -1,4 +1,5 @@
 # Changelog since v2.0.0
+- Fix output path (#89) 
 - Merge branch 'main' of github.com:hassio-addons/addon-home-panel into main 
 - Update path (#88) 
 - Update path 
