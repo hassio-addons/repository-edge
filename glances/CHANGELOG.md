@@ -1,4 +1,13 @@
 # Changelog since v0.11.0
+- ⬆️ Bump docker from 4.4.2 to 4.4.3 in /glances (#125)
+
+Bumps [docker](https://github.com/docker/docker-py) from 4.4.2 to 4.4.3.
+- [Release notes](https://github.com/docker/docker-py/releases)
+- [Commits](https://github.com/docker/docker-py/compare/4.4.2...4.4.3)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆ Upgrades python3 to 3.8.7-r1 (#126) 
 - ⬆️ Bump actions/stale from v3.0.16 to v3.0.17 (#124)
 
