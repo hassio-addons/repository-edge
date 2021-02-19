@@ -1,4 +1,14 @@
 # Changelog since v8.1.1
+- ⬆ Upgrades python3 to 3.8.7-r1 (#909) 
+- ⬆️ Bump actions/stale from v3.0.16 to v3.0.17 (#908)
+
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.16 to v3.0.17.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.16...996798eb71ef485dc4c7b4d3285842d714040c4a)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Upgrade add-on base image to 9.1.4 (#907) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#905)
 
