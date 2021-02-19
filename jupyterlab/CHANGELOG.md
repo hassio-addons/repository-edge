@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- ⬆ Upgrades nodejs to 12.20.2-1nodesource1 (#244) 
 - ⬆️ Bump actions/stale from v3.0.16 to v3.0.17 (#243)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.16 to v3.0.17.
