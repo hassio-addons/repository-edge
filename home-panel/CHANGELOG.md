@@ -1,4 +1,11 @@
 # Changelog since v2.0.0
+- Update and fix paths (#90)
+
+* Update and fix paths
+
+* Restore LF
+
+* Restore perms 
 - Fix output path (#89) 
 - Merge branch 'main' of github.com:hassio-addons/addon-home-panel into main 
 - Update path (#88) 
