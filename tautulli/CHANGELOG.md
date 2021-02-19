@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- ⬆ Upgrades python3 to 3.8.7-r1 (#95) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#93)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
