@@ -838,10 +838,10 @@ SOFTWARE.
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [example-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/v4.0.1
-[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/v4.0.1/README.md
+[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/3a69f8c
+[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/3a69f8c/README.md
 [ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
-[ftp-version-shield]: https://img.shields.io/badge/version-v4.0.1-blue.svg
+[ftp-version-shield]: https://img.shields.io/badge/version-3a69f8c-blue.svg
 [ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
