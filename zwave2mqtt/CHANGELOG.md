@@ -1,4 +1,5 @@
 # Changelog since v0.9.2
+- ⬆ Bump actions/stale from v3.0.16 to v3.0.17 (#97) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#96)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.2.2 to v2.3.0.
