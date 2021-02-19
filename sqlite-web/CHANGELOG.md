@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Upgrade add-on base image to 9.1.4 (#126) 
 - ⬆ Upgrades python3 to 3.8.7-r1 (#125) 
 - ⬆️ Bump actions/stale from v3.0.16 to v3.0.17 (#124)
 
