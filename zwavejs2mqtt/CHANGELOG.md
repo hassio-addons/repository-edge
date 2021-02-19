@@ -1,4 +1,5 @@
 # Changelog since v0.4.2
+- Fix Watchdog URL to match Supervisor validation (#50) 
 - Allow Supervisor to use health check for watchdog (#49) 
 - ⬆ Upgrades ZwaveJS2Mqtt to v1.2.2 (#48) 
 - ⬆ Upgrades python3-dev to 3.8.7-r1 (#46) 
