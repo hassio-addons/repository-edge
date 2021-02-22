@@ -1,1 +1,1 @@
-- ⬆ Bump actions/stale from v3.0.16 to v3.0.17 (#101)
+- ⬆ Bump mopidy-iris from 3.55.4 to 3.56.1 in /mopidy (#104)
