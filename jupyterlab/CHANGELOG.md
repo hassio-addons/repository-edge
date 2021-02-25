@@ -1,4 +1,6 @@
 # Changelog since v0.4.0
+- ⬆ Upgrades nodejs to 12.21.0-1nodesource1 (#246) 
+- Add Seaborn by default (#245) 
 - ⬆ Upgrades nodejs to 12.20.2-1nodesource1 (#244) 
 - ⬆️ Bump actions/stale from v3.0.16 to v3.0.17 (#243)
 
