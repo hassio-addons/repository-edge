@@ -1,2 +1,2 @@
-# Changelog since v0.4.3
-- ⬆ Upgrades ZwaveJS2Mqtt to v1.2.3 (#55) 
+# Changelog since v0.4.4
+- ⬆️ Upgrades nodejs to 14.16.0-r0 (#59) 
