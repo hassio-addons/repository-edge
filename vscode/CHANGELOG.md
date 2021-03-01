@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- ⬆️ Upgrades esbenp.prettier-vscode to 5.9.2 (#191) 
 - ⬆ Bump actions/stale from v3.0.16 to v3.0.17 (#190) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#189)
 
