@@ -1,4 +1,7 @@
 # Changelog since v4.0.3
+- Add note about env values to documentation (#140)
+
+Specified that environment variable values should always be entered in string format, even if the value is a boolean (true/false). 
 - ⬆ Bump actions/stale from v3.0.16 to v3.0.17 (#136) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#135)
 
