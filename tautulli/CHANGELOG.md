@@ -1,4 +1,5 @@
 # Changelog since v2.0.2
+- ⬆ Upgrades Tautulli to v2.6.7 (#100) 
 - ⬆ Upgrades add-on base image to v9.1.5 (#99) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#98)
 
