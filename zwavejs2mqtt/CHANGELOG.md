@@ -1,4 +1,6 @@
 # Changelog since v0.6.0
+- Update database to 1f800c77d1406eef3f6298ff3d4134c87baa66b6 (#79) 
+- ⬆ Upgrades ZwaveJS2Mqtt to v2.1.2 (#78) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#76)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
