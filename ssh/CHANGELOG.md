@@ -1,10 +1,9 @@
-# Changelog since v8.0.2
-- ⬆ Upgrades python3 to 3.8.7-r1 (#213) 
-- ⬆️ Bump actions/stale from v3.0.16 to v3.0.17 (#212)
+# Changelog since v8.0.3
+- ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#215)
 
-Bumps [actions/stale](https://github.com/actions/stale) from v3.0.16 to v3.0.17.
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
 - [Release notes](https://github.com/actions/stale/releases)
-- [Commits](https://github.com/actions/stale/compare/v3.0.16...996798eb71ef485dc4c7b4d3285842d714040c4a)
+- [Commits](https://github.com/actions/stale/compare/v3.0.17...3b3c3f03cd4d8e2b61e179ef744a0d20efbe90b4)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
