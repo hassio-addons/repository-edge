@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- ⬆ Upgrades code-server to 3.9.1 (#194) 
 - ⬆ Upgrades redhat.vscode-yaml to 0.16.0 (#196) 
 - ⬆ Upgrades emilast.LogFileHighlighter to 2.11.0 (#195) 
 - ⬆ Upgrades add-on base image to v4.1.3 (#193) 
