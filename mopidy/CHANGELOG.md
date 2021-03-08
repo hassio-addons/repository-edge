@@ -1,8 +1,8 @@
-- ⬆️ Bump mopidy-local from 3.2.0 to 3.2.1 in /mopidy (#105)
+- ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#106)
 
-Bumps [mopidy-local](https://github.com/mopidy/mopidy-local) from 3.2.0 to 3.2.1.
-- [Release notes](https://github.com/mopidy/mopidy-local/releases)
-- [Commits](https://github.com/mopidy/mopidy-local/compare/v3.2.0...v3.2.1)
+Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.17...3b3c3f03cd4d8e2b61e179ef744a0d20efbe90b4)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
