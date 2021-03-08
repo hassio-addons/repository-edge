@@ -1,4 +1,6 @@
 # Changelog since v0.11.0
+- ⬆ Upgrades add-on base image to v9.1.5 (#190) 
+- ⬆ Upgrades libcurl to 7.74.0-r1 (#189) 
 - ⬆️ Bump singledispatch from 3.6.0 to 3.6.1 in /motioneye (#183)
 
 Bumps [singledispatch](https://github.com/jaraco/singledispatch) from 3.6.0 to 3.6.1.
