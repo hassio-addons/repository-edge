@@ -901,10 +901,10 @@ SOFTWARE.
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [home-panel-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [home-panel-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/22e44cb
-[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/22e44cb/README.md
+[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/f14b55c
+[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/f14b55c/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
-[influxdb-version-shield]: https://img.shields.io/badge/version-22e44cb-blue.svg
+[influxdb-version-shield]: https://img.shields.io/badge/version-f14b55c-blue.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
