@@ -1,4 +1,7 @@
 # Changelog since v3.1.0
+- ⬆ Upgrades redhat.vscode-yaml to 0.16.0 (#196) 
+- ⬆ Upgrades emilast.LogFileHighlighter to 2.11.0 (#195) 
+- ⬆ Upgrades add-on base image to v4.1.3 (#193) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#192)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
