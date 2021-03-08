@@ -1,4 +1,13 @@
 # Changelog since v0.10.0
+- ⬆️ Bump certbot-dns-cloudflare from 1.12.0 to 1.13.0 in /proxy-manager (#166)
+
+Bumps [certbot-dns-cloudflare](https://github.com/certbot/certbot) from 1.12.0 to 1.13.0.
+- [Release notes](https://github.com/certbot/certbot/releases)
+- [Commits](https://github.com/certbot/certbot/compare/v1.12.0...v1.13.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆ Upgrades add-on base image to v9.1.5 (#170) 
 - ⬆ Upgrades nodejs to 14.16.0-r0 (#169) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#168)
