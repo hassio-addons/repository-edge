@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- ⬆ Upgrades composer to 2.0.11-r0 (#144) 
 - ⬆ Bump actions/stale from v3.0.16 to v3.0.17 (#142) 
 - ⬆️ Bump docker/build-push-action from v2.2.2 to v2.3.0 (#141)
 
