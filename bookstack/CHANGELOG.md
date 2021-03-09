@@ -1,4 +1,5 @@
 # Changelog since v0.8.3
+- ⬆ Update bookstack to v0.31.7 (#61) 
 - ⬆ Upgrades add-on base image to v9.1.5 (#60) 
 - Bump actions/stale from v3.0.17 to v3.0.18 (#58)
 
