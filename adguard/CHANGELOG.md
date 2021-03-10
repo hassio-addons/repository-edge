@@ -1,4 +1,6 @@
 # Changelog since v3.0.0
+- 🚑 Bind AdGuard Home to the default interface (#126) 
+- ⬆️ Upgrades add-on base image to v9.1.5 (#127) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#124)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
