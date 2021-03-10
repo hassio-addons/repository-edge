@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- 🚑 Fix host configuration, remove netmask (#130) 
 - 🚑 Ensure the add-on has proper API access (#129) 
 - ⬆️ Upgrades AdGuard Home to v0.105.2 (#128) 
 - 🚑 Bind AdGuard Home to the default interface (#126) 
