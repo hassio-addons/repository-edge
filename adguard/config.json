@@ -1,6 +1,6 @@
 {
   "name": "AdGuard Home",
-  "version": "0082cd9",
+  "version": "5bc552a",
   "slug": "adguard",
   "description": "Network-wide ads & trackers blocking DNS server",
   "url": "https://github.com/hassio-addons/addon-adguard-home",

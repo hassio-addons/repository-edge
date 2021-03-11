@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Disable Nginx access logs (#132) 
 - Exclude querylogs from snapshots (#131) 
 - 🚑 Fix host configuration, remove netmask (#130) 
 - 🚑 Ensure the add-on has proper API access (#129) 
