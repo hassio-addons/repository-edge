@@ -1,4 +1,7 @@
 # Changelog since v8.0.3
+- ⬆️ Upgrades Home Assistant CLI to v4.11.0 (#218) 
+- ⬆️  Upgrades git to 2.30.2-r0 (#217) 
+- ⬆️  Upgrades python3 to 3.8.8-r0 (#216) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#215)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
