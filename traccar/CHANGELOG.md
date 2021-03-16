@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- ⬆ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#77) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#74)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
