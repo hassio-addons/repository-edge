@@ -1,4 +1,13 @@
 # Changelog since v8.1.3
+- ⬆️ Bump node-red-node-twitter from 1.1.7 to 1.2.0 in /node-red (#927)
+
+Bumps [node-red-node-twitter](https://github.com/node-red/node-red-nodes) from 1.1.7 to 1.2.0.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-node-feedparser from 0.1.16 to 0.2.0 in /node-red (#941)
 
 Bumps [node-red-node-feedparser](https://github.com/node-red/node-red-nodes) from 0.1.16 to 0.2.0.
