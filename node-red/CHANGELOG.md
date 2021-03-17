@@ -1,4 +1,5 @@
 # Changelog since v8.1.3
+- ⬆ Bump node-red-node-base64 from 0.2.1 to 0.3.0 in /node-red (#939) 
 - ⬆️ Bump node-red-contrib-sunevents from 3.0.0 to 3.0.2 in /node-red (#940)
 
 Bumps [node-red-contrib-sunevents](https://github.com/freakent/node-red-contrib-sunevents) from 3.0.0 to 3.0.2.
