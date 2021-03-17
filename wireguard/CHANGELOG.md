@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- ⬆️ Upgrades add-on base image to v9.1.5 (#90) 
 - ⬆️ Upgrades go to 1.15.10-r0 (#89) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#87)
 
