@@ -1,4 +1,13 @@
 # Changelog since v8.1.3
+- ⬆️ Bump node-red-node-feedparser from 0.1.16 to 0.2.0 in /node-red (#941)
+
+Bumps [node-red-node-feedparser](https://github.com/node-red/node-red-nodes) from 0.1.16 to 0.2.0.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆ Bump node-red-node-base64 from 0.2.1 to 0.3.0 in /node-red (#939) 
 - ⬆️ Bump node-red-contrib-sunevents from 3.0.0 to 3.0.2 in /node-red (#940)
 
