@@ -1,4 +1,15 @@
 # Changelog since v0.5.0
+- ⬆️ Upgrades go to 1.15.10-r0 (#89) 
+- ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#87)
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.14.0...fe52e97d262833ae07d05efaf1a239df3f1b5cd4)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades git to 2.30.2-r0 (#88) 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#85)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
