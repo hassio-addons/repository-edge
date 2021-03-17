@@ -1,4 +1,13 @@
 # Changelog since v8.1.3
+- ⬆️ Bump node-red-contrib-sunevents from 3.0.0 to 3.0.2 in /node-red (#940)
+
+Bumps [node-red-contrib-sunevents](https://github.com/freakent/node-red-contrib-sunevents) from 3.0.0 to 3.0.2.
+- [Release notes](https://github.com/freakent/node-red-contrib-sunevents/releases)
+- [Commits](https://github.com/freakent/node-red-contrib-sunevents/compare/3.0.0...3.0.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-node-serialport from 0.11.1 to 0.13.0 in /node-red (#929)
 
 Bumps [node-red-node-serialport](https://github.com/node-red/node-red-nodes) from 0.11.1 to 0.13.0.
