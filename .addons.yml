@@ -41,10 +41,6 @@ addons:
     repository: hassio-addons/addon-ftp
     target: ftp
     image: ghcr.io/hassio-addons/ftp/{arch}
-  firefly-iii:
-    repository: hassio-addons/addon-firefly-iii
-    target: firefly-iii
-    image: ghcr.io/hassio-addons/firefly-iii/{arch}
   foldingathome:
     repository: hassio-addons/addon-foldingathome
     target: foldingathome
