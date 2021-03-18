@@ -1,4 +1,6 @@
 # Changelog since v0.7.0
+- Update database to 840fdd7d81ba6b94dae36c006da450476554822d (#89) 
+- ⬆️ Upgrades ZwaveJS2Mqtt to v2.4.0 (#88) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#85)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
