@@ -1,4 +1,5 @@
 # Changelog since v2.0.4
+- ⬆️ Upgrades Tautulli to v2.6.10 (#107) 
 - ⬆️ Upgrades Tautulli to v2.6.9 (#106) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#105)
 
