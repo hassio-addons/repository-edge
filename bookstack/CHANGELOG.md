@@ -1,4 +1,6 @@
 # Changelog since v0.8.4
+- ⬆ Update Bookstack to v0.31.8 (#65) 
+- 🔨 Remove cache rules (#64) 
 - Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#62)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
