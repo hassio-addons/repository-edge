@@ -1,21 +1,12 @@
-# Changelog since v2.1.0
-- ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#94)
+## What’s changed
 
-Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
-- [Release notes](https://github.com/release-drafter/release-drafter/releases)
-- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.14.0...fe52e97d262833ae07d05efaf1a239df3f1b5cd4)
+## 🧰 Maintenance
 
-Signed-off-by: dependabot[bot] <support@github.com>
+- ⬆️ Update Home Panel to [v2.11.5](https://github.com/timmo001/home-panel/releases/tag/v2.11.5) @timmo001 (#95)
 
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- Bump actions/stale from v3.0.17 to v3.0.18 (#91)
+## ⬆️ Dependency updates
 
-Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Commits](https://github.com/actions/stale/compare/v3.0.17...3b3c3f03cd4d8e2b61e179ef744a0d20efbe90b4)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆ Upgrades add-on base image to v9.1.5 (#93) 
-- ⬆ Upgrades nodejs-current to 15.10.0-r0 (#92) 
+- ⬆ Upgrades nodejs-current to 15.10.0-r0 @frenck (#92)
+- ⬆ Upgrades add-on base image to v9.1.5 @frenck (#93)
+- ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 @dependabot (#91)
+- ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 @dependabot (#94)
