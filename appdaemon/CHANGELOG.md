@@ -1,4 +1,11 @@
 # Changelog since v0.4.4
+- ⬆️ Upgrades AppDaemon to 4.0.6 (#92)
+
+* ⬆️ Upgrades AppDaemon to 4.0.6
+
+* Adjust build dependencies for ApPDaemon 4.0.6
+
+* Update AppDaemon patch for Supervisor based installations 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#89)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
