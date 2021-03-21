@@ -1,4 +1,5 @@
 # Changelog since v0.4.4
+- Patch AppDaemon 4.0.6 for Supervisor compatibility (#93) 
 - ⬆️ Upgrades AppDaemon to 4.0.6 (#92)
 
 * ⬆️ Upgrades AppDaemon to 4.0.6
