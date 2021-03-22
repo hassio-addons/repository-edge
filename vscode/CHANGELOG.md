@@ -1,4 +1,11 @@
 # Changelog since v3.1.1
+- ⬆️ Upgrades ESPHome.esphome-vscode to 0.13.0 (#207) 
+- ⬆️ Upgrades Home Assistant CLI to v4.11.2 (#204)
+
+* ⬆️ Upgrades Home Assistant CLI to v4.11.1
+
+* ⬆️ Upgrades Home Assistant CLI to v4.11.2 
+- ⬆️ Upgrades usernamehw.errorlens to 3.2.5 (#206) 
 - ⬆️ Upgrades esbenp.prettier-vscode to 6.3.1 (#205) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#201)
 
