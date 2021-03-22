@@ -1,4 +1,13 @@
 # Changelog since v8.2.0
+- ⬆️ Bump node-red-contrib-sunevents from 3.0.2 to 3.0.3 in /node-red (#946)
+
+Bumps [node-red-contrib-sunevents](https://github.com/freakent/node-red-contrib-sunevents) from 3.0.2 to 3.0.3.
+- [Release notes](https://github.com/freakent/node-red-contrib-sunevents/releases)
+- [Commits](https://github.com/freakent/node-red-contrib-sunevents/compare/3.0.2...v3.0.3)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump node-red-dashboard from 2.28.1 to 2.28.2 in /node-red (#945)
 
 Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.28.1 to 2.28.2.
