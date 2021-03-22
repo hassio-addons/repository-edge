@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- ⬆️ Upgrades esbenp.prettier-vscode to 6.3.1 (#205) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#201)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
