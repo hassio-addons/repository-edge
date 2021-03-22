@@ -1,4 +1,5 @@
 # Changelog since v8.0.4
+- Add access to journald (#224) 
 - Upgrade add-on linter to 2.1.0 (#223) 
 - ⬆️ Upgrades docker to 20.10.3-r1 (#222) 
 - ⬆️  Upgrades add-on base image to v9.1.5 (#221)
