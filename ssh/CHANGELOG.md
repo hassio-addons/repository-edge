@@ -1,4 +1,9 @@
 # Changelog since v8.0.4
+- ⬆️ Upgrades Home Assistant CLI to v4.11.2 (#225)
+
+* ⬆️ Upgrades Home Assistant CLI to v4.11.1
+
+* ⬆️ Upgrades Home Assistant CLI to v4.11.2 
 - Add access to journald (#224) 
 - Upgrade add-on linter to 2.1.0 (#223) 
 - ⬆️ Upgrades docker to 20.10.3-r1 (#222) 
