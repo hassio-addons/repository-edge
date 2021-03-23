@@ -1,4 +1,5 @@
 # Changelog since v8.2.0
+- ⬆ Bump frenck/action-addon-linter from v2.0.0 to v2.1 (#947) 
 - ⬆️ Bump node-red-contrib-sunevents from 3.0.2 to 3.0.3 in /node-red (#946)
 
 Bumps [node-red-contrib-sunevents](https://github.com/freakent/node-red-contrib-sunevents) from 3.0.2 to 3.0.3.
