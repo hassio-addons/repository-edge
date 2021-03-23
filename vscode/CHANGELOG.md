@@ -1,4 +1,6 @@
 # Changelog since v3.1.1
+- Common directories in /root like SSH add-on (#197) 
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.15.0 (#209) 
 - ⬆️ Bump frenck/action-addon-linter from v2.0.0 to v2.1 (#208)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v2.0.0 to v2.1.
