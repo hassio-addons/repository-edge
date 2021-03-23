@@ -1,8 +1,8 @@
-- ⬆️ Bump mopidy-iris from 3.56.1 to 3.57.0 in /mopidy (#108)
+- ⬆️ Bump mopidy-iris from 3.57.0 to 3.57.1 in /mopidy (#109)
 
-Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.56.1 to 3.57.0.
+Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.57.0 to 3.57.1.
 - [Release notes](https://github.com/jaedb/iris/releases)
-- [Commits](https://github.com/jaedb/iris/commits/3.57.0)
+- [Commits](https://github.com/jaedb/iris/commits)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
