@@ -1,4 +1,5 @@
 # Changelog since v6.1.3
+- ⬆️ Upgrades Grafana to v7.4.5 (#123) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#122)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
