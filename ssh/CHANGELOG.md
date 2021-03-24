@@ -1,4 +1,6 @@
 # Changelog since v8.0.4
+- ⬆️ Upgrades openssh to 8.4_p1-r3 (#228) 
+- ⬆️ Upgrades Home Assistant CLI to v4.11.3 (#227) 
 - ⬆️ Upgrades Home Assistant CLI to v4.11.2 (#225)
 
 * ⬆️ Upgrades Home Assistant CLI to v4.11.1
