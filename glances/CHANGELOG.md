@@ -1,4 +1,23 @@
 # Changelog since v0.11.1
+- ⬆️ Bump zeroconf from 0.28.8 to 0.29.0 in /glances (#130)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.28.8 to 0.29.0.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.28.8...0.29.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades python3 to 3.8.8-r0 (#131) 
+- ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#129)
+
+Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
+- [Release notes](https://github.com/release-drafter/release-drafter/releases)
+- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.14.0...fe52e97d262833ae07d05efaf1a239df3f1b5cd4)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#128)
 
 Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
