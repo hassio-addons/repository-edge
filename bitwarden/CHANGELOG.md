@@ -1,4 +1,6 @@
 # Changelog since v0.8.0
+- ⬆️ Upgrades BitwardenRS to 1.20.0 (#101) 
+- ⬆️ Upgrades libpq5 to 11.11-0+deb10u1 (#100) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#97)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
