@@ -1,4 +1,9 @@
 # Changelog since v4.0.1
+- ⬆️  Upgrades add-on base image to v9.1.6 (#44)
+
+* ⬆ Upgrades add-on base image to v9.1.6
+
+* ⬆️ Upgrades openssl to 1.1.1k-r0 
 - Fix incorrect file timestamps through FTP server (#42)
 
 Fix incorrect file timestamps through FTP server 
