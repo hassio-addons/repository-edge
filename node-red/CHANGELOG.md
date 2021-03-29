@@ -1,4 +1,14 @@
 # Changelog since v8.2.0
+- Bump node-red-node-feedparser from 0.2.0 to 0.2.1 in /node-red (#949)
+
+Bumps [node-red-node-feedparser](https://github.com/node-red/node-red-nodes) from 0.2.0 to 0.2.1.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades add-on base image to v9.1.6 (#952) 
 - ⬆️ Upgrades openssh-client to 8.4_p1-r3 (#951) 
 - ⬆ Bump frenck/action-addon-linter from v2.0.0 to v2.1 (#947) 
 - ⬆️ Bump node-red-contrib-sunevents from 3.0.2 to 3.0.3 in /node-red (#946)
