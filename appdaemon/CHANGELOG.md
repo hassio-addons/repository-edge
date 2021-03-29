@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- ⬆️ Upgrades add-on base image to v9.1.6 (#98) 
 - ⬆️ Bump frenck/action-addon-linter from v2.0.0 to v2.1 (#94)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from v2.0.0 to v2.1.

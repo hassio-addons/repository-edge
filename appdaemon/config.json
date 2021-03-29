@@ -1,6 +1,6 @@
 {
   "name": "AppDaemon 4",
-  "version": "e2d9e72",
+  "version": "d0d1bc9",
   "slug": "appdaemon",
   "description": "Python Apps and Dashboard using AppDaemon 4.x for Home Assistant",
   "url": "https://github.com/hassio-addons/addon-appdaemon",
