@@ -1,4 +1,5 @@
 # Changelog since v0.8.0
+- ⬆️ Upgrades add-on base image to v4.1.3 (#102) 
 - ⬆️ Upgrades BitwardenRS to 1.20.0 (#101) 
 - ⬆️ Upgrades libpq5 to 11.11-0+deb10u1 (#100) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#97)
