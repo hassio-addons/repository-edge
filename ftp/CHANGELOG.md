@@ -1,4 +1,7 @@
 # Changelog since v4.0.1
+- Fix incorrect file timestamps through FTP server (#42)
+
+Fix incorrect file timestamps through FTP server 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#41)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
