@@ -1,6 +1,6 @@
 {
   "name": "FTP",
-  "version": "701eea9",
+  "version": "1e3fdfa",
   "slug": "ftp",
   "description": "A secure and fast FTP server for Home Assistant",
   "url": "https://github.com/hassio-addons/addon-ftp",

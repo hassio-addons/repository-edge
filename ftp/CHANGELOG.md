@@ -1,28 +1,10 @@
-# Changelog since v4.0.1
-- ⬆️  Upgrades add-on base image to v9.1.6 (#44)
+# Changelog since v4.0.2
+- ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#45)
 
-* ⬆ Upgrades add-on base image to v9.1.6
-
-* ⬆️ Upgrades openssl to 1.1.1k-r0 
-- Fix incorrect file timestamps through FTP server (#42)
-
-Fix incorrect file timestamps through FTP server 
-- ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#41)
-
-Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
-- [Release notes](https://github.com/release-drafter/release-drafter/releases)
-- [Commits](https://github.com/release-drafter/release-drafter/compare/v5.14.0...fe52e97d262833ae07d05efaf1a239df3f1b5cd4)
+Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
+- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
+- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.0.0...94e0aab03ca135d11a35e5bfc14e6746dc56e7e9)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump actions/stale from v3.0.17 to v3.0.18 (#40)
-
-Bumps [actions/stale](https://github.com/actions/stale) from v3.0.17 to v3.0.18.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Commits](https://github.com/actions/stale/compare/v3.0.17...3b3c3f03cd4d8e2b61e179ef744a0d20efbe90b4)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆ Bump actions/stale from v3.0.16 to v3.0.17 (#38) 
