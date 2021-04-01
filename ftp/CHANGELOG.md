@@ -1,4 +1,5 @@
 # Changelog since v4.0.2
+- Make add-on icons transparent (#46) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#45)
 
 Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
