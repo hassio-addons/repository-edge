@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- Update database to 07634576787290b58540ef56a4a8dc4b8771a725 (#107) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#106)
 
 Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
