@@ -1,49 +1,18 @@
-# Changelog since v8.2.0
-- Bump node-red-node-email from 1.9.0 to 1.10.1 in /node-red (#950)
+# Changelog since v8.2.1
+- Bump node-red-node-email from 1.10.1 to 1.10.2 in /node-red (#954)
 
-Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.9.0 to 1.10.1.
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.10.1 to 1.10.2.
 - [Release notes](https://github.com/node-red/node-red-nodes/releases)
 - [Commits](https://github.com/node-red/node-red-nodes/commits)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- Bump node-red-node-feedparser from 0.2.0 to 0.2.1 in /node-red (#949)
+- Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#953)
 
-Bumps [node-red-node-feedparser](https://github.com/node-red/node-red-nodes) from 0.2.0 to 0.2.1.
-- [Release notes](https://github.com/node-red/node-red-nodes/releases)
-- [Commits](https://github.com/node-red/node-red-nodes/commits)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Upgrades add-on base image to v9.1.6 (#952) 
-- ⬆️ Upgrades openssh-client to 8.4_p1-r3 (#951) 
-- ⬆ Bump frenck/action-addon-linter from v2.0.0 to v2.1 (#947) 
-- ⬆️ Bump node-red-contrib-sunevents from 3.0.2 to 3.0.3 in /node-red (#946)
-
-Bumps [node-red-contrib-sunevents](https://github.com/freakent/node-red-contrib-sunevents) from 3.0.2 to 3.0.3.
-- [Release notes](https://github.com/freakent/node-red-contrib-sunevents/releases)
-- [Commits](https://github.com/freakent/node-red-contrib-sunevents/compare/3.0.2...v3.0.3)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump node-red-dashboard from 2.28.1 to 2.28.2 in /node-red (#945)
-
-Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.28.1 to 2.28.2.
-- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
-- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/node-red/node-red-dashboard/compare/2.28.1...2.28.2)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump node-red-contrib-time-range-switch from 1.0.1 to 1.1.0 in /node-red (#944)
-
-Bumps [node-red-contrib-time-range-switch](https://github.com/biddster/node-red-contrib-time-range-switch) from 1.0.1 to 1.1.0.
-- [Release notes](https://github.com/biddster/node-red-contrib-time-range-switch/releases)
-- [Commits](https://github.com/biddster/node-red-contrib-time-range-switch/compare/1.0.1...1.1.0)
+Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
+- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
+- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.0.0...94e0aab03ca135d11a35e5bfc14e6746dc56e7e9)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
