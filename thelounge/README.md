@@ -48,7 +48,7 @@ If you are more interested in stable releases of our add-ons:
 [midnight-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/midnight-theme.png
 [more-info-light]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/more-info-light.png
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-be98359-blue.svg
-[release]: https://github.com/hassio-addons/addon-thelounge/tree/be98359
+[release-shield]: https://img.shields.io/badge/version-df6949c-blue.svg
+[release]: https://github.com/hassio-addons/addon-thelounge/tree/df6949c
 [screenshot]: https://raw.githubusercontent.com/hassio-addons/addon-thelounge/master/images/screenshot.png
 [thelounge]: https://github.com/timmo001/thelounge
