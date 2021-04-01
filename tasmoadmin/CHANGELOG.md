@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- ⬆ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#138) 
 - ⬆️  Upgrades add-on base image to v9.1.5 (#136) 
 - ⬆️ Upgrades git to 2.30.2-r0 (#135) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#134)
