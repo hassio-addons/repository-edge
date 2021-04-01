@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#41) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#40)
 
 Bumps [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) from v5.14.0 to v5.15.0.
