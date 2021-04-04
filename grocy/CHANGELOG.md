@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- Add missing php7-ldap and php7-exif packages (#150) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#152)
 
 Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
