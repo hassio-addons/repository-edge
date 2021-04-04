@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Upgrades add-on base image to v9.1.6 (#199) 
 - ⬆️ Upgrades git to 2.30.2-r0 (#195) 
 - ⬆️ Bump release-drafter/release-drafter from v5.14.0 to v5.15.0 (#193)
 
