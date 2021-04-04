@@ -10,6 +10,21 @@
 
 The Android Debug Bridge server program.
 
+## Deprecation warning
+
+**This add-on is in a deprecated state!**
+
+This add-on was created at the time, that the best solution for communicating
+with an Android device from Home Assistant, was using an Android Debug Bridge.
+
+However, the time has changed. Right now, the Home Assistant project recommends
+using built-in Python implementation, which renders this add-on obsolete.
+
+Additionally, this add-on will become problematic to maintain in the future,
+as the packages used are stalled.
+
+Therefore, this add-on is now deprecated.
+
 ## About
 
 The Android Debug Bridge (ADB) is a client-server program used in Android
@@ -45,5 +60,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-3d4a364-blue.svg
-[release]: https://github.com/hassio-addons/addon-adb/tree/3d4a364
+[release-shield]: https://img.shields.io/badge/version-66aa65f-blue.svg
+[release]: https://github.com/hassio-addons/addon-adb/tree/66aa65f
