@@ -1,4 +1,5 @@
 # Changelog since v3.3.0
+- ⬆️ Upgrades code-server to 3.9.2 (#223) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#217)
 
 Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
