@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- Fix Grocy current relative URL handling brain-damage (#157) 
+- Make NGinx doing less log spam (#156) 
+- ⬆️ Upgrades add-on base image to v9.1.6 (#155) 
 - Add missing php7-ldap and php7-exif packages (#150) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#152)
 
