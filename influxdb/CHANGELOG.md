@@ -1,4 +1,6 @@
 # Changelog since v4.0.3
+- ⬆️ Upgrades Kapacitor to 1.5.9-1 (#149) 
+- ⬆️ Upgrades add-on base image to v4.1.4 (#148) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#146)
 
 Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
