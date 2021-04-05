@@ -1,4 +1,23 @@
 # Changelog since v0.11.1
+- Implement feature setting stock count opened products against minimum stock amount (#151)
+
+* Implement FeatFEATURE_SETTING_STOCK_COUNT_OPENED_PRODUCTS_AGAINST_MINIMUM_STOCK_AMOUNTre
+
+* Added documentation for stock_count_opened_products_against_minimum_stock_amount
+
+* Added documentation for Barcode Buddy
+
+* Fix MD013 Line length
+
+* Fix MD009 Trailing spaces
+
+* Prettified Code!
+
+* Apply suggestions from code review
+
+* Update grocy/DOCS.md
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Fix Grocy current relative URL handling brain-damage (#157) 
 - Make NGinx doing less log spam (#156) 
 - ⬆️ Upgrades add-on base image to v9.1.6 (#155) 
