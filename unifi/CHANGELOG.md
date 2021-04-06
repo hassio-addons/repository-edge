@@ -1,4 +1,5 @@
 # Changelog since v0.20.3
+- ⬆️  Upgrades add-on base image to v6.1.4 (#179) 
 - ⬆ Upgrade UniFi Controller version 6.1.71 (#178) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#177)
 
