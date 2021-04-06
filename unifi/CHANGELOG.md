@@ -1,4 +1,5 @@
 # Changelog since v0.20.3
+- ⬆ Upgrade UniFi Controller version 6.1.71 (#178) 
 - ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#177)
 
 Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
