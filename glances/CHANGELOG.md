@@ -1,4 +1,13 @@
 # Changelog since v0.11.2
+- ⬆️ Bump docker from 4.4.4 to 5.0.0 in /glances (#135)
+
+Bumps [docker](https://github.com/docker/docker-py) from 4.4.4 to 5.0.0.
+- [Release notes](https://github.com/docker/docker-py/releases)
+- [Commits](https://github.com/docker/docker-py/compare/4.4.4...5.0.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/build-push-action from v2.3.0 to v2.4.0 (#134)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.3.0 to v2.4.0.
