@@ -1,4 +1,5 @@
 # Changelog since v3.3.0
+- ⬆ Bump yamllint from 1.26.0 to 1.26.1 in /vscode (#228) 
 - ⬆️ Bump docker/build-push-action from v2.3.0 to v2.4.0 (#226)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.3.0 to v2.4.0.
