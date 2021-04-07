@@ -41,6 +41,6 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-sqlite-web/68912?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-4351e1e-blue.svg
-[release]: https://github.com/hassio-addons/addon-sqlite-web/tree/4351e1e
+[release-shield]: https://img.shields.io/badge/version-209273a-blue.svg
+[release]: https://github.com/hassio-addons/addon-sqlite-web/tree/209273a
 [screenshot]: https://github.com/hassio-addons/addon-sqlite-web/raw/main/images/sample-view.png
