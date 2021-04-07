@@ -1,4 +1,6 @@
 # Changelog since v0.10.0
+- Update database to 68294d7406bf6603b058ffeab1c1dc4949a5a7d3 (#115) 
+- ⬆️ Upgrades ZwaveJS2Mqtt to v3.2.0 (#114) 
 - ⬆️ Bump docker/build-push-action from v2.3.0 to v2.4.0 (#113)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.3.0 to v2.4.0.
