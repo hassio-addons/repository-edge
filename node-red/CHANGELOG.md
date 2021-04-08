@@ -1,4 +1,5 @@
 # Changelog since v8.2.1
+- ⬆️ Upgrades add-on base image to v9.1.7 (#966) 
 - ⬆️ Upgrades nodejs to 14.16.1-r0 (#965) 
 - Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 (#963)
 
