@@ -59,6 +59,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-51936a6-blue.svg
-[release]: https://github.com/hassio-addons/addon-bitwarden/tree/51936a6
+[release-shield]: https://img.shields.io/badge/version-3313d2e-blue.svg
+[release]: https://github.com/hassio-addons/addon-bitwarden/tree/3313d2e
 [screenshot]: https://github.com/hassio-addons/addon-bitwarden/raw/main/images/screenshot.png
