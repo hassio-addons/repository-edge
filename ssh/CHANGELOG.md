@@ -1,4 +1,14 @@
 # Changelog since v8.1.1
+- ⬆️ Bump yamllint from 1.26.0 to 1.26.1 in /ssh (#234)
+
+Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.26.0 to 1.26.1.
+- [Release notes](https://github.com/adrienverge/yamllint/releases)
+- [Changelog](https://github.com/adrienverge/yamllint/blob/master/CHANGELOG.rst)
+- [Commits](https://github.com/adrienverge/yamllint/compare/v1.26.0...v1.26.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 (#237)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.1 to v1.1.2.
