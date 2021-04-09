@@ -1,4 +1,14 @@
 # Changelog since v8.2.1
+- Bump node-red from 1.2.9 to 1.3.1 in /node-red (#968)
+
+Bumps [node-red](https://github.com/node-red/node-red) from 1.2.9 to 1.3.1.
+- [Release notes](https://github.com/node-red/node-red/releases)
+- [Changelog](https://github.com/node-red/node-red/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red/compare/1.2.9...1.3.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump @node-red-contrib-themes/midnight-red from 1.4.7 to 1.5.0 in /node-red (#967)
 
 Bumps [@node-red-contrib-themes/midnight-red](https://github.com/node-red-contrib-themes/midnight-red) from 1.4.7 to 1.5.0.
