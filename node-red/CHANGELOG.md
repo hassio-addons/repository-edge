@@ -1,4 +1,22 @@
 # Changelog since v8.2.1
+- Bump @node-red-contrib-themes/midnight-red from 1.4.7 to 1.5.0 in /node-red (#967)
+
+Bumps [@node-red-contrib-themes/midnight-red](https://github.com/node-red-contrib-themes/midnight-red) from 1.4.7 to 1.5.0.
+- [Release notes](https://github.com/node-red-contrib-themes/midnight-red/releases)
+- [Commits](https://github.com/node-red-contrib-themes/midnight-red/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump node-red-node-ping from 0.3.0 to 0.3.1 in /node-red (#969)
+
+Bumps [node-red-node-ping](https://github.com/node-red/node-red-nodes) from 0.3.0 to 0.3.1.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to v9.1.7 (#966) 
 - ⬆️ Upgrades nodejs to 14.16.1-r0 (#965) 
 - Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 (#963)
