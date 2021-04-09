@@ -1,4 +1,11 @@
 # Changelog since v0.11.0
+- Basic name change Hass.io -> Home Assistant (#82)
+
+* Basic name change Hass.io -> Home Assistant
+
+* ✏ Tweak
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#81)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
