@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️  Upgrades add-on base image to v9.1.7 (#40) 
 - ⬆️ Upgrades nodejs to 14.16.1-r0 (#39) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#38)
 
