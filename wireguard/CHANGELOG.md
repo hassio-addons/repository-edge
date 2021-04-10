@@ -1,4 +1,6 @@
 # Changelog since v0.5.0
+- ⬆️ Upgrades WireGuard Go to 0.0.20210212 (#102) 
+- ⬆️ Upgrades add-on base image to v9.1.7 (#101) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#100)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
