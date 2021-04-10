@@ -1,4 +1,6 @@
 # Changelog since v0.2.0
+- ⬆️ Upgrades phpMyAdmin to 5.1.0 (#48) 
+- ⬆️ Upgrades add-on base image to v9.1.7 (#47) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#46)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
