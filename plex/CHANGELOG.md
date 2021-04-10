@@ -1,4 +1,6 @@
 # Changelog since v2.5.2
+- ⬆️ Upgrades Plex Media Server to 1.22.2.4282 (#78) 
+- ⬆️ Upgrades add-on base image to v6.1.4 (#79) 
 - ⬆️ Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 (#77)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.1 to v1.1.2.
