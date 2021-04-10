@@ -1,4 +1,6 @@
 # Changelog since v2.0.5
+- ⬆️ Upgrades add-on base image to v9.1.7 (#116) 
+- ⬆️ Upgrades Tautulli to v2.7.0 (#115) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#114)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
