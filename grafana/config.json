@@ -1,6 +1,6 @@
 {
   "name": "Grafana",
-  "version": "a720a21",
+  "version": "c2b7b60",
   "slug": "grafana",
   "description": "The open platform for beautiful analytics and monitoring",
   "url": "https://github.com/hassio-addons/addon-grafana",
@@ -15,6 +15,7 @@
     "armv7"
   ],
   "map": [
+    "config",
     "ssl"
   ],
   "options": {

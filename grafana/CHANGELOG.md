@@ -1,4 +1,7 @@
 # Changelog since v6.2.0
+- ⬆️ Upgrades add-on base image to v4.1.4 (#135) 
+- ⬆️ Upgrades Grafana to v7.5.3 (#136) 
+- Add access to Home Assistant configuration so SQLite DB can be used (#134) 
 - ⬆️ Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 (#131)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.1 to v1.1.2.
