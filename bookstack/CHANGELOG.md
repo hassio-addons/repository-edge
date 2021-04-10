@@ -1,4 +1,5 @@
 # Changelog since v0.8.5
+- ⬆ Update Bookstack to v21.04 (#72) 
 - ⬆️ Upgrades add-on base image to v9.1.7 (#71) 
 - Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#70)
 
