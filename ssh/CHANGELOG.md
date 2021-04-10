@@ -1,4 +1,5 @@
 # Changelog since v8.1.1
+- ⬆️ Upgrades Home Assistant CLI to v4.12.0 (#241) 
 - ⬆️ Bump yamllint from 1.26.0 to 1.26.1 in /ssh (#234)
 
 Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.26.0 to 1.26.1.
