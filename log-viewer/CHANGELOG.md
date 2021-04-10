@@ -1,4 +1,5 @@
 # Changelog since v0.10.1
+- 🚑  Fix deployment of add-on (again) (#74) 
 - 🚑 Fix deployment of add-on (again) (#73) 
 - 🚑  Fix deployment of add-on (#72) 
 - ⬆️ Upgrades add-on base image to v9.1.7 (#71) 
