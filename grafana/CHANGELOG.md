@@ -1,4 +1,23 @@
 # Changelog since v6.2.0
+- Document anonymous access and limitations (#101)
+
+* Document anonymous access and limitations
+
+* Set yaml codefence and fix line length
+
+* Use double quotes for YAML example
+
+* Fix minor word and text layouts
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl>
+
+* Add required newlines and remove extra quotes
+
+* Remove link to forum post
+
+* Tweak
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Add /health as watchdog url (#129)
 
 * Add /health as watchdog url
