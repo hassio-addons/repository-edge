@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- Add php7-xml (#49) 
 - ⬆️ Upgrades phpMyAdmin to 5.1.0 (#48) 
 - ⬆️ Upgrades add-on base image to v9.1.7 (#47) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#46)
