@@ -1,4 +1,5 @@
 # Changelog since v3.3.0
+- ⬆️ Upgrades Home Assistant CLI to v4.12.0 (#232) 
 - ⬆️ Upgrades code-server to 3.9.3 (#231) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#230)
 
