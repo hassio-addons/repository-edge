@@ -1,11 +1,20 @@
-# Changelog since v0.10.0
-- Update database to 68294d7406bf6603b058ffeab1c1dc4949a5a7d3 (#115) 
-- ⬆️ Upgrades ZwaveJS2Mqtt to v3.2.0 (#114) 
-- ⬆️ Bump docker/build-push-action from v2.3.0 to v2.4.0 (#113)
+# Changelog since v0.11.0
+- ⬆️ Upgrades add-on base image to v9.1.7 (#124) 
+- ⬆️ Upgrades nodejs to 14.16.1-r0 (#123) 
+- ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#117)
 
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.3.0 to v2.4.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v2.3.0...e1b7f96249f2e4c8e4ac1519b9608c0d48944a1f)
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.0.1...25f0500ff22e406f7191a2a8ba8cda16901ca018)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 (#116)
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.1 to v1.1.2.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.1.1...2a4b53665e15ce7d7049afb11ff1f70ff1610609)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
