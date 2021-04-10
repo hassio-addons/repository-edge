@@ -1,4 +1,6 @@
 # Changelog since v0.11.0
+- ⬆️ Upgrades add-on base image to v9.1.7 (#85) 
+- ⬆️ Upgrades nss to 3.63-r0 (#84) 
 - Basic name change Hass.io -> Home Assistant (#82)
 
 * Basic name change Hass.io -> Home Assistant
