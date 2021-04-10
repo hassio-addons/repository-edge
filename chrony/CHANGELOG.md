@@ -1,4 +1,5 @@
 # Changelog since v2.0.1
+- ⬆️ Upgrades add-on base image to v9.1.7 (#52) 
 - Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#51)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
