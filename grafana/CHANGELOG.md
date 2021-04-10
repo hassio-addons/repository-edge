@@ -1,4 +1,11 @@
 # Changelog since v6.2.0
+- Add /health as watchdog url (#129)
+
+* Add /health as watchdog url
+
+* Use ingress port for health check
+
+Co-authored-by: Franck Nijhof <frenck@addons.community> 
 - ⬆️ Upgrades add-on base image to v4.1.4 (#135) 
 - ⬆️ Upgrades Grafana to v7.5.3 (#136) 
 - Add access to Home Assistant configuration so SQLite DB can be used (#134) 
