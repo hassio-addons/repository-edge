@@ -1,6 +1,6 @@
 {
   "name": "Mopidy",
-  "version": "7e8f22e",
+  "version": "075e2c7",
   "slug": "mopidy",
   "panel_icon": "mdi:music-circle",
   "description": "Mopidy is an extensible music server",

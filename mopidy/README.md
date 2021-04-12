@@ -47,6 +47,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-7e8f22e-blue.svg
-[release]: https://github.com/hassio-addons/addon-mopidy/tree/7e8f22e
+[release-shield]: https://img.shields.io/badge/version-075e2c7-blue.svg
+[release]: https://github.com/hassio-addons/addon-mopidy/tree/075e2c7
 [screenshot]: https://github.com/hassio-addons/addon-mopidy/raw/main/images/screenshot.png

@@ -1,9 +1,8 @@
-- ⬆️ Bump mopidy-youtube from 3.2 to 3.3 in /mopidy (#122)
+- ⬆️ Bump mopidy-iris from 3.57.4 to 3.57.6 in /mopidy (#121)
 
-Bumps [mopidy-youtube](https://github.com/natumbri/mopidy-youtube) from 3.2 to 3.3.
-- [Release notes](https://github.com/natumbri/mopidy-youtube/releases)
-- [Changelog](https://github.com/natumbri/mopidy-youtube/blob/develop/CHANGELOG.rst)
-- [Commits](https://github.com/natumbri/mopidy-youtube/compare/3.2...v3.3)
+Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.57.4 to 3.57.6.
+- [Release notes](https://github.com/jaedb/iris/releases)
+- [Commits](https://github.com/jaedb/iris/commits)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
