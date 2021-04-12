@@ -1,4 +1,6 @@
 # Changelog since v8.2.1
+- ⬆️ Upgrades nodejs to 14.16.1-r1 (#975) 
+- Remove note about secrets, generic feature now (#974) 
 - Bump node-red from 1.2.9 to 1.3.1 in /node-red (#968)
 
 Bumps [node-red](https://github.com/node-red/node-red) from 1.2.9 to 1.3.1.
