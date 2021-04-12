@@ -1,4 +1,6 @@
 # Changelog since v0.11.0
+- ⬆️ Upgrades nodejs to 14.16.1-r1 (#126) 
+- ⬆️ Upgrades ZwaveJS2Mqtt to v3.2.1 (#125) 
 - ⬆️ Upgrades add-on base image to v9.1.7 (#124) 
 - ⬆️ Upgrades nodejs to 14.16.1-r0 (#123) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#117)
