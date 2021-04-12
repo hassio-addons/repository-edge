@@ -1,8 +1,9 @@
-- ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#118)
+- ⬆️ Bump mopidy-youtube from 3.2 to 3.3 in /mopidy (#122)
 
-Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
-- [Release notes](https://github.com/docker/setup-qemu-action/releases)
-- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.0.1...25f0500ff22e406f7191a2a8ba8cda16901ca018)
+Bumps [mopidy-youtube](https://github.com/natumbri/mopidy-youtube) from 3.2 to 3.3.
+- [Release notes](https://github.com/natumbri/mopidy-youtube/releases)
+- [Changelog](https://github.com/natumbri/mopidy-youtube/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/natumbri/mopidy-youtube/compare/3.2...v3.3)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
