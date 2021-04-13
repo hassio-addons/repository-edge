@@ -1,8 +1,8 @@
-- ⬆️ Bump mopidy-iris from 3.57.4 to 3.57.6 in /mopidy (#121)
+- ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#123)
 
-Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.57.4 to 3.57.6.
-- [Release notes](https://github.com/jaedb/iris/releases)
-- [Commits](https://github.com/jaedb/iris/commits)
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.4...1a9e2138d905efd099035b49d8b7a3888c653ca8)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
