@@ -815,10 +815,10 @@ SOFTWARE.
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [bookstack-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bookstack-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/v4.0.5
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v4.0.5/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/068ad66
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/068ad66/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-v4.0.5-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-068ad66-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
