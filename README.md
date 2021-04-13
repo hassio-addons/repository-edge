@@ -1058,10 +1058,10 @@ SOFTWARE.
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/f501f61
-[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/f501f61/README.md
+[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/2648f31
+[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/2648f31/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-f501f61-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-2648f31-blue.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
