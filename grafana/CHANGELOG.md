@@ -1,65 +1,9 @@
-# Changelog since v6.2.0
-- Document anonymous access and limitations (#101)
+# Changelog since v6.3.0
+- ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#137)
 
-* Document anonymous access and limitations
-
-* Set yaml codefence and fix line length
-
-* Use double quotes for YAML example
-
-* Fix minor word and text layouts
-
-Co-authored-by: Franck Nijhof <frenck@frenck.nl>
-
-* Add required newlines and remove extra quotes
-
-* Remove link to forum post
-
-* Tweak
-
-Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
-- Add /health as watchdog url (#129)
-
-* Add /health as watchdog url
-
-* Use ingress port for health check
-
-Co-authored-by: Franck Nijhof <frenck@addons.community> 
-- ⬆️ Upgrades add-on base image to v4.1.4 (#135) 
-- ⬆️ Upgrades Grafana to v7.5.3 (#136) 
-- Add access to Home Assistant configuration so SQLite DB can be used (#134) 
-- ⬆️ Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 (#131)
-
-Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.1 to v1.1.2.
-- [Release notes](https://github.com/docker/setup-buildx-action/releases)
-- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.1.1...2a4b53665e15ce7d7049afb11ff1f70ff1610609)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 (#132)
-
-Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.1 to v1.0.2.
-- [Release notes](https://github.com/docker/setup-qemu-action/releases)
-- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.0.1...25f0500ff22e406f7191a2a8ba8cda16901ca018)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump docker/build-push-action from v2.3.0 to v2.4.0 (#130)
-
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from v2.3.0 to v2.4.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v2.3.0...e1b7f96249f2e4c8e4ac1519b9608c0d48944a1f)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 (#128)
-
-Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
-- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
-- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.0.0...94e0aab03ca135d11a35e5bfc14e6746dc56e7e9)
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.4...1a9e2138d905efd099035b49d8b7a3888c653ca8)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
