@@ -83,5 +83,5 @@ If you are more interested in stable releases of our add-ons:
 [lutron-caseta-docs]: https://www.home-assistant.io/components/lutron_caseta/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-%20!%20DEPRECATED%20%20%20!-ff0000.svg
-[release-shield]: https://img.shields.io/badge/version-v0.8.0-blue.svg
-[release]: https://github.com/hassio-addons/addon-lutron-cert/tree/v0.8.0
+[release-shield]: https://img.shields.io/badge/version-b3e5171-blue.svg
+[release]: https://github.com/hassio-addons/addon-lutron-cert/tree/b3e5171
