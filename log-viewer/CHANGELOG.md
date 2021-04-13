@@ -1,4 +1,5 @@
 # Changelog since v0.10.2
+- ⬆️ Upgrades nodejs to 14.16.1-r1 (#76) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#75)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
