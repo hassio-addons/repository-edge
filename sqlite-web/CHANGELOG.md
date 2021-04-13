@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- ⬆️ Upgrades cython to 0.29.21-r1 (#135) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#134)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
