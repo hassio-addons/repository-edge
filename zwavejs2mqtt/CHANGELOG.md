@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- ⬆️ Upgrades ZwaveJS2Mqtt to v3.3.0 (#128) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#127)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
