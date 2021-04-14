@@ -1,4 +1,12 @@
 # Changelog since v6.3.0
+- 📚 Update docs in reference to password change (#138)
+
+* 📚 Update docs in reference to password change
+
+* Prettified Code!
+
+Co-authored-by: Franck Nijhof <frenck@addons.community>
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#137)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
