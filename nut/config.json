@@ -1,6 +1,6 @@
 {
   "name": "Network UPS Tools",
-  "version": "c022f38",
+  "version": "9e894b2",
   "slug": "nut",
   "description": "Manage battery backup (UPS) devices",
   "url": "https://github.com/hassio-addons/addon-nut",
@@ -12,8 +12,9 @@
     "armv7",
     "i386"
   ],
-  "auto_uart": "true",
-  "boot": "auto",
+  "uart": true,
+  "udev": true,
+  "usb": true,
   "hassio_api": true,
   "hassio_role": "manager",
   "homeassistant_api": true,
@@ -23,9 +24,6 @@
   "ports_description": {
     "3493/tcp": "Network UPS Tools"
   },
-  "devices": [
-    "/dev/bus/usb:/dev/bus/usb:rwm"
-  ],
   "options": {
     "users": [
       {
@@ -81,9 +79,9 @@
     "remote_ups_password": "password?",
     "remote_ups_user": "str?",
     "upsd_maxage": "int?",
-    "fake_usb_devices": "bool?",
+    "upsmon_deadtime": "int?",
     "i_like_to_be_pwned": "bool?",
     "leave_front_door_open": "bool?"
   },
-  "image": "hassioaddons/nut-{arch}"
+  "image": "ghcr.io/hassio-addons/nut/{arch}"
 }

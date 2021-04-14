@@ -1,4 +1,10 @@
-# Changelog since v0.6.4
-- ⬆ Update Bookstack to v0.31.3 
-- ⬆ Update php to 7.3.26-r0 
-- ⬆ Update Bookstack to v0.31.0 
+# Changelog since v0.9.0
+- Bump actions/cache from v2.1.4 to v2.1.5 (#74)
+
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.4...1a9e2138d905efd099035b49d8b7a3888c653ca8)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 

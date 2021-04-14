@@ -2,8 +2,13 @@
 
 LedFx is a network based LED effect controller with support for advanced
 real-time audio effects! LedFx can control multiple devices and works great
-with cheap ESP8266 nodes allowing for cost effective syncronized effects across
+with cheap ESP8266 nodes allowing for cost effective syncronised effects across
 your entire house!
+
+## Important
+
+This application is designed to be run locally, not exposed to the Internet.
+Please do not allow access to it externally.
 
 ## Installation
 
@@ -39,7 +44,7 @@ dealing with an unknown issue. Possible values are:
 - `debug`: Shows detailed debug information.
 - `info`: Normal (usually) interesting events.
 - `warning`: Exceptional occurrences that are not errors.
-- `error`:  Runtime errors that do not require immediate action.
+- `error`: Runtime errors that do not require immediate action.
 - `fatal`: Something went terribly wrong. Add-on becomes unusable.
 
 Please note that each level automatically includes log messages from a
@@ -72,16 +77,15 @@ The private key file to use for SSL.
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
-functionality. The format of the log is based on
-[Keep a Changelog][keepchangelog].
+functionality.
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
@@ -109,7 +113,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2019-2020 Paul Sinclair
+Copyright (c) 2019-2021 Paul Sinclair
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -135,7 +139,6 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io/t/community-hass-io-xxxxx/xxxxx
 [sinclairpaul]: https://github.com/sinclairpaul
 [issue]: https://github.com/hassio-addons/addon-ledfx/issues
-[keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-ledfx/releases
 [semver]: http://semver.org/spec/v2.0.0.htm

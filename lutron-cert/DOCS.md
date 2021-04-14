@@ -4,6 +4,24 @@ This add-on will guide you through the necessary steps to create signed
 certificate files necessary to control your Lutron Caseta smart bridge with
 Home Assistant.
 
+## Deprecation warning
+
+**This add-on is in a deprecated state!**
+
+This add-on used to be helpful when in need of getting the signed certificates
+of your Lutron Caseta smart bridge in order to use it with Home Assistant.
+
+Nowadays, Home Assistant does support/help with this itself and this add-on
+is therefore no longer needed.
+
+If you want to integrate Lutron Caseta with Home Assistant, than follow
+the instructions on the Home Assistant Lutron Caseta integration documentation
+page:
+
+<https://www.home-assistant.io/integrations/lutron_caseta/#configuration>
+
+## Usage
+
 Three files will be created during successful execution of the wizard:
 
 - `/ssl/lutron/caseta.key`: the private key file used to generate the
@@ -62,7 +80,7 @@ dealing with an unknown issue. Possible values are:
 - `debug`: Shows detailed debug information.
 - `info`: Normal (usually) interesting events.
 - `warning`: Exceptional occurrences that are not errors.
-- `error`:  Runtime errors that do not require immediate action.
+- `error`: Runtime errors that do not require immediate action.
 - `fatal`: Something went terribly wrong. Add-on becomes unusable.
 
 Please note that each level automatically includes log messages from a
@@ -73,16 +91,15 @@ you are troubleshooting.
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
-functionality. The format of the log is based on
-[Keep a Changelog][keepchangelog].
+functionality.
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a @xxxxshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a @xxxxshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
@@ -110,7 +127,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2018-2020 Dale Higgs
+Copyright (c) 2018-2021 Dale Higgs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -136,7 +153,6 @@ SOFTWARE.
 [discord]: https://discord.me/hassioaddons
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-lutron-certificate/70317?u=frenck
 [issue]: https://github.com/hassio-addons/addon-lutron-cert/issues
-[keepchangelog]: https://keepachangelog.com/en/1.0.0/
 [lutron-caseta-docs]: https://www.home-assistant.io/components/lutron_caseta/
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-lutron-cert/releases

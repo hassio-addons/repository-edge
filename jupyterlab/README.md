@@ -1,17 +1,17 @@
-# Community Hass.io Add-ons: JupyterLab Lite
+# Home Assistant Community Add-on: JupyterLab
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
 [![Discord][discord-shield]][discord] [![Community Forum][forum-shield]][forum]
 
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+[![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
 
-[![Support my work on Patreon][patreon-shield]][patreon]
+[![Support Frenck on Patreon][patreon-shield]][patreon]
 
 Create documents containing live code, equations, visualizations,
 and explanatory text.
 
-![The JupyterLab Hass.io add-on][screenshot]
+![The JupyterLab add-on][screenshot]
 
 ## About
 
@@ -24,12 +24,10 @@ This add-on runs JupyterLab, which is the next-generation user interface for
 Project Jupyter. It is an extensible environment for interactive and
 reproducible computing, based on the Jupyter Notebook and Architecture.
 
-[Click here for the full documentation][docs]
-
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Hass.io Add-ons repository contains edge builds of add-ons. Edge builds
-add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -45,17 +43,17 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/hassio-addons/repository>
 
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/frenck
+
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-jupyterlab-lite/blob/ba6de32/README.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/t/community-hass-io-add-on-jupyterlab-lite/87337?u=frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
-[patreon-shield]: https://www.frenck.nl/images/patreon.png
+[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-jupyterlab-lite/87337?u=frenck
+[github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
+[github-sponsors]: https://github.com/sponsors/frenck
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-ba6de32-blue.svg
-[release]: https://github.com/hassio-addons/addon-jupyterlab-lite/tree/ba6de32
-[screenshot]: https://github.com/hassio-addons/addon-jupyterlab-lite/raw/master/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-6588165-blue.svg
+[release]: https://github.com/hassio-addons/addon-jupyterlab/tree/6588165
+[screenshot]: https://github.com/hassio-addons/addon-jupyterlab/raw/main/images/screenshot.png

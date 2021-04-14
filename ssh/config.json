@@ -1,6 +1,6 @@
 {
   "name": "SSH & Web Terminal",
-  "version": "efbd7c2",
+  "version": "6db1bc1",
   "slug": "ssh",
   "description": "SSH & Web Terminal access to your Home Assistant instance",
   "url": "https://github.com/hassio-addons/addon-ssh",
@@ -24,7 +24,6 @@
   "ports_description": {
     "22/tcp": "SSH server port (make empty to disable)"
   },
-  "boot": "auto",
   "hassio_api": true,
   "hassio_role": "manager",
   "services": [
@@ -33,14 +32,14 @@
   ],
   "homeassistant_api": true,
   "host_network": true,
-  "auto_uart": true,
+  "uart": true,
+  "usb": true,
   "gpio": true,
   "audio": true,
   "apparmor": false,
   "host_dbus": true,
   "stdin": true,
   "docker_api": true,
-  "full_access": true,
   "privileged": [
     "NET_ADMIN",
     "SYS_ADMIN",
@@ -49,7 +48,7 @@
     "SYS_NICE"
   ],
   "devices": [
-    "/dev/mem:/dev/mem:rwm"
+    "/dev/mem"
   ],
   "map": [
     "config:rw",
@@ -59,6 +58,7 @@
     "share:rw",
     "backup:rw"
   ],
+  "journald": true,
   "options": {
     "ssh": {
       "username": "hassio",
@@ -99,5 +99,5 @@
     ],
     "i_like_to_be_pwned": "bool?"
   },
-  "image": "hassioaddons/ssh-{arch}"
+  "image": "ghcr.io/hassio-addons/ssh/{arch}"
 }

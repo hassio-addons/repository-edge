@@ -53,10 +53,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-z-wave-to-mqtt/115899?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[logo]: https://github.com/hassio-addons/addon-zwave2mqtt/raw/master/zwave2mqtt/logo.png
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[logo]: https://github.com/hassio-addons/addon-zwave2mqtt/raw/main/zwave2mqtt/logo.png
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c93da0d-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/c93da0d
+[release-shield]: https://img.shields.io/badge/version-33f02a4-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwave2mqtt/tree/33f02a4

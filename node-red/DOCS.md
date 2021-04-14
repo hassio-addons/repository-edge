@@ -66,7 +66,7 @@ dealing with an unknown issue. Possible values are:
 - `debug`: Shows detailed debug information.
 - `info`: Normal (usually) interesting events.
 - `warning`: Exceptional occurrences that are not errors.
-- `error`:  Runtime errors that do not require immediate action.
+- `error`: Runtime errors that do not require immediate action.
 - `fatal`: Something went terribly wrong. Add-on becomes unusable.
 
 Please note that each level automatically includes log messages from a
@@ -110,8 +110,6 @@ You might need it in the future! (e.g., When restoring a backup).
 Node-RED from being able to decrypt your existing credentials and they will be
 lost._
 
-**Note**: _This option support secrets, e.g., `!secret red_secret`._
-
 ### Option: `dark_mode`
 
 When set to `true`, the Midnight Node-RED theme by [Mauricio Bonani][bonanitech]
@@ -128,8 +126,6 @@ the following properties can be used:
 - `username`
 - `password`
 
-**Note**: _These options support secrets, e.g., `!secret red_password`._
-
 **Note**: _In order to use the `http_node` you will need to expose Node-RED using
 a network port in addition to ingress. The HTTP nodes will also be presented
 under `/endpoint/` as shown in the UI. If using the `node-red-dashboard` module
@@ -142,8 +138,6 @@ properties can be used:
 
 - `username`
 - `password`
-
-**Note**: _These options support secrets, e.g., `!secret red_password`._
 
 ### Option: `system_packages`
 
@@ -220,12 +214,12 @@ Save the file and restart the Node-RED add-on.
   if you URL starts with `/endpoint/`, or else Home Assistant authentication
   will kick in.
 
-- If the following error is seen after an update `WARNING (MainThread)
-  [hassio.api.proxy] Unauthorized WebSocket access!` please validate the
-  configuration of the Home Assistant server setup in Node-RED. This can be
-  found by double-clicking any Home Assistant node and selecting the pencil icon
-  by the server name. The checkbox that states `I use the Home Assistant Add-On`
-  should be checked.
+- If the following error is seen after an update:
+  `WARNING (MainThread) [hassio.api.proxy] Unauthorized WebSocket access!`.
+  Please validate the configuration of the Home Assistant server setup in
+  Node-RED. This can be found by double-clicking any Home Assistant node and
+  selecting the pencil icon by the server name. The checkbox that states
+  `I use the Home Assistant Add-On` should be checked.
 
 ## Changelog & Releases
 
@@ -234,12 +228,12 @@ functionality. The format of the log is based on
 [Keep a Changelog][keepchangelog].
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
@@ -267,7 +261,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2018-2020 Franck Nijhof
+Copyright (c) 2018-2021 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

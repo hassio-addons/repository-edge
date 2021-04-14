@@ -1,17 +1,10 @@
-# Changelog since v1.5.1
-- ⬆ Upgrades pycryptodomex to 3.9.9 
-- ⬆ Upgrades crudini to 0.9.3 
-- ⬆ Updates plexapi to v4 (#60)
+# Changelog since v2.1.0
+- ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#117)
 
-Co-authored-by: Renovate Bot <bot@renovateapp.com> 
-- ⬆ Upgrades Tautulli to v2.6.1 
-- ⬆ Upgrades libressl to 3.1.2-r0 
-- ⬆ Upgrade Tautulli to v2.6.0 
-- ⬆ Upgrades wget to 1.20.3-r1 
-- ⬆ Upgrades git to 2.26.2-r0 
-- ⬆ Upgrades make to 4.3-r0 
-- ⬆ Upgrades libressl-dev to 3.1.2-r0 
-- ⬆ Upgrades libffi-dev to 3.3-r2 
-- ⬆ Upgrades gcc to 9.3.0-r2 
-- ⬆ Upgrades g++ to 9.3.0-r2 
-- ⬆ Upgrades add-on base image to v8.0.5 
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.4...1a9e2138d905efd099035b49d8b7a3888c653ca8)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 

@@ -13,28 +13,13 @@ are [compatible][nut-compatible].
 The Network UPS Tools (NUT) project is the combined effort of
 many [individuals and companies][nut-acknowledgements].
 
-Be sure to add a NUT Sensor to your `configuration.yaml` after starting the
-add-on:
+Be sure to add the NUT integration after starting the add-on.
 
-```yaml
-sensor:
-  - platform: nut
-    name: "CyberPower 1500"
-    host: a0d7b954-nut
-    username: nutty
-    password: changeme
-    resources:
-      - battery.charge
-      - battery.runtime
-      - ups.load
-      - ups.status
-```
-
-**Note**: _The host `a0d7b954-nut` is required to allow Home Assistant to
+**Note**: _The host `a0d7b954-nut` can be used to allow Home Assistant to
 communicate directly with the addon_
 
-For more information on how to configure the NUT Sensor in Home Assistant
-see the [NUT Sensor documentation][nut-sensor-docs].
+For more information on how to configure the NUT integration in Home Assistant
+see the [NUT integration documentation][nut-ha-docs].
 
 ## Installation
 
@@ -47,7 +32,7 @@ comparison to installing any other Home Assistant add-on.
 1. Configure the `users` and `devices` options.
 1. Start the "Network UPS Tools" add-on.
 1. Check the logs of the "Network UPS Tools" add-on to see if everything went well.
-1. Configure [NUT Sensor][nut-sensor-docs] in your `configuration.yaml` file.
+1. Configure the [NUT Integration][nut-ha-docs].
 
 ## Configuration
 
@@ -71,7 +56,7 @@ devices:
     port: auto
     config: []
 mode: netserver
-shutdown_host: 'false'
+shutdown_host: "false"
 ```
 
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
@@ -86,7 +71,7 @@ dealing with an unknown issue. Possible values are:
 - `debug`: Shows detailed debug information.
 - `info`: Normal (usually) interesting events.
 - `warning`: Exceptional occurrences that are not errors.
-- `error`:  Runtime errors that do not require immediate action.
+- `error`: Runtime errors that do not require immediate action.
 - `fatal`: Something went terribly wrong. Add-on becomes unusable.
 
 Please note that each level automatically includes log messages from a
@@ -186,7 +171,7 @@ devices:
       - product = ".*(Smart|Back)-?UPS.*"
 ```
 
-#### Option: `mode`
+### Option: `mode`
 
 Recognized values are `netserver` and `netclient`.
 
@@ -195,48 +180,47 @@ Recognized values are `netserver` and `netclient`.
 - `netclient`: Only runs `upsmon` to connect to a remote system running as
   `netserver`.
 
-#### Option: `shutdown_host`
+### Option: `shutdown_host`
 
 When this option is set to `true` on a UPS shutdown command, the host system
 will be shutdown. When set to `false` only the add-on will be stopped. This is to
 allow testing without impact to the system.
 
-#### Option: `list_usb_devices`
+### Option: `list_usb_devices`
 
 When this option is set to `true`, a list of connected USB devices will be
 displayed in the add-on log when the add-on starts up. This option can be used
 to help identify different UPS devices when multiple UPS devices are connected
 to the system.
 
-#### Option: `remote_ups_name`
+### Option: `remote_ups_name`
 
 When running in `netclient` mode, the name of the remote UPS.
 
-#### Option: `remote_ups_host`
+### Option: `remote_ups_host`
 
 When running in `netclient` mode, the host of the remote UPS.
 
-#### Option: `remote_ups_user`
+### Option: `remote_ups_user`
 
 When running in `netclient` mode, the user of the remote UPS.
 
-#### Option: `remote_ups_password`
+### Option: `remote_ups_password`
 
 When running in `netclient` mode, the password of the remote UPS.
 
 **Note**: _When using the remote option, the user and device options must still
 be present, however they will have no effect_
 
-#### Option: `fake_usb_devices`
-
-Creates fake USB devices to fix problems with Cyber Power UPSes.
-Only enable this if you sure you are affected.
-[More info][fake-usb]
-
-#### Option: `upsd_maxage`
+### Option: `upsd_maxage`
 
 Allows setting the MAXAGE value in upsd.conf to increase the timeout for
 specific drivers, should not be changed for the majority of users.
+
+### Option: `upsmon_deadtime`
+
+Allows setting the DEADTIME value in upsmon.conf to adjust the stale time for
+the monitor process, should not be changed for the majority of users.
 
 ### Option: `i_like_to_be_pwned`
 
@@ -261,7 +245,7 @@ Whenever your UPS changes state, an event named `nut.ups_event` will be fired.
 It's payload looks like this:
 
 | Key           | Value                                        |
-|---------------|----------------------------------------------|
+| ------------- | -------------------------------------------- |
 | `ups_name`    | The name of the UPS as you configured it     |
 | `notify_type` | The type of notification                     |
 | `notify_msg`  | The NUT default message for the notification |
@@ -271,7 +255,7 @@ See the below table for more information as well as the message that will be in
 `notify_msg`. `%s` is automatically replaced by NUT with your UPS name.
 
 | Type       | Cause                                                                 | Default Message                                    |
-|------------|-----------------------------------------------------------------------|----------------------------------------------------|
+| ---------- | --------------------------------------------------------------------- | -------------------------------------------------- |
 | `ONLINE`   | UPS is back online                                                    | "UPS %s on line power"                             |
 | `ONBATT`   | UPS is on battery                                                     | "UPS %s on battery"                                |
 | `LOWBATT`  | UPS has a low battery (if also on battery, it's "critical")           | "UPS %s battery is low"                            |
@@ -288,21 +272,21 @@ This event allows you to create automations to do things like send a
 
 ```yaml
 automations:
-  - alias: 'UPS changed state'
+  - alias: "UPS changed state"
     trigger:
-    - platform: event
-      event_type: nut.ups_event
+      - platform: event
+        event_type: nut.ups_event
     action:
-    - service: notify.mobile_app_<your_device_id_here>
-      data_template:
-        title: "UPS changed state"
-        message: "{{ trigger.event.data.notify_msg }}"
-        data:
-          push:
-            sound:
-              name: default
-              critical: 1
-              volume: 1.0
+      - service: notify.mobile_app_<your_device_id_here>
+        data_template:
+          title: "UPS changed state"
+          message: "{{ trigger.event.data.notify_msg }}"
+          data:
+            push:
+              sound:
+                name: default
+                critical: 1
+                volume: 1.0
 ```
 
 For more information, see the NUT docs [here][nut-notif-doc-1] and
@@ -311,16 +295,15 @@ For more information, see the NUT docs [here][nut-notif-doc-1] and
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
-functionality. The format of the log is based on
-[Keep a Changelog][keepchangelog].
+functionality.
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
@@ -348,7 +331,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2018-2020 Dale Higgs
+Copyright (c) 2018-2021 Dale Higgs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -376,14 +359,13 @@ SOFTWARE.
 [fake-usb]: https://github.com/hassio-addons/addon-nut/issues/24
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-network-ups-tools/68516
 [issue]: https://github.com/hassio-addons/addon-nut/issues
-[keepchangelog]: https://keepachangelog.com/en/1.0.0/
 [nut-acknowledgements]: https://networkupstools.org/acknowledgements.html
 [nut-compatible]: https://networkupstools.org/stable-hcl.html
 [nut-conf]: https://networkupstools.org/docs/man/nut.conf.html
 [nut-features]: https://networkupstools.org/features.html
 [nut-notif-doc-1]: https://networkupstools.org/docs/user-manual.chunked/ar01s07.html
 [nut-notif-doc-2]: https://networkupstools.org/docs/man/upsmon.conf.html
-[nut-sensor-docs]: https://www.home-assistant.io/components/sensor.nut/
+[nut-ha-docs]: https://www.home-assistant.io/integrations/nut/
 [nutupsdrv]: https://networkupstools.org/docs/man/nutupsdrv.html
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-nut/releases

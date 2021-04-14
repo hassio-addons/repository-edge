@@ -1,6 +1,6 @@
 {
   "name": "VSCode Remote",
-  "version": "1d26708",
+  "version": "7ee3d56",
   "slug": "vscode-remote",
   "description": "VSCode Remote access to Home Assistant",
   "url": "https://github.com/hassio-addons/addon-vscode-remote",
@@ -13,8 +13,7 @@
     "armv7",
     "i386"
   ],
-  "boot": "auto",
-  "auto_uart": true,
+  "uart": true,
   "hassio_api": true,
   "hassio_role": "manager",
   "homeassistant_api": true,
@@ -55,5 +54,5 @@
     ],
     "i_like_to_be_pwned": "bool?"
   },
-  "image": "hassioaddons/vscode-remote-{arch}"
+  "image": "ghcr.io/hassio-addons/vscode-remote/{arch}"
 }

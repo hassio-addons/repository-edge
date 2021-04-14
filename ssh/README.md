@@ -70,8 +70,6 @@ well. Additionally, it comes out of the box with the following:
   Nmap, Mosquitto client, MariaDB/MySQL client, Awake (“wake on LAN”), Nano,
   Vim, tmux, and a bunch commonly used networking tools.
 
-[Click here for the full documentation][docs]
-
 ## WARNING! THIS IS AN EDGE VERSION!
 
 This Home Assistant Add-ons repository contains edge builds of add-ons.
@@ -98,15 +96,15 @@ If you are more interested in stable releases of our add-ons:
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [ohmyzsh]: http://ohmyz.sh/
 [openssh]: https://www.openssh.com/
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-efbd7c2-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/efbd7c2
-[screenshot]: https://github.com/hassio-addons/addon-ssh/raw/master/images/screenshot.png
-[ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/master/images/ssh-audit.png
+[release-shield]: https://img.shields.io/badge/version-6db1bc1-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/6db1bc1
+[screenshot]: https://github.com/hassio-addons/addon-ssh/raw/main/images/screenshot.png
+[ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/main/images/ssh-audit.png
 [ssh-audit]: https://github.com/arthepsy/ssh-audit
 [zsh]: https://en.wikipedia.org/wiki/Z_shell

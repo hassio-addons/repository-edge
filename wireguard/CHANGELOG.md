@@ -1,10 +1,13 @@
-# Changelog since v0.3.2
-- ⬆ Upgrades go to 1.13.15-r0 
-- ⬆ Upgrades add-on base image to v8.0.5 
-- 🔨Remove Alpine edge repo usage (#49) 
-- ⬆ Upgrades wireguard-tools@edge to 1.0.20200510-r0 
-- ⬆ Upgrades openresolv to 3.10.0-r0 
-- ⬆ Upgrades go@edge to 1.13.14-r0 
-- ⬆ Upgrades git to 2.26.2-r0 
-- ⬆ Upgrades build-base to 0.5-r2 
-- ⬆ Upgrades add-on base image to v8.0.1 
+# Changelog since v0.5.1
+- ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#105)
+
+Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.4...1a9e2138d905efd099035b49d8b7a3888c653ca8)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Clarified ListenPort-documentation (#98)
+
+Added a bit more clear documentation in the troubleshooting-section to more easily understand where to put the suggested fix. 

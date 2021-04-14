@@ -12,15 +12,15 @@ comparison to installing any other Home Assistant add-on.
 
 1. Search for the "Matrix" add-on in the Supervisor add-on store and install it.
 1. Set your `server_name` as the hostname of the instance you will be using.
- This is an important step for integrating other services later.
+   This is an important step for integrating other services later.
 1. Start the "Matrix" add-on.
 1. Check the logs of the "Matrix" add-on to see if everything went well.
 1. Click "Open Web UI".
 1. You can then register via the message that appears at the top of the app.
 1. Change the server address to your own via "Custom server" and set the
- "Home server URL" to yours. By default this will be
- `https://yourservername:8448`. You can check this by navigating to this URL
- and you will be presented with a welcome message.
+   "Home server URL" to yours. By default this will be
+   `https://yourservername:8448`. You can check this by navigating to this URL
+   and you will be presented with a welcome message.
 
 ## Configuration
 
@@ -48,7 +48,7 @@ dealing with an unknown issue. Possible values are:
 - `debug`: Shows detailed debug information.
 - `info`: Normal (usually) interesting events.
 - `warning`: Exceptional occurrences that are not errors.
-- `error`:  Runtime errors that do not require immediate action.
+- `error`: Runtime errors that do not require immediate action.
 - `fatal`: Something went terribly wrong. Add-on becomes unusable.
 
 Please note that each level automatically includes log messages from a
@@ -83,7 +83,7 @@ connecting to with your clients without the port and without the
 `home-assistant.io` set your `server_name` to this.
 
 **Note**: _You should only set this once. You will likely have to reinstall the
- addon to change this after the fact, losing all your rooms and users._
+addon to change this after the fact, losing all your rooms and users._
 
 ### Option: `leave_front_door_open`
 
@@ -97,16 +97,15 @@ only exposed to your internal network. USE AT YOUR OWN RISK!_
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
-functionality. The format of the log is based on
-[Keep a Changelog][keepchangelog].
+functionality.
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
@@ -134,7 +133,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2019-2020 Timmo
+Copyright (c) 2019-2021 Timmo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -160,7 +159,6 @@ SOFTWARE.
 [discord]: https://discord.me/hassioaddons
 [forum]: https://community.home-assistant.io
 [issue]: https://github.com/hassio-addons/addon-matrix/issues
-[keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-matrix/releases
 [semver]: http://semver.org/spec/v2.0.0.html

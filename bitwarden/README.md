@@ -55,10 +55,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-bitwarden-rs/115573?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-a43e92c-blue.svg
-[release]: https://github.com/hassio-addons/addon-bitwarden/tree/a43e92c
-[screenshot]: https://github.com/hassio-addons/addon-bitwarden/raw/master/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-0a65240-blue.svg
+[release]: https://github.com/hassio-addons/addon-bitwarden/tree/0a65240
+[screenshot]: https://github.com/hassio-addons/addon-bitwarden/raw/main/images/screenshot.png

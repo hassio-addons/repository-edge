@@ -1,6 +1,7 @@
 {
   "name": "ADB - Android Debug Bridge",
-  "version": "2d811e5",
+  "stage": "deprecated",
+  "version": "e17e049",
   "slug": "adb",
   "description": "The Android Debug Bridge server program",
   "url": "https://github.com/hassio-addons/addon-adb",
@@ -23,9 +24,6 @@
     "share:rw",
     "ssl:rw"
   ],
-  "boot": "auto",
-  "hassio_api": true,
-  "hassio_role": "default",
   "options": {
     "devices": [],
     "reconnect_timeout": 90
@@ -38,5 +36,5 @@
     ],
     "reconnect_timeout": "int"
   },
-  "image": "hassioaddons/adb-{arch}"
+  "image": "ghcr.io/hassio-addons/adb/{arch}"
 }

@@ -53,10 +53,10 @@ If you are more interested in stable releases of our add-ons:
 [github-sponsors]: https://github.com/sponsors/frenck
 [grocy-demo]: https://demo-en.grocy.info
 [grocy]: https://grocy.info/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-1cdc62f-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/1cdc62f
-[screenshot]: https://github.com/hassio-addons/addon-grocy/raw/master/images/screenshot.gif
+[release-shield]: https://img.shields.io/badge/version-37637ef-blue.svg
+[release]: https://github.com/hassio-addons/addon-grocy/tree/37637ef
+[screenshot]: https://github.com/hassio-addons/addon-grocy/raw/main/images/screenshot.gif

@@ -1,14 +1,11 @@
 {
   "name": "ledfx",
-  "version": "d56084f",
+  "version": "e6f1343",
   "slug": "ledfx",
   "description": "A network based LED effect controller with support for advanced real-time audio effects!",
   "url": "https://github.com/hassio-addons/addon-ledfx",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
-  "ingress": false,
-  "ingress_port": 1337,
   "audio": true,
-  "startup": "application",
   "arch": [
     "aarch64",
     "amd64",
@@ -16,10 +13,8 @@
     "armv7",
     "i386"
   ],
-  "boot": "auto",
   "hassio_api": true,
   "auth_api": true,
-  "hassio_role": "default",
   "map": [
     "ssl"
   ],
@@ -40,5 +35,5 @@
     "keyfile": "str",
     "ssl": "bool"
   },
-  "image": "hassioaddons/ledfx-{arch}"
+  "image": "ghcr.io/hassio-addons/ledfx/{arch}"
 }

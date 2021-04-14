@@ -24,7 +24,7 @@ Example add-on configuration:
 
 ```yaml
 log_level: info
-password: ''
+password: ""
 authorized_keys:
   - ssh-rsa AASDJKJKJFWJFAFLCNALCMLAK234234.....
 packages:
@@ -45,7 +45,7 @@ dealing with an unknown issue. Possible values are:
 - `debug`: Shows detailed debug information.
 - `info`: Normal (usually) interesting events.
 - `warning`: Exceptional occurrences that are not errors.
-- `error`:  Runtime errors that do not require immediate action.
+- `error`: Runtime errors that do not require immediate action.
 - `fatal`: Something went terribly wrong. Add-on becomes unusable.
 
 Please note that each level automatically includes log messages from a
@@ -99,27 +99,26 @@ using this option! USE AT YOUR OWN RISK!_
 - "Visual Studio Code is unable to watch for file changes in this large
   workspace" (error ENOSPC)
 
-   This issue is caused by your system not having enough file handles,
-   which causes VSCode to be unable to watch all your files. For HassOS,
-   currently the only option is to click on the little cog when the
-   notification appears and tell it to not show again. In case you have
-   a generic Linux setup (e.g., Ubuntu), follow this guide by Microsoft:
+  This issue is caused by your system not having enough file handles,
+  which causes VSCode to be unable to watch all your files. For HassOS,
+  currently the only option is to click on the little cog when the
+  notification appears and tell it to not show again. In case you have
+  a generic Linux setup (e.g., Ubuntu), follow this guide by Microsoft:
 
-   <https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc>
+  <https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc>
 
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
-functionality. The format of the log is based on
-[Keep a Changelog][keepchangelog].
+functionality.
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
@@ -147,7 +146,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2020 Franck Nijhof
+Copyright (c) 2021 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -175,7 +174,6 @@ SOFTWARE.
 [frenck]: https://github.com/frenck
 [github-ssh]: https://help.github.com/articles/connecting-to-github-with-ssh/
 [issue]: https://github.com/hassio-addons/addon-vscode-remote/issues
-[keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-vscode-remote/releases
 [semver]: http://semver.org/spec/v2.0.0
