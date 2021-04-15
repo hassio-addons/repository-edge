@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- ⬆️ Upgrades add-on base image to v4.1.4 (#112) 
 - Remove NGINX access log from Supervisor log output (#111) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#110)
 
