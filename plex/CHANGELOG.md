@@ -1,4 +1,5 @@
 # Changelog since v2.5.3
+- Add note about DLNA support to docs, cleanup port 1900 (#81) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#80)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
