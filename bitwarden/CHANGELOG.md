@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- Remove NGINX access log from Supervisor log output (#111) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#110)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
