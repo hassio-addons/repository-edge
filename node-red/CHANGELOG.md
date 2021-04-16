@@ -1,4 +1,5 @@
 # Changelog since v8.2.1
+- Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#981) 
 - Bump node-red-node-email from 1.11.0 to 1.12.0 in /node-red (#980)
 
 Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.11.0 to 1.12.0.
