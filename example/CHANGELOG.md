@@ -1,4 +1,5 @@
 # Changelog since v4.0.5
+- ⬆ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#57) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#56)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
