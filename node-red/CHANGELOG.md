@@ -1,4 +1,13 @@
 # Changelog since v8.2.1
+- Bump node-red-node-email from 1.11.0 to 1.12.0 in /node-red (#980)
+
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.11.0 to 1.12.0.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump js-yaml from 4.0.0 to 4.1.0 in /node-red (#979)
 
 Bumps [js-yaml](https://github.com/nodeca/js-yaml) from 4.0.0 to 4.1.0.
