@@ -1,4 +1,7 @@
 # Changelog since v0.11.0
+- ⬆️ Upgrades ZwaveJS2Mqtt to v3.4.0 (#133) 
+- ⬆️ Upgrades add-on base image to v9.1.8 (#132) 
+- Update database to 36535100be7530c17473214c221bce49ba01842f (#134) 
 - ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#129)
 
 Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.3.1 to v1.4.0.
