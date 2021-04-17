@@ -1,4 +1,15 @@
 # Changelog since v4.0.5
+- Fix pull base image before verifying authenticity 
+- Add translation support 
+- ⬆️ Upgrades add-on base image to v9.2.0 
+- Notarize resulting Docker image 
+- Use temporary GITHUB_TOKEN for container deployments 
+- Turnstyle deployments 
+- Verify base image authenticity 
+- Add PR label workflow 
+- Add security policy 
+- Move files to .github folder 
+- Remove .editorconfig 
 - ⬆ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#57) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#56)
 
