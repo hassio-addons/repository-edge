@@ -46,6 +46,9 @@ jobs:
           do
             filename=$(basename "${file}")
             language="${filename%.*}"
+            if [[ "${language}" == "en" ]]; then
+              continue
+            fi
             echo "Processing downloaded translations in ${language}..."
             while read addon;
             do
