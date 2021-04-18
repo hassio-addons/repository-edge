@@ -62,7 +62,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "${GITHUB_ACTOR}"
           git add .
-          git commit -m "🌍 Updating translation" -a
+          git commit -m "🌍 Updating translations" -a
       - name: 🚀 Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
