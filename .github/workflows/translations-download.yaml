@@ -61,6 +61,7 @@ jobs:
             done <<<"${addons}"
           done
       - name: 🚀 Commit changes
+        continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "${GITHUB_ACTOR}"
