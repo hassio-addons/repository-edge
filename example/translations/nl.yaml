@@ -4,4 +4,4 @@ configuration:
     name: 'Log level'
   seconds_between_quotes:
     description: 'The number of seconds the add-on waits until showing a new quote in the add-on log.'
-    name: 'Seconds between quotes'
+    name: 'Aantal seconden tussen de citaten'
