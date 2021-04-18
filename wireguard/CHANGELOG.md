@@ -1,4 +1,5 @@
 # Changelog since v0.5.1
+- 📚 Minor documentation tweak (#108) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#105)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
