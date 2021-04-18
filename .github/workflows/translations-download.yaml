@@ -68,6 +68,7 @@ jobs:
           git commit -m "🌍 Updating translations" -a
       - name: 🚀 Push changes
         uses: ad-m/github-push-action@v0.6.0
+        continue-on-error: true
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
