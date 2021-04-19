@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- Improve translations source file (#213) 
 - Add add-on translation support (#212) 
 - Make action_buttons configuration optional (#211) 
 - Apply updated repository structure & CI workflow (#210) 
