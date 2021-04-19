@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- Revert "Make action_buttons configuration optional" (#214)
+
+This reverts commit 4a91ee54ca1df80d14a7602596bfe1da2485de45. 
 - Improve translations source file (#213) 
 - Add add-on translation support (#212) 
 - Make action_buttons configuration optional (#211) 
