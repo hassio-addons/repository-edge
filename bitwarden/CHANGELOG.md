@@ -1,4 +1,5 @@
 # Changelog since v0.9.1
+- Upgrades add-on base image to v4.2.0 (#115) 
 - ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#114)
 
 Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.3.1 to v1.4.0.
