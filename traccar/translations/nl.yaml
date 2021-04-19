@@ -7,7 +7,7 @@ configuration:
     name: 'Private key file'
   log_level:
     description: 'Controls the level of log details the add-on provides.'
-    name: 'Log level'
+    name: 'Log niveau'
   ssl:
     description: 'Enables/Disables SSL (HTTPS) on the web interface.'
     name: SSL
