@@ -12,4 +12,4 @@ configuration:
     description: 'Allows you to specificy a list of additional Alpine Linux packages to be installed before AppDaemon starts.'
     name: 'System packages'
 network:
-  5050/tcp: 'The AppDaemon webserver'
+  5050/tcp: 'De AppDaemon webserver'
