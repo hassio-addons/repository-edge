@@ -12,4 +12,4 @@ configuration:
     description: 'Enables/Disables SSL (HTTPS) on the web interface.'
     name: SSL
 network:
-  80/tcp: 'Web interface (Not required for Ingress)'
+  80/tcp: 'Webinterface (niet vereist voor Ingress)'
