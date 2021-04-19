@@ -1,4 +1,11 @@
 # Changelog since v8.2.1
+- Bump node-red-contrib-bigtimer from 2.7.3 to 2.7.5 in /node-red (#985)
+
+Bumps [node-red-contrib-bigtimer](https://tech.scargill.net/big-timer/) from 2.7.3 to 2.7.5.
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - 📚 Update screenshot link (#984)
 
 Fixes #983 
