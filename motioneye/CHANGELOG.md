@@ -1,4 +1,6 @@
 # Changelog since v0.11.1
+- Add add-on translation support (#212) 
+- Make action_buttons configuration optional (#211) 
 - Apply updated repository structure & CI workflow (#210) 
 - Upgrades add-on base image to v9.2.0 (#209) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#205)
