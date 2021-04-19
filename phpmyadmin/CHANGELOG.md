@@ -1,4 +1,5 @@
 # Changelog since v0.3.0
+- Add add-on translation support (#54) 
 - Apply updated repository structure & CI workflow (#53) 
 - Upgrades add-on base image to v9.2.0 (#52) 
 - ⬆ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#51) 
