@@ -1,4 +1,6 @@
 # Changelog since v8.1.1
+- Apply updated repository structure & CI workflow (#248) 
+- Upgrades add-on base image to v9.2.0 (#247) 
 - ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 (#243)
 
 Bumps [actions/cache](https://github.com/actions/cache) from v2.1.4 to v2.1.5.
