@@ -1,4 +1,28 @@
 # Changelog since v8.2.1
+- Fix node-red deployment slug (#990) 
+- ⬆️ Upgrades Node-RED to v1.3.3 (#989) 
+- Add support for the theme collection (#970)
+
+* Add support for the theme collection
+
+* Remove dark_move from the documentation
+
+* Remove dark_mode from default config
+
+* Don't use editorTheme.page.css
+
+* Warns about dark_mode deprecation
+
+* Add option for default (vanilla) theme
+
+* Turn the theme option into a list type
+
+* Apply suggestions from code review
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
+- Fix node-red CI slug (#988) 
+- Apply updated repository structure & CI workflow (#987) 
+- Upgrades add-on base image to v9.2.0 (#986) 
 - Bump node-red-contrib-bigtimer from 2.7.3 to 2.7.5 in /node-red (#985)
 
 Bumps [node-red-contrib-bigtimer](https://tech.scargill.net/big-timer/) from 2.7.3 to 2.7.5.
