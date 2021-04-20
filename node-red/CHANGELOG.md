@@ -1,4 +1,5 @@
 # Changelog since v8.2.1
+- Bump @node-red-contrib-themes/theme-collection from 1.0.0 to 1.0.1 (#991) 
 - Fix node-red deployment slug (#990) 
 - ⬆️ Upgrades Node-RED to v1.3.3 (#989) 
 - Add support for the theme collection (#970)
