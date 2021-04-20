@@ -1,4 +1,10 @@
 # Changelog since v0.9.1
+- Add add-on translation support (#118)
+
+* Add add-on translation support
+
+* Bitwarden has no ingress 
+- Cleanup NGinx config (#117) 
 - Apply updated repository structure & CI workflow (#116) 
 - Upgrades add-on base image to v4.2.0 (#115) 
 - ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#114)
