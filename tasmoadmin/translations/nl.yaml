@@ -12,4 +12,4 @@ configuration:
     description: 'Enables/Disables SSL (HTTPS) on the web interface.'
     name: SSL
 network:
-  9541/tcp: 'Web interface'
+  9541/tcp: Webinterface
