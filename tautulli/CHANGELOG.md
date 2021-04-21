@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- Remove HIBP checks (#121) 
 - Add add-on translation support (#122) 
 - Apply updated repository structure & CI workflow (#120) 
 - Upgrades add-on base image to v9.2.0 (#119) 
