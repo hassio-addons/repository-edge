@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- Apply updated repository structure & CI workflow (#138) 
 - Upgrades add-on base image to v9.2.0 (#137) 
 - ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#136)
 
