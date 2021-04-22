@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- ⬆ Update bookstack to v21.04.1 (#79) 
 - 💄 Fix line length for warning message (#77) 
 - ⬆ Update mariadb-client to 10.5.9 (#78) 
 - ✨ Update nginx.sh to remove if Statement (#76)
