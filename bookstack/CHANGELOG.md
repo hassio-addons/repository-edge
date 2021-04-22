@@ -1,4 +1,9 @@
 # Changelog since v0.9.0
+- ✨ Update nginx.sh to remove if Statement (#76)
+
+* Update nginx.sh
+
+* Update NGINX Script to log if no external port is specified 
 - Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#75)
 
 Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.3.1 to v1.4.0.
