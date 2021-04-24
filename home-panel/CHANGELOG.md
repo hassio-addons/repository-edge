@@ -1,4 +1,5 @@
 # Changelog since v2.1.1
+- Add add-on translation support (#106) 
 - Apply updated repository structure & CI workflow (#105) 
 - Upgrades add-on base image to v9.2.0 (#104) 
 - ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#103)
