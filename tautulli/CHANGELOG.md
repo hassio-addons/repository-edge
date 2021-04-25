@@ -1,2 +1,2 @@
-# Changelog since v2.2.0
-- ⬆️ Upgrades Tautulli to v2.7.1 (#123) 
+# Changelog since v2.2.1
+- ⬆️ Upgrades Tautulli to v2.7.2 (#124) 
