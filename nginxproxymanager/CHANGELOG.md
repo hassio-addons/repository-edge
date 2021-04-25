@@ -1,4 +1,5 @@
 # Changelog since v0.10.1
+- Add add-on translation support (#199) 
 - ⬆️ Upgrades mariadb to 10.5.9-r0 (#200) 
 - Apply updated repository structure & CI workflow (#198) 
 - Upgrades add-on base image to v9.2.0 (#197) 
