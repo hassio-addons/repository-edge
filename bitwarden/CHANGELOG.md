@@ -1,18 +1,9 @@
-# Changelog since v0.9.1
-- Add add-on translation support (#118)
+# Changelog since v0.10.0
+- ⬆️ Bump docker/setup-buildx-action from v1.1.2 to v1.2.0 (#121)
 
-* Add add-on translation support
-
-* Bitwarden has no ingress 
-- Cleanup NGinx config (#117) 
-- Apply updated repository structure & CI workflow (#116) 
-- Upgrades add-on base image to v4.2.0 (#115) 
-- ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#114)
-
-Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.3.1 to v1.4.0.
-- [Release notes](https://github.com/brpaz/hadolint-action/releases)
-- [Changelog](https://github.com/hadolint/hadolint-action/blob/master/.releaserc)
-- [Commits](https://github.com/brpaz/hadolint-action/compare/v1.3.1...473e36ba306c199243ffe4f1e652a8b60a8fa296)
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.2 to v1.2.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.1.2...012185ccbeb554a7f5f987bea0f1a73519b3cdf5)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
