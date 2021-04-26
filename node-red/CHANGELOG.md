@@ -1,4 +1,20 @@
-# Changelog since v9.0.0
-- Fix theme option overriding user settings (#993)
+# Changelog since v9.0.1
+- Bump node-red-dashboard from 2.28.2 to 2.29.0 (#998)
 
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
+Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.28.2 to 2.29.0.
+- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
+- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red-dashboard/compare/2.28.2...2.29.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump node-red-node-geofence from 0.2.1 to 0.2.2 (#997)
+
+Bumps [node-red-node-geofence](https://github.com/hardillb/node-red-node-geofence) from 0.2.1 to 0.2.2.
+- [Release notes](https://github.com/hardillb/node-red-node-geofence/releases)
+- [Commits](https://github.com/hardillb/node-red-node-geofence/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
