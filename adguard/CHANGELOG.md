@@ -1,4 +1,13 @@
 # Changelog since v4.0.0
+- ⬆️ Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 (#150)
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.2 to v1.1.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.0.2...c308fdd69d26ed66f4506ebd74b180abe5362145)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Upgrades add-on base image to v9.2.0 (#149) 
 - ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#148)
 
