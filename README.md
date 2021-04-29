@@ -1139,10 +1139,10 @@ SOFTWARE.
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [chrony-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [chrony-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ledfx]: https://github.com/hassio-addons/addon-ledfx/tree/1fda319
-[addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/1fda319/README.md
+[addon-ledfx]: https://github.com/hassio-addons/addon-ledfx/tree/f114f19
+[addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/f114f19/README.md
 [ledfx-issue]: https://github.com/hassio-addons/addon-ledfx/issues
-[ledfx-version-shield]: https://img.shields.io/badge/version-1fda319-blue.svg
+[ledfx-version-shield]: https://img.shields.io/badge/version-f114f19-blue.svg
 [ledfx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ledfx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ledfx-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
