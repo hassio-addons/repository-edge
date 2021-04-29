@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- ⬆️ Upgrades AdGuard Home to v0.106.0 (#155) 
 - ⬆️ Bump docker/login-action from v1.8.0 to v1.9.0 (#154)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from v1.8.0 to v1.9.0.
