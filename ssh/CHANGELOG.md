@@ -1,4 +1,7 @@
 # Changelog since v8.2.0
+- ⬆️ Upgrades bind-tools to 9.16.15-r1 (#255) 
+- ⬆ Bump docker/login-action from v1.8.0 to v1.9.0 (#254) 
+- ⬆️ Upgrades Home Assistant CLI to v4.12.1 (#253) 
 - ⬆️ Upgrades mariadb-client to 10.5.9-r0 (#252) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 (#249)
 
