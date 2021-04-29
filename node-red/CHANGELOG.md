@@ -1,4 +1,5 @@
 # Changelog since v9.0.1
+- Bump docker/login-action from v1.8.0 to v1.9.0 (#1005) 
 - Bump node-red-node-serialport from 0.13.0 to 0.14.0 in /node-red (#1001)
 
 Bumps [node-red-node-serialport](https://github.com/node-red/node-red-nodes) from 0.13.0 to 0.14.0.
