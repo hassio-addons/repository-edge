@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- ⬆ Bump docker/login-action from v1.8.0 to v1.9.0 (#115) 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 (#114)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.2 to v1.1.0.
