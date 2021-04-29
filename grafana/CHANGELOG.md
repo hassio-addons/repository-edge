@@ -1,4 +1,5 @@
 # Changelog since v6.3.2
+- ⬆️ Upgrades Grafana to v7.5.5 (#148) 
 - ⬆️ Bump docker/login-action from v1.8.0 to v1.9.0 (#147)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from v1.8.0 to v1.9.0.
