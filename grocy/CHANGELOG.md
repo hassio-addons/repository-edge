@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades composer to 2.0.13-r0 (#170) 
 - ⬆️ Bump docker/login-action from v1.8.0 to v1.9.0 (#169)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from v1.8.0 to v1.9.0.
