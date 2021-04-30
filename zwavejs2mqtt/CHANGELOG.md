@@ -1,4 +1,6 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades ZwaveJS2Mqtt to v4.0.0 (#152) 
+- Update database to 060eba16cecf4f5f6eb0a75e2bdbde27a4986e1c (#153) 
 - ⬆️ Bump docker/login-action from v1.8.0 to v1.9.0 (#151)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from v1.8.0 to v1.9.0.
