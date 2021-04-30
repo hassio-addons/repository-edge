@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- ⬆ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#62) 
 - ⬆️ Bump docker/login-action from v1.8.0 to v1.9.0 (#61)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from v1.8.0 to v1.9.0.
