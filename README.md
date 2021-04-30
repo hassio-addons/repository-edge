@@ -995,10 +995,10 @@ SOFTWARE.
 [prometheus-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [prometheus-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [prometheus-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/b5734f7
-[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/b5734f7/README.md
+[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/3dad89e
+[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/3dad89e/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
-[sqlite-web-version-shield]: https://img.shields.io/badge/version-b5734f7-blue.svg
+[sqlite-web-version-shield]: https://img.shields.io/badge/version-3dad89e-blue.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
