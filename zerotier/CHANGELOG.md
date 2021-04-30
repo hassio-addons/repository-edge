@@ -1,4 +1,5 @@
 # Changelog since v0.10.4
+- ⬆️ Upgrades ZeroTier One to 1.6.5 (#66) 
 - Apply updated repository structure & CI workflow (#67) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#65)
 
