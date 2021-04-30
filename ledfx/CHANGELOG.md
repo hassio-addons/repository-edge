@@ -1,8 +1,8 @@
-- Bump docker/login-action from v1.8.0 to v1.9.0 (#45)
+- Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#46)
 
-Bumps [docker/login-action](https://github.com/docker/login-action) from v1.8.0 to v1.9.0.
-- [Release notes](https://github.com/docker/login-action/releases)
-- [Commits](https://github.com/docker/login-action/compare/v1.8.0...28218f9b04b4f3f62068d7b6ce6ca5b26e35336c)
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.2.0...0d135e0c2fc0dba0729c1a47ecfcf5a3c7f8579e)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
