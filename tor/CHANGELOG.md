@@ -1,4 +1,5 @@
 # Changelog since v3.0.3
+- Apply updated repository structure & CI workflow (#66) 
 - ⬆ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#65) 
 - ⬆️ Bump docker/login-action from v1.8.0 to v1.9.0 (#64)
 
