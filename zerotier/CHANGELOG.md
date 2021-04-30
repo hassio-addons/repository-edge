@@ -1,4 +1,5 @@
 # Changelog since v0.10.4
+- Apply updated repository structure & CI workflow (#67) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#65)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
