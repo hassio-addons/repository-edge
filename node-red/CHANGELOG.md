@@ -1,4 +1,13 @@
 # Changelog since v9.0.1
+- Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#1007)
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.2.0...0d135e0c2fc0dba0729c1a47ecfcf5a3c7f8579e)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump docker/login-action from v1.8.0 to v1.9.0 (#1005) 
 - Bump node-red-node-serialport from 0.13.0 to 0.14.0 in /node-red (#1001)
 
