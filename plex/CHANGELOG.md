@@ -1,4 +1,5 @@
 # Changelog since v2.5.3
+- Add translation support (#90) 
 - Apply updated repository structure & CI workflow (#89) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#88)
 
