@@ -1,4 +1,5 @@
 # Changelog since v0.6.2
+- 🔨 Add nut-xml driver (#126) 
 - Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#123)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
