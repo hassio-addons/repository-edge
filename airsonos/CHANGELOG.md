@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- Mark address option optional (#55) 
 - Apply updated repository structure & CI workflow (#54) 
 - ⬆️ Upgrades add-on base image to v4.2.0 (#53) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#52)
