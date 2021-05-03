@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- ⬆️ Upgrades AirConnect to 0.2.53.1 (#57) 
 - Add translation support (#56) 
 - Mark address option optional (#55) 
 - Apply updated repository structure & CI workflow (#54) 
