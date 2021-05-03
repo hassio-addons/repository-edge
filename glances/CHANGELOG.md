@@ -1,4 +1,14 @@
 # Changelog since v0.12.0
+- ⬆️ Bump glances from 3.1.6.2 to 3.1.7 in /glances (#147)
+
+Bumps [glances](https://github.com/nicolargo/glances) from 3.1.6.2 to 3.1.7.
+- [Release notes](https://github.com/nicolargo/glances/releases)
+- [Changelog](https://github.com/nicolargo/glances/blob/develop/NEWS.rst)
+- [Commits](https://github.com/nicolargo/glances/compare/v3.1.6.2...v3.1.7)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#146)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
