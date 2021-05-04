@@ -1,4 +1,6 @@
 # Changelog since v1.4.0
+- Add translation support (#94) 
+- Apply updated repository structure & CI workflow (#93) 
 - ⬆️ Upgrades add-on base image to v9.2.0 (#92) 
 - ⬆ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#91) 
 - ⬆️ Bump docker/login-action from v1.8.0 to v1.9.0 (#90)
