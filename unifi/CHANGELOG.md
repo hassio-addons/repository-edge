@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- Fix root chain (#200) 
 - Add translation support (#199) 
 - Apply updated repository structure & CI workflow (#198) 
 - ⬆️ Upgrades add-on base image to v6.2.0 (#197) 
