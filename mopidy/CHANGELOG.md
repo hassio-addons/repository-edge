@@ -1,1 +1,1 @@
-- Apply updated repository structure & CI workflow (#133)
+- Remove NGINX access log from Supervisor log ouput (#134)
