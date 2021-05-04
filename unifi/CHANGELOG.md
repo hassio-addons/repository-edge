@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- Add translation support (#199) 
 - Apply updated repository structure & CI workflow (#198) 
 - ⬆️ Upgrades add-on base image to v6.2.0 (#197) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#195)
