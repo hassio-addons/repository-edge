@@ -1,4 +1,6 @@
 # Changelog since v0.6.2
+- Apply updated repository structure & CI workflow (#128) 
+- ⬆️Upgrades add-on base image to v4.2.0 (#127) 
 - 🔨 Add nut-xml driver (#126) 
 - Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#123)
 
