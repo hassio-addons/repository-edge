@@ -1,4 +1,5 @@
 # Changelog since v0.10.2
+- ⬆️ Upgrades add-on base image to v9.2.0 (#83) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#81)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
