@@ -1,4 +1,5 @@
 # Changelog since v0.10.2
+- Add translation support (#86) 
 - Remove NGINX access log from Supervisor log output (#85) 
 - Apply updated repository structure & CI workflow (#84) 
 - ⬆️ Upgrades add-on base image to v9.2.0 (#83) 
