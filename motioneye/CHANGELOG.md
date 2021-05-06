@@ -1,4 +1,14 @@
 # Changelog since v0.12.0
+- ⬆️ Bump six from 1.15.0 to 1.16.0 in /motioneye (#227)
+
+Bumps [six](https://github.com/benjaminp/six) from 1.15.0 to 1.16.0.
+- [Release notes](https://github.com/benjaminp/six/releases)
+- [Changelog](https://github.com/benjaminp/six/blob/master/CHANGES)
+- [Commits](https://github.com/benjaminp/six/compare/1.15.0...1.16.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#221)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
