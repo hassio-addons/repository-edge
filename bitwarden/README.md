@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Bitwarden RS
+# Home Assistant Community Add-on: Bitwarden (Vaultwarden)
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -19,7 +19,7 @@ The Bitwarden platform offers a variety of client applications including
 a web interface, desktop applications, browser extensions and mobile apps.
 
 This add-on is based upon the lightweight and opensource
-[Bitwarden RS][bitwarden-rs] implementation, allowing you to self-host
+[Vaultwarden][vaultwarden] implementation, allowing you to self-host
 this amazing password manager.
 
 Password theft is a serious problem. The websites and apps that you use are
@@ -48,7 +48,6 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/hassio-addons/repository>
 
-[bitwarden-rs]: https://github.com/dani-garcia/bitwarden_rs
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
@@ -59,6 +58,7 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-be6a2be-blue.svg
-[release]: https://github.com/hassio-addons/addon-bitwarden/tree/be6a2be
+[release-shield]: https://img.shields.io/badge/version-4051e97-blue.svg
+[release]: https://github.com/hassio-addons/addon-bitwarden/tree/4051e97
 [screenshot]: https://github.com/hassio-addons/addon-bitwarden/raw/main/images/screenshot.png
+[vaultwarden]: https://github.com/dani-garcia/vaultwarden

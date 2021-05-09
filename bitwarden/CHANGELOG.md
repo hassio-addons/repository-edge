@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- ⬆️ Upgrades Vaultwarden to 1.21.0 (#125) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#124)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
