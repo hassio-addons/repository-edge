@@ -1,4 +1,6 @@
 # Changelog since v9.0.1
+- ⬆️ Upgrades python3 to 3.8.10-r0 (#1011) 
+- Add note to docs about credential secrets and projects (#1010) 
 - Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#1007)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
