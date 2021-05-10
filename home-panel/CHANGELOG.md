@@ -1,4 +1,5 @@
 # Changelog since v2.2.0
+- ⬆ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#111) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#110)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
