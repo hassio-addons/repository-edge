@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- ⬆ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#163) 
 - ⬆️ Upgrades AdGuard Home to v0.106.1 (#158) 
 - Apply updated repository structure & CI workflow (#157) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#156)
