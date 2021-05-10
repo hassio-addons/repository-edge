@@ -1,4 +1,7 @@
 # Changelog since v0.11.0
+- ⬆️ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#71)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 (#68)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.2 to v1.1.0.
