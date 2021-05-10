@@ -1,4 +1,14 @@
 # Changelog since v9.0.1
+- Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#1012)
+
+Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.4.0 to v1.5.0.
+- [Release notes](https://github.com/brpaz/hadolint-action/releases)
+- [Changelog](https://github.com/hadolint/hadolint-action/blob/master/.releaserc)
+- [Commits](https://github.com/brpaz/hadolint-action/compare/v1.4.0...c27bd9edc1e95eed30474db8f295ff5807ebca14)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades python3 to 3.8.10-r0 (#1011) 
 - Add note to docs about credential secrets and projects (#1010) 
 - Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#1007)
