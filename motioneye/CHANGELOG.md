@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- ⬆ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#228) 
 - ⬆️ Bump six from 1.15.0 to 1.16.0 in /motioneye (#227)
 
 Bumps [six](https://github.com/benjaminp/six) from 1.15.0 to 1.16.0.
