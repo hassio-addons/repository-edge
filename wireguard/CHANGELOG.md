@@ -1,4 +1,15 @@
 # Changelog since v0.5.1
+- ⬆️ Upgrades go to 1.15.12-r0 (#119) 
+- ⬆️ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#118)
+
+Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.4.0 to v1.5.0.
+- [Release notes](https://github.com/brpaz/hadolint-action/releases)
+- [Changelog](https://github.com/hadolint/hadolint-action/blob/master/.releaserc)
+- [Commits](https://github.com/brpaz/hadolint-action/compare/v1.4.0...c27bd9edc1e95eed30474db8f295ff5807ebca14)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to v9.2.0 (#117) 
 - ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 (#106)
 
