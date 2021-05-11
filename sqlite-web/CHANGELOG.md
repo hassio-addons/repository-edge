@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- ⬆️ Upgrades python3 to 3.8.10-r0 (#145) 
 - ⬆️ Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 (#142)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
