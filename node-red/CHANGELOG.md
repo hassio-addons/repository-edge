@@ -1,4 +1,13 @@
 # Changelog since v9.0.1
+- Bump node-red-node-email from 1.12.0 to 1.12.1 in /node-red (#1014)
+
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.12.0 to 1.12.1.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump frenck/action-addon-linter from 2 to 2.1 (#1013)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
