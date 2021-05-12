@@ -953,10 +953,10 @@ SOFTWARE.
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ssh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ssh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/a820a4f
-[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/a820a4f/README.md
+[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/026ac24
+[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/026ac24/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-a820a4f-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-026ac24-blue.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
