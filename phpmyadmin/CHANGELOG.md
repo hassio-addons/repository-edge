@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- ⬆️ Upgrades php7 to 7.4.19-r0 (#63) 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#62)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
