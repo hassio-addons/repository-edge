@@ -1,4 +1,13 @@
 # Changelog since v0.14.1
+- ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#167)
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades python3-dev to 3.8.10-r0 (#164) 
 - ⬆️ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#163)
 
