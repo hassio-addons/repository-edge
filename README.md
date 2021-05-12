@@ -719,10 +719,10 @@ SOFTWARE.
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/2478a2c
-[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/2478a2c/README.md
+[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/75f8a96
+[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/75f8a96/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
-[aircast-version-shield]: https://img.shields.io/badge/version-2478a2c-blue.svg
+[aircast-version-shield]: https://img.shields.io/badge/version-75f8a96-blue.svg
 [aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
