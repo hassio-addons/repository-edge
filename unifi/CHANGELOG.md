@@ -1,4 +1,8 @@
 # Changelog since v0.22.0
+- ⬆ Upgrade UniFi Controller 6.2.23 (#204)
+
+As of today this RC went to stable
+https://community.ui.com/releases/UniFi-Network-Application-6-2-23/df89533b-184a-4fb7-b2c6-9f894b82df27#comment/85dcd21f-84b6-4967-bb8a-2ea349ead55e 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#202)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
