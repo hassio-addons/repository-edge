@@ -1,4 +1,5 @@
 # Changelog since v0.14.1
+- ⬆️ Upgrades ZwaveJS2Mqtt to v4.2.1 (#169) 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#167)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
