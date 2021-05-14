@@ -1,4 +1,13 @@
 # Changelog since v0.8.2
+- Use `cargo install` (#102)
+
+* Use `cargo install`
+
+Simplify the build process by using the `librespot` version published on crates.io
+
+* More cleanup
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#105)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
