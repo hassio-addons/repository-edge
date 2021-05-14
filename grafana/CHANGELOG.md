@@ -1,4 +1,6 @@
 # Changelog since v6.3.3
+- ⬆️ Upgrades Grafana Image Renderer to 2.1.0 (#154) 
+- ⬆️ Upgrades Grafana to v7.5.6 (#153) 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#152)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
