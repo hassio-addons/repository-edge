@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- Add rsync (#234) 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#232)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
