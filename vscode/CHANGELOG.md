@@ -1,4 +1,6 @@
 # Changelog since v3.3.1
+- ⬆️ Upgrades esbenp.prettier-vscode to 6.4.0 (#254) 
+- ⬆️ Upgrades code-server to 3.10.0 (#253) 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#250)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
