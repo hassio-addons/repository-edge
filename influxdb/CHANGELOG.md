@@ -1,4 +1,6 @@
 # Changelog since v4.0.6
+- 🔨 Disable kapacitor telemetry (#166) 
+- 🔨 Disable chronograf telemetry (#165) 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#163)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
