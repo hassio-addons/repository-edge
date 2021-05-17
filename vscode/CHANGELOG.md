@@ -1,4 +1,6 @@
 # Changelog since v3.3.1
+- ⬆️ Upgrades ESPHome.esphome-vscode to 0.16.0 (#256) 
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.17.0 (#255) 
 - ⬆️ Upgrades esbenp.prettier-vscode to 6.4.0 (#254) 
 - ⬆️ Upgrades code-server to 3.10.0 (#253) 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#250)
