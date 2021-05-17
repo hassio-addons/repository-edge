@@ -1,8 +1,8 @@
-- ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#137)
+- ⬆️ Bump mopidy-iris from 3.57.6 to 3.58.0 in /mopidy (#138)
 
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
+Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.57.6 to 3.58.0.
+- [Release notes](https://github.com/jaedb/iris/releases)
+- [Commits](https://github.com/jaedb/iris/compare/3.57.6...3.58.0)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
