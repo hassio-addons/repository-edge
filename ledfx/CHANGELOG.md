@@ -1,8 +1,8 @@
-- Bump frenck/action-addon-linter from 2 to 2.1 (#51)
+- Bump actions/stale from 3.0.18 to 3.0.19 (#52)
 
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
