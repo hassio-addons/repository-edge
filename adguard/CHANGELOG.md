@@ -1,4 +1,9 @@
 # Changelog since v4.0.0
+- Handle AdGuard config schema upgrades for bind hosts (#169)
+
+* Handle AdGuard config schema upgrades for bind hosts
+
+* Only upgrade when schema version exists 
 - Add support for multiple bind interfaces (#168) 
 - ⬆️ Upgrades AdGuard Home to v0.106.3 (#167) 
 - ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#165)
