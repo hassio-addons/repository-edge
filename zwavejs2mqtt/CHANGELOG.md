@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- ⬆️ Upgrades ZwaveJS2Mqtt to v4.3.0 (#173) 
 - ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#172)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
