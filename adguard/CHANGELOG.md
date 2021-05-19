@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- Clean out previous bind values before adding new (#170) 
 - Handle AdGuard config schema upgrades for bind hosts (#169)
 
 * Handle AdGuard config schema upgrades for bind hosts
