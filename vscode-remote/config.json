@@ -1,6 +1,6 @@
 {
   "name": "VSCode Remote",
-  "version": "da44cfd",
+  "version": "924eddd",
   "slug": "vscode-remote",
   "description": "VSCode Remote access to Home Assistant",
   "url": "https://github.com/hassio-addons/addon-vscode-remote",
