@@ -1,4 +1,14 @@
 # Changelog since v9.0.1
+- Bump node-red-dashboard from 2.29.0 to 2.29.1 in /node-red (#1016)
+
+Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.29.0 to 2.29.1.
+- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
+- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red-dashboard/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump actions/stale from 3.0.18 to 3.0.19 (#1017)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
