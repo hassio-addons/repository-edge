@@ -1,4 +1,13 @@
 # Changelog since v0.5.1
+- ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#121)
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades go to 1.15.12-r0 (#119) 
 - ⬆️ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#118)
 
