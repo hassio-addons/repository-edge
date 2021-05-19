@@ -1,4 +1,5 @@
 # Changelog since v8.2.1
+- ⬆️ Upgrades Home Assistant CLI to v4.12.2 (#266) 
 - ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#265)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
