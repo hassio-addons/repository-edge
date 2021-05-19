@@ -1,4 +1,13 @@
 # Changelog since v9.0.1
+- Bump actions/stale from 3.0.18 to 3.0.19 (#1017)
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-node-email from 1.12.0 to 1.12.1 in /node-red (#1014)
 
 Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.12.0 to 1.12.1.
