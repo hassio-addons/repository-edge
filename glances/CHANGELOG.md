@@ -1,4 +1,13 @@
 # Changelog since v0.12.1
+- ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#152)
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump zeroconf from 0.30.0 to 0.31.0 in /glances (#153)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.30.0 to 0.31.0.
