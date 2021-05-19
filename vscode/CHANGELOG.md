@@ -1,4 +1,5 @@
 # Changelog since v3.4.0
+- ⬆️ Upgrades code-server to 3.10.1 (#261) 
 - ⬆️ Upgrades Home Assistant CLI to v4.12.2 (#260) 
 - ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#257)
 
