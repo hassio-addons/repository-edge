@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- ⬆️ Upgrades AdGuard Home to v0.106.3 (#167) 
 - ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#165)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
