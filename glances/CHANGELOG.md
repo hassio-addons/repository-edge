@@ -1,4 +1,13 @@
 # Changelog since v0.12.1
+- ⬆️ Bump zeroconf from 0.30.0 to 0.31.0 in /glances (#153)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.30.0 to 0.31.0.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#151)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
