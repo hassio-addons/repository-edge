@@ -1,4 +1,23 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades php7 to 7.4.19-r0 (#176) 
+- ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#174)
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#175)
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#172)
 
 Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.4.0 to v1.5.0.
