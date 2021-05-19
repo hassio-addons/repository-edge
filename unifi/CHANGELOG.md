@@ -1,23 +1,9 @@
-# Changelog since v0.22.0
-- ⬆ Upgrade UniFi Controller 6.2.23 (#204)
+# Changelog since v0.23.0
+- ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#207)
 
-As of today this RC went to stable
-https://community.ui.com/releases/UniFi-Network-Application-6-2-23/df89533b-184a-4fb7-b2c6-9f894b82df27#comment/85dcd21f-84b6-4967-bb8a-2ea349ead55e 
-- ⬆️ Bump frenck/action-addon-linter from 2 to 2.1 (#202)
-
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 (#201)
-
-Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.4.0 to v1.5.0.
-- [Release notes](https://github.com/brpaz/hadolint-action/releases)
-- [Changelog](https://github.com/hadolint/hadolint-action/blob/master/.releaserc)
-- [Commits](https://github.com/brpaz/hadolint-action/compare/v1.4.0...c27bd9edc1e95eed30474db8f295ff5807ebca14)
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
