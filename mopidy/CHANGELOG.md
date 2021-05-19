@@ -1,8 +1,8 @@
-- ⬆️ Bump mopidy-iris from 3.57.6 to 3.58.0 in /mopidy (#138)
+- ⬆️ Bump actions/stale from 3.0.18 to 3.0.19 (#139)
 
-Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.57.6 to 3.58.0.
-- [Release notes](https://github.com/jaedb/iris/releases)
-- [Commits](https://github.com/jaedb/iris/compare/3.57.6...3.58.0)
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
