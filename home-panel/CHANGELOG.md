@@ -1,4 +1,7 @@
 # Changelog since v2.2.0
+- Bump actions/stale from 3.0.18 to 3.0.19 (#113)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump frenck/action-addon-linter from 2 to 2.1 (#112)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
