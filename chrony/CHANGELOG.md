@@ -1,4 +1,7 @@
 # Changelog since v2.1.0
+- Bump frenck/action-addon-information from 1.0.0 to 1.1 (#64)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump actions/stale from 3.0.18 to 3.0.19 (#63)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
