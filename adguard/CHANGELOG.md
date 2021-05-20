@@ -1,2 +1,5 @@
-# Changelog since v4.1.0
-- Fix multiple address on a single interface (#171) 
+## What’s changed
+
+## 🐛 Bug fixes
+
+- Fix interfaces with correctly configured multiple addresses @frenck (#172)
