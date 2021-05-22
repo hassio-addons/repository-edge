@@ -1,4 +1,13 @@
 # Changelog since v0.13.0
+- Add Home Assistant integration discovery (#243)
+
+* Add Home Assistant integration discovery
+
+* Update motioneye/rootfs/etc/services.d/motioneye/discovery
+
+Co-authored-by: Paul Sinclair <24625998+sinclairpaul@users.noreply.github.com>
+
+Co-authored-by: Paul Sinclair <24625998+sinclairpaul@users.noreply.github.com> 
 - ⬆️ Bump frenck/action-addon-information from 1.0.0 to 1.1 (#241)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.0.0 to 1.1.
