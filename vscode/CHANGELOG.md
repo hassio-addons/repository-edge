@@ -1,4 +1,6 @@
 # Changelog since v3.4.0
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.18.0 (#264) 
+- ⬆️ Upgrades code-server to 3.10.2 (#263) 
 - ⬆️ Bump frenck/action-addon-information from 1.0.0 to 1.1 (#262)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.0.0 to 1.1.
