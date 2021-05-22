@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- Enable motionEye discovery in add-on configuration (#244) 
 - Add Home Assistant integration discovery (#243)
 
 * Add Home Assistant integration discovery
