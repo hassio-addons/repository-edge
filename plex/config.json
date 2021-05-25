@@ -1,6 +1,6 @@
 {
   "name": "Plex Media Server",
-  "version": "5697b73",
+  "version": "365a4b5",
   "slug": "plex",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
   "url": "https://github.com/hassio-addons/addon-plex",
