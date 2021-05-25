@@ -1,4 +1,5 @@
 # Changelog since v2.2.2
+- ⬆️ Upgrades Tautulli to v2.7.3 (#135) 
 - ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#134)
 
 Bumps [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) from 1.2.0 to 1.3.0.
