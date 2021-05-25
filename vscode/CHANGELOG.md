@@ -1,4 +1,5 @@
 # Changelog since v3.4.1
+- ⬆️ Upgrades Home Assistant CLI to v4.12.3 (#266) 
 - ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#265)
 
 Bumps [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) from 1.2.0 to 1.3.0.
