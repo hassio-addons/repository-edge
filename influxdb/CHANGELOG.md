@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- ⬆️ Upgrades InfluxDB to 1.8.6 (#170) 
 - ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#169)
 
 Bumps [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) from 1.2.0 to 1.3.0.
