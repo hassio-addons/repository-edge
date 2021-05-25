@@ -1,4 +1,7 @@
 # Changelog since v0.7.0
+- Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#138)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump frenck/action-addon-information from 1.0.0 to 1.1 (#133)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.0.0 to 1.1.
