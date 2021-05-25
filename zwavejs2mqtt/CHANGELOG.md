@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- ⬆️ Upgrades ZwaveJS2Mqtt to v4.3.1 (#176) 
 - ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#175)
 
 Bumps [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) from 1.2.0 to 1.3.0.
