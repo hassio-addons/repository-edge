@@ -1,4 +1,6 @@
 # Changelog since v9.1.3
+- ⬆️ Upgrades RPi.GPIO to 0.7.1a4 (#1034) 
+- ⬆️ Upgrades add-on base image to v9.2.1 (#1033) 
 - Bump docker/build-push-action from 2.4.0 to 2.5.0 (#1032)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.4.0 to 2.5.0.
