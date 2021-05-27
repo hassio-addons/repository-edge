@@ -1,4 +1,5 @@
 # Changelog since v3.4.1
+- ⬆ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#268) 
 - ⬆️ Upgrades Home Assistant CLI to v4.12.3 (#266) 
 - ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#265)
 
