@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- ⬆ Bump docker/build-push-action from 2.4.0 to 2.5.0 (#68) 
 - ⬆️ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#69)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
