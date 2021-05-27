@@ -1,8 +1,8 @@
-- ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#37)
+- ⬆️ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#38)
 
-Bumps [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) from 1.2.0 to 1.3.0.
-- [Release notes](https://github.com/micnncim/action-label-syncer/releases)
-- [Commits](https://github.com/micnncim/action-label-syncer/compare/v1.2.0...v1.3.0)
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 1.1.0 to 1.2.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.1.0...v1.2.0)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
