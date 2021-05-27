@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- ⬆ Bump docker/build-push-action from 2.4.0 to 2.5.0 (#79) 
 - ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#78)
 
 Bumps [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) from 1.2.0 to 1.3.0.
