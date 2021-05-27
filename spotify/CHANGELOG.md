@@ -1,4 +1,5 @@
 # Changelog since v0.8.2
+- ⬆ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#112) 
 - ⬆️ Bump docker/build-push-action from 2.4.0 to 2.5.0 (#113)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.4.0 to 2.5.0.
