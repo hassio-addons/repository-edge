@@ -1,4 +1,5 @@
 # Changelog since v2.6.0
+- ⬆ Bump docker/build-push-action from 2.4.0 to 2.5.0 (#97) 
 - ⬆ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#98) 
 - ⬆️ Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 (#96)
 
