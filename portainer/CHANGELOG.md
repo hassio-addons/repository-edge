@@ -1,4 +1,13 @@
 # Changelog since v1.5.0
+- ⬆️ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#101)
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 1.1.0 to 1.2.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.1.0...v1.2.0)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/build-push-action from 2.4.0 to 2.5.0 (#100)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.4.0 to 2.5.0.
