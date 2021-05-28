@@ -1,4 +1,14 @@
 # Changelog since v0.13.0
+- ⬆️ Bump singledispatch from 3.6.1 to 3.6.2 in /motioneye (#247)
+
+Bumps [singledispatch](https://github.com/jaraco/singledispatch) from 3.6.1 to 3.6.2.
+- [Release notes](https://github.com/jaraco/singledispatch/releases)
+- [Changelog](https://github.com/jaraco/singledispatch/blob/main/CHANGES.rst)
+- [Commits](https://github.com/jaraco/singledispatch/compare/v3.6.1...v3.6.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to v9.2.1 (#253) 
 - ⬆️ Bump actions/cache from 2.1.5 to 2.1.6 (#251)
 
