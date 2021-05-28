@@ -962,10 +962,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/04b86a1
-[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/04b86a1/README.md
+[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/d1aa39a
+[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/d1aa39a/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/addon-tasmoadmin/issues
-[tasmoadmin-version-shield]: https://img.shields.io/badge/version-04b86a1-blue.svg
+[tasmoadmin-version-shield]: https://img.shields.io/badge/version-d1aa39a-blue.svg
 [tasmoadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
