@@ -1,4 +1,13 @@
 # Changelog since v9.1.3
+- Bump actions/cache from 2.1.5 to 2.1.6 (#1035)
+
+Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.5...v2.1.6)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades RPi.GPIO to 0.7.1a4 (#1034) 
 - ⬆️ Upgrades add-on base image to v9.2.1 (#1033) 
 - Bump docker/build-push-action from 2.4.0 to 2.5.0 (#1032)
