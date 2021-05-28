@@ -917,10 +917,10 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-portainer]: https://github.com/hassio-addons/addon-portainer/tree/20901fd
-[addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/20901fd/README.md
+[addon-portainer]: https://github.com/hassio-addons/addon-portainer/tree/9e7a4b4
+[addon-doc-portainer]: https://github.com/hassio-addons/addon-portainer/blob/9e7a4b4/README.md
 [portainer-issue]: https://github.com/hassio-addons/addon-portainer/issues
-[portainer-version-shield]: https://img.shields.io/badge/version-20901fd-blue.svg
+[portainer-version-shield]: https://img.shields.io/badge/version-9e7a4b4-blue.svg
 [portainer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [portainer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
