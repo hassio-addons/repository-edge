@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- ⬆️  Upgrades add-on base image to v9.2.1 (#70) 
 - ⬆️ Bump docker/build-push-action from 2.4.0 to 2.5.0 (#68)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.4.0 to 2.5.0.
