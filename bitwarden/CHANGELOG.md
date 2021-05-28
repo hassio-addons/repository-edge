@@ -1,4 +1,13 @@
 # Changelog since v0.11.0
+- ⬆️ Bump actions/cache from 2.1.5 to 2.1.6 (#133)
+
+Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.5...v2.1.6)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#131)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 1.1.0 to 1.2.0.
