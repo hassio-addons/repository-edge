@@ -1,6 +1,6 @@
 {
   "name": "UniFi Controller",
-  "version": "6696348",
+  "version": "c20bb97",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
   "url": "https://github.com/hassio-addons/addon-unifi",
