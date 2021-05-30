@@ -1,4 +1,9 @@
 # Changelog since v0.10.0
+- ⬆ Update bookstack to v21.05 (#101)
+
+* 🔨 Remove php-tidy as no longer required
+
+* ⬆ Update bookstack to v21.05 
 - ⬆️ Upgrades add-on base image to v9.2.1 (#100) 
 - Bump docker/build-push-action from 2.4.0 to 2.5.0 (#97)
 
