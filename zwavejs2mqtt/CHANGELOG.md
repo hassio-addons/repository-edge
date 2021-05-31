@@ -1,4 +1,5 @@
 # Changelog since v0.18.0
+- ⬆️ Upgrades ZwaveJS2Mqtt to v4.5.1 (#190) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#189)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
