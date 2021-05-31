@@ -1,4 +1,7 @@
 # Changelog since v4.1.0
+- ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#71)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actions/cache from 2.1.5 to 2.1.6 (#70)
 
 Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
