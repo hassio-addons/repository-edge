@@ -1,4 +1,13 @@
 # Changelog since v1.5.0
+- ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#103)
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.1...v1.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 (#101)
 
 Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 1.1.0 to 1.2.0.
