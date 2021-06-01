@@ -1,8 +1,8 @@
-- Bump actions/cache from 2.1.5 to 2.1.6 (#58)
+- Bump frenck/action-addon-information from 1.1 to 1.2.2 (#60)
 
-Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
-- [Release notes](https://github.com/actions/cache/releases)
-- [Commits](https://github.com/actions/cache/compare/v2.1.5...v2.1.6)
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.2.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.1...v1.2.2)
 
 Signed-off-by: dependabot[bot] <support@github.com>
 
