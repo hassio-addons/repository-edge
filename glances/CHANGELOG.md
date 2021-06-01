@@ -1,4 +1,14 @@
 # Changelog since v0.12.1
+- ⬆️ Bump netifaces from 0.10.9 to 0.11.0 in /glances (#161)
+
+Bumps [netifaces](https://github.com/al45tair/netifaces) from 0.10.9 to 0.11.0.
+- [Release notes](https://github.com/al45tair/netifaces/releases)
+- [Changelog](https://github.com/al45tair/netifaces/blob/master/CHANGELOG)
+- [Commits](https://github.com/al45tair/netifaces/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#160)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
