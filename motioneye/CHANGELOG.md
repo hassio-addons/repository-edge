@@ -1,4 +1,16 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades nginx to 1.18.0-r15 (#259) 
+- ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2.2 (#256)
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.2.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.1...v1.2.2)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades cifs-utils to 6.13-r0 (#258) 
+- ⬆️ Upgrades ffmpeg to 4.3.1-r4 (#257) 
 - ⬆️ Bump singledispatch from 3.6.1 to 3.6.2 in /motioneye (#247)
 
 Bumps [singledispatch](https://github.com/jaraco/singledispatch) from 3.6.1 to 3.6.2.
