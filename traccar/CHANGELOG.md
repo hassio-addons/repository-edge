@@ -1,4 +1,6 @@
 # Changelog since v0.12.0
+- ⬆️ Upgrades nss to 3.66-r0 (#108) 
+- ⬆️ Upgrades nginx to 1.18.0-r15 (#107) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#106)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
