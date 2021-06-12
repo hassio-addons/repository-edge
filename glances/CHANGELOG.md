@@ -1,4 +1,5 @@
 # Changelog since v0.12.1
+- ⬆️ Upgrades add-on base image to v9.2.2 (#163) 
 - ⬆️ Bump netifaces from 0.10.9 to 0.11.0 in /glances (#161)
 
 Bumps [netifaces](https://github.com/al45tair/netifaces) from 0.10.9 to 0.11.0.
