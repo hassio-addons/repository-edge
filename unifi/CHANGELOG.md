@@ -1,4 +1,5 @@
 # Changelog since v0.23.0
+- Upgrade controller to 6.2.25 (#217) 
 - ⬆️ Bump frenck/action-addon-information from 1.0.0 to 1.2.2 (#215)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.0.0 to 1.2.2.
