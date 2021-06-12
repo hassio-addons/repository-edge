@@ -1,4 +1,5 @@
 # Changelog since v1.5.0
+- ⬆️ Upgrades Portainer to v1.24.2 (#108) 
 - ⬆️ Upgrades add-on base image to v9.2.2 (#107) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#103)
 
