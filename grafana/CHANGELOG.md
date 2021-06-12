@@ -1,4 +1,5 @@
 # Changelog since v6.3.5
+- Remove NGINX access log from Supervisor log ouput (#171) 
 - ⬆️ Upgrades Grafana Image Renderer to 3.0.1 (#170) 
 - ⬆️ Upgrades Grafana to v8.0.1 (#169) 
 - ⬆️ Upgrades add-on base image to v4.2.1 (#168) 
