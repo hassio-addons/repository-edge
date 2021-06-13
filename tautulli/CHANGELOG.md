@@ -1,4 +1,9 @@
 # Changelog since v2.2.3
+- Fix wheels link (#143) 
+- ⬆️ Upgrades add-on base image to v9.2.2 (#142) 
+- ⬆️ Bump plexapi from 4.5.2 to 4.6.0 (#141)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2.2 (#140)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.2.
