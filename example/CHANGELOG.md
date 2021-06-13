@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- ⬆️ Upgrades add-on base image to v9.2.2 (#72) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#71)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
