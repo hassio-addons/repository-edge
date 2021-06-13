@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- ⬆️ Upgrades add-on base image to v9.2.2 (#97) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#96)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
