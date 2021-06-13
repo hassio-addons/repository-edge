@@ -1,4 +1,6 @@
 # Changelog since v2.6.0
+- ⬆️ Upgrades Plex Media Server to 1.23.2.4656 (#102) 
+- Correct the link to CONTRIBUTING.md (#101) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#100)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
