@@ -1,4 +1,6 @@
 # Changelog since v0.11.0
+- ⬆️ Upgrades add-on base image to v4.2.1 (#138) 
+- Readme tweaks (#139) 
 - ⬆️ Bump actions/cache from 2.1.5 to 2.1.6 (#133)
 
 Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
