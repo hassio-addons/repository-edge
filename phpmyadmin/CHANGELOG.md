@@ -1,4 +1,6 @@
 # Changelog since v0.4.1
+- ⬆️ Upgrades phpMyAdmin to 5.1.1 (#73) 
+- ⬆️ Upgrades add-on base image to v9.2.2 (#72) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#71)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
