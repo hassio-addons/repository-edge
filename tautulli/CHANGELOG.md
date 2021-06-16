@@ -1,4 +1,20 @@
 # Changelog since v2.2.3
+- ⬆️ Bump plexapi from 4.6.0 to 4.6.1 in /tautulli (#144)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.6.0 to 4.6.1.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.6.0...4.6.1)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Fix wheels link (#143) 
 - ⬆️ Upgrades add-on base image to v9.2.2 (#142) 
 - ⬆️ Bump plexapi from 4.5.2 to 4.6.0 (#141)
