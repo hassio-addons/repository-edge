@@ -1,4 +1,13 @@
 # Changelog since v0.11.0
+- ⬆ Update base image and dependencies (#108)
+
+* ⬆ Update base image to v10.0.0
+
+* ⬆ Update php to v7.4.20-r0
+
+* ⬆ Update nginx to v1.20.1-r3
+
+* ⬆ Update composer to v2.1.3-r0 
 - ⬆️ Upgrades add-on base image to v9.2.2 (#104) 
 - Bump frenck/action-addon-information from 1.1 to 1.2.2 (#103)
 
