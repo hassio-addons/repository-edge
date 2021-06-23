@@ -1,4 +1,9 @@
 # Changelog since v2.1.0
+- ⬆ Update base image to v10.0.0 and chrony to v4.1-r0 (#73)
+
+* ⬆ Update base image to v10.0.0
+
+* ⬆ Update chrony to v4.1-r0 
 - ⬆️ Upgrades add-on base image to v9.2.2 (#72) 
 - Bump frenck/action-addon-information from 1.1 to 1.2.2 (#70)
 
