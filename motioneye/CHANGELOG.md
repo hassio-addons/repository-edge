@@ -1,4 +1,7 @@
 # Changelog since v0.14.0
+- Typo: no apostrophe in plurals (#263)
+
+Typo: No apostrophe in plurals. 
 - ⬆️ Bump docker/login-action from 1.9.0 to 1.10.0 (#264)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from 1.9.0 to 1.10.0.
