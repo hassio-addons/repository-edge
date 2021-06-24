@@ -1,4 +1,5 @@
 # Changelog since v0.13.1
+- ⬆️ Upgrades add-on base image to v10.0.0 (#193) 
 - ⬆️ Upgrades add-on base image to v9.2.2 (#189) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#186)
 
