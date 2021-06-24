@@ -1,4 +1,5 @@
 # Changelog since v3.4.1
+- ⬆️ Upgrades add-on base image to v4.2.1 (#277) 
 - ⬆️ Bump docker/login-action from 1.9.0 to 1.10.0 (#273)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from 1.9.0 to 1.10.0.

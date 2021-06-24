@@ -1025,10 +1025,10 @@ SOFTWARE.
 [vscode-remote-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [vscode-remote-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [vscode-remote-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/8f888eb
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/8f888eb/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/533e4d3
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/533e4d3/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-8f888eb-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-533e4d3-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
