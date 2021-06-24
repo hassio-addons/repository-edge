@@ -1,6 +1,6 @@
 {
   "name": "AirCast",
-  "version": "86c817d",
+  "version": "56b47f3",
   "slug": "aircast",
   "description": "AirPlay capabilities for your Chromecast devices.",
   "url": "https://github.com/hassio-addons/addon-aircast",
