@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- Fix example script permissions (#75) 
 - ⬆️ Bump docker/login-action from 1.9.0 to 1.10.0 (#73)
 
 Bumps [docker/login-action](https://github.com/docker/login-action) from 1.9.0 to 1.10.0.
