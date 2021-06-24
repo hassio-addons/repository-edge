@@ -1,4 +1,22 @@
 # Changelog since v3.4.1
+- ⬆️ Bump docker/login-action from 1.9.0 to 1.10.0 (#273)
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.9.0 to 1.10.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.9.0...v1.10.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades nmap to 7.70+dfsg1-6+deb10u2 (#276) 
+- ⬆️ Upgrades mariadb-client to 1:10.3.29-0+deb10u1 (#275) 
 - ⬆️ Bump frenck/action-addon-information from 1.1 to 1.2 (#271)
 
 Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
