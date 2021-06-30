@@ -1,4 +1,7 @@
 # Changelog since v3.4.1
+- ⬆️ Upgrades ESPHome.esphome-vscode to 0.18.0 (#283) 
+- ⬆️ Upgrades usernamehw.errorlens to 3.3.0 (#282) 
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.19.0 (#281) 
 - ⬆️ Bump docker/setup-buildx-action from 1.3.0 to 1.4.1 (#279)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 1.3.0 to 1.4.1.
