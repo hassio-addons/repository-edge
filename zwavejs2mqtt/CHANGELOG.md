@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- ⬆️ Upgrades ZwaveJS2Mqtt to v5.2.1 (#209) 
 - ⬆️ Upgrades ZwaveJS2Mqtt to v5.2.0 (#208) 
 - ⬆️ Bump docker/setup-buildx-action from 1.3.0 to 1.4.1 (#207)
 
