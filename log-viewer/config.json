@@ -1,6 +1,6 @@
 {
   "name": "Log Viewer",
-  "version": "7f2a03e",
+  "version": "947136c",
   "slug": "logviewer",
   "description": "Browser-based log utility for Home Assistant",
   "url": "https://github.com/hassio-addons/addon-log-viewer",
