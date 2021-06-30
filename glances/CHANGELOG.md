@@ -1,4 +1,20 @@
 # Changelog since v0.12.2
+- ⬆️ Bump zeroconf from 0.31.0 to 0.32.0 in /glances (#166)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.31.0 to 0.32.0.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.31.0...0.32.0)
+
+---
+updated-dependencies:
+- dependency-name: zeroconf
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-buildx-action from 1.3.0 to 1.4.1 (#165)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 1.3.0 to 1.4.1.
