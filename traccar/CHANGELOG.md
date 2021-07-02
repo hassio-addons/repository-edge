@@ -1,4 +1,6 @@
 # Changelog since v0.12.0
+- ⬆️ Upgrade to openjdk11 (#110) 
+- Drop support for 32-bits systems (#116) 
 - ⬆️ Upgrades mariadb-client to 10.5.11-r0 (#115) 
 - ⬆️ Bump docker/setup-buildx-action from 1.3.0 to 1.4.1 (#113)
 
