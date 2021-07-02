@@ -1,4 +1,20 @@
 # Changelog since v0.12.2
+- ⬆️ Bump docker/build-push-action from 2.5.0 to 2.6.1 (#167)
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.5.0 to 2.6.1.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.5.0...v2.6.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump zeroconf from 0.31.0 to 0.32.0 in /glances (#166)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.31.0 to 0.32.0.
