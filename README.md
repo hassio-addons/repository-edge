@@ -971,10 +971,10 @@ SOFTWARE.
 [tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tasmoadmin-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tasmoadmin-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/7cbcb07
-[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/7cbcb07/README.md
+[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/b23763c
+[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/b23763c/README.md
 [tautulli-issue]: https://github.com/hassio-addons/addon-tautulli/issues
-[tautulli-version-shield]: https://img.shields.io/badge/version-7cbcb07-blue.svg
+[tautulli-version-shield]: https://img.shields.io/badge/version-b23763c-blue.svg
 [tautulli-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

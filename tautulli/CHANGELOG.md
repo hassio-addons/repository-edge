@@ -1,4 +1,9 @@
 # Changelog since v2.2.3
+- Bump wheels link again (#153)
+
+* Bump wheels link again
+
+* Fix build 
 - Change add-on startup to application level (#152)
 
 * Change add-on startup to application level
