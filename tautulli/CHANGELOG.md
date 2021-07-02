@@ -1,4 +1,9 @@
 # Changelog since v2.2.3
+- Change add-on startup to application level (#152)
+
+* Change add-on startup to application level
+
+* Remove default value 
 - ⬆️ Upgrades Tautulli to v2.7.4 (#151) 
 - ⬆️ Upgrades add-on base image to v10.0.0 (#150) 
 - ⬆️ Bump docker/login-action from 1.9.0 to 1.10.0 (#146)
