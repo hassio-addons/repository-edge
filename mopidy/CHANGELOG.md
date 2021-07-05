@@ -1,1 +1,1 @@
-- ⬆️ Upgrades add-on base image to v4.2.1 (#147)
+- ⬆️ Upgrades add-on base image to v4.2.2 (#152)
