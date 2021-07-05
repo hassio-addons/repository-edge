@@ -59,5 +59,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-4cedc24-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwavejs2mqtt/tree/4cedc24
+[release-shield]: https://img.shields.io/badge/version-7623d33-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwavejs2mqtt/tree/7623d33
