@@ -1,4 +1,29 @@
 # Changelog since v9.1.4
+- Small documentation change. Fixed a link, added a link (#1043)
+
+* Fixed contribution guidelines link
+
+* Added a link to the code of conduct
+
+* Tweak
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
+- Bump node-red-node-email from 1.12.1 to 1.12.2 in /node-red (#1055)
+
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.12.1 to 1.12.2.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+---
+updated-dependencies:
+- dependency-name: node-red-node-email
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades openssh-client to 8.6_p1-r2 (#1060) 
 - Bump docker/login-action from 1.9.0 to 1.10.0 (#1053)
 
