@@ -1,4 +1,7 @@
 # Changelog since v4.2.0
+- ⬆️ Bump docker/setup-buildx-action from 1.4.1 to 1.5.0 (#79)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/build-push-action from 2.5.0 to 2.6.1 (#78)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
