@@ -1,4 +1,5 @@
 # Changelog since v4.1.1
+- ⬆️ Upgrades Chronograf to 1.9.0 (#187) 
 - ⬆️ Upgrades add-on base image to v4.2.2 (#186) 
 - ⬆️ Bump docker/setup-buildx-action from 1.4.1 to 1.5.0 (#185)
 
