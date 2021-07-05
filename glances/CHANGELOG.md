@@ -1,4 +1,21 @@
 # Changelog since v0.12.2
+- ⬆️ Bump glances from 3.1.7 to 3.2.0 in /glances (#169)
+
+Bumps [glances](https://github.com/nicolargo/glances) from 3.1.7 to 3.2.0.
+- [Release notes](https://github.com/nicolargo/glances/releases)
+- [Changelog](https://github.com/nicolargo/glances/blob/develop/NEWS.rst)
+- [Commits](https://github.com/nicolargo/glances/compare/v3.1.7...v3.2.0)
+
+---
+updated-dependencies:
+- dependency-name: glances
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/build-push-action from 2.5.0 to 2.6.1 (#167)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.5.0 to 2.6.1.
