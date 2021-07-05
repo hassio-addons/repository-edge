@@ -1,4 +1,5 @@
 # Changelog since v7.0.1
+- Fix by temporary disable Grafana Live for now (#183) 
 - ⬆️ Bump docker/build-push-action from 2.5.0 to 2.6.1 (#179)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.5.0 to 2.6.1.
