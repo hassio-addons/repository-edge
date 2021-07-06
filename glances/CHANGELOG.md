@@ -1,4 +1,20 @@
 # Changelog since v0.12.2
+- ⬆️ Bump zeroconf from 0.32.0 to 0.32.1 (#170)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.32.0 to 0.32.1.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.32.0...0.32.1)
+
+---
+updated-dependencies:
+- dependency-name: zeroconf
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump docker/setup-buildx-action from 1.4.1 to 1.5.0 (#168)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 1.4.1 to 1.5.0.
