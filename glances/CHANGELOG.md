@@ -1,4 +1,7 @@
 # Changelog since v0.12.2
+- ⬆️ Bump glances from 3.2.0 to 3.2.1 (#172)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump dessant/lock-threads from 2.0.3 to 2.1.1 (#171)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.0.3 to 2.1.1.
