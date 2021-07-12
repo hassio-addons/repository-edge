@@ -1,4 +1,21 @@
 # Changelog since v0.12.2
+- ⬆️ Bump dessant/lock-threads from 2.0.3 to 2.1.1 (#171)
+
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.0.3 to 2.1.1.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v2.0.3...v2.1.1)
+
+---
+updated-dependencies:
+- dependency-name: dessant/lock-threads
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump zeroconf from 0.32.0 to 0.32.1 (#170)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.32.0 to 0.32.1.
