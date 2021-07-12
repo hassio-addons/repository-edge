@@ -827,10 +827,10 @@ SOFTWARE.
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [home-panel-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [home-panel-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/d986afb
-[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/d986afb/README.md
+[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/813e783
+[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/813e783/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
-[influxdb-version-shield]: https://img.shields.io/badge/version-d986afb-blue.svg
+[influxdb-version-shield]: https://img.shields.io/badge/version-813e783-blue.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
