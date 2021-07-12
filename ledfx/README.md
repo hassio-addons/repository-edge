@@ -44,6 +44,6 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-cc89f92-blue.svg
-[release]: https://github.com/hassio-addons/addon-ledfx/tree/cc89f92
+[release-shield]: https://img.shields.io/badge/version-f388683-blue.svg
+[release]: https://github.com/hassio-addons/addon-ledfx/tree/f388683
 [screenshot]: https://github.com/hassio-addons/addon-ledfx/raw/main/images/screenshot.png
