@@ -800,10 +800,10 @@ SOFTWARE.
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [glances-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [glances-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/54c1dae
-[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/54c1dae/README.md
+[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/4b00db9
+[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/4b00db9/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-54c1dae-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-4b00db9-blue.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
