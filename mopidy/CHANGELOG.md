@@ -1,13 +1,13 @@
-- ⬆️ Bump dessant/lock-threads from 2.0.3 to 2.1.1 (#154)
+- ⬆️ Bump mopidy from 3.1.1 to 3.2.0 (#153)
 
-Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.0.3 to 2.1.1.
-- [Release notes](https://github.com/dessant/lock-threads/releases)
-- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/dessant/lock-threads/compare/v2.0.3...v2.1.1)
+Bumps [mopidy](https://github.com/mopidy/mopidy) from 3.1.1 to 3.2.0.
+- [Release notes](https://github.com/mopidy/mopidy/releases)
+- [Changelog](https://github.com/mopidy/mopidy/blob/develop/docs/changelog.rst)
+- [Commits](https://github.com/mopidy/mopidy/compare/v3.1.1...v3.2.0)
 
 ---
 updated-dependencies:
-- dependency-name: dessant/lock-threads
+- dependency-name: mopidy
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
