@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- ⬆️ Upgrades BookStack to v21.05.3 (#118) 
 - ⬆️ Upgrades php7 to 7.4.21-r0 (#117) 
 - Bump docker/build-push-action from 2.5.0 to 2.6.1 (#112)
 
