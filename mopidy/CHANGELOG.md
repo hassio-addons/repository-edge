@@ -1,13 +1,12 @@
-- ⬆️ Bump mopidy from 3.1.1 to 3.2.0 (#153)
+- ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#156)
 
-Bumps [mopidy](https://github.com/mopidy/mopidy) from 3.1.1 to 3.2.0.
-- [Release notes](https://github.com/mopidy/mopidy/releases)
-- [Changelog](https://github.com/mopidy/mopidy/blob/develop/docs/changelog.rst)
-- [Commits](https://github.com/mopidy/mopidy/compare/v3.1.1...v3.2.0)
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.1...v2.2)
 
 ---
 updated-dependencies:
-- dependency-name: mopidy
+- dependency-name: frenck/action-addon-linter
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
