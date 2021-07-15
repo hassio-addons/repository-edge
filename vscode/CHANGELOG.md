@@ -1,4 +1,5 @@
 # Changelog since v3.5.0
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.20.0 (#296) 
 - ⬆️ Upgrades ESPHome.esphome-vscode to 0.20.0 (#295) 
 - ⬆️ Upgrades code-server to 3.11.0 (#294) 
 - ⬆️ Upgrades add-on base image to v4.2.2 (#293) 
