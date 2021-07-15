@@ -1,4 +1,6 @@
 # Changelog since v3.5.0
+- ⬆️ Upgrades ESPHome.esphome-vscode to 0.20.0 (#295) 
+- ⬆️ Upgrades code-server to 3.11.0 (#294) 
 - ⬆️ Upgrades add-on base image to v4.2.2 (#293) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#292)
 
