@@ -1,4 +1,5 @@
 # Changelog since v3.5.0
+- ⬆️ Upgrades add-on base image to v4.2.2 (#293) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#292)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
