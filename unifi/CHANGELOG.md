@@ -1,4 +1,8 @@
 # Changelog since v0.23.1
+- ⬆ Upgrade UniFi Controller to 6.2.26 (#232)
+
+Fixes https://github.com/hassio-addons/addon-unifi/issues/231 
+- ⬆️ Upgrades add-on base image to v6.2.1 (#233) 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#230)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
