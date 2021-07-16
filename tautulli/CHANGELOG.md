@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- ⬆️ Upgrades Tautulli to v2.7.5 (#160) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#158)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
