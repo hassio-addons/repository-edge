@@ -1,4 +1,7 @@
 # Changelog since v0.12.3
+- ⬆️ Bump zeroconf from 0.32.1 to 0.33.0 (#177)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#175)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
