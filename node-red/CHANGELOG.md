@@ -1,4 +1,7 @@
 # Changelog since v9.2.0
+- Bump node-red-node-email from 1.12.2 to 1.12.3 (#1069)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump actions/stale from 3.0.19 to 4 (#1067)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
