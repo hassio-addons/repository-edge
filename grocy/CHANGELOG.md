@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- Hot patch more Grocy Javascript braindamage (#207) 
 - Adjust runtime for PHP8 (#206) 
 - ⬆️ Upgrades Grocy to 3.1.0 (#205) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#203)
