@@ -1,4 +1,7 @@
 # Changelog since v0.12.3
+- ⬆️ Bump glances from 3.2.1 to 3.2.2 in /glances (#179)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump zeroconf from 0.33.0 to 0.33.1 (#178)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.33.0 to 0.33.1.
