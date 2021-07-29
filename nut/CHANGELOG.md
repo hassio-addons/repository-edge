@@ -1,4 +1,5 @@
 # Changelog since v0.7.1
+- 🔨 Update shutdown command (#160) 
 - Bump actions/stale from 3.0.19 to 4 (#158)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
