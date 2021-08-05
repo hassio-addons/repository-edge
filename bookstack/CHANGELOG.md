@@ -1,4 +1,6 @@
 # Changelog since v0.12.0
+- 🔨 Add TLSv1.3 (#121) 
+- ⬆ Update php to 7.4.22-r0 (#122) 
 - Bump actions/stale from 3.0.19 to 4 (#120)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
