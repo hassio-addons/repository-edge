@@ -1,4 +1,6 @@
 # Changelog since v9.0.0
+- ⬆️ Upgrades rsync to 3.2.3-r4 (#297) 
+- ⬆️ Upgrades mariadb-client to 10.5.12-r0 (#296) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#291)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
