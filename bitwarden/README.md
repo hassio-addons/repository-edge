@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Bitwarden (Vaultwarden)
+# Home Assistant Community Add-on: Vaultwarden (Bitwarden)
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -58,7 +58,7 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-9a49fa9-blue.svg
-[release]: https://github.com/hassio-addons/addon-bitwarden/tree/9a49fa9
+[release-shield]: https://img.shields.io/badge/version-a899a3c-blue.svg
+[release]: https://github.com/hassio-addons/addon-bitwarden/tree/a899a3c
 [screenshot]: https://github.com/hassio-addons/addon-bitwarden/raw/main/images/screenshot.png
 [vaultwarden]: https://github.com/dani-garcia/vaultwarden
