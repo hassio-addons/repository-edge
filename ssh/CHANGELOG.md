@@ -1,4 +1,21 @@
 # Changelog since v9.0.0
+- ⬆️ Bump yamllint from 1.26.1 to 1.26.2 in /ssh (#295)
+
+Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.26.1 to 1.26.2.
+- [Release notes](https://github.com/adrienverge/yamllint/releases)
+- [Changelog](https://github.com/adrienverge/yamllint/blob/master/CHANGELOG.rst)
+- [Commits](https://github.com/adrienverge/yamllint/compare/v1.26.1...v1.26.2)
+
+---
+updated-dependencies:
+- dependency-name: yamllint
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#298) 
 - ⬆️ Upgrades rsync to 3.2.3-r4 (#297) 
 - ⬆️ Upgrades mariadb-client to 10.5.12-r0 (#296) 
