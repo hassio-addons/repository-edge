@@ -1,4 +1,6 @@
 # Changelog since v0.12.0
+- ⬆️ Upgrades Vaultwarden to 1.22.2 (#155) 
+- ⬆️ Upgrades add-on base image to v4.2.3 (#154) 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#152)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.

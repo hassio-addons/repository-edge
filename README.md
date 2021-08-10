@@ -732,10 +732,10 @@ SOFTWARE.
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [appdaemon-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [appdaemon-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/4e2941b
-[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/4e2941b/README.md
+[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/9a49fa9
+[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/9a49fa9/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
-[bitwarden-version-shield]: https://img.shields.io/badge/version-4e2941b-blue.svg
+[bitwarden-version-shield]: https://img.shields.io/badge/version-9a49fa9-blue.svg
 [bitwarden-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bitwarden-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
