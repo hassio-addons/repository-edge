@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- 🚀 Add-on CI improvements (#279) 
 - ⬇️ Downgrade pycurl to 7.43.0.5 (#282) 
 - ⬆️ Upgrades rsync to 3.2.3-r4 (#281) 
 - ⬆️ Upgrades curl-dev to 7.78.0-r0 (#280)
