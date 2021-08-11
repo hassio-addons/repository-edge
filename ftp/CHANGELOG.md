@@ -1,4 +1,6 @@
 # Changelog since v4.2.0
+- 🚑 Fix contributing link in readme (#82) 
+- 🚀 Add-on CI improvements (#81) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#79)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
