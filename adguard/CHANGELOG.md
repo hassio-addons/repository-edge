@@ -1,4 +1,9 @@
 # Changelog since v4.1.6
+- 🚑 Fix yq for the v4 syntax (#234)
+
+* 🚑 Fix yq for the v4 syntax
+
+* Shellcheck warning 
 - 🏎 Enable streaming mode for Ingress (#233) 
 - 🔑 Update NGINX SSL parameters (#232) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#231) 
