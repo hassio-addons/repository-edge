@@ -1,4 +1,5 @@
 # Changelog since v0.12.2
+- ⬆️ Upgrades nodejs to 14.17.4-r0 (#72) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#69)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
