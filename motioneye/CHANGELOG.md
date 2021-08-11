@@ -1,4 +1,6 @@
 # Changelog since v0.15.0
+- 🔥 Less logging for motionEye add-on log output (#287) 
+- 🏎 Enable streaming mode for Ingress (#286) 
 - 🔑 Update NGINX SSL parameters (#285) 
 - 🚑 Fix contributing link in readme (#284) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#283) 
