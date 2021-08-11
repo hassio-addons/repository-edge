@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades mariadb-client to 10.5.12-r0 (#126) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#124)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
