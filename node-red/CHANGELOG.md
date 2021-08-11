@@ -1,4 +1,12 @@
 # Changelog since v9.2.1
+- 🔥 Clean up HIBP logic, as it is now handled by the Supervisor (#1090) 
+- 🔥 Clean up really old migration logic (#1089) 
+- 🔑 Use bearer authorization headers for HA auth (#1088) 
+- 🔥 Remove dark mode support, has been replaced by themes (#1087)
+
+* 🔥 Remove dark mode support, has been replaced by themes
+
+* Remove it from config processing 
 - 🚀 Add-on CI improvements (#1086) 
 - Bump node-red from 1.3.5 to 2.0.5 (#1079)
 
