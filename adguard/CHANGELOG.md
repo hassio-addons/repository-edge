@@ -1,4 +1,5 @@
 # Changelog since v4.1.6
+- 🏎 Enable streaming mode for Ingress (#233) 
 - 🔑 Update NGINX SSL parameters (#232) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#231) 
 - 🚀 Add-on CI improvements (#230) 
