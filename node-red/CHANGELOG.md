@@ -1,4 +1,22 @@
 # Changelog since v9.2.1
+- 🚀 Add-on CI improvements (#1086) 
+- Bump node-red from 1.3.5 to 2.0.5 (#1079)
+
+Bumps [node-red](https://github.com/node-red/node-red) from 1.3.5 to 2.0.5.
+- [Release notes](https://github.com/node-red/node-red/releases)
+- [Changelog](https://github.com/node-red/node-red/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red/compare/1.3.5...2.0.5)
+
+---
+updated-dependencies:
+- dependency-name: node-red
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-modbus from 5.14.0 to 5.14.1 in /node-red (#1082)
 
 Bumps [node-red-contrib-modbus](https://github.com/biancoroyal/node-red-contrib-modbus) from 5.14.0 to 5.14.1.
