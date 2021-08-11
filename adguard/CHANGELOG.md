@@ -1,4 +1,5 @@
 # Changelog since v4.1.6
+- 🚀 Fix CI by removing GPG check with SKS keyservers (#229) 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#224)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
