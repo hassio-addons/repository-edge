@@ -1,4 +1,28 @@
 # Changelog since v0.15.0
+- ⬇️ Downgrade pycurl to 7.43.0.5 (#282) 
+- ⬆️ Upgrades rsync to 3.2.3-r4 (#281) 
+- ⬆️ Upgrades curl-dev to 7.78.0-r0 (#280)
+
+* ⬆️ Upgrades curl-dev to 7.78.0-r0
+
+* Yeah... all curl deps... 
+- ⬆️ Bump pycurl from 7.43.0.5 to 7.44.0 in /motioneye (#278)
+
+Bumps [pycurl](https://github.com/pycurl/pycurl) from 7.43.0.5 to 7.44.0.
+- [Release notes](https://github.com/pycurl/pycurl/releases)
+- [Changelog](https://github.com/pycurl/pycurl/blob/master/ChangeLog)
+- [Commits](https://github.com/pycurl/pycurl/commits)
+
+---
+updated-dependencies:
+- dependency-name: pycurl
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#274)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
