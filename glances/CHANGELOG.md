@@ -1,4 +1,8 @@
 # Changelog since v0.12.3
+- 🔑 Update NGINX SSL parameters (#186) 
+- 🚑 Fix contributing link in readme (#184) 
+- 🔥 Less logging by removing access log from log ouput (#185) 
+- 🚀 Add-on CI improvements (#183) 
 - ⬆️ Bump zeroconf from 0.33.2 to 0.34.3 in /glances (#182)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
