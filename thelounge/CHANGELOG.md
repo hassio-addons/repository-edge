@@ -1,4 +1,6 @@
 # Changelog since v0.12.2
+- ⬆️ Upgrades add-on base image to v10.0.1 (#73) 
+- 🚀 Add-on CI improvements (#71) 
 - ⬆️ Upgrades nodejs to 14.17.4-r0 (#72) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#69)
 
