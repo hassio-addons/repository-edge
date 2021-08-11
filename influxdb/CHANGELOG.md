@@ -1,4 +1,6 @@
 # Changelog since v4.2.0
+- 🔑 Update NGINX SSL parameters (#197) 
+- 🔥 Less logging by removing access log from log ouput (#198) 
 - 🚑 Fix contributing link in readme (#196) 
 - 🏎 Enable streaming mode for Ingress (#195) 
 - ⬆️ Upgrades add-on base image to v4.2.3 (#194) 
