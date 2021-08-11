@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- 🚀 Add-on CI improvements (#80) 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#79)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
