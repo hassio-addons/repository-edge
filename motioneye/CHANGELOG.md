@@ -1,4 +1,7 @@
 # Changelog since v0.15.0
+- 🔑 Update NGINX SSL parameters (#285) 
+- 🚑 Fix contributing link in readme (#284) 
+- ⬆️ Upgrades add-on base image to v10.0.1 (#283) 
 - 🚀 Add-on CI improvements (#279) 
 - ⬇️ Downgrade pycurl to 7.43.0.5 (#282) 
 - ⬆️ Upgrades rsync to 3.2.3-r4 (#281) 
