@@ -168,14 +168,6 @@ Customize your Node-RED environment even more with the `init_commands` option.
 Add one or more shell commands to the list, and they will be executed every
 single time this add-on starts.
 
-### Option: `i_like_to_be_pwned`
-
-Adding this option to the add-on configuration allows to you bypass the
-HaveIBeenPwned password requirement by setting it to `true`.
-
-**Note**: _We STRONGLY suggest picking a stronger/safer password instead of
-using this option! USE AT YOUR OWN RISK!_
-
 ### Option: `leave_front_door_open`
 
 Adding this option to the add-on configuration allows you to disable
@@ -294,7 +286,6 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023?u=frenck
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/hassio-addons/addon-node-red/issues
-[keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [node-red-nodes]: https://flows.nodered.org/?type=node&num_pages=1
 [npm-packages]: https://www.npmjs.com
 [reddit]: https://reddit.com/r/homeassistant

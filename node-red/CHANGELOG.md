@@ -1,4 +1,9 @@
 # Changelog since v9.2.1
+- Revert "🔑 Use bearer authorization headers for HA auth" (#1094)
+
+This reverts commit fa6d1c4cbf09262ba8e5bfad3d074f336b97373d. 
+- ✏ Small documentation cleanups and tweaks (#1093) 
+- ✏️ Update documentation to match latest changes (#1092) 
 - 🏎 Enable streaming mode for Ingress (#1091) 
 - 🔥 Clean up HIBP logic, as it is now handled by the Supervisor (#1090) 
 - 🔥 Clean up really old migration logic (#1089) 
