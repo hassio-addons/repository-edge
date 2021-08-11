@@ -1,4 +1,6 @@
 # Changelog since v0.12.2
+- 🚑 Fix missing theme in default configuration (#77) 
+- 🏎 Enable streaming mode for Ingress (#76) 
 - 🚑 Fix contributing link in readme (#75) 
 - 🔑 Update NGINX SSL parameters (#74) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#73) 
