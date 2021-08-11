@@ -1,4 +1,5 @@
 # Changelog since v9.2.1
+- 🏎 Enable streaming mode for Ingress (#1091) 
 - 🔥 Clean up HIBP logic, as it is now handled by the Supervisor (#1090) 
 - 🔥 Clean up really old migration logic (#1089) 
 - 🔑 Use bearer authorization headers for HA auth (#1088) 
