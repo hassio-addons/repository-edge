@@ -1,4 +1,8 @@
 # Changelog since v4.2.0
+- 🚑 Fix contributing link in readme (#196) 
+- 🏎 Enable streaming mode for Ingress (#195) 
+- ⬆️ Upgrades add-on base image to v4.2.3 (#194) 
+- 🚀 Add-on CI improvements (#193) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#191)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
