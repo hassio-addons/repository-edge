@@ -1,4 +1,5 @@
 # Changelog since v9.2.1
+- 🔥 Clean up unused require_ssl setting (#1095) 
 - Revert "🔑 Use bearer authorization headers for HA auth" (#1094)
 
 This reverts commit fa6d1c4cbf09262ba8e5bfad3d074f336b97373d. 

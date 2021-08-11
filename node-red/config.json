@@ -1,6 +1,6 @@
 {
   "name": "Node-RED",
-  "version": "0ce42c8",
+  "version": "2bbc8e2",
   "slug": "nodered",
   "description": "Flow-based programming for the Internet of Things",
   "url": "https://github.com/hassio-addons/addon-node-red",
@@ -57,7 +57,6 @@
     "ssl": true,
     "certfile": "fullchain.pem",
     "keyfile": "privkey.pem",
-    "require_ssl": true,
     "system_packages": [],
     "npm_packages": [],
     "init_commands": []
@@ -77,7 +76,6 @@
     "ssl": "bool",
     "certfile": "str",
     "keyfile": "str",
-    "require_ssl": "bool",
     "system_packages": [
       "str"
     ],
