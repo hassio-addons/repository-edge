@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- 🏎 Enable streaming mode for Ingress (#187) 
 - 🔑 Update NGINX SSL parameters (#186) 
 - 🚑 Fix contributing link in readme (#184) 
 - 🔥 Less logging by removing access log from log ouput (#185) 
