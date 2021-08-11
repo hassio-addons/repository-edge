@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- 🚀 Add-on CI improvements (#125) 
 - ⬆️ Upgrades mariadb-client to 10.5.12-r0 (#126) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#124)
 
