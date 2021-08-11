@@ -1,4 +1,6 @@
 # Changelog since v0.4.3
+- ⬆️ Upgrades php7 to 7.4.22-r0 (#85) 
+- ⬆️ Upgrades mariadb-client to 10.5.12-r0 (#84) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#83)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
