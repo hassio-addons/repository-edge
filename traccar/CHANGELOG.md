@@ -1,4 +1,9 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades add-on base image to v10.0.1 (#131) 
+- 🔑 Update NGINX SSL parameters (#130) 
+- 🔥 Less logging by removing access log from log ouput (#129) 
+- 🏎 Enable streaming mode for Ingress (#128) 
+- 🚑 Fix contributing link in readme (#127) 
 - 🚀 Add-on CI improvements (#125) 
 - ⬆️ Upgrades mariadb-client to 10.5.12-r0 (#126) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#124)
