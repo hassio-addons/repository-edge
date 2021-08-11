@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- 🚑 Fix contributing link in readme (#97) 
 - 🚀 Add-on CI improvements (#96) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#95) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#93)
