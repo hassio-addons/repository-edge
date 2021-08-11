@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- ⬆️ Upgrades InfluxDB to 1.8.9 (#199) 
 - 🔑 Update NGINX SSL parameters (#197) 
 - 🔥 Less logging by removing access log from log ouput (#198) 
 - 🚑 Fix contributing link in readme (#196) 

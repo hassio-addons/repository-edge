@@ -1,6 +1,6 @@
 {
   "name": "InfluxDB",
-  "version": "75c65c8",
+  "version": "bd86641",
   "slug": "influxdb",
   "description": "Scalable datastore for metrics, events, and real-time analytics",
   "url": "https://github.com/hassio-addons/addon-influxdb",
