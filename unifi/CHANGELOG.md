@@ -1,4 +1,5 @@
 # Changelog since v0.23.2
+- 🥶 Use cold backups (#243) 
 - 🔥 Drop support for 32-bits systems (armv7, i386) (#242)
 
 * 🔥 Drop support for 32-bits systems (armv7, i386)
