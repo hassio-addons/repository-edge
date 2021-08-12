@@ -1,10 +1,11 @@
 {
   "name": "phpMyAdmin",
-  "version": "54c1586",
+  "version": "515f5b3",
   "slug": "phpmyadmin",
   "description": "A web interface for the official MariaDB add-on",
   "url": "https://github.com/hassio-addons/addon-phpmyadmin",
   "ingress": true,
+  "ingress_stream": true,
   "panel_icon": "mdi:database",
   "arch": [
     "aarch64",
