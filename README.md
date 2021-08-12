@@ -982,8 +982,8 @@ SOFTWARE.
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[unifi-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[unifi-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[unifi-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[unifi-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/tree/6541b8e
 [addon-doc-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/blob/6541b8e/README.md
 [vscode-remote-issue]: https://github.com/hassio-addons/addon-vscode-remote/issues
