@@ -1,4 +1,5 @@
 # Changelog since v0.4.3
+- ⬆️ Upgrade php7 -> php8 (#90) 
 - 🏎 Enable streaming mode for Ingress (#89) 
 - 🔥 Less logging by removing access log from log ouput (#88) 
 - 🚑 Fix contributing link in readme (#87) 
