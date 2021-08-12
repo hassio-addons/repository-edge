@@ -1,6 +1,6 @@
 {
   "name": "UniFi Controller",
-  "version": "2b89413",
+  "version": "3fa1677",
   "slug": "unifi",
   "description": "Manage your UniFi network using a web browser",
   "url": "https://github.com/hassio-addons/addon-unifi",
@@ -13,8 +13,7 @@
   "init": false,
   "snapshot": "cold",
   "map": [
-    "backup:rw",
-    "ssl"
+    "backup:rw"
   ],
   "ports": {
     "161/udp": null,
@@ -41,16 +40,8 @@
     "10001/udp": "Used for device discovery"
   },
   "hassio_api": true,
-  "options": {
-    "ssl": true,
-    "certfile": "fullchain.pem",
-    "keyfile": "privkey.pem"
-  },
   "schema": {
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
-    "ssl": "bool",
-    "certfile": "str",
-    "keyfile": "str",
     "memory_max": "int?",
     "memory_init": "int?"
   },
