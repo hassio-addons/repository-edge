@@ -1,2 +1,6 @@
-# Changelog since v4.1.7
-- 🚑 Fix invalid IP address format in bind_hosts (#236) 
+# Changelog since v4.1.8
+- 🚑 Fix invalid yq structure in NGINX https logic (#237)
+
+* 🚑 Fix invalid yq structure in NGINX https logic
+
+* Corrected default 
