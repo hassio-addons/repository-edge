@@ -1,4 +1,5 @@
 # Changelog since v2.6.2
+- 🚀 Add-on CI improvements (#115) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#112)
 
 Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
