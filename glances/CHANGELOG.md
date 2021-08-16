@@ -1,4 +1,23 @@
 # Changelog since v0.12.3
+- ⬆️ Bump glances from 3.2.2 to 3.2.3 in /glances (#188)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump zeroconf from 0.34.3 to 0.35.1 in /glances (#189)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.34.3 to 0.35.1.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.34.3...0.35.1)
+
+---
+updated-dependencies:
+- dependency-name: zeroconf
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - 🏎 Enable streaming mode for Ingress (#187) 
 - 🔑 Update NGINX SSL parameters (#186) 
 - 🚑 Fix contributing link in readme (#184) 
