@@ -1,1 +1,1 @@
-- 🚀 Add-on CI improvements (#159)
+- 🏎 Enable streaming mode for Ingress (#161)
