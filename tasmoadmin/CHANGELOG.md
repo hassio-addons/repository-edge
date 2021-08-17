@@ -1,4 +1,5 @@
 # Changelog since v0.15.1
+- 🚀 Add-on CI improvements (#190) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#186) 
 - ⬆️ Upgrades php7 to 7.4.22-r0 (#185) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#182)
