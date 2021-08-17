@@ -1,4 +1,7 @@
 # Changelog since v0.15.1
+- Fix SSL (#189)
+
+Fix SSL_ERROR_NO_CYPHER_OVERLAP from lets encrypt ssl 
 - 🚀 Add-on CI improvements (#190) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#186) 
 - ⬆️ Upgrades php7 to 7.4.22-r0 (#185) 
