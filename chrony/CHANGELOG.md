@@ -1,4 +1,7 @@
 # Changelog since v2.2.0
+- 🚑 Fix contributing link in readme (#85) 
+- ⬆️Upgrades add-on base image to v10.0.1 (#86) 
+- 🚀 Add-on CI improvements (#84) 
 - Bump frenck/action-addon-linter from 2.1 to 2.2 (#82)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
