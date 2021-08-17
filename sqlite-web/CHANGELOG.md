@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- 🚑 Fix contributing link in readme (#169) 
 - 🚀 Add-on CI improvements (#168) 
 - 🚑 Fix Python version in patches (#167) 
 - ⬆️ Upgrades add-on base image to v10.0.1 (#166) 
