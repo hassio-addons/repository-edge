@@ -1,4 +1,5 @@
 # Changelog since v0.15.1
+- 🚑 Fix contributing link in readme (#191) 
 - Fix SSL (#189)
 
 Fix SSL_ERROR_NO_CYPHER_OVERLAP from lets encrypt ssl 
