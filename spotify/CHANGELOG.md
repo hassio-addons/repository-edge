@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- ⬆️ Upgrades cargo to 1.52.1-r1 (#131) 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#127)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
