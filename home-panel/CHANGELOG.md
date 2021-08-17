@@ -1,4 +1,6 @@
 # Changelog since v2.2.2
+- 🚀 Add-on CI improvements (#131) 
+- ⬆️ Upgrades nodejs-current to 16.6.0-r0 (#132) 
 - Bump actions/stale from 3.0.19 to 4 (#130)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
