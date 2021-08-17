@@ -1,4 +1,5 @@
 # Changelog since v3.0.5
+- 🚑 Fix contributing link in readme (#91) 
 - 🚀 Add-on CI improvements (#90) 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#88)
 
