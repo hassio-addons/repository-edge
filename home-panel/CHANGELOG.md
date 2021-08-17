@@ -1,4 +1,5 @@
 # Changelog since v2.2.2
+- ⬆️ Upgrades add-on base image to v10.0.1 (#136) 
 - 🏎 Enable streaming mode for Ingress (#135) 
 - 🔑 Update NGINX SSL parameters (#134) 
 - 🚑 Fix contributing link in readme (#133) 
