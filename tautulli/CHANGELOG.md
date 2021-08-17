@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- 🚀 Add-on CI improvements (#162) 
 - ⬆️ Bump plexapi from 4.6.1 to 4.7.0 (#161)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
