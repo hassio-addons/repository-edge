@@ -1,11 +1,12 @@
 {
   "name": "Log Viewer",
-  "version": "342d729",
+  "version": "51a9230",
   "slug": "logviewer",
   "description": "Browser-based log utility for Home Assistant",
   "url": "https://github.com/hassio-addons/addon-log-viewer",
   "init": false,
   "ingress": true,
+  "ingress_stream": true,
   "panel_icon": "mdi:text-box-outline",
   "homeassistant": "0.92.0b2",
   "arch": [
