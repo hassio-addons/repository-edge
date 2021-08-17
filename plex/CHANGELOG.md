@@ -1,4 +1,5 @@
 # Changelog since v2.6.2
+- ⬆️ Upgrades Plex Media Server to 1.24.0.4930 (#116) 
 - 🚀 Add-on CI improvements (#115) 
 - ⬆️ Bump actions/stale from 3.0.19 to 4 (#112)
 
