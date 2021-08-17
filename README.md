@@ -849,10 +849,10 @@ SOFTWARE.
 [mopidy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mopidy-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mopidy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/df2e83d
-[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/df2e83d/README.md
+[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/a2b94dc
+[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/a2b94dc/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
-[nut-version-shield]: https://img.shields.io/badge/version-df2e83d-blue.svg
+[nut-version-shield]: https://img.shields.io/badge/version-a2b94dc-blue.svg
 [nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
