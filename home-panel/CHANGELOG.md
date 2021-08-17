@@ -1,4 +1,7 @@
 # Changelog since v2.2.2
+- 🏎 Enable streaming mode for Ingress (#135) 
+- 🔑 Update NGINX SSL parameters (#134) 
+- 🚑 Fix contributing link in readme (#133) 
 - 🚀 Add-on CI improvements (#131) 
 - ⬆️ Upgrades nodejs-current to 16.6.0-r0 (#132) 
 - Bump actions/stale from 3.0.19 to 4 (#130)
