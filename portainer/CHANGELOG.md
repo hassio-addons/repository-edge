@@ -1,4 +1,5 @@
 # Changelog since v1.5.2
+- ⬆️ Upgrades Portainer to v2.6.2 (#126) 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#125)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
