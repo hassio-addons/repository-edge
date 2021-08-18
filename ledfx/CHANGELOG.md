@@ -1,1 +1,1 @@
-- 🚜 Move some files around (#78)
+- 🔑 Update NGINX SSL parameters (#79)
