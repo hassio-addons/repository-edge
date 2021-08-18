@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- 🚑 Fix contributing link in readme (#133) 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#132)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
