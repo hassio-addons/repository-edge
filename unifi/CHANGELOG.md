@@ -1,16 +1,18 @@
-# Changelog since v0.23.2
-- ⬇️  Downgrade MongoDB to 3.4 to provide an upgrade path (#247)
+# Changelog since v1.0.0
+- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#254)
 
-* ⬇ Downgrade MongoDB to 3.4 to provide an upgrade path
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.1...v2.1.2)
 
-* Pin gnupg2 
-- ✏️ Mark add-on stable (#246) 
-- 🏎 Reduce default memory footprint (#245) 
-- 🔥 Drop support for custom SSL certificates (#244) 
-- 🥶 Use cold backups (#243) 
-- 🔥 Drop support for 32-bits systems (armv7, i386) (#242)
+---
+updated-dependencies:
+- dependency-name: dessant/lock-threads
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
 
-* 🔥 Drop support for 32-bits systems (armv7, i386)
+Signed-off-by: dependabot[bot] <support@github.com>
 
-* Clean up build file 
-- 🚀 Add-on CI improvements (#241) 
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
