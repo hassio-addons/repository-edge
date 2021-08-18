@@ -1,40 +1,16 @@
-# Changelog since v0.4.3
-- ⬆️ Upgrades add-on base image to v10.0.1 (#91) 
-- ⬆️ Upgrade php7 -> php8 (#90) 
-- 🏎 Enable streaming mode for Ingress (#89) 
-- 🔥 Less logging by removing access log from log ouput (#88) 
-- 🚑 Fix contributing link in readme (#87) 
-- 🚀 Add-on CI improvements (#86) 
-- ⬆️ Upgrades php7 to 7.4.22-r0 (#85) 
-- ⬆️ Upgrades mariadb-client to 10.5.12-r0 (#84) 
-- ⬆️ Bump actions/stale from 3.0.19 to 4 (#83)
+# Changelog since v0.5.0
+- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#92)
 
-Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
-- [Release notes](https://github.com/actions/stale/releases)
-- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/stale/compare/v3.0.19...v4)
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.1...v2.1.2)
 
 ---
 updated-dependencies:
-- dependency-name: actions/stale
+- dependency-name: dessant/lock-threads
   dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#82)
-
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.1 to 2.2.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.1...v2.2)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-addon-linter
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
