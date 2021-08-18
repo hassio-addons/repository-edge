@@ -1,1 +1,1 @@
-- ⬆️ Upgrades Prometheus to 2.29.1 (#13)
+- 🚑 Fix directory creation (#15)
