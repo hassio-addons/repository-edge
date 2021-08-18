@@ -1,7 +1,18 @@
-# Changelog since v7.0.4
-- 🚑 Fix contributing link in readme (#195) 
-- 🏎 Enable streaming mode for Ingress (#194) 
-- 🚀 Add-on CI improvements (#192) 
-- 🔑 Update NGINX ssl parameters (#193) 
-- ⬆️ Upgrades Grafana to v8.1.1 (#191) 
-- ⬆️ Upgrades add-on base image to v4.2.3 (#190) 
+# Changelog since v7.1.0
+- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#196)
+
+Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
+- [Release notes](https://github.com/dessant/lock-threads/releases)
+- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.1...v2.1.2)
+
+---
+updated-dependencies:
+- dependency-name: dessant/lock-threads
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
