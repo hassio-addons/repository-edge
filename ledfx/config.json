@@ -1,6 +1,6 @@
 {
   "name": "ledfx",
-  "version": "2851bcb",
+  "version": "bb1291e",
   "slug": "ledfx",
   "description": "A network based LED effect controller with support for advanced real-time audio effects!",
   "url": "https://github.com/hassio-addons/addon-ledfx",
