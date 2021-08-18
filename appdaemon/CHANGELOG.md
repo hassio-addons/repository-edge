@@ -1,4 +1,5 @@
 # Changelog since v0.6.2
+- 🚀 Add-on CI improvements (#142) 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#141)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
