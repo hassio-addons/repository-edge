@@ -25,13 +25,13 @@ Example:
 
 ```yaml
 ---
-job_name: 'octoprint'
+job_name: "octoprint"
 scrape_interval: 5s
-metrics_path: '/plugin/prometheus_exporter/metrics'
+metrics_path: "/plugin/prometheus_exporter/metrics"
 params:
-  apikey: ['VERYSECRETAPIKEY']
+  apikey: ["VERYSECRETAPIKEY"]
 static_configs:
-  - targets: ['octoprint.example.org:5000']
+  - targets: ["octoprint.example.org:5000"]
 ```
 
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
@@ -64,16 +64,15 @@ For stable this is `http://a0d7b954-prometheus:9090`
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
-functionality. The format of the log is based on
-[Keep a Changelog][keepchangelog].
+functionality.
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 ## Support
 
@@ -127,7 +126,6 @@ SOFTWARE.
 [forum]: https://example.net
 [mjrider]: https://github.com/mjrider
 [issue]: https://github.com/hassio-addons/addon-prometheus/issues
-[keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-prometheus/releases
 [semver]: http://semver.org/spec/v2.0.0.htm

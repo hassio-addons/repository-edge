@@ -1,1 +1,1 @@
-- arrow_up: Updated prometheus to 2.22.2
+- ⬆️ Upgrades Prometheus to 2.29.1 (#13)
