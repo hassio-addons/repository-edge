@@ -1,1 +1,1 @@
-- 🚑 Wait for tailscale unix socket to become available (#5)
+- 🚑 Let actually run the post connect script (#6)
