@@ -1,1 +1,1 @@
-- 🚑 Use netfilter for IPv6 (#4)
+- 🚑 Wait for tailscale unix socket to become available (#5)
