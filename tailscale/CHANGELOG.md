@@ -1,1 +1,1 @@
-- 📚Add Tailscale account instructions to documentation (#3)
+- 🚑 Use netfilter for IPv6 (#4)
