@@ -133,6 +133,10 @@ addons:
     repository: hassio-addons/addon-sqlite-web
     target: sqlite-web
     image: ghcr.io/hassio-addons/sqlite-web/{arch}
+  tailscale:
+    repository: hassio-addons/addon-tailscale
+    target: tailscale
+    image: ghcr.io/hassio-addons/tailscale/{arch}
   thelounge:
     repository: hassio-addons/addon-thelounge
     target: thelounge
