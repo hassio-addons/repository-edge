@@ -1,1 +1,1 @@
-- ✨ Initial Tailscale add-on code (#1)
+- 📚Add Tailscale account instructions to documentation (#3)
