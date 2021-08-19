@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- 🚜 Collection of tweaks (#16) 
 - ⬆️ Upgrades FAH Client to 7.6.21 (#15) 
 - 📚 Update README & License (#14) 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#13)
