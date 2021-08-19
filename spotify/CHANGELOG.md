@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- ⬆️ Upgrades add-on base image to v10.0.1 (#134) 
 - 🚑 Fix contributing link in readme (#133) 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#132)
 
