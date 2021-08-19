@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- 📚 Fix screenshot in add-on readme template (#17) 
 - 🚜 Collection of tweaks (#16) 
 - ⬆️ Upgrades FAH Client to 7.6.21 (#15) 
 - 📚 Update README & License (#14) 
