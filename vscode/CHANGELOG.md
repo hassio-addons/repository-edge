@@ -1,4 +1,7 @@
 # Changelog since v3.6.2
+- Minimal wget, amd64 is out of line 
+- Temporary disable DL3008, as wget version is not consistent right now 
+- ⬆ Upgrades add-on base image to v5.0.0 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#308)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
