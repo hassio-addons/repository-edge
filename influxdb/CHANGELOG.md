@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Upgrades add-on base image to v5.0.0 (#203) 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#202)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
