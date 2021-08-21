@@ -1,22 +1,2 @@
-# Changelog since v1.5.2
-- ⬆️ Upgrades Portainer to v2.6.2 (#126) 
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#125)
-
-Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
-- [Release notes](https://github.com/dessant/lock-threads/releases)
-- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.1...v2.1.2)
-
----
-updated-dependencies:
-- dependency-name: dessant/lock-threads
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- 🏎 Enable streaming mode for Ingress (#124) 
-- 🚑 Fix contributing link in readme (#123) 
-- 🚀 Add-on CI improvements (#122) 
+# Changelog since v2.0.0
+- 📚 Add explicit warnings about intended add-on use (#128) 
