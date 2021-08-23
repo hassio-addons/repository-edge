@@ -1,18 +1,15 @@
-# Changelog since v0.12.2
-- 🚑 Start add-on as service to prevent timezone issues (#161) 
-- ⬆️ Upgrades add-on base image to v5.0.0 (#160) 
-- ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#159)
+# Changelog since v0.13.0
+- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 (#162)
 
-Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
-- [Release notes](https://github.com/dessant/lock-threads/releases)
-- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.1...v2.1.2)
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.6.1 to 2.7.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.6.1...v2.7.0)
 
 ---
 updated-dependencies:
-- dependency-name: dessant/lock-threads
+- dependency-name: docker/build-push-action
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
