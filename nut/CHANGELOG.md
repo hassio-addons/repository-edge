@@ -1,4 +1,7 @@
 # Changelog since v0.8.0
+- Bump docker/build-push-action from 2.6.1 to 2.7.0 (#170)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to v5.0.0 (#169) 
 - Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#168)
 
