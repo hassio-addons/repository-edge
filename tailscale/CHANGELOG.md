@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- ⬆️ Upgrades Tailscale to 1.14.0 (#16) 
 - Bump docker/build-push-action from 2.6.1 to 2.7.0 (#15)
 
 Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.6.1 to 2.7.0.
