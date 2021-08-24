@@ -1,4 +1,6 @@
 # Changelog since v0.1.0
+- 👕 Skip local link addresses in routes advertisement (#18) 
+- 🚑 Use netfilter for iptables (#17) 
 - ⬆️ Upgrades Tailscale to 1.14.0 (#16) 
 - Bump docker/build-push-action from 2.6.1 to 2.7.0 (#15)
 
