@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- 👕 Skip address family from route advertisement if it has forwarding disabled (#19) 
 - 👕 Skip local link addresses in routes advertisement (#18) 
 - 🚑 Use netfilter for iptables (#17) 
 - ⬆️ Upgrades Tailscale to 1.14.0 (#16) 
