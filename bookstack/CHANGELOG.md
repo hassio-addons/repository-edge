@@ -1,4 +1,7 @@
 # Changelog since v0.12.1
+- Bump frenck/action-addon-linter from 2.2 to 2.3 (#131)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump docker/build-push-action from 2.6.1 to 2.7.0 (#130)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
