@@ -1,12 +1,12 @@
-- ⬆️ Bump docker/build-push-action from 2.6.1 to 2.7.0 (#163)
+- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 (#165)
 
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.6.1 to 2.7.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v2.6.1...v2.7.0)
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.2 to 2.3.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.2...v2.3)
 
 ---
 updated-dependencies:
-- dependency-name: docker/build-push-action
+- dependency-name: frenck/action-addon-linter
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
