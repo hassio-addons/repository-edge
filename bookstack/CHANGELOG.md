@@ -1,4 +1,11 @@
 # Changelog since v0.12.1
+- ✨ Add options for setting and displaying Appkey (#136)
+
+* ✨ Add show_appkey option
+
+* ✨ Add ability to set appkey on startup
+
+* 📚 Update Documentation for new options 
 - Bump creyD/prettier_action from 3.3 to 4.0 (#134)
 
 Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 3.3 to 4.0.
