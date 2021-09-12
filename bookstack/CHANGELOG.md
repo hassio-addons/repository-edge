@@ -1,4 +1,5 @@
 # Changelog since v0.12.1
+- ⬆ Update Bookstack to v21.08.3. (#137) 
 - ✨ Add options for setting and displaying Appkey (#136)
 
 * ✨ Add show_appkey option
