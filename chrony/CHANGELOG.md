@@ -1,4 +1,5 @@
 # Changelog since v2.2.0
+- ⬆️ Update add-on base image to v10.0.2 (#92) 
 - Bump frenck/action-addon-linter from 2.2 to 2.3 (#89)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
