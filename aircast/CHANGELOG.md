@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- ⬆ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#103) 
 - ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 (#102)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.2 to 2.3.
