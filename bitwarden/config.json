@@ -1,6 +1,6 @@
 {
   "name": "Vaultwarden (Bitwarden)",
-  "version": "101de19",
+  "version": "ca46f4d",
   "slug": "bitwarden",
   "description": "Open source password management solution",
   "url": "https://github.com/hassio-addons/addon-bitwarden",
