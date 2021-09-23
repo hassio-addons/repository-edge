@@ -1,4 +1,20 @@
 # Changelog since v10.0.0
+- Bump @node-red-contrib-themes/theme-collection from 2.0.3 to 2.0.5 in /node-red (#1107)
+
+Bumps [@node-red-contrib-themes/theme-collection](https://github.com/node-red-contrib-themes/theme-collection) from 2.0.3 to 2.0.5.
+- [Release notes](https://github.com/node-red-contrib-themes/theme-collection/releases)
+- [Commits](https://github.com/node-red-contrib-themes/theme-collection/commits)
+
+---
+updated-dependencies:
+- dependency-name: "@node-red-contrib-themes/theme-collection"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red from 2.0.5 to 2.0.6 in /node-red (#1108)
 
 Bumps [node-red](https://github.com/node-red/node-red) from 2.0.5 to 2.0.6.
