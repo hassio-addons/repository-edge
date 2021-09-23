@@ -1,4 +1,20 @@
 # Changelog since v10.0.0
+- Bump node-red-node-geofence from 0.2.2 to 0.3.0 in /node-red (#1105)
+
+Bumps [node-red-node-geofence](https://github.com/hardillb/node-red-node-geofence) from 0.2.2 to 0.3.0.
+- [Release notes](https://github.com/hardillb/node-red-node-geofence/releases)
+- [Commits](https://github.com/hardillb/node-red-node-geofence/commits)
+
+---
+updated-dependencies:
+- dependency-name: node-red-node-geofence
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump @node-red-contrib-themes/theme-collection from 2.0.3 to 2.0.5 in /node-red (#1107)
 
 Bumps [@node-red-contrib-themes/theme-collection](https://github.com/node-red-contrib-themes/theme-collection) from 2.0.3 to 2.0.5.
