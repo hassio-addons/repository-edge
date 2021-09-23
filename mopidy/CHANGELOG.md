@@ -1,12 +1,13 @@
-- ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 (#165)
+- ⬆️ Bump mopidy-youtube from 3.3 to 3.4 in /mopidy (#170)
 
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.2 to 2.3.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.2...v2.3)
+Bumps [mopidy-youtube](https://github.com/natumbri/mopidy-youtube) from 3.3 to 3.4.
+- [Release notes](https://github.com/natumbri/mopidy-youtube/releases)
+- [Changelog](https://github.com/natumbri/mopidy-youtube/blob/develop/CHANGELOG.rst)
+- [Commits](https://github.com/natumbri/mopidy-youtube/compare/v3.3...v3.4)
 
 ---
 updated-dependencies:
-- dependency-name: frenck/action-addon-linter
+- dependency-name: mopidy-youtube
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
