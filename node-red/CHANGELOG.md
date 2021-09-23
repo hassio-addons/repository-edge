@@ -1,4 +1,37 @@
 # Changelog since v10.0.0
+- Bump node-red from 2.0.5 to 2.0.6 in /node-red (#1108)
+
+Bumps [node-red](https://github.com/node-red/node-red) from 2.0.5 to 2.0.6.
+- [Release notes](https://github.com/node-red/node-red/releases)
+- [Changelog](https://github.com/node-red/node-red/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red/compare/2.0.5...2.0.6)
+
+---
+updated-dependencies:
+- dependency-name: node-red
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump node-red-contrib-time-range-switch from 1.1.1 to 1.1.2 in /node-red (#1114)
+
+Bumps [node-red-contrib-time-range-switch](https://github.com/biddster/node-red-contrib-time-range-switch) from 1.1.1 to 1.1.2.
+- [Release notes](https://github.com/biddster/node-red-contrib-time-range-switch/releases)
+- [Commits](https://github.com/biddster/node-red-contrib-time-range-switch/compare/1.1.1...1.1.2)
+
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-time-range-switch
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-dashboard from 2.30.0 to 3.0.4 in /node-red (#1116)
 
 Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.30.0 to 3.0.4.
