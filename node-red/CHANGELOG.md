@@ -1,4 +1,22 @@
 # Changelog since v10.0.0
+- Bump node-red-dashboard from 2.30.0 to 3.0.4 in /node-red (#1116)
+
+Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 2.30.0 to 3.0.4.
+- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
+- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red-dashboard/compare/2.30.0...3.0.4)
+
+---
+updated-dependencies:
+- dependency-name: node-red-dashboard
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades add-on base image to 10.1.0 (#1119) 
 - Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#1109)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 1.5.1 to 1.6.0.
