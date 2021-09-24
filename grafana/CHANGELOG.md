@@ -1,4 +1,5 @@
 # Changelog since v7.2.0
+- ⬆️ Upgrades Grafana Image Renderer to 3.2.0 (#210) 
 - ⬆️ Upgrades Grafana to v8.1.5 (#209) 
 - ⬆️ Upgrades add-on base image to 5.1.0 (#208) 
 - ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#204)
