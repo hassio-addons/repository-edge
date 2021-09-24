@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- Upgrade to Tailscale v1.14.3 (#29) 
 - Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#25)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
