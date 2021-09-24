@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Upgrades add-on base image to 10.1.0 (#118) 
 - ⬆️ Upgrades nodejs to 14.17.6-r0 (#117) 
 - ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#116)
 
