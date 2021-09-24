@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- ⬆️ Upgrades add-on base image to 10.1.0 (#98) 
 - ⬆️ Upgrades php8 to 8.0.11-r0 (#97) 
 - ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#96)
 
