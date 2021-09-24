@@ -1,4 +1,6 @@
 # Changelog since v0.11.1
+- ⬆️ Upgrades add-on base image to 10.1.0 (#105) 
+- ⬆️ Upgrades ZeroTier One to 1.6.6 (#106) 
 - ⬆ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#103)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 1.5.1 to 1.6.0.
