@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- ⬆️ Upgrades Grocy to 3.1.1 (#229) 
 - ⬆️ Upgrades php8 to 8.0.11-r0 (#228) 
 - ⬆ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#226)
 
