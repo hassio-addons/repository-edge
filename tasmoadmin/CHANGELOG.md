@@ -1,4 +1,5 @@
 # Changelog since v0.15.1
+- ⬆️ Upgrades add-on base image to 10.1.0 (#201) 
 - ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#198)
 
 Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 3.3 to 4.0.
