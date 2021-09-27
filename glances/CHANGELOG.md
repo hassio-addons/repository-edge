@@ -1,4 +1,20 @@
 # Changelog since v0.13.0
+- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#200)
+
+Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 3.3 to 4.0.
+- [Release notes](https://github.com/creyD/prettier_action/releases)
+- [Commits](https://github.com/creyD/prettier_action/compare/v3.3...v4.0)
+
+---
+updated-dependencies:
+- dependency-name: creyD/prettier_action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump zeroconf from 0.36.0 to 0.36.7 in /glances (#204)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.36.0 to 0.36.7.
