@@ -1,4 +1,5 @@
 # Changelog since v3.0.5
+- Upgrade to Hidden Service v3 (#89) 
 - ⬆️ Upgrades add-on base image to 10.1.0 (#99) 
 - ⬆️ Upgrades tor to 0.4.5.10-r0 (#98) 
 - ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#95)
