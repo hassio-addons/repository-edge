@@ -1,4 +1,5 @@
 # Changelog since v0.13.1
+- ⬆️ Upgrades Traccar to v4.14 (#141) 
 - 🐛 Fix events selection query (#133) 
 - ⬆️ Upgrades add-on base image to 10.1.0 (#140) 
 - ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#139)
