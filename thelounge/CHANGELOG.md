@@ -1,4 +1,20 @@
 # Changelog since v0.12.3
+- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#87)
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.3...v2.4.1)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades nodejs to 14.17.6-r0 (#84) 
 - ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#83)
 
