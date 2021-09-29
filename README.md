@@ -1025,10 +1025,10 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/7147ba1
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/7147ba1/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/ce03203
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/ce03203/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-7147ba1-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-ce03203-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
