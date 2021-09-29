@@ -1,4 +1,7 @@
 # Changelog since v0.8.0
+- Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#179)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#172)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
