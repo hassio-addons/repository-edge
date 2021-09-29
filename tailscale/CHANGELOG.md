@@ -1,4 +1,7 @@
 # Changelog since v0.2.0
+- Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#36)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Upgrade to Tailscale v1.14.3 (#29) 
 - Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#25)
 

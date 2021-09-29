@@ -1,6 +1,6 @@
 {
   "name": "Tailscale",
-  "version": "ee40c51",
+  "version": "5b28aa6",
   "slug": "tailscale",
   "description": "Zero config VPN for building secure networks",
   "url": "https://github.com/hassio-addons/addon-tailscale",
