@@ -1,4 +1,7 @@
 # Changelog since v2.2.0
+- Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#95)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump creyD/prettier_action from 3.3 to 4.0 (#91)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
