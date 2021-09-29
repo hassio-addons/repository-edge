@@ -37,6 +37,6 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://example.org
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-Development-yellowgreen.svg
-[release-shield]: https://img.shields.io/badge/version-d73c5fb-blue.svg
-[release]: https://github.com/hassio-addons/addon-prometheus/tree/d73c5fb
+[release-shield]: https://img.shields.io/badge/version-7761c32-blue.svg
+[release]: https://github.com/hassio-addons/addon-prometheus/tree/7761c32
 [screenshot]: https://github.com/hassio-addons/addon-prometheus/raw/master/images/screenshot.png
