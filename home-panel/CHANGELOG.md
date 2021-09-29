@@ -1,4 +1,7 @@
 # Changelog since v2.3.0
+- Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#147)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.1.0 (#144) 
 - ⬆️ Upgrades openssl to 1.1.1l-r0 (#143) 
 - Bump creyD/prettier_action from 3.3 to 4.0 (#142)
