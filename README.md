@@ -980,10 +980,10 @@ SOFTWARE.
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [thelounge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [thelounge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/de2b60b
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/de2b60b/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/b1db97c
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/b1db97c/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-de2b60b-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-b1db97c-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
