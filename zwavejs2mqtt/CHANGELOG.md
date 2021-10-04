@@ -1,4 +1,5 @@
 # Changelog since v0.25.1
+- ⬆️ Upgrades ZwaveJS2Mqtt to v5.7.3 (#264) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#261)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
