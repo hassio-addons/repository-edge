@@ -1,4 +1,6 @@
 # Changelog since v0.15.1
+- ⬆️ Upgrades add-on base image to 10.1.1 (#206) 
+- ⬆ Upgrade lock-threads workflow to 3.0.0 (#205) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#204)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
