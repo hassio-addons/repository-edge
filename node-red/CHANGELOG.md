@@ -1,4 +1,5 @@
 # Changelog since v10.0.1
+- ⬆️ Upgrades openssh-client to 8.6_p1-r3 (#1135) 
 - ⬆ Upgrade lock-threads workflow to 3.0.0 (#1134) 
 - Bump @node-red-contrib-themes/theme-collection from 2.0.5 to 2.0.6 in /node-red (#1132)
 
