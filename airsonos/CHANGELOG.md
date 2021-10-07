@@ -1,4 +1,7 @@
 # Changelog since v3.1.1
+- ⬆️ Upgrades add-on base image to 5.1.1 (#92) 
+- ⬆️ Upgrades AirConnect to 0.2.51.1 (#93) 
+- ⬆ Upgrade lock-threads workflow to 3.0.0 (#94) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#91)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
