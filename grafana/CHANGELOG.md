@@ -1,4 +1,6 @@
 # Changelog since v7.2.0
+- ⬆️ Upgrades add-on base image to 5.1.1 (#216) 
+- ⬆️ Upgrades Grafana to v8.1.7 (#217) 
 - ⬆ Upgrade lock-threads workflow to 3.0.0 (#215) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#214)
 
