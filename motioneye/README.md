@@ -56,6 +56,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-ec64826-blue.svg
-[release]: https://github.com/hassio-addons/addon-motioneye/tree/ec64826
+[release-shield]: https://img.shields.io/badge/version-f4d4eef-blue.svg
+[release]: https://github.com/hassio-addons/addon-motioneye/tree/f4d4eef
 [screenshot]: https://github.com/hassio-addons/addon-motioneye/raw/main/images/screenshot.png
