@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades add-on base image to 10.1.1 (#145) 
 - ⬆️ Upgrades composer to 2.1.9-r0 (#144) 
 - ⬆️ Upgrades php7 to 7.4.24-r0 (#143) 
 - ⬆ Upgrade lock-threads workflow to 3.0.0 (#142) 
