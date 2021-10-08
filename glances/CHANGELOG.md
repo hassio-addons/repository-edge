@@ -1,4 +1,20 @@
 # Changelog since v0.13.0
+- ⬆️ Bump docker from 5.0.2 to 5.0.3 in /glances (#215)
+
+Bumps [docker](https://github.com/docker/docker-py) from 5.0.2 to 5.0.3.
+- [Release notes](https://github.com/docker/docker-py/releases)
+- [Commits](https://github.com/docker/docker-py/compare/5.0.2...5.0.3)
+
+---
+updated-dependencies:
+- dependency-name: docker
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.1.1 (#214) 
 - ⬆ Upgrade lock-threads workflow to 3.0.0 (#213) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#211)
