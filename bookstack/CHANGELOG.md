@@ -1,20 +1,16 @@
-# Changelog since v0.13.0
-- ⬆️ Update Bookstack to v21.08.5 (#147) 
-- ⬆️ Upgrades add-on base image to 10.1.1 (#145) 
-- ⬆️ Upgrades composer to 2.1.9-r0 (#144) 
-- ⬆️ Upgrades php7 to 7.4.24-r0 (#143) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#142) 
-- Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#140)
+# Changelog since v0.13.1
+- Bump actions/checkout from 2.3.4 to 2.3.5 (#148)
 
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.3...v2.4.1)
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
 
 ---
 updated-dependencies:
-- dependency-name: frenck/action-addon-linter
+- dependency-name: actions/checkout
   dependency-type: direct:production
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
