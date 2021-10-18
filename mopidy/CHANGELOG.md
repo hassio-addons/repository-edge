@@ -1,12 +1,13 @@
-- ⬆️ Bump pykka from 3.0.1 to 3.0.2 in /mopidy (#178)
+- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#179)
 
-Bumps [pykka](https://github.com/jodal/pykka) from 3.0.1 to 3.0.2.
-- [Release notes](https://github.com/jodal/pykka/releases)
-- [Commits](https://github.com/jodal/pykka/compare/v3.0.1...v3.0.2)
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
 
 ---
 updated-dependencies:
-- dependency-name: pykka
+- dependency-name: actions/checkout
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
