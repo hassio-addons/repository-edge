@@ -755,10 +755,10 @@ SOFTWARE.
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [bookstack-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bookstack-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/851e607
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/851e607/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/4d29b8d
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/4d29b8d/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-851e607-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-4d29b8d-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
