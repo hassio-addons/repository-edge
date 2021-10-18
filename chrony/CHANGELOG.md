@@ -1,4 +1,7 @@
 # Changelog since v2.2.0
+- Bump actions/checkout from 2.3.4 to 2.3.5 (#98)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.1.1 (#97) 
 - ⬆ Upgrade lock-threads workflow to 3.0.0 (#96) 
 - Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#95)
