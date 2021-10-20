@@ -1,4 +1,7 @@
 # Changelog since v0.13.0
+- ⬆️ Bump paho-mqtt from 1.5.1 to 1.6.0 in /glances (#219)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#218)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
