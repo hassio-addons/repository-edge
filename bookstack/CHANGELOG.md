@@ -1,4 +1,9 @@
 # Changelog since v0.13.1
+- ⬆️ Update bookstack to v21.10.1 and PHP to 7.4.25-r0 (#149)
+
+* ⬆️ Update PHP to 7.4.25-r0
+
+* ⬆️ Update bookstack to v21.10.1 
 - Bump actions/checkout from 2.3.4 to 2.3.5 (#148)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
