@@ -1,4 +1,20 @@
 # Changelog since v0.13.0
+- ⬆️ Bump zeroconf from 0.36.8 to 0.36.11 in /glances (#222)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.36.8 to 0.36.11.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.36.8...0.36.11)
+
+---
+updated-dependencies:
+- dependency-name: zeroconf
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump paho-mqtt from 1.5.1 to 1.6.0 in /glances (#219)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
@@ -52,7 +68,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.1.1 (#214) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#213) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#213) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#211)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
