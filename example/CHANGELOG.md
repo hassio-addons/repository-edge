@@ -1,4 +1,7 @@
 # Changelog since v4.2.1
+- Fix typo in deploy workflow 
+- Fix missing dispatch token in deploy workflow 
+- Fix missing deploy workflow 
 - Switch add-on to centralized GitHub Action Workflows (#101) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#100)
 
