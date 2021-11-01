@@ -1,9 +1,10 @@
 # Changelog since v4.2.1
+- Switch add-on to centralized GitHub Action Workflows (#101) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#100)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.1.1 (#98) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#99) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#99) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#97)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
