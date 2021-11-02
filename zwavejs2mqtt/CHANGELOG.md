@@ -1,4 +1,5 @@
 # Changelog since v0.27.0
+- ⬆️ Upgrades nodejs to 14.18.1-r0 (#281) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#271)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
