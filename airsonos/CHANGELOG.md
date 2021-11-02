@@ -1,4 +1,6 @@
 # Changelog since v3.1.1
+- ⬆️ Upgrades add-on base image to 5.2.0 (#100) 
+- Migrate JSON add-on config to YAML (#99) 
 - Switch to centralized GitHub Action Workflows (#98) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#95)
 
