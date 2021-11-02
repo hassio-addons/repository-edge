@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- Switch to centralized GitHub Action Workflows (#117) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#113)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
@@ -17,7 +18,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades AirConnect to 0.2.51.1 (#111) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#110) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#110) 
 - ⬆️ Upgrades add-on base image to 5.1.1 (#109) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#108)
 
@@ -51,7 +52,7 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#103) 
+- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#103) 
 - ⬆️ Bump frenck/action-addon-linter from 2.2 to 2.3 (#102)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.2 to 2.3.
