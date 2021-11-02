@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- ⬆️ Upgrades AirConnect to 0.2.51.2 (#120) 
 - ⬆️ Upgrades base image to 5.2.0 (#119) 
 - Migrate JSON add-on config to YAML (#118) 
 - Switch to centralized GitHub Action Workflows (#117) 
