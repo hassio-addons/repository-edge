@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- Migrate JSON add-on config to YAML (#102) 
 - Fix typo in deploy workflow 
 - Fix missing dispatch token in deploy workflow 
 - Fix missing deploy workflow 
