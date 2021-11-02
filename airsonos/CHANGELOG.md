@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- Switch to centralized GitHub Action Workflows (#98) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#95)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
@@ -18,7 +19,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 5.1.1 (#92) 
 - ⬆️ Upgrades AirConnect to 0.2.51.1 (#93) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#94) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#94) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#91)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
@@ -99,7 +100,7 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆ Upgrades add-on base image to v5.0.0 (#84) 
+- ⬆️ Upgrades add-on base image to v5.0.0 (#84) 
 - ⬆️ Bump dessant/lock-threads from 2.1.1 to 2.1.2 (#83)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
@@ -118,7 +119,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - 🚑 Fix contributing link in readme (#82) 
-- ⬆ Upgrades add-on base image to v4.2.3 (#81) 
+- ⬆️ Upgrades add-on base image to v4.2.3 (#81) 
 - 🚀 Add-on CI improvements (#80) 
 - ⬆️ Bump frenck/action-addon-linter from 2.1 to 2.2 (#79)
 
