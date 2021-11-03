@@ -1,2 +1,2 @@
-# Changelog since v0.13.2
-- ⬆️ Update bookstack to v21.10.2 (#150) 
+# Changelog since v0.13.3
+- 🔨 Fix Laravel Logging (#155) 
