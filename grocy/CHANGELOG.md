@@ -1,5 +1,23 @@
 # Changelog since v0.15.0
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#236) 
+- ⬆️ Upgrades php8 to 8.0.12-r0 (#244) 
+- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#239)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#236) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#232)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
@@ -18,7 +36,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades Grocy to 3.1.1 (#229) 
 - ⬆️ Upgrades php8 to 8.0.11-r0 (#228) 
-- ⬆ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#226)
+- ⬆️ Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 (#226)
 
 Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 1.5.1 to 1.6.0.
 - [Release notes](https://github.com/docker/setup-buildx-action/releases)
@@ -34,7 +52,7 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆ Bump creyD/prettier_action from 3.3 to 4.0 (#227)
+- ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#227)
 
 Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 3.3 to 4.0.
 - [Release notes](https://github.com/creyD/prettier_action/releases)
