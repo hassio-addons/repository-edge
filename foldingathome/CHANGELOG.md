@@ -1,4 +1,6 @@
 # Changelog since v0.3.0
+- Migrate JSON config to YAML (#33) 
+- Switch to centralized GitHub Action Workflows (#32) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#28)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
@@ -17,7 +19,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 5.1.1 (#27) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#26) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#26) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#25)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
