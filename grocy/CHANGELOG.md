@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- ⬆️ Upgrades add-on base image to 10.2.0 (#247) 
 - Migrate JSON config to YAML (#246) 
 - Switch to centralized GitHub Action Workflows (#245) 
 - ⬆️ Upgrades php8 to 8.0.12-r0 (#244) 
