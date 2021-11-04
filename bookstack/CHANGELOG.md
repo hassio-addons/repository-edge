@@ -1,3 +1,2 @@
-# Changelog since v0.13.3
-- ⬆️ Update Bookstack to v21.10.3 (#156) 
-- 🔨 Fix Laravel Logging (#155) 
+# Changelog since v0.13.4
+- Switch to centralized GitHub Action Workflows (#157) 
