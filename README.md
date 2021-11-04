@@ -773,10 +773,10 @@ SOFTWARE.
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [ftp-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/tree/3b45d80
-[addon-doc-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/blob/3b45d80/README.md
+[addon-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/tree/e2fdcfe
+[addon-doc-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/blob/e2fdcfe/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/addon-foldingathome/issues
-[foldingathome-version-shield]: https://img.shields.io/badge/version-3b45d80-blue.svg
+[foldingathome-version-shield]: https://img.shields.io/badge/version-e2fdcfe-blue.svg
 [foldingathome-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [foldingathome-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [foldingathome-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
