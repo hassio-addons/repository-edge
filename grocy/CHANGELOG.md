@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- Switch to centralized GitHub Action Workflows (#245) 
 - ⬆️ Upgrades php8 to 8.0.12-r0 (#244) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#239)
 
