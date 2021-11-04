@@ -1,6 +1,26 @@
 # Changelog since v0.13.0
+- Switch to centralized GitHub Action Workflows (#179) 
+- ⬆️ Upgrades libmariadb-dev-compat to 1:10.5.12-0+deb11u1 (#181) 
+- ⬆️ Upgrades libpq5 to 13.4-0+deb11u1 (#180) 
+- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#174)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 5.1.1 (#172) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#173) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#173) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#169)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
