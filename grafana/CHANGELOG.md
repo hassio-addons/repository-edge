@@ -1,4 +1,6 @@
 # Changelog since v7.2.0
+- docker install CJK font support grafana-image-renderer (#202) 
+- ⬆️ Upgrades add-on base image to 5.2.0 (#226) 
 - Migrate JSON config to YAML (#225) 
 - Switch to centralized GitHub Action Workflows (#224) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#218)
