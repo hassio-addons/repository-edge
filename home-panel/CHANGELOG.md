@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- ⬆️ Upgrades add-on base image to 10.2.0 (#157) 
 - Migrate JSON config to YAML (#156) 
 - Switch to centralized GitHub Action Workflows (#155) 
 - ⬆️ Upgrades nodejs-current to 16.11.1-r0 (#154) 
