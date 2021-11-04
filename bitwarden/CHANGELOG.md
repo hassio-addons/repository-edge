@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- ⬆️ Upgrades Vaultwarden to 1.23.0 (#184) 
 - ⬆️ Upgrades add-on base image to 5.2.0 (#182) 
 - Migrate JSON config to YAML (#183)
 
