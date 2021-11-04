@@ -1,4 +1,11 @@
 # Changelog since v0.13.0
+- Migrate JSON config to YAML (#183)
+
+* Migrate JSON config to YAML
+
+* Prettified Code!
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
 - Switch to centralized GitHub Action Workflows (#179) 
 - ⬆️ Upgrades libmariadb-dev-compat to 1:10.5.12-0+deb11u1 (#181) 
 - ⬆️ Upgrades libpq5 to 13.4-0+deb11u1 (#180) 
