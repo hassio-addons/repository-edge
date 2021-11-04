@@ -1,4 +1,12 @@
 # Changelog since v0.13.0
+- Migrate JSON config to YAML (#227)
+
+* Migrate JSON config to YAML
+
+* Prettified Code!
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
+- Switch to centralized GitHub Action Workflows (#226) 
 - ⬆️ Bump zeroconf from 0.36.8 to 0.36.11 in /glances (#222)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.36.8 to 0.36.11.
