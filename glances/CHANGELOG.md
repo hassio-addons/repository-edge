@@ -1,4 +1,8 @@
 # Changelog since v0.13.0
+- ⬆️ Bump paho-mqtt from 1.6.0 to 1.6.1 in /glances (#220)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades add-on base image to 10.2.0 (#228) 
 - Migrate JSON config to YAML (#227)
 
 * Migrate JSON config to YAML
