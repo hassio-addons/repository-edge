@@ -1016,10 +1016,10 @@ SOFTWARE.
 [vscode-remote-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [vscode-remote-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [vscode-remote-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/c5de086
-[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/c5de086/README.md
+[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/f956d69
+[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/f956d69/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
-[bitwarden-version-shield]: https://img.shields.io/badge/version-c5de086-blue.svg
+[bitwarden-version-shield]: https://img.shields.io/badge/version-f956d69-blue.svg
 [bitwarden-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bitwarden-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
