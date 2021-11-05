@@ -44,4 +44,4 @@ schema:
 slug: influxdb
 startup: services
 url: https://github.com/hassio-addons/addon-influxdb
-version: 7d0b0c3
+version: 1e458a5
