@@ -1,4 +1,21 @@
 # Changelog since v10.0.1
+- Bump node-red-contrib-home-assistant-websocket from 0.36.0 to 0.38.0 in /node-red (#1167)
+
+Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.36.0 to 0.38.0.
+- [Release notes](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/releases)
+- [Changelog](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.36.0...v0.38.0)
+
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-home-assistant-websocket
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.2.0 (#1166) 
 - Bump node-red-node-email from 1.12.3 to 1.13.0 in /node-red (#1153)
 
