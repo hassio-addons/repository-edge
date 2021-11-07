@@ -1,4 +1,11 @@
 # Changelog since v4.1.9
+- Migrate JSON config to YAML (#272)
+
+* Migrate JSON config to YAML
+
+* Prettified Code!
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
 - Switch to centralized GitHub Action Workflows (#271) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#264)
 
