@@ -1,0 +1,40 @@
+arch:
+- amd64
+audio: true
+auth_api: true
+description: Mopidy is an extensible music server
+image: ghcr.io/hassio-addons/mopidy/{arch}
+ingress: true
+ingress_entry: iris/
+ingress_stream: true
+map:
+- config
+- share:rw
+- ssl
+name: Mopidy
+options:
+  python_packages: []
+  settings: []
+  system_packages: []
+panel_icon: mdi:music-circle
+ports:
+  5555/udp: 5555
+  6600/tcp: 6600
+  80/tcp: null
+ports_description:
+  5555/udp: Autoaudiosink
+  6600/tcp: Mopidy
+  80/tcp: Web interface (Not required for Ingress)
+schema:
+  leave_front_door_open: bool?
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  python_packages:
+  - str
+  settings:
+  - name: str
+    value: str
+  system_packages:
+  - str
+slug: mopidy
+url: https://github.com/hassio-addons/addon-mopidy
+version: b9ca37c
