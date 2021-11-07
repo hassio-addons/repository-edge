@@ -1,4 +1,5 @@
 # Changelog since v4.1.9
+- Switch to centralized GitHub Action Workflows (#271) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#264)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
@@ -18,7 +19,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.1.1 (#260) 
 - Rename snapshot_exclude to backup_exclude (#226) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#261) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#261) 
 - ⬆️ Bump creyD/prettier_action from 3.3 to 4.0 (#248)
 
 Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 3.3 to 4.0.
