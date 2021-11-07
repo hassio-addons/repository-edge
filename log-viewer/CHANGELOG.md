@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- Switch to centralized GitHub Action Workflows (#128) 
 - ⬆️ Upgrades nodejs to 14.18.1-r0 (#127) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#123)
 
