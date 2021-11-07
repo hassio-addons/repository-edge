@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- ⬆️ Upgrades php8 to 8.0.12-r0 (#108) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#104)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
@@ -17,7 +18,7 @@ Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.1.1 (#103) 
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#102) 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#102) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#101)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
