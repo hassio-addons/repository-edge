@@ -1,4 +1,21 @@
 # Changelog since v10.0.1
+- ⬆️ Upgrades add-on base image to 10.2.0 (#1166) 
+- Bump node-red-node-email from 1.12.3 to 1.13.0 in /node-red (#1153)
+
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes) from 1.12.3 to 1.13.0.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits)
+
+---
+updated-dependencies:
+- dependency-name: node-red-node-email
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red from 2.1.0 to 2.1.3 in /node-red (#1151)
 
 Bumps [node-red](https://github.com/node-red/node-red) from 2.1.0 to 2.1.3.
