@@ -1,4 +1,5 @@
 # Changelog since v4.1.9
+- ⬆️ Upgrades add-on base image to 10.2.0 (#273) 
 - Migrate JSON config to YAML (#272)
 
 * Migrate JSON config to YAML
