@@ -1,4 +1,5 @@
 # Changelog since v0.15.1
+- Migrate JSON config to YAML (#319) 
 - Switch to centralized GitHub Action Workflows (#318) 
 - ⬆️ Upgrades ffmpeg to 4.4.1-r0 (#317) 
 - ⬇️ Downgrade pillow to 6.2.2 (#316) 
