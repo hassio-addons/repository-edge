@@ -1,5 +1,42 @@
 # Changelog since v0.15.1
-- ⬆ Upgrade lock-threads workflow to 3.0.0 (#309) 
+- Switch to centralized GitHub Action Workflows (#318) 
+- ⬆️ Upgrades ffmpeg to 4.4.1-r0 (#317) 
+- ⬇️ Downgrade pillow to 6.2.2 (#316) 
+- ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#311)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump pillow from 6.2.2 to 8.4.0 in /motioneye (#312)
+
+Bumps [pillow](https://github.com/python-pillow/Pillow) from 6.2.2 to 8.4.0.
+- [Release notes](https://github.com/python-pillow/Pillow/releases)
+- [Changelog](https://github.com/python-pillow/Pillow/blob/main/CHANGES.rst)
+- [Commits](https://github.com/python-pillow/Pillow/compare/6.2.2...8.4.0)
+
+---
+updated-dependencies:
+- dependency-name: pillow
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrade lock-threads workflow to 3.0.0 (#309) 
 - ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#306)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
