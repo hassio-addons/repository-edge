@@ -1,4 +1,21 @@
 # Changelog since v10.0.1
+- Bump node-red-dashboard from 3.0.4 to 3.1.1 in /node-red (#1165)
+
+Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 3.0.4 to 3.1.1.
+- [Release notes](https://github.com/node-red/node-red-dashboard/releases)
+- [Changelog](https://github.com/node-red/node-red-dashboard/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red-dashboard/commits)
+
+---
+updated-dependencies:
+- dependency-name: node-red-dashboard
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-home-assistant-websocket from 0.36.0 to 0.38.0 in /node-red (#1167)
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.36.0 to 0.38.0.
