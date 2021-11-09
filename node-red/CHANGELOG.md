@@ -1,4 +1,5 @@
 # Changelog since v10.0.1
+- Add links to nodered.org in the documentation (#1155) 
 - Bump @node-red-contrib-themes/theme-collection from 2.1.0 to 2.1.2 in /node-red (#1156)
 
 Bumps [@node-red-contrib-themes/theme-collection](https://github.com/node-red-contrib-themes/theme-collection) from 2.1.0 to 2.1.2.
