@@ -1,4 +1,5 @@
 # Changelog since v3.6.2
+- ⬆️ Upgrades add-on base image to 5.2.1 (#341) 
 - Migrate JSON config to YAML (#340) 
 - Switch to centralized GitHub Action Workflows (#339) 
 - ⬆️ Upgrades mariadb-client to 1:10.5.12-0+deb11u1 (#338) 
