@@ -1,4 +1,5 @@
 # Changelog since v2.6.3
+- Migrate JSON config to YAML (#134) 
 - Switch to centralized GitHub Action Workflows (#133)
 
 * Switch to centralized GitHub Action Workflows
