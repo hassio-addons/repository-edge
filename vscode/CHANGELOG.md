@@ -1,4 +1,5 @@
 # Changelog since v3.6.2
+- Switch to centralized GitHub Action Workflows (#339) 
 - ⬆️ Upgrades mariadb-client to 1:10.5.12-0+deb11u1 (#338) 
 - ⬆️ Upgrades locales to 2.31-13+deb11u2 (#337) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#330)
