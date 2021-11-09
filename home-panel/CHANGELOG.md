@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- Update Home Panel to v2.11.6 (#158) 
 - ⬆️ Upgrades add-on base image to 10.2.0 (#157) 
 - Migrate JSON config to YAML (#156) 
 - Switch to centralized GitHub Action Workflows (#155) 
