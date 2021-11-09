@@ -971,10 +971,10 @@ SOFTWARE.
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tautulli-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tautulli-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/33fe06f
-[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/33fe06f/README.md
+[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/db2a61c
+[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/db2a61c/README.md
 [thelounge-issue]: https://github.com/hassio-addons/addon-thelounge/issues
-[thelounge-version-shield]: https://img.shields.io/badge/version-33fe06f-blue.svg
+[thelounge-version-shield]: https://img.shields.io/badge/version-db2a61c-blue.svg
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
