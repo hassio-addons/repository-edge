@@ -1,4 +1,5 @@
 # Changelog since v3.6.2
+- ⬆️ Upgrades Home Assistant CLI to v4.14.0 (#347) 
 - ⬆️ Upgrades lukas-tr.materialdesignicons-intellisense to 3.3.0 (#346) 
 - ⬆️ Upgrades esbenp.prettier-vscode to 9.0.0 (#345) 
 - ⬆️ Upgrades add-on base image to 5.2.2 (#344) 
