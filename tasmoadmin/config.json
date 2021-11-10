@@ -1,6 +1,6 @@
 {
   "name": "TasmoAdmin",
-  "version": "44e89fa",
+  "version": "c58ebb2",
   "slug": "sonweb",
   "description": "Centrally manage all your Sonoff-Tasmota devices",
   "url": "https://github.com/hassio-addons/addon-tasmoadmin",

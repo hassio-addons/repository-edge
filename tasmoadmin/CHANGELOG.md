@@ -1,4 +1,5 @@
 # Changelog since v0.15.1
+- Switch to centralized GitHub Action Workflows (#218) 
 - ⬆️ Upgrades php7 to 7.4.25-r0 (#217) 
 - ⬆️ Bump actions/checkout from 2.3.4 to 2.3.5 (#210)
 
