@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- ⬆️ Upgrades add-on base image to 10.2.2 (#96) 
 - Migrate JSON config to YAML (#95) 
 - Switch to centralized GitHub Action Workflows (#94) 
 - ⬆️ Upgrades nodejs to 14.18.1-r0 (#93) 
