@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- ⬆️ Upgrades add-on base image to 5.2.2 (#102) 
 - ⬆️ Upgrades AirConnect to 0.2.51.2 (#101) 
 - ⬆️ Upgrades add-on base image to 5.2.0 (#100) 
 - Migrate JSON add-on config to YAML (#99) 
