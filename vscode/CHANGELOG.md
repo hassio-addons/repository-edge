@@ -1,4 +1,5 @@
 # Changelog since v3.6.2
+- ⬆️ Upgrades add-on base image to 5.2.2 (#344) 
 - ⬆️ Upgrades code-server to 3.12.0 (#342) 
 - ⬆️ Upgrades add-on base image to 5.2.1 (#341) 
 - Migrate JSON config to YAML (#340) 
