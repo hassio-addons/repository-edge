@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- Migrate JSON config to YAML (#48) 
 - Switch to centralized GitHub Action Workflows (#47) 
 - Bump actions/checkout from 2.3.4 to 2.3.5 (#40)
 
