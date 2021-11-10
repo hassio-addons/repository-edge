@@ -1,4 +1,5 @@
 # Changelog since v9.0.1
+- Migrate JSON config to YAML (#338) 
 - Switch to centralized GitHub Action Workflows (#337) 
 - ⬆️ Upgrades vim to 8.2.3437-r0 (#336) 
 - ⬆️ Upgrades openssh to 8.6_p1-r3 (#335) 
