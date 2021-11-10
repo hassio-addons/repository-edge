@@ -1,4 +1,5 @@
 # Changelog since v7.2.0
+- ⬆️ Upgrades Grafana Image Renderer to 3.2.1 (#229) 
 - ⬆️ Upgrades Grafana to v8.2.3 (#228) 
 - ⬆️ Upgrades add-on base image to 5.2.2 (#227) 
 - docker install CJK font support grafana-image-renderer (#202) 
