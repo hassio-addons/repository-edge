@@ -1,4 +1,6 @@
 # Changelog since v9.0.1
+- Upgrade ttyd 62a5b63 & libwebsockets 4.2.1 (#340) 
+- ⬆️ Upgrades Home Assistant CLI to v4.14.0 (#339) 
 - Migrate JSON config to YAML (#338) 
 - Switch to centralized GitHub Action Workflows (#337) 
 - ⬆️ Upgrades vim to 8.2.3437-r0 (#336) 

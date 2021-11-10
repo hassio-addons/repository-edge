@@ -85,4 +85,4 @@ stdin: true
 uart: true
 url: https://github.com/hassio-addons/addon-ssh
 usb: true
-version: b757344
+version: 27bcb4b
