@@ -1,1 +1,1 @@
-- Switch to centralized GitHub Action Workflows (#30)
+- Migrate JSON config to YAML (#31)

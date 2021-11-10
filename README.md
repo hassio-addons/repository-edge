@@ -908,10 +908,10 @@ SOFTWARE.
 [portainer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [portainer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [portainer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/10e9283
-[addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/10e9283/README.md
+[addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/f23a559
+[addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/f23a559/README.md
 [prometheus-issue]: https://github.com/hassio-addons/addon-prometheus/issues
-[prometheus-version-shield]: https://img.shields.io/badge/version-10e9283-blue.svg
+[prometheus-version-shield]: https://img.shields.io/badge/version-f23a559-blue.svg
 [prometheus-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [prometheus-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [prometheus-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
