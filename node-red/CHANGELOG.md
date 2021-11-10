@@ -1,4 +1,5 @@
 # Changelog since v10.0.1
+- ⬆️ Upgrades add-on base image to 10.2.2 (#1171) 
 - Add links to nodered.org in the documentation (#1155) 
 - Bump @node-red-contrib-themes/theme-collection from 2.1.0 to 2.1.2 in /node-red (#1156)
 
