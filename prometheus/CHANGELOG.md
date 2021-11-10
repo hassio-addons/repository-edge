@@ -1,1 +1,1 @@
-- Migrate JSON config to YAML (#31)
+- ⬆️ Upgrades add-on base image to 10.2.2 (#32)
