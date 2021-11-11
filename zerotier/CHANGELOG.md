@@ -1,4 +1,5 @@
 # Changelog since v0.11.2
+- ⬆️ Upgrades add-on base image to 10.2.2 (#122) 
 - ⬆️ Upgrades ZeroTier One to 1.8.1 (#121) 
 - ⬆️ Upgrades add-on base image to 10.2.1 (#120) 
 - Migrate JSON config to YAML (#119) 
