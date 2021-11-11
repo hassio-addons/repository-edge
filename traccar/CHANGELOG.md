@@ -1,4 +1,5 @@
 # Changelog since v0.13.1
+- Replace depreciated class com.mysql.jdbc.Driver (#122) 
 - ⬆️ Upgrades add-on base image to 10.2.2 (#155) 
 - ⬆️ Upgrades add-on base image to 10.2.1 (#154) 
 - Migrate JSON config to YAML (#153) 
