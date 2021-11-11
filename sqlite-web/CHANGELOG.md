@@ -1,4 +1,21 @@
 # Changelog since v3.1.1
+- ⬆️ Bump sqlite-web from 0.3.7 to 0.4.0 in /sqlite-web (#190)
+
+Bumps [sqlite-web](https://github.com/coleifer/sqlite-web) from 0.3.7 to 0.4.0.
+- [Release notes](https://github.com/coleifer/sqlite-web/releases)
+- [Commits](https://github.com/coleifer/sqlite-web/compare/0.3.7...0.4.0)
+
+---
+updated-dependencies:
+- dependency-name: sqlite-web
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Let dependabot handle the upgrade of SQLite Web (#189) 
 - ⬆️ Upgrades add-on base image to 10.2.2 (#188) 
 - Migrate JSON config to YAML (#187) 
 - Switch to centralized GitHub Action Workflows (#186) 
