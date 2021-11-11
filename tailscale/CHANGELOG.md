@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- Add Userspace networking mode flag (#41) 
 - ⬆️ Upgrades Tailscale to 1.16.2 (#50) 
 - ⬆️ Upgrades add-on base image to 10.2.2 (#49) 
 - Migrate JSON config to YAML (#48) 

@@ -944,10 +944,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tailscale]: https://github.com/hassio-addons/addon-tailscale/tree/f4d8d28
-[addon-doc-tailscale]: https://github.com/hassio-addons/addon-tailscale/blob/f4d8d28/README.md
+[addon-tailscale]: https://github.com/hassio-addons/addon-tailscale/tree/18ff49c
+[addon-doc-tailscale]: https://github.com/hassio-addons/addon-tailscale/blob/18ff49c/README.md
 [tailscale-issue]: https://github.com/hassio-addons/addon-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-f4d8d28-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-18ff49c-blue.svg
 [tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
