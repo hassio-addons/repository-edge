@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Upgrades InfluxDB to 1.8.10 (#225) 
 - ⬆️ Upgrades add-on base image to 5.2.2 (#224) 
 - ⬆️ Upgrades add-on base image to 5.2.0 (#223) 
 - Migrate JSON config to YAML (#222) 
