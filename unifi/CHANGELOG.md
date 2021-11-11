@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- Rebrand Controller -> Network Application (#309) 
 - ⬆️ Upgrades UniFi Network Application to v6.4.54 (#307) 
 - Migrate JSON config to YAML (#308) 
 - Updates to documentation after dropped 32-bit support (#253) 
