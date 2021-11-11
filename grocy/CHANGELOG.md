@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- Upgrades Grocy to 3.1.2 (#248) 
 - ⬆️ Upgrades add-on base image to 10.2.2 (#251) 
 - ⬆️ Upgrades add-on base image to 10.2.0 (#247) 
 - Migrate JSON config to YAML (#246) 
