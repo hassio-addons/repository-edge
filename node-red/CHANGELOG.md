@@ -1,4 +1,20 @@
 # Changelog since v10.0.1
+- Bump @node-red-contrib-themes/theme-collection from 2.1.2 to 2.1.3 in /node-red (#1172)
+
+Bumps [@node-red-contrib-themes/theme-collection](https://github.com/node-red-contrib-themes/theme-collection) from 2.1.2 to 2.1.3.
+- [Release notes](https://github.com/node-red-contrib-themes/theme-collection/releases)
+- [Commits](https://github.com/node-red-contrib-themes/theme-collection/commits)
+
+---
+updated-dependencies:
+- dependency-name: "@node-red-contrib-themes/theme-collection"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 10.2.2 (#1171) 
 - Add links to nodered.org in the documentation (#1155) 
 - Bump @node-red-contrib-themes/theme-collection from 2.1.0 to 2.1.2 in /node-red (#1156)
