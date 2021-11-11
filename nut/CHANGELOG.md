@@ -1,4 +1,5 @@
 # Changelog since v0.8.0
+- ⬆️ Upgrades add-on base image to 5.2.2 (#197) 
 - ⬆️ Upgrades add-on base image to 5.2.0 (#196) 
 - Migrate JSON config to YAML (#195) 
 - Switch to centralized GitHub Action Workflows (#194) 

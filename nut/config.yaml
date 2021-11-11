@@ -61,4 +61,4 @@ uart: true
 udev: true
 url: https://github.com/hassio-addons/addon-nut
 usb: true
-version: d83de61
+version: 65583af
