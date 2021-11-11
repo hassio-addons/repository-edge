@@ -1,4 +1,13 @@
 # Changelog since v1.0.0
+- New wording for "Inform Host" in unifi settings (#291)
+
+* New wording for "Inform Host" in unifi settings
+
+* Tweak
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Improve clarity about last log message (#311) 
+- ⬆️ Upgrades add-on base image to 7.1.2 (#310) 
 - Rebrand Controller -> Network Application (#309) 
 - ⬆️ Upgrades UniFi Network Application to v6.4.54 (#307) 
 - Migrate JSON config to YAML (#308) 
