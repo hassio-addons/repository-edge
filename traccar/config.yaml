@@ -6,7 +6,6 @@ host_network: true
 image: ghcr.io/hassio-addons/traccar/{arch}
 ingress: true
 ingress_port: 0
-ingress_stream: true
 init: false
 map:
 - config:rw
@@ -31,4 +30,4 @@ services:
 slug: traccar
 startup: services
 url: https://github.com/hassio-addons/addon-traccar
-version: c5cf05b
+version: dd0b547
