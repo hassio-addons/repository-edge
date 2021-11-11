@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- ⬆️ Upgrades add-on base image to 7.1.3 (#312) 
 - New wording for "Inform Host" in unifi settings (#291)
 
 * New wording for "Inform Host" in unifi settings
