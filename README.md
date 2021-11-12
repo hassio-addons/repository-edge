@@ -365,6 +365,19 @@ Play Spotify music on your Home Assistant device
 
 [:books: Spotify Connect add-on documentation][addon-doc-spotify]
 
+### &#10003; [Studio Code Server][addon-vscode]
+
+![Latest Version][vscode-version-shield]
+![Supports armhf Architecture][vscode-armhf-shield]
+![Supports armv7 Architecture][vscode-armv7-shield]
+![Supports aarch64 Architecture][vscode-aarch64-shield]
+![Supports amd64 Architecture][vscode-amd64-shield]
+![Supports i386 Architecture][vscode-i386-shield]
+
+Fully featured Visual Studio Code (VSCode) experience integrated in the Home Assistant frontend.
+
+[:books: Studio Code Server add-on documentation][addon-doc-vscode]
+
 ### &#10003; [Tailscale][addon-tailscale]
 
 ![Latest Version][tailscale-version-shield]
@@ -481,19 +494,6 @@ VSCode Remote access to Home Assistant
 Open source password management solution
 
 [:books: Vaultwarden (Bitwarden) add-on documentation][addon-doc-bitwarden]
-
-### &#10003; [Visual Studio Code][addon-vscode]
-
-![Latest Version][vscode-version-shield]
-![Supports armhf Architecture][vscode-armhf-shield]
-![Supports armv7 Architecture][vscode-armv7-shield]
-![Supports aarch64 Architecture][vscode-aarch64-shield]
-![Supports amd64 Architecture][vscode-amd64-shield]
-![Supports i386 Architecture][vscode-i386-shield]
-
-Fully featured VSCode experience, to edit your HA config in the browser, including auto-completion!
-
-[:books: Visual Studio Code add-on documentation][addon-doc-vscode]
 
 ### &#10003; [WireGuard][addon-wireguard]
 
@@ -632,6 +632,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: SQLite Web][sqlite-web-issue]
 - [Open an issue for the add-on: SSH & Web Terminal][ssh-issue]
 - [Open an issue for the add-on: Spotify Connect][spotify-issue]
+- [Open an issue for the add-on: Studio Code Server][vscode-issue]
 - [Open an issue for the add-on: Tailscale][tailscale-issue]
 - [Open an issue for the add-on: TasmoAdmin][tasmoadmin-issue]
 - [Open an issue for the add-on: Tautulli][tautulli-issue]
@@ -641,7 +642,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: UniFi Network Application][unifi-issue]
 - [Open an issue for the add-on: VSCode Remote][vscode-remote-issue]
 - [Open an issue for the add-on: Vaultwarden (Bitwarden)][bitwarden-issue]
-- [Open an issue for the add-on: Visual Studio Code][vscode-issue]
 - [Open an issue for the add-on: WireGuard][wireguard-issue]
 - [Open an issue for the add-on: Z-Wave JS to MQTT][zwavejs2mqtt-issue]
 - [Open an issue for the add-on: ZeroTier One][zerotier-issue]
@@ -921,6 +921,15 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/4345ddc
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/4345ddc/README.md
+[vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
+[vscode-version-shield]: https://img.shields.io/badge/version-4345ddc-blue.svg
+[vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-tailscale]: https://github.com/hassio-addons/addon-tailscale/tree/18ff49c
 [addon-doc-tailscale]: https://github.com/hassio-addons/addon-tailscale/blob/18ff49c/README.md
 [tailscale-issue]: https://github.com/hassio-addons/addon-tailscale/issues
@@ -1002,15 +1011,6 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/4345ddc
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/4345ddc/README.md
-[vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-4345ddc-blue.svg
-[vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/b69d056
 [addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/b69d056/README.md
 [wireguard-issue]: https://github.com/hassio-addons/addon-wireguard/issues
