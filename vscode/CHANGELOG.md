@@ -1,4 +1,6 @@
 # Changelog since v3.6.2
+- ⬆️ Upgrades oderwat.indent-rainbow to 8.2.2 (#351) 
+- ⬆️ Upgrades usernamehw.errorlens to 3.4.0 (#350) 
 - Rename add-on to Studio Code Server (#349) 
 - ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.22.0 (#348) 
 - ⬆️ Upgrades Home Assistant CLI to v4.14.0 (#347) 
