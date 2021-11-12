@@ -1,4 +1,6 @@
 # Changelog since v3.6.2
+- Rename add-on to Studio Code Server (#349) 
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.22.0 (#348) 
 - ⬆️ Upgrades Home Assistant CLI to v4.14.0 (#347) 
 - ⬆️ Upgrades lukas-tr.materialdesignicons-intellisense to 3.3.0 (#346) 
 - ⬆️ Upgrades esbenp.prettier-vscode to 9.0.0 (#345) 
