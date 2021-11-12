@@ -1,4 +1,5 @@
 # Changelog since v3.6.2
+- ⬆️ Upgrades redhat.vscode-yaml to 1.2.0 (#352) 
 - ⬆️ Upgrades oderwat.indent-rainbow to 8.2.2 (#351) 
 - ⬆️ Upgrades usernamehw.errorlens to 3.4.0 (#350) 
 - Rename add-on to Studio Code Server (#349) 
