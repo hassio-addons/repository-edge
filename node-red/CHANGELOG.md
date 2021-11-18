@@ -1,4 +1,5 @@
 # Changelog since v10.1.0
+- ⬆️ Upgrades nginx to 1.20.2-r0 (#1184) 
 - Bump node-red-node-pi-gpio from 2.0.0 to 2.0.1 in /node-red (#1181)
 
 Bumps [node-red-node-pi-gpio](https://github.com/node-red/node-red-nodes/tree/HEAD/tree/master/hardware/PiGpio) from 2.0.0 to 2.0.1.
