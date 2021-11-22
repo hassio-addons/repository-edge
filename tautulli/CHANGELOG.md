@@ -1,4 +1,20 @@
 # Changelog since v2.3.0
+- ⬆️ Bump plexapi from 4.7.2 to 4.8.0 in /tautulli (#190)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.7.2 to 4.8.0.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.7.2...4.8.0)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades Tautulli to v2.7.7 (#189) 
 - ⬆️ Upgrades add-on base image to 10.2.2 (#188) 
 - ⬆️ Upgrades add-on base image to 10.2.1 (#187) 
