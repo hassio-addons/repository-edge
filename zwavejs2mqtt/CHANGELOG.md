@@ -1,2 +1,2 @@
-# Changelog since v0.29.0
-- ⬆️ Upgrades nginx to 1.20.2-r0 (#297) 
+# Changelog since v0.30.0
+- ⬆️ Upgrades python3-dev to 3.9.5-r2 (#302) 
