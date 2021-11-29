@@ -1,2 +1,2 @@
-# Changelog since v7.3.0
-- 🔨 Add libxshmfence1 v1.3-1 for Image Renderer (#230) 
+# Changelog since v7.3.1
+- ⬆️ Upgrades Grafana Image Renderer to 3.3.0 (#234) 
