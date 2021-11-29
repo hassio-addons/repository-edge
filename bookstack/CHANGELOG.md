@@ -1,4 +1,5 @@
 # Changelog since v0.13.4
+- ⬆️ Update bookstack to v21.11.1 (#164) 
 - ⬆️ Update base image and dependencies (#163)
 
 * ⬆️ Update base image to v10.2.3
