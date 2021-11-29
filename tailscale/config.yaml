@@ -18,7 +18,10 @@ name: Tailscale
 panel_icon: mdi:vpn
 privileged:
 - NET_ADMIN
+schema:
+  tags:
+  - match(^tag:[a-zA-Z0-9]-?[a-zA-Z0-9]+$)?
 slug: tailscale
 startup: services
 url: https://github.com/hassio-addons/addon-tailscale
-version: ec717a9
+version: 6277de1
