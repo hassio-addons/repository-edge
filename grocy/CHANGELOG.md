@@ -1,4 +1,7 @@
 # Changelog since v0.15.0
+- Fix issue #208 (#254)
+
+Co-authored-by: Artain <artain@posteo.de> 
 - Allow non-administrator HA users to see Grocy (#256) 
 - Add missing php8-iconv package (#253) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#257) 
