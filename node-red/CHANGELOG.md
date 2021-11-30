@@ -1,4 +1,5 @@
 # Changelog since v10.1.1
+- Add Internationalization Support (#1194) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#1193) 
 - Bump node-red-dashboard from 3.1.1 to 3.1.2 in /node-red (#1185)
 
