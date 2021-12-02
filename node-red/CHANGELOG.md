@@ -1,4 +1,5 @@
 # Changelog since v10.1.1
+- ⬆️ Upgrades Node-RED to v2.1.4 (#1196) 
 - ⬆️ Upgrades nodejs to 16.13.1-r0 (#1197) 
 - Add Internationalization Support (#1194) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#1193) 
