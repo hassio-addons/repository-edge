@@ -29,5 +29,5 @@ startup: system
 uart: true
 udev: true
 url: https://github.com/hassio-addons/addon-zwavejs2mqtt
-version: 76686d9
+version: 2b1e0b3
 watchdog: http://[HOST]:[PORT:8099]/health/zwave
