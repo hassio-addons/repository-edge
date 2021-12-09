@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- Upgrades Grocy to 3.1.3 (#262) 
 - Fix issue #208 (#254)
 
 Co-authored-by: Artain <artain@posteo.de> 
