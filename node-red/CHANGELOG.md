@@ -1,4 +1,7 @@
 # Changelog since v10.2.0
+- Bump node-red-contrib-home-assistant-websocket from 0.38.1 to 0.38.2 in /node-red (#1208)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump @node-red-contrib-themes/theme-collection from 2.1.3 to 2.1.4 in /node-red (#1204)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
