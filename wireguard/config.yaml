@@ -67,4 +67,4 @@ schema:
     table: str?
 slug: wireguard
 url: https://github.com/hassio-addons/addon-wireguard
-version: 92e3dd6
+version: c57f7e1
