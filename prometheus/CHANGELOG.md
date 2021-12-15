@@ -1,1 +1,1 @@
-- ⬆️ Upgrades add-on base image to 10.2.2 (#32)
+- ⬆️ Upgrades add-on base image to 11.0.0 (#34)
