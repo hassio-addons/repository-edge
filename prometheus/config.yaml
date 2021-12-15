@@ -5,7 +5,7 @@ arch:
 description: Cloud native metrics
 hassio_api: true
 homeassistant_api: true
-image: hassioaddons/prometheus-{arch}
+image: ghcr.io/hassio-addons/prometheus/{arch}
 ingress: true
 ingress_entry: graph
 ingress_port: 9090
