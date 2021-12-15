@@ -1,4 +1,18 @@
 # Changelog since v10.2.0
+- Bump node-red-contrib-bigtimer from 2.7.5 to 2.7.6 in /node-red (#1216)
+
+Bumps [node-red-contrib-bigtimer](https://tech.scargill.net/big-timer/) from 2.7.5 to 2.7.6.
+
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-bigtimer
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - 🚀 Update CI to latest version (#1217) 
 - Bump node-red-contrib-modbus from 5.15.0 to 5.16.0 in /node-red (#1211)
 
