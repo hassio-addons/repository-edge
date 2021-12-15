@@ -1,4 +1,10 @@
 # Changelog since v9.1.1
+- 🔥 Remove homeassistant_cli (#352)
+
+* 🔥 Remove homeassistant_cli
+
+* Remove hass_cli bash completion 
+- ⬆️ Upgrades ttyd to 3e37e33 (#351) 
 - 🔥 Remove hibp checks (#350)
 
 * 🔥 Remove hibp checks
