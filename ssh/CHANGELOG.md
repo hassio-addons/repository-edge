@@ -1,4 +1,5 @@
 # Changelog since v9.1.1
+- 🔥 Remove left over hass-cli auto completion (#353) 
 - 🔥 Remove homeassistant_cli (#352)
 
 * 🔥 Remove homeassistant_cli
