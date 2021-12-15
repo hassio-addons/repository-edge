@@ -1,1 +1,1 @@
-- Migrate JSON config to YAML (#186)
+- 🚀 Update CI to latest version (#188)
