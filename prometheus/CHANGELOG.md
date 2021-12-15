@@ -1,1 +1,1 @@
-- ⬆️ Upgrades add-on base image to 11.0.0 (#34)
+- ⬆️ Upgrades Prometheus to 2.32.0 (#35)
