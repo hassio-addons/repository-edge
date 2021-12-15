@@ -1,4 +1,5 @@
 # Changelog since v10.2.0
+- 🚀 Update CI to latest version (#1217) 
 - Bump node-red-contrib-modbus from 5.15.0 to 5.16.0 in /node-red (#1211)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
