@@ -957,10 +957,10 @@ SOFTWARE.
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tautulli-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tautulli-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/5fa62c6
-[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/5fa62c6/README.md
+[addon-thelounge]: https://github.com/hassio-addons/addon-thelounge/tree/be9ab6a
+[addon-doc-thelounge]: https://github.com/hassio-addons/addon-thelounge/blob/be9ab6a/README.md
 [thelounge-issue]: https://github.com/hassio-addons/addon-thelounge/issues
-[thelounge-version-shield]: https://img.shields.io/badge/version-5fa62c6-blue.svg
+[thelounge-version-shield]: https://img.shields.io/badge/version-be9ab6a-blue.svg
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
