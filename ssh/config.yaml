@@ -81,8 +81,7 @@ services:
 - mqtt:want
 slug: ssh
 startup: services
-stdin: true
 uart: true
 url: https://github.com/hassio-addons/addon-ssh
 usb: true
-version: 96bccd1
+version: d8dd62a
