@@ -58,7 +58,6 @@ privileged:
 - SYS_TIME
 - SYS_NICE
 schema:
-  i_like_to_be_pwned: bool?
   init_commands:
   - str
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
@@ -84,4 +83,4 @@ startup: services
 uart: true
 url: https://github.com/hassio-addons/addon-ssh
 usb: true
-version: d8dd62a
+version: 974989f
