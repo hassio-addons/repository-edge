@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- ⬆️ Upgrades Tautulli to v2.8.0 (#195) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#194) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#193) 
 - 🚀 Update CI to latest version (#192) 

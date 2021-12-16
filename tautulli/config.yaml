@@ -31,5 +31,5 @@ schema:
   username: str
 slug: tautulli
 url: https://github.com/hassio-addons/addon-tautulli/tree/main/README.md
-version: 678bb5c
+version: '5983580'
 webui: '[PROTO:ssl]://[HOST]:[PORT:8181]'
