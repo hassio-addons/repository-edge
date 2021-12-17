@@ -24,9 +24,10 @@ ports_description:
 schema:
   certfile: str
   keyfile: str
+  leave_front_door_open: bool?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   ssl: bool
 slug: ledfx
 url: https://github.com/hassio-addons/addon-ledfx
-version: 7d13080
+version: 349fe09
 webui: '[PROTO:ssl]://[HOST]:[PORT:80]'

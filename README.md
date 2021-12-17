@@ -1047,10 +1047,10 @@ SOFTWARE.
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [chrony-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [chrony-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ledfx]: https://github.com/hassio-addons/addon-ledfx/tree/7d13080
-[addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/7d13080/README.md
+[addon-ledfx]: https://github.com/hassio-addons/addon-ledfx/tree/349fe09
+[addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/349fe09/README.md
 [ledfx-issue]: https://github.com/hassio-addons/addon-ledfx/issues
-[ledfx-version-shield]: https://img.shields.io/badge/version-7d13080-blue.svg
+[ledfx-version-shield]: https://img.shields.io/badge/version-349fe09-blue.svg
 [ledfx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ledfx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ledfx-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

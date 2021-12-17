@@ -69,6 +69,14 @@ The private key file to use for SSL.
 
 **Note**: _The file MUST be stored in `/ssl/`, which is the default_
 
+### Option: `leave_front_door_open`
+
+Adding this option to the add-on configuration allows you to disable
+authentication on the add-on by setting it to `true`.
+
+**Note**: _We STRONGLY suggest, not to use this, even if this add-on is
+only exposed to your internal network. USE AT YOUR OWN RISK!_
+
 ## Known issues and limitations
 
 - Alsa errors may be logged on startup, these should not cause an issue.
