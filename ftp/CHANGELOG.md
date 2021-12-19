@@ -1,4 +1,5 @@
 # Changelog since v4.3.0
+- Fix ssl typo in vsftpd.conf (#109) 
 - 🚀 Update CI to latest version (#110) 
 - Use rbind for mounting the folders so it will include all subfolders (#56)
 
