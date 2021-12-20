@@ -1,3 +1,2 @@
-# Changelog since v1.1.2
-- ⬆️ Upgrades UniFi Network Application to v6.5.5 (#328) 
-- 🚀 Update CI to latest version (#326) 
+# Changelog since v1.1.3
+- ⬆️ Update openjdk-8-jdk-headless to 8u312-b07-0ubuntu1~20.04 (#332) 
