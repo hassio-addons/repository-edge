@@ -1,1 +1,1 @@
-- 🚀 Update CI to latest version (#188)
+- ⬆️ Bump mopidy-youtube from 3.4 to 3.5 in /mopidy (#189)
