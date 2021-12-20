@@ -1,4 +1,7 @@
 # Changelog since v0.15.0
+- Apply location fix only when using Ingress (#267) 
+- ⬆️ Upgrades php8 to 8.0.14-r0 (#266) 
+- 🚀 Update CI to latest version (#263) 
 - Upgrades Grocy to 3.1.3 (#262) 
 - Fix issue #208 (#254)
 
