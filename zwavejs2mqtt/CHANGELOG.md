@@ -1,2 +1,2 @@
-# Changelog since v0.32.0
-- ⬆️ Upgrades ZwaveJS2Mqtt to v6.1.1 (#316) 
+# Changelog since v0.32.1
+- ⬆️Update zwavejs2mqtt to 6.2.0 (#319) 
