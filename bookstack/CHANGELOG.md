@@ -1,5 +1,2 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update Bookstack to v21.12 @sinclairpaul (#167)
+# Changelog since v0.13.7
+- 📚 Update Year 🎉 (#168) 
