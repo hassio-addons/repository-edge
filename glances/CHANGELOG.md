@@ -1,4 +1,7 @@
 # Changelog since v0.14.1
+- Bump requests from 2.27.0 to 2.27.1 in /glances (#243)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump requests from 2.26.0 to 2.27.0 in /glances (#242)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
