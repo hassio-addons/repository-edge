@@ -16,4 +16,4 @@ schema:
   seconds_between_quotes: int(1,120)
 slug: example
 url: https://github.com/hassio-addons/addon-example
-version: 9e7f5b7
+version: 5878aa2
