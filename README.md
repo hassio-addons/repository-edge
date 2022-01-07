@@ -921,10 +921,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/ee7e42d
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/ee7e42d/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/f441690
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/f441690/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-ee7e42d-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-f441690-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
