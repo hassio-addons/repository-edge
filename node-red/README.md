@@ -46,10 +46,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-f5d7831-blue.svg
-[release]: https://github.com/hassio-addons/addon-node-red/tree/f5d7831
+[release-shield]: https://img.shields.io/badge/version-fd1afcd-blue.svg
+[release]: https://github.com/hassio-addons/addon-node-red/tree/fd1afcd
 [screenshot]: https://github.com/hassio-addons/addon-node-red/raw/main/images/screenshot.png
