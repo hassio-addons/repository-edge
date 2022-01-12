@@ -1,4 +1,5 @@
 # Changelog since v3.7.0
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.23.0 (#370) 
 - ⬆️ Upgrades esbenp.prettier-vscode to 9.1.0 (#367) 
 - ⬆️ Upgrades code-server to 4.0.1 (#366) 
 - ⬆️ Upgrades usernamehw.errorlens to 3.4.1 (#365) 
