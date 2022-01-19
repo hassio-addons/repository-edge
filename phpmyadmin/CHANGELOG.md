@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- 🔨 Add Upload limit option (#117)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - ⬆️ Upgrades add-on base image to 11.0.1 (#119) 
 - 🎆 Updates maintenance/license year to 2022 (#120) 
 - ⬆️ Upgrades php8 to 8.0.14-r0 (#118) 
