@@ -61,4 +61,4 @@ uart: true
 udev: true
 url: https://github.com/hassio-addons/addon-nut
 usb: true
-version: fb2bf70
+version: 0.9.1
