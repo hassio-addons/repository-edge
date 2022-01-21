@@ -1,4 +1,5 @@
 # Changelog since v0.14.1
+- ⬆️ Upgrades add-on base image to 11.0.1 (#245) 
 - 🎆 Updates maintenance/license year to 2022 (#244) 
 - Bump requests from 2.27.0 to 2.27.1 in /glances (#243)
 
