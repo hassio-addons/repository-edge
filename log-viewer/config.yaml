@@ -34,4 +34,4 @@ schema:
   ssl: bool
 slug: logviewer
 url: https://github.com/hassio-addons/addon-log-viewer
-version: 34fe8c0
+version: 366effa
