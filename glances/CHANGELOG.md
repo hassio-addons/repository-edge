@@ -1,4 +1,5 @@
 # Changelog since v0.14.1
+- 🎆 Updates maintenance/license year to 2022 (#244) 
 - Bump requests from 2.27.0 to 2.27.1 in /glances (#243)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
