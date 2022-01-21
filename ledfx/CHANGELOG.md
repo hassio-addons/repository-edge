@@ -1,1 +1,1 @@
-- 🔨 Add leave_front_door_open option (#110)
+- 🎆 Updates maintenance/license year to 2022 (#112)
