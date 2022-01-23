@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- 🎆 Updates maintenance/license year to 2022 (#165) 
 - Added Hungarian translation (#163)
 
 Co-authored-by: Akos Balogh <aba@loriot.io> 

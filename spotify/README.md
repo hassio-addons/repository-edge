@@ -48,10 +48,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-spotify-connect/61210?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-3b4d7ca-blue.svg
-[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/3b4d7ca
+[release-shield]: https://img.shields.io/badge/version-a4b6eef-blue.svg
+[release]: https://github.com/hassio-addons/addon-spotify-connect/tree/a4b6eef
 [screenshot]: https://github.com/hassio-addons/addon-spotify-connect/raw/main/images/screenshot.png
