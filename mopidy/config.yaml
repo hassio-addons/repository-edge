@@ -37,4 +37,4 @@ schema:
   - str
 slug: mopidy
 url: https://github.com/hassio-addons/addon-mopidy
-version: 6e49c79
+version: 405a631

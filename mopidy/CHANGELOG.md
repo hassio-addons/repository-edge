@@ -1,1 +1,1 @@
-- ⬆️ Bump mopidy-youtube from 3.4 to 3.5 in /mopidy (#189)
+- 🎆 Updates maintenance/license year to 2022 (#191)
