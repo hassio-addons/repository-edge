@@ -1,4 +1,21 @@
 # Changelog since v10.3.4
+- Bump node-red from 2.1.6 to 2.2.0 in /node-red (#1252)
+
+Bumps [node-red](https://github.com/node-red/node-red) from 2.1.6 to 2.2.0.
+- [Release notes](https://github.com/node-red/node-red/releases)
+- [Changelog](https://github.com/node-red/node-red/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/node-red/node-red/compare/2.1.6...2.2.0)
+
+---
+updated-dependencies:
+- dependency-name: node-red
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-dashboard from 3.1.4 to 3.1.5 in /node-red (#1247)
 
 Bumps [node-red-dashboard](https://github.com/node-red/node-red-dashboard) from 3.1.4 to 3.1.5.
