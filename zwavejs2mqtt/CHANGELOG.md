@@ -1,5 +1,2 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades ZwaveJS2Mqtt to v6.4.1 @frenck (#337)
+# Changelog since v0.34.1
+- Fix upgrading firmware from Ingress (#339) 
