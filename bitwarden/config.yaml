@@ -24,5 +24,5 @@ schema:
   ssl: bool
 slug: bitwarden
 url: https://github.com/hassio-addons/addon-bitwarden
-version: 1add21f
+version: 79203e5
 webui: '[PROTO:ssl]://[HOST]:[PORT:7277]'
