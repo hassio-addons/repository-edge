@@ -1,2 +1,5 @@
-# Changelog since v0.34.0
-- ⬆️ Upgrades ZwaveJS2Mqtt to v6.4.1 (#337) 
+## What’s changed
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades ZwaveJS2Mqtt to v6.4.1 @frenck (#337)
