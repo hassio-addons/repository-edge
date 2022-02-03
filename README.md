@@ -235,6 +235,19 @@ Browser-based log utility for Home Assistant
 
 [:books: Log Viewer add-on documentation][addon-doc-log-viewer]
 
+### &#10003; [MQTT IO][addon-mqtt-io]
+
+![Latest Version][mqtt-io-version-shield]
+![Supports armhf Architecture][mqtt-io-armhf-shield]
+![Supports armv7 Architecture][mqtt-io-armv7-shield]
+![Supports aarch64 Architecture][mqtt-io-aarch64-shield]
+![Supports amd64 Architecture][mqtt-io-amd64-shield]
+![Supports i386 Architecture][mqtt-io-i386-shield]
+
+Expose GPIO modules and digital sensors via MQTT for remote control and monitoring.
+
+[:books: MQTT IO add-on documentation][addon-doc-mqtt-io]
+
 ### &#10003; [Matrix][addon-matrix]
 
 ![Latest Version][matrix-version-shield]
@@ -622,6 +635,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: JupyterLab][jupyterlab-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
+- [Open an issue for the add-on: MQTT IO][mqtt-io-issue]
 - [Open an issue for the add-on: Matrix][matrix-issue]
 - [Open an issue for the add-on: Mopidy][mopidy-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
@@ -831,6 +845,15 @@ SOFTWARE.
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/tree/693778f
+[addon-doc-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/blob/693778f/README.md
+[mqtt-io-issue]: https://github.com/hassio-addons/addon-mqtt-io/issues
+[mqtt-io-version-shield]: https://img.shields.io/badge/version-693778f-blue.svg
+[mqtt-io-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[mqtt-io-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[mqtt-io-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/82acecf
 [addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/82acecf/README.md
 [matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues
