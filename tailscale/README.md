@@ -12,8 +12,8 @@ Zero config VPN for building secure networks.
 
 ## About
 
-Tailscale is a zero config VPN, which installs on any device in minutes on
-any device, including your Home Assistant instance.
+Tailscale is a zero config VPN, which installs on any device in minutes,
+including your Home Assistant instance.
 
 Create a secure network between your servers, computers, and cloud instances.
 Even when separated by firewalls or subnets, Tailscale just works. Tailscale
@@ -48,5 +48,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-cb67a29-blue.svg
-[release]: https://github.com/hassio-addons/addon-tailscale/tree/cb67a29
+[release-shield]: https://img.shields.io/badge/version-65888f5-blue.svg
+[release]: https://github.com/hassio-addons/addon-tailscale/tree/65888f5
