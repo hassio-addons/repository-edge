@@ -1,1 +1,1 @@
-- 🎆 Updates maintenance/license year to 2022 (#37)
+- ⬆️ Upgrades Prometheus to 2.33.1 (#39)
