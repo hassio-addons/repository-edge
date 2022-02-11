@@ -1,4 +1,5 @@
 # Changelog since v10.4.0
+- ✨ Add support for setting max_old_space_size (#1275) 
 - Bump node-red-contrib-home-assistant-websocket from 0.41.3 to 0.42.0 in /node-red (#1271)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
