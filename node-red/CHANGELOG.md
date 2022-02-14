@@ -1,4 +1,8 @@
 # Changelog since v11.0.0
+- Change minimum Home Assistant version to 2021.3.0 (#1281) 
+- Bump node-red-contrib-home-assistant-websocket from 0.42.0 to 0.42.4 in /node-red (#1283)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-modbus from 5.16.0 to 5.21.0 in /node-red (#1284)
 
 Bumps [node-red-contrib-modbus](https://github.com/biancoroyal/node-red-contrib-modbus) from 5.16.0 to 5.21.0.
