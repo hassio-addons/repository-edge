@@ -21,4 +21,4 @@ ports_description:
 slug: prometheus
 startup: services
 url: https://github.com/hassio-addons/addon-prometheus
-version: c54ce1c
+version: 7eac556
