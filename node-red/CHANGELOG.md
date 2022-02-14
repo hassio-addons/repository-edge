@@ -1,28 +1,18 @@
-## What’s changed
+# Changelog since v11.0.0
+- Bump node-red-contrib-modbus from 5.16.0 to 5.21.0 in /node-red (#1284)
 
-This release two nodes have been removed from the built-in nodes.
+Bumps [node-red-contrib-modbus](https://github.com/biancoroyal/node-red-contrib-modbus) from 5.16.0 to 5.21.0.
+- [Release notes](https://github.com/biancoroyal/node-red-contrib-modbus/releases)
+- [Changelog](https://github.com/BiancoRoyal/node-red-contrib-modbus/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/biancoroyal/node-red-contrib-modbus/compare/V5.16.0...V5.21.0)
 
-The `actionflows` node isn't maintained anymore, while the `http-request` node has become obsolete and thus development on that node has stopped.
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-modbus
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
 
-## 🚨 Breaking changes
+Signed-off-by: dependabot[bot] <support@github.com>
 
-- 🔨 Remove node-red-contrib-actionflows @sinclairpaul (#1260)
-- 🔨 Remove node-red-contrib-http-request @bonanitech (#1273)
-
-## ✨ New features
-
-- ✨ Add support for setting max_old_space_size @frenck (#1275)
-
-## 🐛 Bug fixes
-
-- 🔨 Remove node-red-contrib-actionflows @sinclairpaul (#1260)
-
-## 🚀 Enhancements
-
-- 🔨 Reorganize palette categories  order @bonanitech (#1259)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades nodejs to 16.14.0-r0 @frenck (#1274)
-- 🔨 Remove node-red-contrib-http-request @bonanitech (#1273)
-- Bump node-red-contrib-home-assistant-websocket from 0.41.3 to 0.42.0 in /node-red @dependabot (#1271)
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
