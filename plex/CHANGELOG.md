@@ -1,2 +1,5 @@
-# Changelog since v2.7.2
-- ⬆️ Upgrades Plex Media Server to 1.25.3.5409 (#142) 
+## What’s changed
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades Plex Media Server to 1.25.3.5409 @invis-z (#142)
