@@ -19,7 +19,7 @@ It shows off several features and structures like:
 
 - Full blown GitHub repository.
 - General Dockerfile structure and setup.
-- The use of the `config.json` and `build.json` files.
+- The use of the `config.yaml` and `build.yaml` files.
 - General shell scripting structure (`run.sh`).
 - Quality assurance using CodeClimate.
 - Continuous integration and deployment using GitLab.
@@ -56,5 +56,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-5878aa2-blue.svg
-[release]: https://github.com/hassio-addons/addon-example/tree/5878aa2
+[release-shield]: https://img.shields.io/badge/version-fa445d3-blue.svg
+[release]: https://github.com/hassio-addons/addon-example/tree/fa445d3
