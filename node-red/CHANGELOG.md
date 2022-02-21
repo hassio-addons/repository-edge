@@ -1,4 +1,10 @@
 # Changelog since v11.0.3
+- Bump node-red-contrib-home-assistant-websocket from 0.42.7 to 0.42.8 in /node-red (#1304)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump node-red from 2.2.1 to 2.2.2 in /node-red (#1305)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-home-assistant-websocket from 0.42.5 to 0.42.7 in /node-red (#1302)
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.42.5 to 0.42.7.
