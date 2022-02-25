@@ -1,4 +1,7 @@
 # Changelog since v11.0.3
+- Bump node-red-node-serialport from 0.15.0 to 1.0.1 in /node-red (#1309)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-home-assistant-websocket from 0.42.8 to 0.43.0 in /node-red (#1308)
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.42.8 to 0.43.0.
