@@ -1,2 +1,2 @@
-# Changelog since v4.4.3
-- ⬆️ Upgrades AdGuard Home to v0.107.3 (#297) 
+# Changelog since v4.4.4
+- ⬆️ Upgrades AdGuard Home to v0.107.4 (#301) 
