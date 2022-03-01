@@ -1,4 +1,5 @@
-# Changelog since v2.7.4
-- Exclude cache from backup (#144)
+## What’s changed
 
-Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
+## 🚀 Enhancements
+
+- Exclude cache from backup @regevbr (#144)
