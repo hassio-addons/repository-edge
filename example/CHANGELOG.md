@@ -1,4 +1,5 @@
 # Changelog since v4.4.0
+- Put my button on new line (#116) 
 - 📚 Add My buttons to documentation (#115)
 
 Co-authored-by: frenck <frenck@users.noreply.github.com> 
