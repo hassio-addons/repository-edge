@@ -1,4 +1,9 @@
 # Changelog since v11.0.4
+- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#1316)
+
+* 🔒 Sign add-on with Codenotary Community Attestation Service (CAS)
+
+* Fix slug 
 - ⬆️ Upgrades add-on base image to 11.1.0 (#1315) 
 - Bump node-red-contrib-home-assistant-websocket from 0.43.0 to 0.43.1 in /node-red (#1314)
 
