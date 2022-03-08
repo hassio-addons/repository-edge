@@ -1,2 +1,2 @@
-# Changelog since v0.35.1
-- ⬆️ Upgrades ZwaveJS2Mqtt to v6.5.2 (#346) 
+# Changelog since v0.35.2
+- ⬆️ Upgrades add-on base image to 11.1.0 (#348) 
