@@ -13,7 +13,7 @@ map:
 - config:rw
 - share:rw
 - ssl
-name: AppDaemon 4
+name: AppDaemon
 options:
   init_commands: []
   python_packages: []
@@ -33,5 +33,5 @@ schema:
 slug: appdaemon
 uart: true
 url: https://github.com/hassio-addons/addon-appdaemon
-version: 1097dd7
+version: 5d60d21
 webui: http://[HOST]:[PORT:5050]
