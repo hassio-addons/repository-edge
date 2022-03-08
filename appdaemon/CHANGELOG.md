@@ -1,2 +1,2 @@
-# Changelog since v0.8.0
-- ⬆️ Upgrades AppDaemon to 4.2.1 (#189) 
+# Changelog since v0.8.1
+- ⬆️ Upgrades add-on base image to 11.1.0 (#191) 
