@@ -26,4 +26,4 @@ schema:
 slug: airsonos
 startup: services
 url: https://github.com/hassio-addons/addon-airsonos
-version: adb80e8
+version: af929d7
