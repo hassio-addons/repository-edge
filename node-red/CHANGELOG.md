@@ -1,4 +1,5 @@
 # Changelog since v11.0.4
+- 📚 Add My buttons to documentation (#1317) 
 - 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#1316)
 
 * 🔒 Sign add-on with Codenotary Community Attestation Service (CAS)
