@@ -19,7 +19,12 @@ your Home Assistant instance by leveraging your MQTT broker. It ships with
 a web-based control panel, allowing you to configure every aspect of your
 Z-Wave network and how they are published in MQTT.
 
-Some advantages and use-cases for this are:
+**Note**: Unlike the title of the software suggests, you don't need to
+use MQTT part (it is even disabled by default). It will work directly
+without MQTT using the Home Assistant integration. The add-on will provide
+a nice secondairy and extensive Z-Wave JS control interface in such cases.
+
+Some advantages and use-cases:
 
 - Compatible with the Home Assistant Z-Wave JS integration.
 - Your Z-Wave network will keep running between Home Assistant restarts.
@@ -27,6 +32,9 @@ Some advantages and use-cases for this are:
   it is available for Home Assistant at the same time.
 - Allow [ESPHome.io][esphome] based ESP devices to directly respond or work
   with your Z-Wave network.
+- Pre-configures itself with the Mosquitto add-on when found.
+
+This add-on uses the [Zwavejs2Mqtt][zwavejs2mqtt] software.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -59,5 +67,5 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6fb4790-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwavejs2mqtt/tree/6fb4790
+[release-shield]: https://img.shields.io/badge/version-5462ea1-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwavejs2mqtt/tree/5462ea1
