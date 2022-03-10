@@ -1,8 +1,8 @@
-- Bump mopidy-iris from 3.60.1 to 3.61.1 in /mopidy (#192)
+- Bump mopidy-iris from 3.61.1 to 3.62.0 in /mopidy (#194)
 
-Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.60.1 to 3.61.1.
+Bumps [mopidy-iris](https://github.com/jaedb/iris) from 3.61.1 to 3.62.0.
 - [Release notes](https://github.com/jaedb/iris/releases)
-- [Commits](https://github.com/jaedb/iris/commits/3.61.1)
+- [Commits](https://github.com/jaedb/iris/compare/3.61.1...3.62.0)
 
 ---
 updated-dependencies:
