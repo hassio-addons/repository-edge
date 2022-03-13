@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- ⬆️ Upgrades phpMyAdmin to 5.1.3 (#124) 
 - 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#123)
 
 * 🔒 Sign add-on with Codenotary Community Attestation Service (CAS)
