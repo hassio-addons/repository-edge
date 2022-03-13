@@ -1088,10 +1088,10 @@ SOFTWARE.
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [motioneye-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [motioneye-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/tree/5685e83
-[addon-doc-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/blob/5685e83/README.md
+[addon-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/tree/1543d8a
+[addon-doc-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/blob/1543d8a/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/addon-phpmyadmin/issues
-[phpmyadmin-version-shield]: https://img.shields.io/badge/version-5685e83-blue.svg
+[phpmyadmin-version-shield]: https://img.shields.io/badge/version-1543d8a-blue.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
