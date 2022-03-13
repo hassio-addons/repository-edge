@@ -1,9 +1,15 @@
-# Changelog since v0.7.0
-- ⬆️ Upgrades phpMyAdmin to 5.1.3 (#124) 
-- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#123)
+## What’s changed
 
-* 🔒 Sign add-on with Codenotary Community Attestation Service (CAS)
+## 🚀 Enhancements
 
-* ⬆️ Upgrades add-on base image to 11.1.0 
-- ⬆️ Upgrades add-on base image to 11.1.0 (#122) 
-- ⬆️ Upgrades php8 to 8.0.16-r0 (#121) 
+- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) @frenck (#123)
+
+## 📚 Documentation
+
+- 📚 Add My buttons to documentation @frenck (#125)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades php8 to 8.0.16-r0 @frenck (#121)
+- ⬆️ Upgrades add-on base image to 11.1.0 @frenck (#122)
+- ⬆️ Upgrades phpMyAdmin to 5.1.3 @frenck (#124)
