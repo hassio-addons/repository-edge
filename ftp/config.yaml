@@ -77,4 +77,4 @@ schema:
 slug: ftp
 startup: services
 url: https://github.com/hassio-addons/addon-ftp
-version: 36d2cdd
+version: 23dca32
