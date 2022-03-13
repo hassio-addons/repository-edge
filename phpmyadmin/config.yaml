@@ -19,4 +19,4 @@ services:
 - mysql:need
 slug: phpmyadmin
 url: https://github.com/hassio-addons/addon-phpmyadmin
-version: e0dbb39
+version: 5685e83
