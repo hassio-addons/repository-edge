@@ -1,4 +1,5 @@
 # Changelog since v0.8.1
+- 📚 Hotfix repository link 
 - 🔨 Rename add-on to just 'AppDaemon' (#194) 
 - 📚 Add My buttons to documentation (#193)
 
