@@ -7,6 +7,7 @@ arch:
 - armv7
 - i386
 audio: true
+codenotary: codenotary@frenck.dev
 description: SSH & Web Terminal access to your Home Assistant instance
 devices:
 - /dev/mem
@@ -83,4 +84,4 @@ startup: services
 uart: true
 url: https://github.com/hassio-addons/addon-ssh
 usb: true
-version: 24b22f0
+version: 7d7f69c
