@@ -1,4 +1,5 @@
 # Changelog since v0.14.2
+- ⬆️ Upgrades add-on base image to 11.1.0 (#252) 
 - Bump zeroconf from 0.38.3 to 0.38.4 in /glances (#251)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.38.3 to 0.38.4.
