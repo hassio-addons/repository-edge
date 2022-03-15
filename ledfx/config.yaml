@@ -29,5 +29,5 @@ schema:
   ssl: bool
 slug: ledfx
 url: https://github.com/hassio-addons/addon-ledfx
-version: 92bb713
+version: 91682fa
 webui: '[PROTO:ssl]://[HOST]:[PORT:80]'
