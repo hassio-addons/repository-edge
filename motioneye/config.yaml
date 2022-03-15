@@ -47,5 +47,5 @@ schema:
   ssl: bool
 slug: motioneye
 url: https://github.com/hassio-addons/addon-motioneye
-version: 1d293e3
+version: fa26f20
 video: true
