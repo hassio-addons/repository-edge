@@ -15,4 +15,4 @@ name: SQLite Web
 panel_icon: mdi:database
 slug: sqlite-web
 url: https://github.com/hassio-addons/addon-sqlite-web/tree/main/README.md
-version: caa87a4
+version: fab3662
