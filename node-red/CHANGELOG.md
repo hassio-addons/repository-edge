@@ -1,4 +1,7 @@
 # Changelog since v11.1.0
+- Bump node-red-contrib-time-range-switch from 1.1.2 to 1.1.3 in /node-red (#1326)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-node-email from 1.14.0 to 1.15.0 in /node-red (#1325)
 
 Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes/tree/HEAD/tree/master/social/email) from 1.14.0 to 1.15.0.
