@@ -6,6 +6,7 @@ arch:
 backup_exclude:
 - '**/Plex Media Server/Cache/**'
 - '**/Plex Media Server/Plug-in Support/Caches/**'
+codenotary: codenotary@frenck.dev
 description: Recorded media, live TV, online news, and podcasts ready to stream.
 hassio_api: true
 image: ghcr.io/hassio-addons/plex/{arch}
@@ -46,5 +47,5 @@ schema:
 slug: plex
 startup: services
 url: https://github.com/hassio-addons/addon-plex
-version: a413eec
+version: cb3200b
 webui: http://[HOST]:[PORT:32400]/web
