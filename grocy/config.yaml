@@ -27,6 +27,7 @@ options:
     shoppinglist: true
     stock: true
     tasks: true
+  grocy_ingress_user: ''
   keyfile: privkey.pem
   ssl: true
   tweaks:
@@ -58,6 +59,7 @@ schema:
     shoppinglist: bool
     stock: bool
     tasks: bool
+  grocy_ingress_user: str
   keyfile: str
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   ssl: bool
@@ -74,4 +76,4 @@ schema:
     stock_product_opened_tracking: bool
 slug: grocy
 url: https://github.com/hassio-addons/addon-grocy
-version: c624f64
+version: eb098c9

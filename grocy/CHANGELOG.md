@@ -1,4 +1,7 @@
 # Changelog since v0.16.0
+- ✨ Add ingress user support (#286)
+
+Co-authored-by: Oliver Felkel <oliver.felkel@uni-ulm.de> 
 - ⬆️ Update Grocy to v3.2.0 (#284)
 
 Co-authored-by: Oliver F <oli-f@users.noreply.github.com> 
