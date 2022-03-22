@@ -1,4 +1,7 @@
 # Changelog since v0.16.0
+- ⬆️ Update Grocy to v3.2.0 (#284)
+
+Co-authored-by: Oliver F <oli-f@users.noreply.github.com> 
 - 📚 Add My buttons to documentation (#291) 
 - 🔒 Pass sign token to main workflow (#290) 
 - 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#289)
