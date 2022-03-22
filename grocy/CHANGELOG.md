@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- 📚 Add My buttons to documentation (#291) 
 - 🔒 Pass sign token to main workflow (#290) 
 - 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#289)
 
