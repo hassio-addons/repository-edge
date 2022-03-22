@@ -49,10 +49,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-panel-a-touch-compatible-webapp-for-controlling-the-home/62597?u=timmo001
 [hass]: https://www.home-assistant.io/
 [home-panel]: https://github.com/timmo001/home-panel
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-fd7e5e9-blue.svg
-[release]: https://github.com/hassio-addons/addon-home-panel/tree/fd7e5e9
+[release-shield]: https://img.shields.io/badge/version-c851802-blue.svg
+[release]: https://github.com/hassio-addons/addon-home-panel/tree/c851802
 [screen-configuration-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/screen-configuration-main.png
 [screen-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/screen-main.png
 [showcase-purple-space]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/docs/showcase/timmo/purple-space.png
