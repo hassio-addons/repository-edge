@@ -1,7 +1,3 @@
-# Changelog since v0.14.0
-- ⬆️ Upgrades add-on base image to 11.0.1 (#168) 
-- ⬆️ Upgrades Traccar to v4.15 (#167) 
-- ⬆️ Upgrades nss to 3.72.1-r0 (#166) 
-- 🎆 Updates maintenance/license year to 2022 (#165) 
-- ⬆️ Upgrades add-on base image to 11.0.0 (#163) 
-- 🚀 Update CI to latest version (#162) 
+# Changelog since v0.15.0
+- ⬆️ Upgrades openjdk11-jre-headless to 11.0.14_p9-r0 (#171) 
+- ⬆️ Upgrades mariadb-client to 10.6.7-r0 (#170) 

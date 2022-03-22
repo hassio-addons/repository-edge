@@ -30,4 +30,4 @@ services:
 slug: traccar
 startup: services
 url: https://github.com/hassio-addons/addon-traccar
-version: 1414add
+version: b439010
