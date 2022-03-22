@@ -4,6 +4,7 @@ arch:
 - armhf
 - armv7
 - i386
+codenotary: codenotary@frenck.dev
 description: ERP beyond your fridge! A groceries & household management solution for
   your home
 image: ghcr.io/hassio-addons/grocy/{arch}
@@ -73,4 +74,4 @@ schema:
     stock_product_opened_tracking: bool
 slug: grocy
 url: https://github.com/hassio-addons/addon-grocy
-version: 84bef96
+version: ee5b43b
