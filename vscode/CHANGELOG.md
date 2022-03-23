@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#405) 
 - ⬆️ Upgrades add-on base image to 5.3.0 (#403) 
 - 🚑 Use https instead of git protocol to fetch sources (#404) 
 - Fix typo (#394) 
