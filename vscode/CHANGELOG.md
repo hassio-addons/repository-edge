@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- ⬆️ Upgrades redhat.vscode-yaml to 1.5.1 (#411) 
 - ⬆️ Upgrades usernamehw.errorlens to 3.4.2 (#410) 
 - ⬆️ Upgrades esbenp.prettier-vscode to 9.3.0 (#409) 
 - ⬆️ Upgrades netcorext.uuid-generator to 0.0.5 (#408) 
