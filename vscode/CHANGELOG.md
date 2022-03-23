@@ -1,4 +1,6 @@
 # Changelog since v4.0.0
+- 📚 Add My buttons to documentation (#414) 
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.27.0 (#413) 
 - 🚑 Fix build-in extensions path (#412)
 
 * 🚑 Fix build-in extensions path
