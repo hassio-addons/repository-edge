@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- ⬆️ Upgrades add-on base image to 5.3.0 (#309) 
 - ⬆️ Upgrades nodejs to 14.19.1-deb-1nodesource1 (#308) 
 - ⬆️ Upgrades libpq5 to 13.5-0+deb11u1 (#307) 
 - ⬆️ Bump scrapy from 2.5.1 to 2.6.0 in /jupyterlab (#306)
