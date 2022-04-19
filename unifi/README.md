@@ -53,6 +53,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-ad5c262-blue.svg
-[release]: https://github.com/hassio-addons/addon-unifi/tree/ad5c262
+[release-shield]: https://img.shields.io/badge/version-9ff360c-blue.svg
+[release]: https://github.com/hassio-addons/addon-unifi/tree/9ff360c
 [screenshot]: https://github.com/hassio-addons/addon-unifi/raw/main/images/screenshot.jpg
