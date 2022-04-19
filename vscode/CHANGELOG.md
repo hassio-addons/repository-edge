@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- ⬆️ Upgrades esbenp.prettier-vscode to 9.5.0 (#420) 
 - ⬆️ Upgrades uuid-runtime to 2.36.1-8+deb11u1 (#426) 
 - ⬆️ Upgrades mariadb-client to 1:10.5.15-0+deb11u1 (#425) 
 - ⬆️ Upgrades openssl to 1.1.1n-0+deb11u1 (#424) 
