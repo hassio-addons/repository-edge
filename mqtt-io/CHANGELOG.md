@@ -1,1 +1,1 @@
-- Cleanup of unused variable
+- Fix container build failure (#3)
