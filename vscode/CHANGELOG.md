@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- ⬆️ Upgrades ESPHome.esphome-vscode to 2.0.0 (#428) 
 - ⬆️ Upgrades add-on base image to 5.3.1 (#427) 
 - ⬆️ Upgrades esbenp.prettier-vscode to 9.5.0 (#420) 
 - ⬆️ Upgrades uuid-runtime to 2.36.1-8+deb11u1 (#426) 
