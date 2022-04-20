@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- ⬆️ Upgrades ESPHome to 2022.4.0 (#437) 
 - ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.28.0 (#436) 
 - 🔥 Remove hassio command compatibility layer (#435) 
 - 🧹 Remove workarounds no longer needed (#434) 
