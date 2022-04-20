@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- ⬆️ Upgrades code-server to 4.3.0 (#430) 
 - ⬆️ Upgrades oderwat.indent-rainbow to 8.3.1 (#429) 
 - ⬆️ Upgrades ESPHome.esphome-vscode to 2.0.0 (#428) 
 - ⬆️ Upgrades add-on base image to 5.3.1 (#427) 
