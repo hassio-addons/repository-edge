@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- 🔥 Remove hassio command compatibility layer (#435) 
 - 🧹 Remove workarounds no longer needed (#434) 
 - 🧹 Clean up some build cache (#431) 
 - Embed ESPHome (#433)
