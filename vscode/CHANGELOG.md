@@ -1,4 +1,11 @@
 # Changelog since v4.2.0
+- 🧹 Remove workarounds no longer needed (#434) 
+- 🧹 Clean up some build cache (#431) 
+- Embed ESPHome (#433)
+
+* Embed ESPHome
+
+* Set local ESPHome validator 
 - 🔥 Remove Home Assistant CLI (#432) 
 - Cleanup .zshrc configuration 
 - ⬆️ Upgrades code-server to 4.3.0 (#430) 
