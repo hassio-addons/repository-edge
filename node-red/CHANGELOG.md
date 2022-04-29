@@ -1,4 +1,5 @@
 # Changelog since v11.1.1
+- ⬆️ Upgrades add-on base image to 11.1.2 (#1340) 
 - Bump node-red-node-email from 1.15.0 to 1.15.1 in /node-red (#1333)
 
 Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes/tree/HEAD/tree/master/social/email) from 1.15.0 to 1.15.1.
