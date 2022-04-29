@@ -1,2 +1,12 @@
-# Changelog since v10.1.0
-- Preserve the SSH_AUTH_SOCK environment variable (#368) 
+# Changelog since v10.1.1
+- 🚑 Fix git URL for oh-my-zsh (#406) 
+- ⬆️ Upgrades openssl to 1.1.1n-r0 (#405) 
+- ⬆️ Upgrades mariadb-client to 10.6.7-r0 (#404) 
+- ⬆️ Upgrades git to 2.34.2-r0 (#403) 
+- ⬆️ Upgrades vim to 8.2.4836-r0 (#402) 
+- ⬆️ Upgrades bluez to 5.64-r0 (#401) 
+- ⬆️ Upgrades bind-tools to 9.16.27-r0 (#400) 
+- ⬆️ Upgrades zlib-dev to 1.2.12-r1 (#399) 
+- ⬆️ Upgrades docker to 20.10.14-r1 (#398) 
+- ⬆️ Upgrades add-on base image to 11.1.2 (#397) 
+- 📚 Add note on usernames (#396) 
