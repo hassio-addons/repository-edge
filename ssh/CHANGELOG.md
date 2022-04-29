@@ -1,4 +1,5 @@
 # Changelog since v10.1.1
+- ⬆️ Upgrades Home Assistant CLI to v4.16.1 (#407) 
 - 🚑 Fix git URL for oh-my-zsh (#406) 
 - ⬆️ Upgrades openssl to 1.1.1n-r0 (#405) 
 - ⬆️ Upgrades mariadb-client to 10.6.7-r0 (#404) 
