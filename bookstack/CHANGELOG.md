@@ -1,8 +1,10 @@
-# Changelog since v1.0.2
-- ⬆️ Update Bookstack to v22.04 and dependencies (#177)
+# Changelog since v1.0.3
+- ⬆️ Update image, PHP and dependencies (#178)
 
-* ⬆️ Update mariadb-client to 10.5.15-r0
+* ⬆️ Update image to v11.1.2
 
-* ⬆️ Update nginx to 1.20.2-r1
+* ⬆️ Update PHP to 8.0.18-r0
 
-* ⬆️ Update Bookstack to v22.04 
+* ⬆️ Update Composer to 2.2.12-r0
+
+* ⬆️ Update mariadb/nginx 
