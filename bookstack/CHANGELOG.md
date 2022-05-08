@@ -1,4 +1,5 @@
 # Changelog since v1.0.3
+- 🚑 Add php-xmlwriter for QR Code generation (#179) 
 - ⬆️ Update image, PHP and dependencies (#178)
 
 * ⬆️ Update image to v11.1.2
