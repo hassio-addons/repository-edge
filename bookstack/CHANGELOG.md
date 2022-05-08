@@ -1,4 +1,5 @@
 # Changelog since v1.0.3
+- ⬆️ Update Bookstack to v22.04.1 (#180) 
 - 🚑 Add php-xmlwriter for QR Code generation (#179) 
 - ⬆️ Update image, PHP and dependencies (#178)
 
