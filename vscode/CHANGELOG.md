@@ -1,2 +1,2 @@
-# Changelog since v5.0.1
-- ⬆️ Upgrades Home Assistant CLI to v4.17.0 (#444) 
+# Changelog since v5.0.2
+- ⬆️ Upgrades code-server to 4.4.0 (#448) 
