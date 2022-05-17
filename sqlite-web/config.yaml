@@ -17,4 +17,4 @@ schema:
   database: str?
 slug: sqlite-web
 url: https://github.com/hassio-addons/addon-sqlite-web/tree/main/README.md
-version: dfc5055
+version: 74e422e
