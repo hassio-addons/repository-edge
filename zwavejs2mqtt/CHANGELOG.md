@@ -1,2 +1,2 @@
-# Changelog since v0.40.0
-- ⬆️ Upgrades zwavejs2mqtt to v6.10.0 (#377) 
+# Changelog since v0.41.0
+- ⬆️ Upgrades zwavejs2mqtt to v6.11.0 (#378) 
