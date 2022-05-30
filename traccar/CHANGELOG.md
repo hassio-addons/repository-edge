@@ -1,6 +1,5 @@
-# Changelog since v0.15.0
-- 📚 Add My buttons to documentation (#174) 
-- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#173) 
-- ⬆️ Upgrades add-on base image to 11.1.0 (#172) 
-- ⬆️ Upgrades openjdk11-jre-headless to 11.0.14_p9-r0 (#171) 
-- ⬆️ Upgrades mariadb-client to 10.6.7-r0 (#170) 
+# Changelog since v0.16.0
+- ⬆️ Upgrades openjdk11-jre-headless to 11.0.15_p10-r0 (#179) 
+- ⬆️ Upgrades nss to 3.76.1-r0 (#178) 
+- ⬆️ Upgrades nginx to 1.20.2-r1 (#177) 
+- ⬆️ Upgrades mariadb-client to 10.6.8-r0 (#176) 
