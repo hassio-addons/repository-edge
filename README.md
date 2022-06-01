@@ -1106,7 +1106,7 @@ SOFTWARE.
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/hassio-addons/repository-edge/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/repository-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
