@@ -1,4 +1,5 @@
 # Changelog since v11.1.2
+- 🧹 Clean up another 5Mb of cache files (#1361) 
 - 🔥 Remove GPIO suppport (#1360) 
 - 🔥 Cleanup built-in nodes (#1359) 
 - 🚑 Fix serial port binding issue (#1357) 
