@@ -1,4 +1,6 @@
 # Changelog since v11.1.2
+- 📚 Use new My Home Assistant link format (#1358) 
+- ⬆️ Upgrades add-on base image to 12.0.0 (#1356) 
 - Bump node-red-node-feedparser from 0.2.2 to 0.3.0 in /node-red (#1355)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
