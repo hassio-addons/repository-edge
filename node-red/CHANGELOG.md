@@ -1,4 +1,5 @@
 # Changelog since v11.1.2
+- 🚑 Fix serial port binding issue (#1357) 
 - 📚 Use new My Home Assistant link format (#1358) 
 - ⬆️ Upgrades add-on base image to 12.0.0 (#1356) 
 - Bump node-red-node-feedparser from 0.2.2 to 0.3.0 in /node-red (#1355)

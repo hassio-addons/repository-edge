@@ -74,4 +74,4 @@ schema:
 slug: nodered
 uart: true
 url: https://github.com/hassio-addons/addon-node-red
-version: 2345b26
+version: d118d7d
