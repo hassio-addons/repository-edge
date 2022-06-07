@@ -1,4 +1,5 @@
 # Changelog since v11.1.2
+- 🔥 Remove GPIO suppport (#1360) 
 - 🔥 Cleanup built-in nodes (#1359) 
 - 🚑 Fix serial port binding issue (#1357) 
 - 📚 Use new My Home Assistant link format (#1358) 
