@@ -43,4 +43,4 @@ schema:
 slug: adguard
 startup: services
 url: https://github.com/hassio-addons/addon-adguard-home
-version: abdf12e
+version: 534e871
