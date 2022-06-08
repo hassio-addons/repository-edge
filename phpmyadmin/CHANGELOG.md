@@ -1,3 +1,2 @@
-# Changelog since v0.7.1
-- ⬆️ Upgrades phpMyAdmin to 5.2.0 (#130) 
-- ⬆️ Upgrades add-on base image to 12.0.0 (#129) 
+# Changelog since v0.8.0
+- 📚 Use new My Home Assistant link format (#131) 
