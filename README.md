@@ -728,10 +728,10 @@ SOFTWARE.
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [aircast-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [aircast-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/95f018e
-[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/95f018e/README.md
+[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/e76abfd
+[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/e76abfd/README.md
 [airsonos-issue]: https://github.com/hassio-addons/addon-airsonos/issues
-[airsonos-version-shield]: https://img.shields.io/badge/version-95f018e-blue.svg
+[airsonos-version-shield]: https://img.shields.io/badge/version-e76abfd-blue.svg
 [airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
