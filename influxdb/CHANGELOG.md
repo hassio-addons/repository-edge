@@ -1,2 +1,2 @@
-# Changelog since v4.4.0
-- ⬆️ Upgrades Chronograf to 1.9.4 (#245) 
+# Changelog since v4.4.1
+- ⬆️ Upgrades add-on base image to 6.0.0 (#248) 
