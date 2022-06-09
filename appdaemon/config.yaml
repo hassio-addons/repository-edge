@@ -33,5 +33,5 @@ schema:
 slug: appdaemon
 uart: true
 url: https://github.com/hassio-addons/addon-appdaemon
-version: 72c33e0
+version: 28591f9
 webui: http://[HOST]:[PORT:5050]
