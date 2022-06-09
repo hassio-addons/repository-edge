@@ -1,8 +1,8 @@
-# Changelog since v0.11.0
-- ⬆️ Upgrades librespot to 0.4.1 (#174)
+# Changelog since v0.12.0
+- 📚 Use new My Home Assistant link format (#176)
 
-* ⬆️ Upgrades librespot to 0.4.1
+* 📚 Use new My Home Assistant link format
 
-* Fetch with CLI 
-- ⬆️ Upgrades add-on base image to 12.0.0 (#173) 
-- ⬆️ Upgrades git to 2.34.2-r0 (#172) 
+* Prettified Code!
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
