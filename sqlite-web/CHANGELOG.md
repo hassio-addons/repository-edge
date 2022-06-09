@@ -1,4 +1,5 @@
 # Changelog since v3.4.0
+- 🚑 Fix Python version in container init script (#211) 
 - 📚 Use new My Home Assistant link format (#210) 
 - ⬆️ Upgrades add-on base image to 12.0.0 (#209)
 
