@@ -21,4 +21,4 @@ schema:
   username: str?
 slug: spotify
 url: https://github.com/hassio-addons/addon-spotify-connect
-version: ee521bb
+version: 99f28f8
