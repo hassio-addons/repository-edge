@@ -1,4 +1,6 @@
 # Changelog since v3.0.5
+- 🚑 Fix deployment of add-on (#137) 
+- ⬆️ Upgrades add-on base image to 12.0.0 (#136) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#122) 
 - 🚀 Update CI to latest version (#121) 
 - ⬆️ Upgrades add-on base image to 10.2.2 (#118) 
