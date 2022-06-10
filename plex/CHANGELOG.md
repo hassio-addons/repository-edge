@@ -1,2 +1,6 @@
-# Changelog since v2.8.0
-- ⬆️ Upgrades Plex Media Server to 1.26.0.5715 (#151) 
+# Changelog since v2.9.0
+- ⬆️ Upgrades add-on base image to 8.0.0 (#153)
+
+* ⬆️ Upgrades add-on base image to 8.0.0
+
+* Drop i386 support 
