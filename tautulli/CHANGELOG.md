@@ -1,4 +1,5 @@
 # Changelog since v2.3.0
+- 📚 Fix maintenance shield (#215) 
 - 🔨Rewrite of add-on (#214)
 
 * ⬆️ Upgrades add-on base image to 12.0.0
