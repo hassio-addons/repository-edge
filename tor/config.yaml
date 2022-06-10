@@ -5,7 +5,7 @@ arch:
 - armv7
 - i386
 codenotary: codenotary@frenck.dev
-description: Protect your privacy and access Home Assistant via Tor.
+description: Protect your privacy and access Home Assistant via Tor
 image: ghcr.io/hassio-addons/tor/{arch}
 init: false
 map:
@@ -16,6 +16,7 @@ options:
   hidden_services: true
   ports:
   - '8123'
+  - 8123:80
   socks: false
   stealth: false
 ports:
@@ -34,4 +35,4 @@ schema:
 slug: tor
 startup: services
 url: https://github.com/hassio-addons/addon-tor
-version: 859a3b2
+version: 89f6905

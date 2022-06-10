@@ -1,4 +1,14 @@
 # Changelog since v3.0.5
+- 🔨 Refactor container init (#143) 
+- 🌎 Add translations files (#142)
+
+* 🌎 Add translations files
+
+* Prettified Code!
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
+- :shirt: Change ports default to use port 80 (#141) 
+- 📚 Add My button to documentation (#140) 
 - 🚑 Fix Hidden Service V3 Client Authorization (#105)
 
 Co-authored-by: GuillaumeHubR <77720768+GuillaumeHubR@users.noreply.github.com>
