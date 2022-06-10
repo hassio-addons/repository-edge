@@ -1,2 +1,2 @@
-# Changelog since v2.2.1
-- ⬆️ Upgrades UniFi Network Application to 7.1.66 (#364) 
+# Changelog since v2.2.2
+- ⬆️ Upgrades add-on base image to 8.0.0 (#367) 
