@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- ⬆️ Update Bookstack to v22.04.2 (#185) 
 - ⬆️ Upgrades add-on base image to 12.0.0 (#184)
 
 * ⬆️ Upgrades add-on base image to 12.0.0

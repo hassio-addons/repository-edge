@@ -39,5 +39,5 @@ services:
 - mysql:want
 slug: bookstack
 url: https://github.com/hassio-addons/addon-bookstack
-version: 9a8a854
+version: 9e33e9e
 webui: '[PROTO:ssl]://[HOST]:[PORT:80]'
