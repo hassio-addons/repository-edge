@@ -4,32 +4,22 @@ arch:
 - armhf
 - armv7
 - i386
+codenotary: codenotary@frenck.dev
 description: Monitoring and tracking tool for Plex Media Server
 hassio_api: true
 image: ghcr.io/hassio-addons/tautulli/{arch}
+init: false
 map:
-- ssl
 - share:rw
+- backup:rw
 name: Tautulli
-options:
-  certfile: fullchain.pem
-  keyfile: privkey.pem
-  password: ''
-  ssl: true
-  username: ''
 ports:
   8181/tcp: 8181
 ports_description:
   8181/tcp: Tautulli web interface
 schema:
-  certfile: str
-  keyfile: str
-  leave_front_door_open: bool?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-  password: password
-  ssl: bool
-  username: str
 slug: tautulli
 url: https://github.com/hassio-addons/addon-tautulli/tree/main/README.md
-version: '5983580'
+version: 0f768da
 webui: '[PROTO:ssl]://[HOST]:[PORT:8181]'

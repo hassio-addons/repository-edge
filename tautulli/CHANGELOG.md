@@ -1,4 +1,187 @@
 # Changelog since v2.3.0
+- 🔨Rewrite of add-on (#214)
+
+* ⬆️ Upgrades add-on base image to 12.0.0
+
+* 🔨 Rewrite add-on
+
+* 📚 Docs adjustments
+
+* Tweak
+
+* Remove now obsolete pyopenssl
+
+* 🔒 Sign add-on with Codenotary Community Attestation Service (CAS)
+
+* Add build deps 
+- ⬆️ Bump plexapi from 4.11.1 to 4.11.2 in /tautulli (#213)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.11.1 to 4.11.2.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.11.1...4.11.2)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump plexapi from 4.10.1 to 4.11.1 in /tautulli (#212)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.10.1 to 4.11.1.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.10.1...4.11.1)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Replace and/or remove refrences to ludeeus (#210)
+
+Co-authored-by: Franck Nijhof <frenck@addons.community> 
+- ⬆️ Bump plexapi from 4.9.2 to 4.10.1 in /tautulli (#207)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.9.2 to 4.10.1.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.9.2...4.10.1)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump plexapi from 4.9.1 to 4.9.2 in /tautulli (#204)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.9.1 to 4.9.2.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.9.1...4.9.2)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump pycryptodomex from 3.14.0 to 3.14.1 in /tautulli (#203)
+
+Bumps [pycryptodomex](https://github.com/Legrandin/pycryptodome) from 3.14.0 to 3.14.1.
+- [Release notes](https://github.com/Legrandin/pycryptodome/releases)
+- [Changelog](https://github.com/Legrandin/pycryptodome/blob/master/Changelog.rst)
+- [Commits](https://github.com/Legrandin/pycryptodome/compare/v3.14.0...v3.14.1)
+
+---
+updated-dependencies:
+- dependency-name: pycryptodomex
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump pyopenssl from 21.0.0 to 22.0.0 in /tautulli (#201)
+
+Bumps [pyopenssl](https://github.com/pyca/pyopenssl) from 21.0.0 to 22.0.0.
+- [Release notes](https://github.com/pyca/pyopenssl/releases)
+- [Changelog](https://github.com/pyca/pyopenssl/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pyca/pyopenssl/compare/21.0.0...22.0.0)
+
+---
+updated-dependencies:
+- dependency-name: pyopenssl
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump pycryptodomex from 3.13.0 to 3.14.0 in /tautulli (#202)
+
+Bumps [pycryptodomex](https://github.com/Legrandin/pycryptodome) from 3.13.0 to 3.14.0.
+- [Release notes](https://github.com/Legrandin/pycryptodome/releases)
+- [Changelog](https://github.com/Legrandin/pycryptodome/blob/master/Changelog.rst)
+- [Commits](https://github.com/Legrandin/pycryptodome/compare/v3.13.0...v3.14.0)
+
+---
+updated-dependencies:
+- dependency-name: pycryptodomex
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump plexapi from 4.9.0 to 4.9.1 in /tautulli (#200)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.9.0 to 4.9.1.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.9.0...4.9.1)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump plexapi from 4.8.0 to 4.9.0 in /tautulli (#198)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.8.0 to 4.9.0.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.8.0...4.9.0)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump pycryptodomex from 3.11.0 to 3.13.0 in /tautulli (#199)
+
+Bumps [pycryptodomex](https://github.com/Legrandin/pycryptodome) from 3.11.0 to 3.13.0.
+- [Release notes](https://github.com/Legrandin/pycryptodome/releases)
+- [Changelog](https://github.com/Legrandin/pycryptodome/blob/master/Changelog.rst)
+- [Commits](https://github.com/Legrandin/pycryptodome/compare/v3.11.0...v3.13.0)
+
+---
+updated-dependencies:
+- dependency-name: pycryptodomex
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades Tautulli to v2.8.1 (#197) 
 - ⬆️ Upgrades Tautulli to v2.8.0 (#195) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#194) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#193) 
