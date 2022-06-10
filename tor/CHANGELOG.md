@@ -1,4 +1,8 @@
 # Changelog since v3.0.5
+- 🚑 Fix Hidden Service V3 Client Authorization (#105)
+
+Co-authored-by: GuillaumeHubR <77720768+GuillaumeHubR@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - 🔥 Clean up obsolete fixattrs.d (#139) 
 - 🎆 Updates maintenance/license year to 2022 (#138) 
 - 🚑 Fix deployment of add-on (#137) 
