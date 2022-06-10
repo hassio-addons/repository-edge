@@ -1,4 +1,6 @@
 # Changelog since v3.0.5
+- 🔥 Clean up obsolete fixattrs.d (#139) 
+- 🎆 Updates maintenance/license year to 2022 (#138) 
 - 🚑 Fix deployment of add-on (#137) 
 - ⬆️ Upgrades add-on base image to 12.0.0 (#136) 
 - ⬆️ Upgrades add-on base image to 11.0.0 (#122) 
