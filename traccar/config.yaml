@@ -29,5 +29,5 @@ services:
 slug: traccar
 startup: services
 url: https://github.com/hassio-addons/addon-traccar
-version: 0c3e0e3
+version: 63969da
 webui: '[PROTO:ssl]://[HOST]:[PORT:80]/modern/'

@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- ⬆️ Upgrades add-on base image to 12.0.0 (#183) 
 - ⬆️ Upgrades add-on base image to 11.1.2 (#182) 
 - 📚 Use new My Home Assistant link format (#181) 
 - ⬆️ Upgrades Traccar to v5.0 (#180)
