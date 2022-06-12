@@ -1,1 +1,1 @@
-- Fix container build failure (#3)
+- ⬆️ Upgrades add-on base image to 12.0.0 (#4)
