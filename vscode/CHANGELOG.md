@@ -1,6 +1,2 @@
-# Changelog since v5.0.6
-- ⬆️ Upgrades add-on base image to 6.0.0 (#466)
-
-* ⬆️ Upgrades add-on base image to 6.0.0
-
-* Bump openssl 
+# Changelog since v5.1.0
+- ⬆️ Upgrades emilast.LogFileHighlighter to 2.16.0 (#467) 
