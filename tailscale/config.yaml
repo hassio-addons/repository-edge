@@ -25,4 +25,4 @@ schema:
 slug: tailscale
 startup: services
 url: https://github.com/hassio-addons/addon-tailscale
-version: 3bf738f
+version: 3798df1
