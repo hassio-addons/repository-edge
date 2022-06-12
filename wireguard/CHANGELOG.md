@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- Fix service path in wireguard service file (#200) 
 - 🚑 Fix service run permissions (#199) 
 - ⬆️ Upgrades WireGuard Go to 0.0.20220316 (#198) 
 - ⬆️ Upgrades add-on base image to 12.0.0 (#197) 

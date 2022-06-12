@@ -1034,10 +1034,10 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/132d796
-[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/132d796/README.md
+[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/2f4315f
+[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/2f4315f/README.md
 [wireguard-issue]: https://github.com/hassio-addons/addon-wireguard/issues
-[wireguard-version-shield]: https://img.shields.io/badge/version-132d796-blue.svg
+[wireguard-version-shield]: https://img.shields.io/badge/version-2f4315f-blue.svg
 [wireguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wireguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
