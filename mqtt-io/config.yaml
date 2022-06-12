@@ -17,11 +17,14 @@ map:
 - share:rw
 - ssl
 name: MQTT IO
+options:
+  configuration_file: /config/mqtt-io/config.yml
 privileged:
 - SYS_RAWIO
 schema:
+  configuration_file: str
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
 slug: mqtt-io
 uart: true
 url: https://github.com/hassio-addons/addon-mqtt-io
-version: 726f097
+version: d6e237a
