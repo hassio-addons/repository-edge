@@ -1,4 +1,9 @@
 # Changelog since v0.6.0
+- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) (#203)
+
+* 🔒 Sign add-on with Codenotary Community Attestation Service (CAS)
+
+* Update deploy 
 - 📚 Small documentation tweaks and updates (#202) 
 - 🎆 Updates maintenance/license year to 2022 (#201) 
 - Fix service path in wireguard service file (#200) 
