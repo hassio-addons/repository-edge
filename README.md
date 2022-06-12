@@ -482,6 +482,19 @@ Manage your UniFi network using a web browser
 
 [:books: UniFi Network Application add-on documentation][addon-doc-unifi]
 
+### &#10003; [Uptime Kuma][addon-uptime-kuma]
+
+![Latest Version][uptime-kuma-version-shield]
+![Supports armhf Architecture][uptime-kuma-armhf-shield]
+![Supports armv7 Architecture][uptime-kuma-armv7-shield]
+![Supports aarch64 Architecture][uptime-kuma-aarch64-shield]
+![Supports amd64 Architecture][uptime-kuma-amd64-shield]
+![Supports i386 Architecture][uptime-kuma-i386-shield]
+
+It is a self-hosted monitoring tool like "Uptime Robot"
+
+[:books: Uptime Kuma add-on documentation][addon-doc-uptime-kuma]
+
 ### &#10003; [VSCode Remote][addon-vscode-remote]
 
 ![Latest Version][vscode-remote-version-shield]
@@ -654,6 +667,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Tor][tor-issue]
 - [Open an issue for the add-on: Traccar][traccar-issue]
 - [Open an issue for the add-on: UniFi Network Application][unifi-issue]
+- [Open an issue for the add-on: Uptime Kuma][uptime-kuma-issue]
 - [Open an issue for the add-on: VSCode Remote][vscode-remote-issue]
 - [Open an issue for the add-on: Vaultwarden (Bitwarden)][bitwarden-issue]
 - [Open an issue for the add-on: WireGuard][wireguard-issue]
@@ -1016,6 +1030,15 @@ SOFTWARE.
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [unifi-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-uptime-kuma]: https://github.com/hassio-addons/addon-uptime-kuma/tree/ec85ac1
+[addon-doc-uptime-kuma]: https://github.com/hassio-addons/addon-uptime-kuma/blob/ec85ac1/README.md
+[uptime-kuma-issue]: https://github.com/hassio-addons/addon-uptime-kuma/issues
+[uptime-kuma-version-shield]: https://img.shields.io/badge/version-ec85ac1-blue.svg
+[uptime-kuma-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[uptime-kuma-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[uptime-kuma-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[uptime-kuma-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[uptime-kuma-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/tree/6541b8e
 [addon-doc-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/blob/6541b8e/README.md
 [vscode-remote-issue]: https://github.com/hassio-addons/addon-vscode-remote/issues
