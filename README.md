@@ -908,10 +908,10 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/844a3a4
-[addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/844a3a4/README.md
+[addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/fe262a9
+[addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/fe262a9/README.md
 [prometheus-issue]: https://github.com/hassio-addons/addon-prometheus/issues
-[prometheus-version-shield]: https://img.shields.io/badge/version-844a3a4-blue.svg
+[prometheus-version-shield]: https://img.shields.io/badge/version-fe262a9-blue.svg
 [prometheus-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [prometheus-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [prometheus-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

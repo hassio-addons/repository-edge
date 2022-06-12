@@ -1,1 +1,1 @@
-- ⬆️ Upgrades Prometheus to 2.34.0 (#44)
+- ⬆️ Upgrades Prometheus to 2.36.1 (#47)
