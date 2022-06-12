@@ -1,4 +1,6 @@
 # Changelog since v0.6.0
+- 📚 Small documentation tweaks and updates (#202) 
+- 🎆 Updates maintenance/license year to 2022 (#201) 
 - Fix service path in wireguard service file (#200) 
 - 🚑 Fix service run permissions (#199) 
 - ⬆️ Upgrades WireGuard Go to 0.0.20220316 (#198) 
