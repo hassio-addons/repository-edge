@@ -1,4 +1,5 @@
 # Changelog since v0.6.1
+- 🚑 Fix unexpected non-flag arguments to tailscale (#101) 
 - ⬆️ Upgrades Tailscale to 1.26.0 (#100) 
 - 📚 Use new My Home Assistant link format (#99) 
 - ⬆️ Upgrades add-on base image to 12.0.0 (#98) 
