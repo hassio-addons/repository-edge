@@ -1,4 +1,5 @@
 # Changelog since v0.11.0
+- 📚 Documentation tweaks and updates (#338) 
 - Add logrotate (#337) 
 - 🧹 Clean up old migration path (#336) 
 - ⬆️ Upgrades NGINX Proxy Manager to v2.9.18 (#335) 
