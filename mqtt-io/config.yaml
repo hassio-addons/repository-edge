@@ -4,6 +4,7 @@ arch:
 - armhf
 - armv7
 - i386
+codenotary: codenotary@frenck.dev
 description: Expose GPIO modules and digital sensors via MQTT for remote control and
   monitoring.
 devices:
@@ -27,4 +28,4 @@ schema:
 slug: mqtt-io
 uart: true
 url: https://github.com/hassio-addons/addon-mqtt-io
-version: d6e237a
+version: 62369e8
