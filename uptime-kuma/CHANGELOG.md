@@ -1,1 +1,1 @@
-- ⬆️ Bump apprise from 0.9.8.3 to 0.9.9 in /uptime-kuma (#1)
+- Fix maintenance badges
