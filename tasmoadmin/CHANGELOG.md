@@ -1,2 +1,3 @@
-# Changelog since v0.18.0
-- ⬆️ Upgrades TasmoAdmin to v2.0.0-beta6 (#243) 
+# Changelog since v0.19.0
+- Fix PHP opcache blacklist file (#246) 
+- ⬆️ Upgrades TasmoAdmin to v2.0.0-beta8 (#245) 
