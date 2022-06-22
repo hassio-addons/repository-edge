@@ -1,4 +1,4 @@
-# Changelog since v0.7.0
-- 📚 Use new My Home Assistant link format (#314) 
-- 🚑 Fix NGINX service finish script (#313) 
-- ⬆️ Upgrades add-on base image to 6.0.0 (#312) 
+# Changelog since v0.8.0
+- ⬆️ Bump numpy from 1.21.4 to 1.22.0 in /jupyterlab (#315)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
