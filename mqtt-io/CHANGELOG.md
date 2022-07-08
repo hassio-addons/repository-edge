@@ -1,3 +1,3 @@
-- Bump mqtt-io from 2.2.6 to 2.2.7 in /mqtt-io (#8)
+- Fix gpio permission (#11)
 
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: thecode <thecode@users.noreply.github.com>
