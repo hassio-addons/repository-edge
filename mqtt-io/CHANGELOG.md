@@ -1,3 +1,1 @@
-- Fix gpio permission (#11)
-
-Co-authored-by: thecode <thecode@users.noreply.github.com>
+- Add link to HA discovery, update to latest release (#12)
