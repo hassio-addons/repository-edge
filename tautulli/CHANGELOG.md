@@ -1,4 +1,10 @@
 # Changelog since v3.1.0
+- Bump setuptools from 63.1.0 to 63.2.0 in /tautulli (#223)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump setuptools from 62.6.0 to 63.1.0 in /tautulli (#221)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump pycryptodomex from 3.14.1 to 3.15.0 in /tautulli (#220)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
