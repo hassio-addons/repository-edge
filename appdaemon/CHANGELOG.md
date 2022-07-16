@@ -1,3 +1,5 @@
-# Changelog since v0.8.2
-- 📚 Use new My Home Assistant link format (#199) 
-- ⬆️ Upgrades add-on base image to 12.0.0 (#198) 
+## What’s changed
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades add-on base image to 12.2.1 @frenck (#202)
