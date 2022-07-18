@@ -1,6 +1,8 @@
-## What’s changed
+# Changelog since v0.18.2
+- ⬆️ Upgrades add-on base image to 12.2.1 (#306)
 
-## ⬆️ Dependency updates
+* ⬆️ Upgrades add-on base image to 12.2.1
 
-- ⬆️ Upgrades php8 to 8.0.20-r0 @frenck (#303)
-- ⬆️ Upgrades Grocy to 3.3.1 @frenck (#302)
+* Use meta image
+
+* Actually upgrade 
