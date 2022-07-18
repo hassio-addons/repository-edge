@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- ⬆️ Upgrades add-on base image to 6.1.0 (#224) 
 - Bump setuptools from 63.1.0 to 63.2.0 in /tautulli (#223)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
