@@ -1,1 +1,1 @@
-- Add link to HA discovery, update to latest release (#12)
+- Some final documentation tweaks (#14)

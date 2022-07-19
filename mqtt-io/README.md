@@ -4,7 +4,7 @@
 
 [![Discord][discord-shield]][discord] [![Community Forum][forum-shield]][forum]
 
-Python Apps and HADashboard for Home Assistant
+Expose GPIO modules and digital sensors via MQTT for remote control and monitoring.
 
 ## About
 
@@ -37,5 +37,5 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6df438c-blue.svg
-[release]: https://github.com/hassio-addons/addon-mqtt-io/tree/6df438c
+[release-shield]: https://img.shields.io/badge/version-80e6cdc-blue.svg
+[release]: https://github.com/hassio-addons/addon-mqtt-io/tree/80e6cdc
