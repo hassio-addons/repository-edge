@@ -958,10 +958,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/ff3af32
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/ff3af32/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/8eeacf8
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/8eeacf8/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-ff3af32-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-8eeacf8-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

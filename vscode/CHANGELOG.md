@@ -1,4 +1,5 @@
 # Changelog since v5.1.2
+- ⬆️ Upgrades code-server to 4.5.1 (#478) 
 - ⬆️ Upgrades add-on base image to 6.1.0 (#477)
 
 * ⬆️ Upgrades add-on base image to 6.1.0
