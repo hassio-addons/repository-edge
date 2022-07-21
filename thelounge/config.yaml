@@ -21,6 +21,7 @@ options:
   themes:
   - thelounge-theme-solarized
   users: []
+panel_admin: false
 panel_icon: mdi:chat
 ports:
   80/tcp: null
@@ -38,4 +39,4 @@ schema:
   - str
 slug: thelounge
 url: https://github.com/hassio-addons/addon-thelounge
-version: 42d0d02
+version: 46bdce9
