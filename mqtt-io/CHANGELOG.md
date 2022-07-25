@@ -1,1 +1,5 @@
-- Some final documentation tweaks (#14)
+## What’s changed
+
+## 🐛 Bug fixes
+
+- Pre-install Adafruit DHT @frenck (#16)
