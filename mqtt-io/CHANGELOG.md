@@ -1,5 +1,6 @@
-## What’s changed
+# Changelog since v0.1.2
+- ⬆️ Upgrades python3 to 3.10.5-r0 (#21)
 
-## 🐛 Bug fixes
+* ⬆️ Upgrades python3 to 3.10.5-r0
 
-- Force Adafruit_DHT to build for rpi2 @frenck (#18)
+* Fix indentations 
