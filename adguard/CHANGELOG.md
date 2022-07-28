@@ -1,3 +1,4 @@
-# Changelog since v4.6.0
-- ⬆️ Upgrades AdGuard Home to v0.107.8 (#326) 
-- ⬆️ Upgrades add-on base image to 12.2.1 (#327) 
+# Changelog since v4.6.1
+- Add Health Checks (#328) 
+- ⬆️ Upgrades add-on base image to 12.2.2 (#329) 
+- ⬆️ Upgrades yq to 4.25.1-r2 (#330) 
