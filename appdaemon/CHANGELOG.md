@@ -1,5 +1,2 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades add-on base image to 12.2.1 @frenck (#202)
+# Changelog since v0.9.1
+- ⬆️ Upgrades python3 to 3.10.5-r0 (#205) 
