@@ -1,4 +1,5 @@
 # Changelog since v13.2.0
+- Add Health Checks (#1407) 
 - Bump node-red-contrib-bigtimer from 2.8.1 to 2.8.2 in /node-red (#1403)
 
 Bumps [node-red-contrib-bigtimer](https://tech.scargill.net/big-timer/) from 2.8.1 to 2.8.2.
