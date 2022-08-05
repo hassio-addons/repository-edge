@@ -1,4 +1,20 @@
 # Changelog since v13.3.0
+- Bump @node-red-contrib-themes/theme-collection from 3.0.1 to 3.0.2 in /node-red (#1416)
+
+Bumps [@node-red-contrib-themes/theme-collection](https://github.com/node-red-contrib-themes/theme-collection) from 3.0.1 to 3.0.2.
+- [Release notes](https://github.com/node-red-contrib-themes/theme-collection/releases)
+- [Commits](https://github.com/node-red-contrib-themes/theme-collection/compare/3.0.1...3.0.2)
+
+---
+updated-dependencies:
+- dependency-name: "@node-red-contrib-themes/theme-collection"
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red from 3.0.1 to 3.0.2 in /node-red (#1415)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
