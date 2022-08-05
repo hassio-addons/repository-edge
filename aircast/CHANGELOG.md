@@ -1,9 +1,2 @@
-## What’s changed
-
-## 📚 Documentation
-
-- 📚 Use new My Home Assistant link format @frenck (#139)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades add-on base image to 6.0.0 @frenck (#138)
+# Changelog since v3.4.0
+- ⬆️ Upgrades add-on base image to 6.1.0 (#145) 
