@@ -1,4 +1,7 @@
 # Changelog since v13.3.0
+- Bump node-red from 3.0.1 to 3.0.2 in /node-red (#1415)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-modbus from 5.22.0 to 5.23.1 in /node-red (#1412)
 
 Bumps [node-red-contrib-modbus](https://github.com/biancoroyal/node-red-contrib-modbus) from 5.22.0 to 5.23.1.
