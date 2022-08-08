@@ -1,4 +1,21 @@
 # Changelog since v0.16.0
+- Bump zeroconf from 0.38.7 to 0.39.0 in /glances (#272)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.38.7 to 0.39.0.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.38.7...0.39.0)
+
+---
+updated-dependencies:
+- dependency-name: zeroconf
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades add-on base image to 12.2.2 (#274) 
 - ⬆️ Upgrades python3 to 3.10.5-r0 (#273) 
 - Bump bottle from 0.12.21 to 0.12.23 in /glances (#271)
 
