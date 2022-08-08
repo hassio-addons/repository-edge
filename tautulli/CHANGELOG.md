@@ -1,4 +1,20 @@
 # Changelog since v3.1.1
+- Bump plexapi from 4.12.0 to 4.12.1 in /tautulli (#231)
+
+Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.12.0 to 4.12.1.
+- [Release notes](https://github.com/pkkid/python-plexapi/releases)
+- [Commits](https://github.com/pkkid/python-plexapi/compare/4.12.0...4.12.1)
+
+---
+updated-dependencies:
+- dependency-name: plexapi
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump setuptools from 63.4.1 to 63.4.2 in /tautulli (#230)
 
 Bumps [setuptools](https://github.com/pypa/setuptools) from 63.4.1 to 63.4.2.
