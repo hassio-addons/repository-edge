@@ -1,4 +1,25 @@
 # Changelog since v0.16.0
+- ⬆️ Upgrades python3 to 3.10.5-r0 (#273) 
+- Bump bottle from 0.12.21 to 0.12.23 in /glances (#271)
+
+Bumps [bottle](https://github.com/bottlepy/bottle) from 0.12.21 to 0.12.23.
+- [Release notes](https://github.com/bottlepy/bottle/releases)
+- [Changelog](https://github.com/bottlepy/bottle/blob/master/docs/changelog.rst)
+- [Commits](https://github.com/bottlepy/bottle/compare/0.12.21...0.12.23)
+
+---
+updated-dependencies:
+- dependency-name: bottle
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump glances from 3.2.6.4 to 3.2.7 in /glances (#270)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 12.2.1 (#269)
 
 * ⬆️ Upgrades add-on base image to 12.2.1
