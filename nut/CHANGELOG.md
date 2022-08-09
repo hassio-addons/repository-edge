@@ -1,3 +1,2 @@
-# Changelog since v0.10.0
-- 📚 Use new My Home Assistant link format (#232) 
-- ⬆️ Upgrades add-on base image to 6.0.0 (#231) 
+# Changelog since v0.11.0
+- ⬆️ Upgrades add-on base image to 6.1.0 (#243) 
