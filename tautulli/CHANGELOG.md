@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- ⬆️ Upgrades Tautulli to v2.10.3 (#232) 
 - Bump plexapi from 4.12.0 to 4.12.1 in /tautulli (#231)
 
 Bumps [plexapi](https://github.com/pkkid/python-plexapi) from 4.12.0 to 4.12.1.
