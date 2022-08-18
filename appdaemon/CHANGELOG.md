@@ -1,2 +1,2 @@
-# Changelog since v0.9.1
-- ⬆️ Upgrades python3 to 3.10.5-r0 (#205) 
+# Changelog since v0.9.2
+- ⬆️ Upgrades add-on base image to 12.2.2 (#208) 
