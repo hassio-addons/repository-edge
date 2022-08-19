@@ -1,4 +1,7 @@
 # Changelog since v3.1.2
+- Bump setuptools from 65.0.2 to 65.1.0 in /tautulli (#239)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump setuptools from 65.0.1 to 65.0.2 in /tautulli (#238)
 
 Bumps [setuptools](https://github.com/pypa/setuptools) from 65.0.1 to 65.0.2.
