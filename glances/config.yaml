@@ -69,4 +69,4 @@ schema:
 slug: glances
 startup: services
 url: https://github.com/hassio-addons/addon-glances
-version: b610bd5
+version: 73670d8
