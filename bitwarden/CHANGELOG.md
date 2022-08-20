@@ -1,2 +1,2 @@
-# Changelog since v0.17.1
-- ⬆️ Upgrades Vaultwarden to 1.25.2 (#216) 
+# Changelog since v0.17.2
+- ⬆️ Upgrades add-on base image to 6.1.1 (#217) 
