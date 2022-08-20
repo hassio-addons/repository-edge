@@ -35,4 +35,4 @@ schema:
 slug: tor
 startup: services
 url: https://github.com/hassio-addons/addon-tor
-version: 9df3328
+version: 9525d66
