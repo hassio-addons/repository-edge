@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- Fix incorrect documentation block in nginx service script (#276) 
 - Bump docker from 5.0.3 to 6.0.0 in /glances (#275)
 
 Bumps [docker](https://github.com/docker/docker-py) from 5.0.3 to 6.0.0.
