@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- ⬆️ Upgrades add-on base image to 12.2.3 (#277) 
 - Fix incorrect documentation block in nginx service script (#276) 
 - Bump docker from 5.0.3 to 6.0.0 in /glances (#275)
 
