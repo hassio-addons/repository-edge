@@ -751,10 +751,10 @@ SOFTWARE.
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [airsonos-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/d0402f2
-[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/d0402f2/README.md
+[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/2c2ac38
+[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/2c2ac38/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/addon-appdaemon/issues
-[appdaemon-version-shield]: https://img.shields.io/badge/version-d0402f2-blue.svg
+[appdaemon-version-shield]: https://img.shields.io/badge/version-2c2ac38-blue.svg
 [appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
