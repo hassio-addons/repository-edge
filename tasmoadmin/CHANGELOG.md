@@ -1,3 +1,2 @@
-# Changelog since v0.19.1
-- ⬆️ Upgrades TasmoAdmin to v2.0.0 (#250) 
-- ⬆️ Upgrades nginx to 1.22.0-r1 (#249) 
+# Changelog since v0.20.0
+- ⬆️ Upgrades add-on base image to 12.2.3 (#253) 
