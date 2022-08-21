@@ -68,4 +68,4 @@ schema:
     table: str?
 slug: wireguard
 url: https://github.com/hassio-addons/addon-wireguard
-version: 835c824
+version: adb42c3
