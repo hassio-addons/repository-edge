@@ -1,4 +1,7 @@
 # Changelog since v0.1.3
+- Bump adafruit-circuitpython-ahtx0 from 1.0.15 to 1.0.16 in /mqtt-io (#31)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump adafruit-circuitpython-mcp230xx from 2.5.7 to 2.5.8 in /mqtt-io (#30)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
