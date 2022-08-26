@@ -1,4 +1,7 @@
 # Changelog since v0.1.3
+- Bump adafruit-circuitpython-ads1x15 from 2.2.17 to 2.2.18 in /mqtt-io (#29)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump adafruit-circuitpython-ads1x15 from 2.2.16 to 2.2.17 in /mqtt-io (#27)
 
 Bumps [adafruit-circuitpython-ads1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15) from 2.2.16 to 2.2.17.
