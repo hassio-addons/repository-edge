@@ -1,4 +1,21 @@
 # Changelog since v0.1.3
+- Bump adafruit-circuitpython-ads1x15 from 2.2.18 to 2.2.19 in /mqtt-io (#32)
+
+Bumps [adafruit-circuitpython-ads1x15](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15) from 2.2.18 to 2.2.19.
+- [Release notes](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15/releases)
+- [Commits](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15/compare/2.2.18...2.2.19)
+
+---
+updated-dependencies:
+- dependency-name: adafruit-circuitpython-ads1x15
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump adafruit-circuitpython-ahtx0 from 1.0.15 to 1.0.16 in /mqtt-io (#31)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
