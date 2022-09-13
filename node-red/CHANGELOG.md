@@ -1,4 +1,5 @@
 # Changelog since v13.3.2
+- Fix a couple of typos (#1439) 
 - Bump @node-red-contrib-themes/theme-collection from 3.0.3 to 3.0.5 in /node-red (#1440)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
