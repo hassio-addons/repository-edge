@@ -1,2 +1,2 @@
-# Changelog since v0.46.0
-- Upgrades zwavejs2mqtt to 7.1.0 (#411) 
+# Changelog since v0.46.1
+- ⬆️ Upgrades add-on base image to 12.2.4 (#412) 
