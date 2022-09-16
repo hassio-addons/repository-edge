@@ -1,4 +1,7 @@
 # Changelog since v0.8.2
+- ⬆️ Bump jupyterlab-widgets from 1.0.2 to 3.0.3 (#329)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump bokeh from 2.4.1 to 2.4.3 (#327)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
