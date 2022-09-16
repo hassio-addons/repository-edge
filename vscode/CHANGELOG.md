@@ -1,4 +1,5 @@
 # Changelog since v5.3.0
+- ⬆️ Upgrades ESPHome.esphome-vscode to 2022.8.3 (#502) 
 - Bump yamllint from 1.27.1 to 1.28.0 in /vscode (#497)
 
 Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.27.1 to 1.28.0.
