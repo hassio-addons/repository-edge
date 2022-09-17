@@ -1,4 +1,5 @@
 # Changelog since v13.3.2
+- ⬆️ Upgrades add-on base image to 12.2.4 (#1445) 
 - Bump node-red-dashboard from 3.1.7 to 3.2.0 in /node-red (#1441)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
