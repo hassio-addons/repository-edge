@@ -1,4 +1,5 @@
 # Changelog since v12.0.2
+- ⬆️ Upgrades Home Assistant CLI to v4.21.0 (#442) 
 - Grammar fixes (#435) 
 - ⬆️ Upgrades add-on base image to 12.2.4 (#440) 
 - ⬆️ Upgrades libxml2-utils to 2.9.14-r1 (#439) 
