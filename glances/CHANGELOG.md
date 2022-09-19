@@ -1,4 +1,5 @@
 # Changelog since v0.16.1
+- Add python3-dev to build dependencies (#282) 
 - Add gcc build dependency (#280)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
