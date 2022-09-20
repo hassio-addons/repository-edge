@@ -1,4 +1,7 @@
 # Changelog since v0.9.0
+- ⬆️ Bump mysqlclient from 2.0.3 to 2.1.1 (#341)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump psycopg2 from 2.9.1 to 2.9.3 (#334)
 
 Bumps [psycopg2](https://github.com/psycopg/psycopg2) from 2.9.1 to 2.9.3.
