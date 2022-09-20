@@ -1,4 +1,7 @@
 # Changelog since v0.9.0
+- ⬆️ Bump beautifulsoup4 from 4.10.0 to 4.11.1 (#339)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump mysqlclient from 2.0.3 to 2.1.1 (#341)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
