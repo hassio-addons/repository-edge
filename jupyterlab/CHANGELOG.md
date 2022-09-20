@@ -1,4 +1,22 @@
 # Changelog since v0.9.0
+- ⬆️ Bump pandas from 1.4.4 to 1.5.0 (#340)
+
+Bumps [pandas](https://github.com/pandas-dev/pandas) from 1.4.4 to 1.5.0.
+- [Release notes](https://github.com/pandas-dev/pandas/releases)
+- [Changelog](https://github.com/pandas-dev/pandas/blob/main/RELEASE.md)
+- [Commits](https://github.com/pandas-dev/pandas/compare/v1.4.4...v1.5.0)
+
+---
+updated-dependencies:
+- dependency-name: pandas
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump seaborn from 0.11.2 to 0.12.0 (#338)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
