@@ -1,4 +1,7 @@
 # Changelog since v0.9.0
+- ⬆️ Bump seaborn from 0.11.2 to 0.12.0 (#338)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump beautifulsoup4 from 4.10.0 to 4.11.1 (#339)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
