@@ -1,4 +1,21 @@
 # Changelog since v0.9.0
+- ⬆️ Bump jupyter-bokeh from 3.0.4 to 3.0.5 (#342)
+
+Bumps [jupyter-bokeh](https://github.com/bokeh/jupyter_bokeh) from 3.0.4 to 3.0.5.
+- [Release notes](https://github.com/bokeh/jupyter_bokeh/releases)
+- [Commits](https://github.com/bokeh/jupyter_bokeh/commits)
+
+---
+updated-dependencies:
+- dependency-name: jupyter-bokeh
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump pandas from 1.4.4 to 1.5.0 (#340)
 
 Bumps [pandas](https://github.com/pandas-dev/pandas) from 1.4.4 to 1.5.0.
