@@ -1,0 +1,1 @@
+- Remove unsupported architecture from build configuration
