@@ -21,6 +21,9 @@ The [EMQX MQTT broker][emqx] is an advanced alternative to the Mosquitto MQTT
 broker/add-on that is generally used in Home Assistant. It has a UI
 to configure, manage, and debug your MQTT broker, clients, and traffic.
 
+While EMQX sells their product mainly as a cloud hosted product on their
+website, this add-on runs EMQX in a fully local, self-hosted environment.
+
 ![EMQX in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -53,6 +56,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-847dfdd-blue.svg
-[release]: https://github.com/hassio-addons/addon-emqx/tree/847dfdd
+[release-shield]: https://img.shields.io/badge/version-04dc437-blue.svg
+[release]: https://github.com/hassio-addons/addon-emqx/tree/04dc437
 [screenshot]: https://github.com/hassio-addons/addon-emqx/raw/main/images/screenshot.png
