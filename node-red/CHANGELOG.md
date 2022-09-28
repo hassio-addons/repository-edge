@@ -1,4 +1,7 @@
 # Changelog since v13.4.0
+- Bump node-red-contrib-home-assistant-websocket from 0.44.0 to 0.45.0 (#1452)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-modbus from 5.23.1 to 5.23.2 in /node-red (#1449)
 
 Bumps [node-red-contrib-modbus](https://github.com/biancoroyal/node-red-contrib-modbus) from 5.23.1 to 5.23.2.
