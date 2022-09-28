@@ -1,11 +1,2 @@
-# Changelog since v0.47.0
-- Fix broken link in add-on readme (#418) 
-- Mark project as production ready (#417) 
-- ⬆️ Upgrades Z-Wave JS UI to v8.0.0 (#415)
-
-* ⬆️ Upgrades Z-Wave JS UI to v8.0.0
-
-* Prettified Code!
-
-Co-authored-by: frenck <frenck@users.noreply.github.com> 
-- Update Home Assistant instructions (#414) 
+# Changelog since v1.0.0
+- ⬆️ Upgrades Z-Wave JS UI to v8.0.1 (#423) 
