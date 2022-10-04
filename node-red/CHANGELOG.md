@@ -1,4 +1,7 @@
 # Changelog since v13.4.0
+- Bump node-red-contrib-home-assistant-websocket from 0.45.2 to 0.45.8 (#1457)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-node-ping from 0.3.1 to 0.3.3 (#1456)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
