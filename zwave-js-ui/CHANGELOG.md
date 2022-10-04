@@ -1,2 +1,2 @@
-# Changelog since v1.0.0
-- ⬆️ Upgrades Z-Wave JS UI to v8.0.1 (#423) 
+# Changelog since v1.0.1
+- ⬆️ Upgrades Z-Wave JS UI to v8.1.0 (#426) 
