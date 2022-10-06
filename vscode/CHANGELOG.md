@@ -1,4 +1,7 @@
 # Changelog since v5.4.0
+- Bump esphome from 2022.9.2 to 2022.9.3 (#507)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump esphome from 2022.9.1 to 2022.9.2 in /vscode (#506)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
