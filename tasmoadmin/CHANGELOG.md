@@ -1,4 +1,5 @@
 # Changelog since v0.20.0
+- ⬆️ Upgrades TasmoAdmin to v2.1.0 (#259) 
 - ⬆️ Upgrades nodejs to 16.17.1-r0 (#260) 
 - ⬆️ Upgrades composer to 2.4.2-r0 (#258) 
 - Bump PHP to 8.0.24-r0 (#257) 
