@@ -1,3 +1,2 @@
-# Changelog since v0.2.1
-- ⬆️ Upgrades Uptime Kuma to 1.18.0 (#13) 
-- ⬆️ Upgrades add-on base image to 12.2.4 (#12) 
+# Changelog since v0.3.0
+- ⬆️ Upgrades nodejs to 16.17.1-r0 (#17) 
