@@ -1,4 +1,5 @@
 # Changelog since v0.20.0
+- ⬆️ Upgrades TasmoAdmin to v2.1.1 (#262) 
 - Add php-dom dependency (#261) 
 - ⬆️ Upgrades TasmoAdmin to v2.1.0 (#259) 
 - ⬆️ Upgrades nodejs to 16.17.1-r0 (#260) 
