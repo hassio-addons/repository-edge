@@ -1,4 +1,22 @@
 # Changelog since v13.4.0
+- Bump node-red-contrib-home-assistant-websocket from 0.45.8 to 0.46.0 in /node-red (#1462)
+
+Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.45.8 to 0.46.0.
+- [Release notes](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/releases)
+- [Changelog](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.45.8...v0.46.0)
+
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-home-assistant-websocket
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades nodejs to 16.17.1-r0 (#1463) 
 - Bump node-red-contrib-home-assistant-websocket from 0.45.2 to 0.45.8 (#1457)
 
