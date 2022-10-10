@@ -1,4 +1,5 @@
 # Changelog since v13.4.0
+- ⬆️ Upgrades nodejs to 16.17.1-r0 (#1463) 
 - Bump node-red-contrib-home-assistant-websocket from 0.45.2 to 0.45.8 (#1457)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
