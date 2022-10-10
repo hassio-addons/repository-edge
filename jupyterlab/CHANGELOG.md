@@ -1,4 +1,22 @@
 # Changelog since v0.9.0
+- ⬆️ Bump matplotlib from 3.6.0 to 3.6.1 in /jupyterlab (#349)
+
+Bumps [matplotlib](https://github.com/matplotlib/matplotlib) from 3.6.0 to 3.6.1.
+- [Release notes](https://github.com/matplotlib/matplotlib/releases)
+- [Commits](https://github.com/matplotlib/matplotlib/compare/v3.6.0...v3.6.1)
+
+---
+updated-dependencies:
+- dependency-name: matplotlib
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Upgrades nodejs to 14.20.1-deb-1nodesource1 (#350) 
 - ⬆️ Bump jupyter-bokeh from 3.0.4 to 3.0.5 (#342)
 
 Bumps [jupyter-bokeh](https://github.com/bokeh/jupyter_bokeh) from 3.0.4 to 3.0.5.
