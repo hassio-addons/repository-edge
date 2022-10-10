@@ -1,4 +1,5 @@
 # Changelog since v0.3.0
+- ⬆️ Upgrades Uptime Kuma to 1.18.4 (#19) 
 - ⬆️ Bump apprise from 1.0.0 to 1.1.0 in /uptime-kuma (#16)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
