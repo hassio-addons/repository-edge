@@ -1,4 +1,43 @@
 # Changelog since v0.9.0
+- ⬆️ Bump jupyterlab from 3.4.7 to 3.4.8 in /jupyterlab (#346)
+
+Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 3.4.7 to 3.4.8.
+- [Release notes](https://github.com/jupyterlab/jupyterlab/releases)
+- [Changelog](https://github.com/jupyterlab/jupyterlab/blob/@jupyterlab/vdom@3.4.8/CHANGELOG.md)
+- [Commits](https://github.com/jupyterlab/jupyterlab/compare/@jupyterlab/vdom@3.4.7...@jupyterlab/vdom@3.4.8)
+
+---
+updated-dependencies:
+- dependency-name: jupyterlab
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump nbconvert from 7.0.0 to 7.2.1 in /jupyterlab (#347)
+
+Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.0.0 to 7.2.1.
+- [Release notes](https://github.com/jupyter/nbconvert/releases)
+- [Changelog](https://github.com/jupyter/nbconvert/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/nbconvert/compare/7.0.0...v7.2.1)
+
+---
+updated-dependencies:
+- dependency-name: nbconvert
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump scrapy from 2.6.2 to 2.6.3 in /jupyterlab (#344)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump psycopg2 from 2.9.3 to 2.9.4 in /jupyterlab (#348)
 
 Bumps [psycopg2](https://github.com/psycopg/psycopg2) from 2.9.3 to 2.9.4.
