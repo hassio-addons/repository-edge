@@ -44,5 +44,5 @@ schema:
 slug: plex
 startup: services
 url: https://github.com/hassio-addons/addon-plex
-version: 10dc80f
+version: 2f93c0c
 webui: http://[HOST]:[PORT:32400]/web
