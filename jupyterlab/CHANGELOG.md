@@ -1,4 +1,22 @@
 # Changelog since v0.9.0
+- ⬆️ Bump psycopg2 from 2.9.3 to 2.9.4 in /jupyterlab (#348)
+
+Bumps [psycopg2](https://github.com/psycopg/psycopg2) from 2.9.3 to 2.9.4.
+- [Release notes](https://github.com/psycopg/psycopg2/releases)
+- [Changelog](https://github.com/psycopg/psycopg2/blob/master/NEWS)
+- [Commits](https://github.com/psycopg/psycopg2/commits)
+
+---
+updated-dependencies:
+- dependency-name: psycopg2
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump matplotlib from 3.6.0 to 3.6.1 in /jupyterlab (#349)
 
 Bumps [matplotlib](https://github.com/matplotlib/matplotlib) from 3.6.0 to 3.6.1.
