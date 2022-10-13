@@ -1,4 +1,22 @@
 # Changelog since v0.9.0
+- ⬆️ Bump numpy from 1.23.3 to 1.23.4 in /jupyterlab (#351)
+
+Bumps [numpy](https://github.com/numpy/numpy) from 1.23.3 to 1.23.4.
+- [Release notes](https://github.com/numpy/numpy/releases)
+- [Changelog](https://github.com/numpy/numpy/blob/main/doc/RELEASE_WALKTHROUGH.rst)
+- [Commits](https://github.com/numpy/numpy/compare/v1.23.3...v1.23.4)
+
+---
+updated-dependencies:
+- dependency-name: numpy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump jupyterlab from 3.4.7 to 3.4.8 in /jupyterlab (#346)
 
 Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 3.4.7 to 3.4.8.
