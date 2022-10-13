@@ -1,4 +1,7 @@
 # Changelog since v13.4.0
+- Bump node-red-node-random from 0.4.0 to 0.4.1 (#1465)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-home-assistant-websocket from 0.45.8 to 0.46.0 in /node-red (#1462)
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.45.8 to 0.46.0.
