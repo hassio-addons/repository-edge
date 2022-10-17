@@ -1,4 +1,21 @@
 # Changelog since v13.4.0
+- Bump node-red-node-email from 1.17.0 to 1.18.1 in /node-red (#1466)
+
+Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes/tree/HEAD/tree/master/social/email) from 1.17.0 to 1.18.1.
+- [Release notes](https://github.com/node-red/node-red-nodes/releases)
+- [Commits](https://github.com/node-red/node-red-nodes/commits/HEAD/tree/master/social/email)
+
+---
+updated-dependencies:
+- dependency-name: node-red-node-email
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-node-random from 0.4.0 to 0.4.1 (#1465)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
