@@ -1,4 +1,22 @@
 # Changelog since v0.9.0
+- ⬆️ Bump sqlalchemy from 1.4.41 to 1.4.42 in /jupyterlab (#352)
+
+Bumps [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) from 1.4.41 to 1.4.42.
+- [Release notes](https://github.com/sqlalchemy/sqlalchemy/releases)
+- [Changelog](https://github.com/sqlalchemy/sqlalchemy/blob/main/CHANGES.rst)
+- [Commits](https://github.com/sqlalchemy/sqlalchemy/commits)
+
+---
+updated-dependencies:
+- dependency-name: sqlalchemy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump numpy from 1.23.3 to 1.23.4 in /jupyterlab (#351)
 
 Bumps [numpy](https://github.com/numpy/numpy) from 1.23.3 to 1.23.4.
