@@ -1,4 +1,7 @@
 # Changelog since v0.16.1
+- Bump glances from 3.2.7 to 3.3.0 in /glances (#283)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump psutil from 5.9.1 to 5.9.2 in /glances (#279)
 
 Bumps [psutil](https://github.com/giampaolo/psutil) from 5.9.1 to 5.9.2.
