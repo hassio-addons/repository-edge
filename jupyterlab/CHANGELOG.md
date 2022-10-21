@@ -1,4 +1,57 @@
 # Changelog since v0.9.0
+- ⬆️ Bump pandas from 1.5.0 to 1.5.1 in /jupyterlab (#355)
+
+Bumps [pandas](https://github.com/pandas-dev/pandas) from 1.5.0 to 1.5.1.
+- [Release notes](https://github.com/pandas-dev/pandas/releases)
+- [Changelog](https://github.com/pandas-dev/pandas/blob/main/RELEASE.md)
+- [Commits](https://github.com/pandas-dev/pandas/compare/v1.5.0...v1.5.1)
+
+---
+updated-dependencies:
+- dependency-name: pandas
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump nbconvert from 7.2.1 to 7.2.2 in /jupyterlab (#356)
+
+Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.2.1 to 7.2.2.
+- [Release notes](https://github.com/jupyter/nbconvert/releases)
+- [Changelog](https://github.com/jupyter/nbconvert/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/nbconvert/compare/v7.2.1...v7.2.2)
+
+---
+updated-dependencies:
+- dependency-name: nbconvert
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump hass-data-detective from 2.4 to 2.5 in /jupyterlab (#357)
+
+Bumps [hass-data-detective](https://github.com/robmarkcole/HASS-data-detective) from 2.4 to 2.5.
+- [Release notes](https://github.com/robmarkcole/HASS-data-detective/releases)
+- [Commits](https://github.com/robmarkcole/HASS-data-detective/compare/v2.4...v2.5)
+
+---
+updated-dependencies:
+- dependency-name: hass-data-detective
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump scrapy from 2.6.3 to 2.7.0 in /jupyterlab (#353)
 
 Bumps [scrapy](https://github.com/scrapy/scrapy) from 2.6.3 to 2.7.0.
