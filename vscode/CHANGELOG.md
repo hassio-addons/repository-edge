@@ -1,4 +1,5 @@
 # Changelog since v5.4.0
+- Upgrades ESPHome.esphome-vscode to 2022.10.0 (#514) 
 - Bump esphome from 2022.9.3 to 2022.10.0 in /vscode (#513)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
