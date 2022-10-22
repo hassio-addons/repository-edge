@@ -1,4 +1,6 @@
 # Changelog since v13.4.0
+- ⬆️ Upgrades nginx to 1.22.1-r0 (#1472) 
+- ⬆️ Upgrades git to 2.36.3-r0 (#1471) 
 - Bump node-red-node-email from 1.17.0 to 1.18.1 in /node-red (#1466)
 
 Bumps [node-red-node-email](https://github.com/node-red/node-red-nodes/tree/HEAD/tree/master/social/email) from 1.17.0 to 1.18.1.
