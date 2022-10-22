@@ -1,3 +1,2 @@
-# Changelog since v4.6.0
-- ⬆️ Upgrades add-on base image to 12.2.3 (#123) 
-- ⬆️ Upgrades add-on base image to 12.2.1 (#122) 
+# Changelog since v4.6.1
+- Fix typo in  documentation (#125) 
