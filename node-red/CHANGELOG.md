@@ -1,4 +1,22 @@
 # Changelog since v13.4.0
+- Bump node-red-contrib-home-assistant-websocket from 0.46.0 to 0.46.1 in /node-red (#1469)
+
+Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.46.0 to 0.46.1.
+- [Release notes](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/releases)
+- [Changelog](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.46.0...v0.46.1)
+
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-home-assistant-websocket
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades nginx to 1.22.1-r0 (#1472) 
 - ⬆️ Upgrades git to 2.36.3-r0 (#1471) 
 - Bump node-red-node-email from 1.17.0 to 1.18.1 in /node-red (#1466)
