@@ -1,4 +1,22 @@
 # Changelog since v0.16.1
+- Bump py-cpuinfo from 8.0.0 to 9.0.0 in /glances (#288)
+
+Bumps [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) from 8.0.0 to 9.0.0.
+- [Release notes](https://github.com/workhorsy/py-cpuinfo/releases)
+- [Changelog](https://github.com/workhorsy/py-cpuinfo/blob/master/ChangeLog)
+- [Commits](https://github.com/workhorsy/py-cpuinfo/compare/v8.0.0...v9.0.0)
+
+---
+updated-dependencies:
+- dependency-name: py-cpuinfo
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump zeroconf from 0.39.1 to 0.39.2 in /glances (#286)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.39.1 to 0.39.2.
