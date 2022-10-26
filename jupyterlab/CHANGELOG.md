@@ -1,4 +1,7 @@
 # Changelog since v0.9.1
+- ⬆️ Bump psycopg2 from 2.9.4 to 2.9.5 in /jupyterlab (#360)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump jupyterlab from 3.4.8 to 3.5.0 in /jupyterlab (#359)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
