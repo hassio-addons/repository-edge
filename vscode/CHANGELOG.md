@@ -1,4 +1,5 @@
 # Changelog since v5.4.0
+- ⬆️ Upgrades code-server to 4.8.0 (#516) 
 - Bump esphome from 2022.10.0 to 2022.10.1 in /vscode (#515)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
