@@ -1,4 +1,21 @@
 # Changelog since v0.16.1
+- Bump zeroconf from 0.39.2 to 0.39.3 in /glances (#289)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.39.2 to 0.39.3.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.39.2...0.39.3)
+
+---
+updated-dependencies:
+- dependency-name: zeroconf
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump py-cpuinfo from 8.0.0 to 9.0.0 in /glances (#288)
 
 Bumps [py-cpuinfo](https://github.com/workhorsy/py-cpuinfo) from 8.0.0 to 9.0.0.
