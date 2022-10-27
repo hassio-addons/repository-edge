@@ -1,4 +1,5 @@
 # Changelog since v13.4.0
+- ⏱ Add startup timeout for health check (#1475) 
 - Bump node-red-contrib-home-assistant-websocket from 0.46.0 to 0.46.1 in /node-red (#1469)
 
 Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.46.0 to 0.46.1.
