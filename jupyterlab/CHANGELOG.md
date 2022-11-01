@@ -1,4 +1,7 @@
 # Changelog since v0.9.1
+- Bump bokeh from 2.4.3 to 3.0.0 in /jupyterlab (#362)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump psycopg2 from 2.9.4 to 2.9.5 in /jupyterlab (#360)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
