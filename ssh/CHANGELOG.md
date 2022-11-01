@@ -1,4 +1,6 @@
 # Changelog since v12.0.2
+- 🪟 Set window title in bash prompt (#434) 
+- ✏️ Fix typo in SSH key or password missing error (#445) 
 - ⬆️ Upgrades ttyd to 1.7.2 (#456) 
 - ⬆️ Upgrades libxml2-utils to 2.9.14-r2 (#454) 
 - ⬆️ Upgrades rsync to 3.2.7-r0 (#453) 
