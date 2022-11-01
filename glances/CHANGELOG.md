@@ -1,4 +1,21 @@
 # Changelog since v0.16.1
+- Bump zeroconf from 0.39.3 to 0.39.4 in /glances (#291)
+
+Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.39.3 to 0.39.4.
+- [Release notes](https://github.com/jstasiak/python-zeroconf/releases)
+- [Commits](https://github.com/jstasiak/python-zeroconf/compare/0.39.3...0.39.4)
+
+---
+updated-dependencies:
+- dependency-name: zeroconf
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump glances from 3.3.0.1 to 3.3.0.2 in /glances (#290)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
