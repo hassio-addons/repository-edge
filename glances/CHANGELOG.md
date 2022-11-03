@@ -1,4 +1,21 @@
 # Changelog since v0.16.1
+- Bump docker from 6.0.0 to 6.0.1 in /glances (#292)
+
+Bumps [docker](https://github.com/docker/docker-py) from 6.0.0 to 6.0.1.
+- [Release notes](https://github.com/docker/docker-py/releases)
+- [Commits](https://github.com/docker/docker-py/compare/6.0.0...6.0.1)
+
+---
+updated-dependencies:
+- dependency-name: docker
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump zeroconf from 0.39.3 to 0.39.4 in /glances (#291)
 
 Bumps [zeroconf](https://github.com/jstasiak/python-zeroconf) from 0.39.3 to 0.39.4.
