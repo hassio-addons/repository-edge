@@ -1,3 +1,5 @@
-# Changelog since v5.1.0
-- Add rootfs to addon (#122) 
-- ⬆️ Upgrades add-on base image to 12.2.2 (#123) 
+## What’s changed
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades add-on base image to 12.2.6 @frenck (#124)
