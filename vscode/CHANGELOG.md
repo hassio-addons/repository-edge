@@ -1,4 +1,5 @@
 # Changelog since v5.4.0
+- ⬆️ Upgrades esbenp.prettier-vscode to 9.9.0 (#526) 
 - Exclude node_modules by default (#525) 
 - Added ESPHome Subfolders to ESPHome Language Association (#512)
 
