@@ -1,2 +1,2 @@
-# Changelog since v8.0.1
-- ⬆️ Upgrades Grafana to v9.1.6 (#280) 
+# Changelog since v8.0.2
+- ⬆️ Upgrades add-on base image to 6.1.3 (#286) 
