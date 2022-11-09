@@ -1,4 +1,7 @@
 # Changelog since v5.4.0
+- Added ESPHome Subfolders to ESPHome Language Association (#512)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Upgrades Home Assistant CLI to v4.23.0 (#524) 
 - ⬆️ Upgrades code-server to 4.8.3 (#523) 
 - ⬆️ Upgrades Home Assistant CLI to v4.22.0 (#522) 
