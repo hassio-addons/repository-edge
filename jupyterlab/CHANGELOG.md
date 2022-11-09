@@ -1,4 +1,57 @@
 # Changelog since v0.9.1
+- Bump scrapy from 2.7.0 to 2.7.1 in /jupyterlab (#364)
+
+Bumps [scrapy](https://github.com/scrapy/scrapy) from 2.7.0 to 2.7.1.
+- [Release notes](https://github.com/scrapy/scrapy/releases)
+- [Changelog](https://github.com/scrapy/scrapy/blob/master/docs/news.rst)
+- [Commits](https://github.com/scrapy/scrapy/compare/2.7.0...2.7.1)
+
+---
+updated-dependencies:
+- dependency-name: scrapy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump matplotlib from 3.6.1 to 3.6.2 in /jupyterlab (#363)
+
+Bumps [matplotlib](https://github.com/matplotlib/matplotlib) from 3.6.1 to 3.6.2.
+- [Release notes](https://github.com/matplotlib/matplotlib/releases)
+- [Commits](https://github.com/matplotlib/matplotlib/compare/v3.6.1...v3.6.2)
+
+---
+updated-dependencies:
+- dependency-name: matplotlib
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump sqlalchemy from 1.4.42 to 1.4.43 in /jupyterlab (#366)
+
+Bumps [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) from 1.4.42 to 1.4.43.
+- [Release notes](https://github.com/sqlalchemy/sqlalchemy/releases)
+- [Changelog](https://github.com/sqlalchemy/sqlalchemy/blob/main/CHANGES.rst)
+- [Commits](https://github.com/sqlalchemy/sqlalchemy/commits)
+
+---
+updated-dependencies:
+- dependency-name: sqlalchemy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump bokeh from 3.0.0 to 3.0.1 in /jupyterlab (#365)
 
 Bumps [bokeh](https://github.com/bokeh/bokeh) from 3.0.0 to 3.0.1.
