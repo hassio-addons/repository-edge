@@ -39,5 +39,5 @@ schema:
 slug: grafana
 startup: services
 url: https://github.com/hassio-addons/addon-grafana
-version: 0c4a484
+version: 8b0fd45
 watchdog: http://[HOST]:1337/api/health
