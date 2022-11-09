@@ -1,4 +1,6 @@
 # Changelog since v5.4.0
+- ⬆️ Upgrades Home Assistant CLI to v4.23.0 (#524) 
+- ⬆️ Upgrades code-server to 4.8.3 (#523) 
 - ⬆️ Upgrades Home Assistant CLI to v4.22.0 (#522) 
 - ⬆️ Upgrades code-server to 4.8.2 (#521) 
 - ⬆️ Upgrades add-on base image to 6.1.3 (#520) 
