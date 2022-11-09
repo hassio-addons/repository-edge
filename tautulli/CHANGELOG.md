@@ -1,4 +1,6 @@
 # Changelog since v3.1.3
+- ⬆️ Upgrades Tautulli to v2.10.5 (#253) 
+- ⬆️ Upgrades add-on base image to 6.1.3 (#252) 
 - Bump setuptools from 65.5.0 to 65.5.1 in /tautulli (#250)
 
 Bumps [setuptools](https://github.com/pypa/setuptools) from 65.5.0 to 65.5.1.
