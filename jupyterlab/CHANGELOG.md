@@ -1,4 +1,23 @@
 # Changelog since v0.9.1
+- ⬆️ Upgrades nodejs to 14.21.1-deb-1nodesource1 (#367) 
+- Bump nbconvert from 7.2.2 to 7.2.3 in /jupyterlab (#361)
+
+Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.2.2 to 7.2.3.
+- [Release notes](https://github.com/jupyter/nbconvert/releases)
+- [Changelog](https://github.com/jupyter/nbconvert/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/nbconvert/compare/v7.2.2...v7.2.3)
+
+---
+updated-dependencies:
+- dependency-name: nbconvert
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump bokeh from 2.4.3 to 3.0.0 in /jupyterlab (#362)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
