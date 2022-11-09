@@ -1,4 +1,22 @@
 # Changelog since v0.16.1
+- Bump psutil from 5.9.3 to 5.9.4 in /glances (#294)
+
+Bumps [psutil](https://github.com/giampaolo/psutil) from 5.9.3 to 5.9.4.
+- [Release notes](https://github.com/giampaolo/psutil/releases)
+- [Changelog](https://github.com/giampaolo/psutil/blob/master/HISTORY.rst)
+- [Commits](https://github.com/giampaolo/psutil/compare/release-5.9.3...release-5.9.4)
+
+---
+updated-dependencies:
+- dependency-name: psutil
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 12.2.6 (#295) 
 - Bump glances from 3.3.0.2 to 3.3.0.4 in /glances (#293)
 
