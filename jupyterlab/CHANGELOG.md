@@ -1,4 +1,22 @@
 # Changelog since v0.9.1
+- Bump bokeh from 3.0.0 to 3.0.1 in /jupyterlab (#365)
+
+Bumps [bokeh](https://github.com/bokeh/bokeh) from 3.0.0 to 3.0.1.
+- [Release notes](https://github.com/bokeh/bokeh/releases)
+- [Changelog](https://github.com/bokeh/bokeh/blob/3.0.1/docs/CHANGELOG)
+- [Commits](https://github.com/bokeh/bokeh/compare/3.0.0...3.0.1)
+
+---
+updated-dependencies:
+- dependency-name: bokeh
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades nodejs to 14.21.1-deb-1nodesource1 (#367) 
 - Bump nbconvert from 7.2.2 to 7.2.3 in /jupyterlab (#361)
 
