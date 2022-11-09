@@ -1,4 +1,5 @@
 # Changelog since v0.3.0
+- ⬆️ Upgrades add-on base image to 12.2.6 (#22) 
 - ⬆️ Upgrades Uptime Kuma to 1.18.5 (#20) 
 - ⬆️ Upgrades Uptime Kuma to 1.18.4 (#19) 
 - ⬆️ Bump apprise from 1.0.0 to 1.1.0 in /uptime-kuma (#16)
