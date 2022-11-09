@@ -1,4 +1,21 @@
 # Changelog since v0.9.1
+- ⬆️ Bump seaborn from 0.12.0 to 0.12.1 in /jupyterlab (#354)
+
+Bumps [seaborn](https://github.com/mwaskom/seaborn) from 0.12.0 to 0.12.1.
+- [Release notes](https://github.com/mwaskom/seaborn/releases)
+- [Commits](https://github.com/mwaskom/seaborn/compare/v0.12.0...v0.12.1)
+
+---
+updated-dependencies:
+- dependency-name: seaborn
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump scrapy from 2.7.0 to 2.7.1 in /jupyterlab (#364)
 
 Bumps [scrapy](https://github.com/scrapy/scrapy) from 2.7.0 to 2.7.1.
