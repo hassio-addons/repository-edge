@@ -1,4 +1,5 @@
 # Changelog since v5.4.0
+- Exclude node_modules by default (#525) 
 - Added ESPHome Subfolders to ESPHome Language Association (#512)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
