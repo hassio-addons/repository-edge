@@ -1,3 +1,2 @@
-# Changelog since v12.1.1
-- Fix bash completion (#462) 
-- ⬆️ Upgrades add-on base image to 12.2.6 (#464) 
+# Changelog since v12.1.2
+- ⬆️ Upgrades Home Assistant CLI to v4.23.0 (#465) 
