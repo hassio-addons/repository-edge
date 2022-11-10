@@ -1,4 +1,22 @@
 # Changelog since v0.9.1
+- ⬆️ Bump nbconvert from 7.2.3 to 7.2.4 in /jupyterlab (#368)
+
+Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.2.3 to 7.2.4.
+- [Release notes](https://github.com/jupyter/nbconvert/releases)
+- [Changelog](https://github.com/jupyter/nbconvert/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/nbconvert/compare/v7.2.3...v7.2.4)
+
+---
+updated-dependencies:
+- dependency-name: nbconvert
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump seaborn from 0.12.0 to 0.12.1 in /jupyterlab (#354)
 
 Bumps [seaborn](https://github.com/mwaskom/seaborn) from 0.12.0 to 0.12.1.
