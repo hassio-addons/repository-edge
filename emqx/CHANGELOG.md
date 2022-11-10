@@ -1,2 +1,2 @@
-# Changelog since v0.1.1
-- ⬆️ Upgrades EMQX to v5.0.9 (#11) 
+# Changelog since v0.1.2
+- ⬆️ Upgrades add-on base image to 6.1.3 (#13) 
