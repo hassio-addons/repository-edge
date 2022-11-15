@@ -1,4 +1,3 @@
-# Changelog since v0.9.3
-- ⬆️ Upgrades add-on base image to 12.2.6 (#215) 
-- ✨ Add access to media folder (#211) 
-- ⬆️ Upgrades add-on base image to 12.2.5 (#213) 
+# Changelog since v0.10.0
+- ⬆️ Upgrades add-on base image to 12.2.7 (#218) 
+- ⬆️ Upgrades python3 to 3.10.8-r0 (#217) 
