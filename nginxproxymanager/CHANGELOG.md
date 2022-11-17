@@ -1,4 +1,21 @@
 # Changelog since v0.12.2
+- ⬆️ Bump certbot-dns-cloudflare from 1.31.0 to 1.32.0 in /proxy-manager (#371)
+
+Bumps [certbot-dns-cloudflare](https://github.com/certbot/certbot) from 1.31.0 to 1.32.0.
+- [Release notes](https://github.com/certbot/certbot/releases)
+- [Commits](https://github.com/certbot/certbot/compare/v1.31.0...v1.32.0)
+
+---
+updated-dependencies:
+- dependency-name: certbot-dns-cloudflare
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 12.2.7 (#381) 
 - ⬆️ Upgrades nginx to 1.22.1-r0 (#380) 
 - ⬆️ Upgrades mariadb-client to 10.6.10-r0 (#379) 
