@@ -1,4 +1,6 @@
 # Changelog since v0.1.3
+- ⬆️ Upgrades add-on base image to 12.2.7 (#37) 
+- ⬆️ Upgrades python3 to 3.10.8-r0 (#36) 
 - ⬆️ Upgrades add-on base image to 12.2.4 (#34) 
 - Bump adafruit-circuitpython-ads1x15 from 2.2.18 to 2.2.19 in /mqtt-io (#32)
 

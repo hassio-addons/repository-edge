@@ -29,4 +29,4 @@ schema:
 slug: mqtt-io
 uart: true
 url: https://github.com/hassio-addons/addon-mqtt-io
-version: 37bc0f0
+version: 8ad71b4
