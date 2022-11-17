@@ -1,4 +1,5 @@
 # Changelog since v0.12.2
+- ⬆️ Upgrades NGINX Proxy Manager to v2.9.19 (#383) 
 - 🚑 Exclude logs from backup (#382) 
 - 🚑 Update add-on to handle new log file paths (#357) 
 - ⬆️ Bump certbot-dns-cloudflare from 1.31.0 to 1.32.0 in /proxy-manager (#371)
