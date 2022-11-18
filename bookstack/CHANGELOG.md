@@ -1,5 +1,6 @@
-## What’s changed
+# Changelog since v1.3.1
+- ⬆️ Update image and dependencies (#196)
 
-## ⬆️ Dependency updates
+* ⬆️ Update image to 12.2.7
 
-- ⬆️Update Bookstack to v22.10.1 and dependencies @sinclairpaul (#194)
+* ⬆️ Update php to v8.0.25-r0 
