@@ -1,4 +1,7 @@
 # Changelog since v0.1.3
+- Bump adafruit-circuitpython-ahtx0 from 1.0.16 to 1.0.17 in /mqtt-io (#39)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 12.2.7 (#37) 
 - ⬆️ Upgrades python3 to 3.10.8-r0 (#36) 
 - ⬆️ Upgrades add-on base image to 12.2.4 (#34) 
