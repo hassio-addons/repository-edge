@@ -85,4 +85,4 @@ startup: services
 uart: true
 url: https://github.com/hassio-addons/addon-ssh
 usb: true
-version: '1215369'
+version: 4b5506c
