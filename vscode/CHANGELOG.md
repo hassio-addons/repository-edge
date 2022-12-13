@@ -1,4 +1,5 @@
 # Changelog since v5.4.1
+- ⬆️ Upgrades redhat.vscode-yaml to 1.11.10112022 (#545) 
 - ⬆️ Upgrades code-server to 4.9.0 (#543) 
 - ⬆️ Upgrades ESPHome.esphome-vscode to 2022.11.0 (#544) 
 - ⬆️ Upgrades add-on base image to 6.2.0 (#542) 
