@@ -1,4 +1,5 @@
 # Changelog since v5.4.1
+- ⬆️ Upgrades add-on base image to 6.2.0 (#542) 
 - Bump esphome from 2022.11.4 to 2022.11.5 in /vscode (#537)
 
 Bumps [esphome](https://github.com/esphome/esphome) from 2022.11.4 to 2022.11.5.
