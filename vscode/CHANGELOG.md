@@ -1,4 +1,6 @@
 # Changelog since v5.4.1
+- ⬆️ Upgrades code-server to 4.9.0 (#543) 
+- ⬆️ Upgrades ESPHome.esphome-vscode to 2022.11.0 (#544) 
 - ⬆️ Upgrades add-on base image to 6.2.0 (#542) 
 - Bump esphome from 2022.11.4 to 2022.11.5 in /vscode (#537)
 
