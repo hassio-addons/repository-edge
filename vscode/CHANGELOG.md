@@ -1,4 +1,5 @@
 # Changelog since v5.4.1
+- ⬆️ Upgrades esbenp.prettier-vscode to 9.10.3 (#549) 
 - Bump esphome from 2022.11.5 to 2022.12.0 (#547)
 
 Bumps [esphome](https://github.com/esphome/esphome) from 2022.11.5 to 2022.12.0.
