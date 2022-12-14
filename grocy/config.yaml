@@ -77,4 +77,4 @@ schema:
     stock_product_opened_tracking: bool
 slug: grocy
 url: https://github.com/hassio-addons/addon-grocy
-version: fbafe04
+version: 46c04bf
