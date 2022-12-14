@@ -1,4 +1,21 @@
 # Changelog since v5.4.1
+- Bump esphome from 2022.11.5 to 2022.12.0 (#547)
+
+Bumps [esphome](https://github.com/esphome/esphome) from 2022.11.5 to 2022.12.0.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2022.11.5...2022.12.0)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.31.0 (#548) 
 - 🔨 Migrate old-style base scripts s6-rc (#546) 
 - ⬆️ Upgrades redhat.vscode-yaml to 1.11.10112022 (#545) 
