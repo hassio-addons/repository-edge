@@ -1,4 +1,5 @@
 # Changelog since v0.9.2
+- ⬆️ Upgrades add-on base image to 6.2.0 (#380) 
 - ⬆️ Bump sqlalchemy from 1.4.43 to 1.4.44 in /jupyterlab (#371)
 
 Bumps [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) from 1.4.43 to 1.4.44.
