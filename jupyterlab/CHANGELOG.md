@@ -1,4 +1,22 @@
 # Changelog since v0.9.2
+- ⬆️ Bump pandas from 1.5.1 to 1.5.2 in /jupyterlab (#376)
+
+Bumps [pandas](https://github.com/pandas-dev/pandas) from 1.5.1 to 1.5.2.
+- [Release notes](https://github.com/pandas-dev/pandas/releases)
+- [Changelog](https://github.com/pandas-dev/pandas/blob/main/RELEASE.md)
+- [Commits](https://github.com/pandas-dev/pandas/compare/v1.5.1...v1.5.2)
+
+---
+updated-dependencies:
+- dependency-name: pandas
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump numpy from 1.23.4 to 1.23.5 in /jupyterlab (#375)
 
 Bumps [numpy](https://github.com/numpy/numpy) from 1.23.4 to 1.23.5.
