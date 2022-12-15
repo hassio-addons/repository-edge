@@ -1,4 +1,22 @@
 # Changelog since v0.9.2
+- ⬆️ Bump numpy from 1.23.4 to 1.23.5 in /jupyterlab (#375)
+
+Bumps [numpy](https://github.com/numpy/numpy) from 1.23.4 to 1.23.5.
+- [Release notes](https://github.com/numpy/numpy/releases)
+- [Changelog](https://github.com/numpy/numpy/blob/main/doc/RELEASE_WALKTHROUGH.rst)
+- [Commits](https://github.com/numpy/numpy/compare/v1.23.4...v1.23.5)
+
+---
+updated-dependencies:
+- dependency-name: numpy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump nbconvert from 7.2.5 to 7.2.6 in /jupyterlab (#378)
 
 Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.2.5 to 7.2.6.
