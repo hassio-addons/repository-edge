@@ -1,4 +1,39 @@
 # Changelog since v0.9.2
+- ⬆️ Bump nbconvert from 7.2.5 to 7.2.6 in /jupyterlab (#378)
+
+Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.2.5 to 7.2.6.
+- [Release notes](https://github.com/jupyter/nbconvert/releases)
+- [Changelog](https://github.com/jupyter/nbconvert/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/nbconvert/compare/v7.2.5...v7.2.6)
+
+---
+updated-dependencies:
+- dependency-name: nbconvert
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump ipywidgets from 8.0.2 to 8.0.3 in /jupyterlab (#379)
+
+Bumps [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) from 8.0.2 to 8.0.3.
+- [Release notes](https://github.com/jupyter-widgets/ipywidgets/releases)
+- [Commits](https://github.com/jupyter-widgets/ipywidgets/compare/8.0.2...8.0.3)
+
+---
+updated-dependencies:
+- dependency-name: ipywidgets
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump jupyterlab from 3.5.0 to 3.5.1 in /jupyterlab (#377)
 
 Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 3.5.0 to 3.5.1.
