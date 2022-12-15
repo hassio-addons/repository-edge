@@ -1,4 +1,22 @@
 # Changelog since v0.9.2
+- ⬆️ Bump jupyterlab from 3.5.0 to 3.5.1 in /jupyterlab (#377)
+
+Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 3.5.0 to 3.5.1.
+- [Release notes](https://github.com/jupyterlab/jupyterlab/releases)
+- [Changelog](https://github.com/jupyterlab/jupyterlab/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/jupyterlab/jupyterlab/compare/@jupyterlab/vdom@3.5.0...@jupyterlab/vdom@3.5.1)
+
+---
+updated-dependencies:
+- dependency-name: jupyterlab
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 6.2.0 (#380) 
 - ⬆️ Bump sqlalchemy from 1.4.43 to 1.4.44 in /jupyterlab (#371)
 
