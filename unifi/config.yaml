@@ -39,5 +39,5 @@ schema:
 slug: unifi
 startup: services
 url: https://github.com/hassio-addons/addon-unifi
-version: d615684
+version: 2d52a13
 webui: https://[HOST]:[PORT:8443]
