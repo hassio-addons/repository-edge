@@ -1,4 +1,57 @@
 # Changelog since v0.9.2
+- ⬆️ Bump jupyterlab-widgets from 3.0.3 to 3.0.4 in /jupyterlab (#382)
+
+Bumps [jupyterlab-widgets](https://github.com/jupyter-widgets/ipywidgets) from 3.0.3 to 3.0.4.
+- [Release notes](https://github.com/jupyter-widgets/ipywidgets/releases)
+- [Commits](https://github.com/jupyter-widgets/ipywidgets/compare/@jupyter-widgets/notebook-manager@3.0.3...@jupyter-widgets/notebook-manager@3.0.4)
+
+---
+updated-dependencies:
+- dependency-name: jupyterlab-widgets
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump bokeh from 3.0.2 to 3.0.3 in /jupyterlab (#381)
+
+Bumps [bokeh](https://github.com/bokeh/bokeh) from 3.0.2 to 3.0.3.
+- [Release notes](https://github.com/bokeh/bokeh/releases)
+- [Changelog](https://github.com/bokeh/bokeh/blob/3.0.3/docs/CHANGELOG)
+- [Commits](https://github.com/bokeh/bokeh/compare/3.0.2...3.0.3)
+
+---
+updated-dependencies:
+- dependency-name: bokeh
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump sqlalchemy from 1.4.44 to 1.4.45 in /jupyterlab (#383)
+
+Bumps [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) from 1.4.44 to 1.4.45.
+- [Release notes](https://github.com/sqlalchemy/sqlalchemy/releases)
+- [Changelog](https://github.com/sqlalchemy/sqlalchemy/blob/main/CHANGES.rst)
+- [Commits](https://github.com/sqlalchemy/sqlalchemy/commits)
+
+---
+updated-dependencies:
+- dependency-name: sqlalchemy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump pandas from 1.5.1 to 1.5.2 in /jupyterlab (#376)
 
 Bumps [pandas](https://github.com/pandas-dev/pandas) from 1.5.1 to 1.5.2.
