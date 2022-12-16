@@ -1026,10 +1026,10 @@ SOFTWARE.
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [thelounge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [thelounge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/2767067
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/2767067/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/595d1d3
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/595d1d3/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-2767067-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-595d1d3-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
