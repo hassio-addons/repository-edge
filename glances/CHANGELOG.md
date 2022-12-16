@@ -1,4 +1,5 @@
 # Changelog since v0.17.1
+- Add py3-six dependency (#307) 
 - Remove obsolete requirements (#305) 
 - Add py3-packaging dependency (#303)
 
