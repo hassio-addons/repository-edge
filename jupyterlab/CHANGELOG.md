@@ -1,4 +1,22 @@
 # Changelog since v0.9.2
+- ⬆️ Bump numpy from 1.23.5 to 1.24.0 in /jupyterlab (#384)
+
+Bumps [numpy](https://github.com/numpy/numpy) from 1.23.5 to 1.24.0.
+- [Release notes](https://github.com/numpy/numpy/releases)
+- [Changelog](https://github.com/numpy/numpy/blob/main/doc/RELEASE_WALKTHROUGH.rst)
+- [Commits](https://github.com/numpy/numpy/compare/v1.23.5...v1.24.0)
+
+---
+updated-dependencies:
+- dependency-name: numpy
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades libxml2 to 2.9.10+dfsg-6.7+deb11u3 (#386) 
 - ⬆️ Upgrades libmariadb3 to 1:10.5.18-0+deb11u1 (#385) 
 - ⬆️ Bump jupyterlab-widgets from 3.0.3 to 3.0.4 in /jupyterlab (#382)
