@@ -1,4 +1,5 @@
 # Changelog since v5.5.0
+- ⬆️ Upgrades code-server to 4.9.1 (#557) 
 - ⬆️ Upgrades mariadb-client to 1:10.5.18-0+deb11u1 (#556) 
 - ⬆️ Upgrades locales to 2.31-13+deb11u5 (#555) 
 - Bump esphome from 2022.12.0 to 2022.12.1 in /vscode (#552)
