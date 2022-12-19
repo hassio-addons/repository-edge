@@ -1,3 +1,2 @@
-# Changelog since v3.4.1
-- ⬆️ Upgrades AirConnect to 1.0.3 (#153) 
-- ⬆️ Upgrades add-on base image to 6.1.2 (#152) 
+# Changelog since v3.5.0
+- ⬆️ Upgrades add-on base image to 6.2.0 (#155) 
