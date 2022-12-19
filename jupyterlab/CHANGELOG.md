@@ -1,4 +1,6 @@
 # Changelog since v0.9.2
+- ⬆️ Upgrades libxml2 to 2.9.10+dfsg-6.7+deb11u3 (#386) 
+- ⬆️ Upgrades libmariadb3 to 1:10.5.18-0+deb11u1 (#385) 
 - ⬆️ Bump jupyterlab-widgets from 3.0.3 to 3.0.4 in /jupyterlab (#382)
 
 Bumps [jupyterlab-widgets](https://github.com/jupyter-widgets/ipywidgets) from 3.0.3 to 3.0.4.
