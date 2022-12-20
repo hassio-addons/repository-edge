@@ -1,4 +1,6 @@
 # Changelog since v3.1.4
+- 🔨 Migrate old-style S6 scripts to s6-rc.d (#259) 
+- ⬆️ Upgrades add-on base image to 6.2.0 (#258) 
 - Bump pycryptodomex from 3.15.0 to 3.16.0 (#257)
 
 Bumps [pycryptodomex](https://github.com/Legrandin/pycryptodome) from 3.15.0 to 3.16.0.
