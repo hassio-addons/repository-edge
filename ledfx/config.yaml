@@ -6,10 +6,12 @@ arch:
 - i386
 audio: true
 auth_api: true
+codenotary: codenotary@frenck.dev
 description: A network based LED effect controller with support for advanced real-time
   audio effects!
 hassio_api: true
 image: ghcr.io/hassio-addons/ledfx/{arch}
+init: false
 map:
 - ssl
 name: ledfx
@@ -29,5 +31,5 @@ schema:
   ssl: bool
 slug: ledfx
 url: https://github.com/hassio-addons/addon-ledfx
-version: 91682fa
+version: 4b77b65
 webui: '[PROTO:ssl]://[HOST]:[PORT:80]'

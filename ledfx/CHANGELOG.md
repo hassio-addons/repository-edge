@@ -1,1 +1,1 @@
-- ⬆️ Upgrades add-on base image to 11.1.0 (#113)
+- 🚑 Fix missing CAS API Key in CI (#128)
