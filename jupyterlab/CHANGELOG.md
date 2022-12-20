@@ -1,4 +1,41 @@
 # Changelog since v0.9.2
+- 🔨 Migrate old-style S6 scripts to s6-rc.d (#389) 
+- ⬆️ Bump jupyterlab from 3.5.1 to 3.5.2 in /jupyterlab (#387)
+
+Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 3.5.1 to 3.5.2.
+- [Release notes](https://github.com/jupyterlab/jupyterlab/releases)
+- [Changelog](https://github.com/jupyterlab/jupyterlab/blob/@jupyterlab/vdom@3.5.2/CHANGELOG.md)
+- [Commits](https://github.com/jupyterlab/jupyterlab/compare/@jupyterlab/vdom@3.5.1...@jupyterlab/vdom@3.5.2)
+
+---
+updated-dependencies:
+- dependency-name: jupyterlab
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump nbconvert from 7.2.6 to 7.2.7 in /jupyterlab (#388)
+
+Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.2.6 to 7.2.7.
+- [Release notes](https://github.com/jupyter/nbconvert/releases)
+- [Changelog](https://github.com/jupyter/nbconvert/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/nbconvert/compare/v7.2.6...v7.2.7)
+
+---
+updated-dependencies:
+- dependency-name: nbconvert
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump numpy from 1.23.5 to 1.24.0 in /jupyterlab (#384)
 
 Bumps [numpy](https://github.com/numpy/numpy) from 1.23.5 to 1.24.0.
