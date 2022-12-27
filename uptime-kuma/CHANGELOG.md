@@ -1,4 +1,2 @@
-# Changelog since v0.3.2
-- 🚑 Fix MQTT notifications (#31) 
-- 🔨 Migrate old-style base scripts s6-rc (#30) 
-- ⬆️ Upgrades add-on base image to 13.0.0 (#29) 
+# Changelog since v0.4.0
+- ⬆️ Upgrades Uptime Kuma to 1.19.2 (#32) 
