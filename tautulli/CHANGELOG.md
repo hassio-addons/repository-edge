@@ -1,4 +1,5 @@
 # Changelog since v3.1.4
+- ⬆️ Upgrades Tautulli to v2.11.1 (#262) 
 - Bump crudini from 0.9.3 to 0.9.4 in /tautulli (#261)
 
 Bumps [crudini](https://github.com/pixelb/crudini) from 0.9.3 to 0.9.4.
