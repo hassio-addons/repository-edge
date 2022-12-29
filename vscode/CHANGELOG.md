@@ -1,4 +1,5 @@
 # Changelog since v5.5.0
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.32.0 (#560) 
 - Bump esphome to 2022.12.3 (#559)
 
 Bumps [esphome](https://github.com/esphome/esphome) from 2022.12.2 to 2022.12.3.
