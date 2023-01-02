@@ -1,4 +1,8 @@
 # Changelog since v14.0.0
+- 🎆 Updates maintenance/license year to 2023 (#1534) 
+- Bump node-red-dashboard from 3.2.3 to 3.3.0 in /node-red (#1533)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-persistent-fsm from 1.2.0 to 1.2.1 in /node-red (#1531)
 
 Bumps [node-red-contrib-persistent-fsm](https://github.com/hufftheweevil/node-red-contrib-persistent-fsm) from 1.2.0 to 1.2.1.
