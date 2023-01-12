@@ -26,4 +26,4 @@ schema:
   - str
 slug: jupyterlablite
 url: https://github.com/hassio-addons/addon-jupyterlab
-version: 4d99f50
+version: 65b6cf2
