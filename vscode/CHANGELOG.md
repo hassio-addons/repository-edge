@@ -1,53 +1,16 @@
-# Changelog since v5.5.0
-- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.32.0 (#560) 
-- Bump esphome to 2022.12.3 (#559)
+# Changelog since v5.5.1
+- Bump yamllint from 1.28.0 to 1.29.0 in /vscode (#564)
 
-Bumps [esphome](https://github.com/esphome/esphome) from 2022.12.2 to 2022.12.3.
-- [Release notes](https://github.com/esphome/esphome/releases)
-- [Commits](https://github.com/esphome/esphome/compare/2022.12.2...2022.12.3)
-
----
-updated-dependencies:
-- dependency-name: esphome
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- Bump esphome from 2022.12.1 to 2022.12.2 in /vscode (#558)
-
-Bumps [esphome](https://github.com/esphome/esphome) from 2022.12.1 to 2022.12.2.
-- [Release notes](https://github.com/esphome/esphome/releases)
-- [Commits](https://github.com/esphome/esphome/compare/2022.12.1...2022.12.2)
+Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.28.0 to 1.29.0.
+- [Release notes](https://github.com/adrienverge/yamllint/releases)
+- [Changelog](https://github.com/adrienverge/yamllint/blob/master/CHANGELOG.rst)
+- [Commits](https://github.com/adrienverge/yamllint/compare/v1.28.0...v1.29.0)
 
 ---
 updated-dependencies:
-- dependency-name: esphome
+- dependency-name: yamllint
   dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Upgrades code-server to 4.9.1 (#557) 
-- ⬆️ Upgrades mariadb-client to 1:10.5.18-0+deb11u1 (#556) 
-- ⬆️ Upgrades locales to 2.31-13+deb11u5 (#555) 
-- Bump esphome from 2022.12.0 to 2022.12.1 in /vscode (#552)
-
-Bumps [esphome](https://github.com/esphome/esphome) from 2022.12.0 to 2022.12.1.
-- [Release notes](https://github.com/esphome/esphome/releases)
-- [Commits](https://github.com/esphome/esphome/compare/2022.12.0...2022.12.1)
-
----
-updated-dependencies:
-- dependency-name: esphome
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com>
