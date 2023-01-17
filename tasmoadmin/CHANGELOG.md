@@ -1,4 +1,5 @@
 # Changelog since v0.22.0
+- 🎆 Updates maintenance/license year to 2023 (#278) 
 - ⬆️  Upgrades TasmoAdmin to v2.3.3 (#276) 
 - ⬆️  Upgrades php to 8.1.14 (#277) 
 - 🔨 Fix healthcheck for SSL enabled instances (#274)
