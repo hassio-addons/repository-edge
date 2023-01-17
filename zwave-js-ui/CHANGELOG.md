@@ -1,2 +1,2 @@
-# Changelog since v1.4.1
-- ⬆️ Upgrades Z-Wave JS UI to v8.6.2 (#453) 
+# Changelog since v1.4.2
+- ⬆️ Upgrades add-on base image to 13.1.0 (#454) 
