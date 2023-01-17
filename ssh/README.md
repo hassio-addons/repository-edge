@@ -95,14 +95,14 @@ If you are more interested in stable releases of our add-ons:
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [ohmyzsh]: http://ohmyz.sh/
 [openssh]: https://www.openssh.com/
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-4b5506c-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/4b5506c
+[release-shield]: https://img.shields.io/badge/version-250b9cc-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/250b9cc
 [screenshot]: https://github.com/hassio-addons/addon-ssh/raw/main/images/screenshot.png
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/main/images/ssh-audit.png
 [ssh-audit]: https://github.com/jtesta/ssh-audit
