@@ -15,5 +15,5 @@ ports_description:
   3001/tcp: Web interface
 slug: uptime-kuma
 url: https://github.com/hassio-addons/addon-uptime-kuma
-version: e715ce1
+version: 1ce0b1c
 webui: http://[HOST]:[PORT:3001]
