@@ -1,4 +1,5 @@
 # Changelog since v0.17.2
+- Bump glances from 3.3.1 to 3.3.1.1 in /glances (#316) 
 - Bump glances from 3.3.0.4 to 3.3.1 (#315)
 
 Bumps [glances](https://github.com/nicolargo/glances) from 3.3.0.4 to 3.3.1.
