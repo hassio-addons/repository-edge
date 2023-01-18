@@ -1071,10 +1071,10 @@ SOFTWARE.
 [vscode-remote-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [vscode-remote-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [vscode-remote-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/a8db2dd
-[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/a8db2dd/README.md
+[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/e4bcd90
+[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/e4bcd90/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
-[bitwarden-version-shield]: https://img.shields.io/badge/version-a8db2dd-blue.svg
+[bitwarden-version-shield]: https://img.shields.io/badge/version-e4bcd90-blue.svg
 [bitwarden-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bitwarden-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
