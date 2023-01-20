@@ -1,4 +1,5 @@
 # Changelog since v0.1.3
+- 🔨 Migrate old-style S6 scripts to s6-rc.d (#43) 
 - ⬆️ Upgrades add-on base image to 13.1.1 (#42) 
 - 🎆 Updates maintenance/license year to 2023 (#41) 
 - Bump adafruit-circuitpython-ahtx0 from 1.0.16 to 1.0.17 in /mqtt-io (#39)
