@@ -39,4 +39,4 @@ schema:
   - str
 slug: thelounge
 url: https://github.com/hassio-addons/addon-thelounge
-version: bf8e27e
+version: '6133890'
