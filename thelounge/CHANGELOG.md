@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- 🔨 Migrate old-style S6 scripts to s6-rc.d (#130) 
 - ⬆️ Upgrades add-on base image to 13.1.1 (#129) 
 - 🎆 Updates maintenance/license year to 2023 (#128) 
 - ⬆️ Upgrades add-on base image to 12.2.7 (#127) 
