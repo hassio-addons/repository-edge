@@ -1,4 +1,8 @@
 # Changelog since v0.1.3
+- Bump mqtt-io from 2.2.7 to 2.2.8 in /mqtt-io (#40)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - 🔨 Migrate old-style S6 scripts to s6-rc.d (#43) 
 - ⬆️ Upgrades add-on base image to 13.1.1 (#42) 
 - 🎆 Updates maintenance/license year to 2023 (#41) 
