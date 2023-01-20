@@ -1,4 +1,6 @@
 # Changelog since v0.1.3
+- ⬆️ Upgrades add-on base image to 13.1.1 (#42) 
+- 🎆 Updates maintenance/license year to 2023 (#41) 
 - Bump adafruit-circuitpython-ahtx0 from 1.0.16 to 1.0.17 in /mqtt-io (#39)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
