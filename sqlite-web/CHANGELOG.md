@@ -1,4 +1,5 @@
 # Changelog since v3.6.1
+- ⬆️ Upgrades add-on base image to 13.1.1 (#230) 
 - 🎆 Updates maintenance/license year to 2023 (#229) 
 - 🔨 Migrate old-style base scripts s6-rc (#228) 
 - ⬆️ Bump sqlite-web from 0.4.0 to 0.4.1 in /sqlite-web (#225)
