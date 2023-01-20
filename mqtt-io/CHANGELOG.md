@@ -1,4 +1,5 @@
 # Changelog since v0.1.3
+- Enable full access to devices (#38) 
 - Bump mqtt-io from 2.2.7 to 2.2.8 in /mqtt-io (#40)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
