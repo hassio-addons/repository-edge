@@ -1,4 +1,6 @@
 # Changelog since v0.16.0
+- ⬆️ Upgrades add-on base image to 13.1.1 (#129) 
+- 🎆 Updates maintenance/license year to 2023 (#128) 
 - ⬆️ Upgrades add-on base image to 12.2.7 (#127) 
 - ⬆️ Upgrades nginx to 1.22.1-r0 (#126) 
 - ⬆️ Upgrades nodejs to 16.17.1-r0 (#125) 
