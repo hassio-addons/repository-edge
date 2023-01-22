@@ -1,4 +1,7 @@
 # Changelog since v5.5.1
+- ⬆️ Upgrades esbenp.prettier-vscode to 9.10.4 (#568) 
+- 🎆 Updates maintenance/license year to 2023 (#566) 
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.33.0 (#567) 
 - Bump yamllint from 1.28.0 to 1.29.0 in /vscode (#564)
 
 Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.28.0 to 1.29.0.
