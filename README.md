@@ -936,10 +936,10 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/7c095cc
-[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/7c095cc/README.md
+[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/e5ab0e1
+[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/e5ab0e1/README.md
 [plex-issue]: https://github.com/hassio-addons/addon-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-7c095cc-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-e5ab0e1-blue.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
