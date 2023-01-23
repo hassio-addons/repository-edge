@@ -1,2 +1,2 @@
-# Changelog since v0.2.0
-- ⬆️ Upgrades EMQX to v5.0.13 (#19) 
+# Changelog since v0.2.1
+- 🎆 Updates maintenance/license year to 2023 (#22) 
