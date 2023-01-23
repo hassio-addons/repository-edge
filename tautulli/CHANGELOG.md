@@ -1,4 +1,7 @@
 # Changelog since v3.2.0
+- Bump setuptools from 66.0.0 to 66.1.1 in /tautulli (#265)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump setuptools from 65.7.0 to 66.0.0 (#264)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
