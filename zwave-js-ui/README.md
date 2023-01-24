@@ -58,10 +58,10 @@ If you are more interested in stable releases of our add-ons:
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [logo]: https://github.com/hassio-addons/addon-zwave-js-ui/raw/main/zwave-js-ui/logo.png
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-cbe714b-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/cbe714b
+[release-shield]: https://img.shields.io/badge/version-cb574ac-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/cb574ac
 [zwave-js-ui]: https://github.com/zwave-js/zwave-js-ui
