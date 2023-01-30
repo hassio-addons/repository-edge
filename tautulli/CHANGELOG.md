@@ -1,4 +1,7 @@
 # Changelog since v3.2.0
+- Bump setuptools from 66.1.1 to 67.0.0 in /tautulli (#266)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump pycryptodomex from 3.16.0 to 3.17 in /tautulli (#267)
 
 Bumps [pycryptodomex](https://github.com/Legrandin/pycryptodome) from 3.16.0 to 3.17.
