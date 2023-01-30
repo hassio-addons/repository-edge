@@ -1,4 +1,20 @@
 # Changelog since v3.2.0
+- Bump pycryptodomex from 3.16.0 to 3.17 in /tautulli (#267)
+
+Bumps [pycryptodomex](https://github.com/Legrandin/pycryptodome) from 3.16.0 to 3.17.
+- [Release notes](https://github.com/Legrandin/pycryptodome/releases)
+- [Changelog](https://github.com/Legrandin/pycryptodome/blob/master/Changelog.rst)
+- [Commits](https://github.com/Legrandin/pycryptodome/compare/v3.16.0...v3.17.0)
+
+---
+updated-dependencies:
+- dependency-name: pycryptodomex
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump setuptools from 66.0.0 to 66.1.1 in /tautulli (#265)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
