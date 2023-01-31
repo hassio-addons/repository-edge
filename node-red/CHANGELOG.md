@@ -1,4 +1,20 @@
 # Changelog since v14.0.1
+- Bump node-red-contrib-home-assistant-websocket from 0.48.0 to 0.48.1 in /node-red (#1552)
+
+Bumps [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) from 0.48.0 to 0.48.1.
+- [Release notes](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/releases)
+- [Changelog](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.48.0...v0.48.1)
+
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-home-assistant-websocket
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump node-red-contrib-sunevents from 3.0.3 to 3.1.1 in /node-red (#1547)
 
 Bumps [node-red-contrib-sunevents](https://github.com/freakent/node-red-contrib-sunevents) from 3.0.3 to 3.1.1.
