@@ -38,4 +38,4 @@ slug: vscode
 startup: services
 uart: true
 url: https://github.com/hassio-addons/addon-vscode
-version: 1185ae5
+version: 80e648b
