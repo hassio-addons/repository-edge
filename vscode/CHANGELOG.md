@@ -1,4 +1,19 @@
 # Changelog since v5.5.2
+- Bump esphome from 2023.2.1 to 2023.2.2 in /vscode (#576)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [esphome](https://github.com/esphome/esphome) from 2023.2.1 to 2023.2.2.
+- [Release notes](https://github.com/esphome/esphome/releases)
+- [Commits](https://github.com/esphome/esphome/compare/2023.2.1...2023.2.2)
+
+---
+updated-dependencies:
+- dependency-name: esphome
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump esphome from 2022.12.8 to 2023.2.1 in /vscode (#575)
 
 Bumps [esphome](https://github.com/esphome/esphome) from 2022.12.8 to 2023.2.1.
