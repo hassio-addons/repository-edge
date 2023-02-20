@@ -1,4 +1,17 @@
 # Changelog since v14.0.2
+- Bump node-red-contrib-bigtimer from 2.8.3 to 2.8.5 in /node-red (#1559)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [node-red-contrib-bigtimer](https://tech.scargill.net/big-timer/) from 2.8.3 to 2.8.5.
+
+---
+updated-dependencies:
+- dependency-name: node-red-contrib-bigtimer
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades add-on base image to 13.1.2 (#1561) 
 - Bump node-red-node-serialport from 1.0.1 to 1.0.3 in /node-red (#1555)
 
