@@ -1,9 +1,6 @@
-## What’s changed
+# Changelog since v1.5.1
+- ⬆️ Update base image and dependencies (#208)
 
-## 🐛 Bug fixes
+* ⬆️ Update Base image to 13.1.1
 
-- 🚑 Fix appkey generation for new installs @sinclairpaul ([#206](https://github.com/hassio-addons/addon-bookstack/pull/206))
-
-## 📚 Documentation
-
-- 📚 Update Year @sinclairpaul ([#204](https://github.com/hassio-addons/addon-bookstack/pull/204))
+* ⬆️ Update php to 8.1.16-r0 
