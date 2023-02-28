@@ -1,6 +1,6 @@
-# Changelog since v1.5.1
-- ⬆️ Update base image and dependencies (#208)
+## What’s changed
 
-* ⬆️ Update Base image to 13.1.1
+## ⬆️ Dependency updates
 
-* ⬆️ Update php to 8.1.16-r0 
+- ⬆️ Update base image and dependencies @sinclairpaul ([#208](https://github.com/hassio-addons/addon-bookstack/pull/208))
+- ⬆️ Update Bookstack to v23.02.1 @sinclairpaul ([#209](https://github.com/hassio-addons/addon-bookstack/pull/209))
