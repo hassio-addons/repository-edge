@@ -1,4 +1,5 @@
 # Changelog since v5.5.2
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 1.34.0 (#583) 
 - ⬆️ Upgrades code-server to 4.10.1 (#582) 
 - Use shim instead of symlink for code CLI (#580) 
 - ⬆️ Upgrades add-on base image to 6.2.3 (#581) 
