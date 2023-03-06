@@ -1,4 +1,39 @@
 # Changelog since v0.9.3
+- ⬆️ Bump pandas from 1.5.2 to 1.5.3 in /jupyterlab (#398)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [pandas](https://github.com/pandas-dev/pandas) from 1.5.2 to 1.5.3.
+- [Release notes](https://github.com/pandas-dev/pandas/releases)
+- [Changelog](https://github.com/pandas-dev/pandas/blob/main/RELEASE.md)
+- [Commits](https://github.com/pandas-dev/pandas/compare/v1.5.2...v1.5.3)
+
+---
+updated-dependencies:
+- dependency-name: pandas
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump sqlalchemy from 1.4.45 to 2.0.5.post1 in /jupyterlab (#409)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump jupyterlab from 3.5.2 to 3.6.1 in /jupyterlab (#404)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 3.5.2 to 3.6.1.
+- [Release notes](https://github.com/jupyterlab/jupyterlab/releases)
+- [Changelog](https://github.com/jupyterlab/jupyterlab/blob/@jupyterlab/vdom@3.6.1/CHANGELOG.md)
+- [Commits](https://github.com/jupyterlab/jupyterlab/compare/@jupyterlab/vdom@3.5.2...@jupyterlab/vdom@3.6.1)
+
+---
+updated-dependencies:
+- dependency-name: jupyterlab
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - 🎆 Updates maintenance/license year to 2023 (#411) 
 - ⬆️ Upgrades nodejs to 14.21.3-deb-1nodesource1 (#410) 
 - ⬆️ Bump numpy from 1.24.0 to 1.24.1 in /jupyterlab (#392)
