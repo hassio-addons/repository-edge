@@ -1,4 +1,6 @@
 # Changelog since v0.9.3
+- 🎆 Updates maintenance/license year to 2023 (#411) 
+- ⬆️ Upgrades nodejs to 14.21.3-deb-1nodesource1 (#410) 
 - ⬆️ Bump numpy from 1.24.0 to 1.24.1 in /jupyterlab (#392)
 
 Bumps [numpy](https://github.com/numpy/numpy) from 1.24.0 to 1.24.1.
