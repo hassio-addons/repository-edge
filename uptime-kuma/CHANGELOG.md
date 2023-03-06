@@ -1,3 +1,4 @@
-# Changelog since v0.5.2
-- ⬆️ Upgrades Uptime Kuma to 1.20.1 (#55) 
-- ⬆️ Upgrades add-on base image to 13.1.3 (#54) 
+# Changelog since v0.6.0
+- ⬆️ Bump apprise from 1.2.1 to 1.3.0 in /uptime-kuma (#47)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
