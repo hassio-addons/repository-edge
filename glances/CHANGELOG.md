@@ -1,4 +1,20 @@
 # Changelog since v0.17.2
+- Bump bottle from 0.12.23 to 0.12.25 in /glances (#322)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [bottle](https://github.com/bottlepy/bottle) from 0.12.23 to 0.12.25.
+- [Release notes](https://github.com/bottlepy/bottle/releases)
+- [Changelog](https://github.com/bottlepy/bottle/blob/master/docs/changelog.rst)
+- [Commits](https://github.com/bottlepy/bottle/compare/0.12.23...0.12.25)
+
+---
+updated-dependencies:
+- dependency-name: bottle
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump zeroconf from 0.47.1 to 0.47.3 in /glances (#320)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [zeroconf](https://github.com/python-zeroconf/python-zeroconf) from 0.47.1 to 0.47.3.
