@@ -1,4 +1,35 @@
 # Changelog since v0.9.3
+- ⬆️ Bump seaborn from 0.12.1 to 0.12.2 in /jupyterlab (#393)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [seaborn](https://github.com/mwaskom/seaborn) from 0.12.1 to 0.12.2.
+- [Release notes](https://github.com/mwaskom/seaborn/releases)
+- [Commits](https://github.com/mwaskom/seaborn/compare/v0.12.1...v0.12.2)
+
+---
+updated-dependencies:
+- dependency-name: seaborn
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump nbconvert from 7.2.7 to 7.2.9 in /jupyterlab (#400)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [nbconvert](https://github.com/jupyter/nbconvert) from 7.2.7 to 7.2.9.
+- [Release notes](https://github.com/jupyter/nbconvert/releases)
+- [Changelog](https://github.com/jupyter/nbconvert/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/nbconvert/compare/v7.2.7...v7.2.9)
+
+---
+updated-dependencies:
+- dependency-name: nbconvert
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump pandas from 1.5.2 to 1.5.3 in /jupyterlab (#398)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [pandas](https://github.com/pandas-dev/pandas) from 1.5.2 to 1.5.3.
