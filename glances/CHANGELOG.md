@@ -1,4 +1,6 @@
 # Changelog since v0.17.2
+- ⬆️ Upgrades add-on base image to 13.1.3 (#324) 
+- 🎆 Updates maintenance/license year to 2023 (#323) 
 - Bump glances from 3.3.1 to 3.3.1.1 in /glances (#316) 
 - Bump glances from 3.3.0.4 to 3.3.1 (#315)
 
