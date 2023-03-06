@@ -15,7 +15,7 @@ Fully configurable Z-Wave JS control panel and MQTT gateway.
 ## About
 
 The Z-Wave JS UI add-on provides an additional control panel, allowing you
-to configure every aspect of your Z-Wave network. It provides a decouled
+to configure every aspect of your Z-Wave network. It provides a decoupled
 gateway which can communicate using Z-Wave JS WebSockets (used by the
 Home Assistant Z-Wave JS integration) and MQTT (even simultaneously).
 
@@ -62,6 +62,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-7d12900-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/7d12900
+[release-shield]: https://img.shields.io/badge/version-afdcf03-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/afdcf03
 [zwave-js-ui]: https://github.com/zwave-js/zwave-js-ui
