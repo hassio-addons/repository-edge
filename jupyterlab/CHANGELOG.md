@@ -1,4 +1,7 @@
 # Changelog since v0.9.3
+- ⬆️ Bump numpy from 1.24.1 to 1.24.2 in /jupyterlab (#415)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump scrapy from 2.7.1 to 2.8.0 in /jupyterlab (#414)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [scrapy](https://github.com/scrapy/scrapy) from 2.7.1 to 2.8.0.
