@@ -1,4 +1,35 @@
 # Changelog since v0.9.3
+- ⬆️ Bump scrapy from 2.7.1 to 2.8.0 in /jupyterlab (#414)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [scrapy](https://github.com/scrapy/scrapy) from 2.7.1 to 2.8.0.
+- [Release notes](https://github.com/scrapy/scrapy/releases)
+- [Changelog](https://github.com/scrapy/scrapy/blob/master/docs/news.rst)
+- [Commits](https://github.com/scrapy/scrapy/compare/2.7.1...2.8.0)
+
+---
+updated-dependencies:
+- dependency-name: scrapy
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- ⬆️ Bump matplotlib from 3.6.3 to 3.7.1 in /jupyterlab (#413)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [matplotlib](https://github.com/matplotlib/matplotlib) from 3.6.3 to 3.7.1.
+- [Release notes](https://github.com/matplotlib/matplotlib/releases)
+- [Commits](https://github.com/matplotlib/matplotlib/compare/v3.6.3...v3.7.1)
+
+---
+updated-dependencies:
+- dependency-name: matplotlib
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump seaborn from 0.12.1 to 0.12.2 in /jupyterlab (#393)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [seaborn](https://github.com/mwaskom/seaborn) from 0.12.1 to 0.12.2.
