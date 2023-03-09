@@ -1,4 +1,20 @@
 # Changelog since v3.2.0
+- Bump setuptools from 67.5.1 to 67.6.0 in /tautulli (#276)
+
+Bumps [setuptools](https://github.com/pypa/setuptools) from 67.5.1 to 67.6.0.
+- [Release notes](https://github.com/pypa/setuptools/releases)
+- [Changelog](https://github.com/pypa/setuptools/blob/main/CHANGES.rst)
+- [Commits](https://github.com/pypa/setuptools/compare/v67.5.1...v67.6.0)
+
+---
+updated-dependencies:
+- dependency-name: setuptools
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump setuptools from 67.5.0 to 67.5.1 in /tautulli (#275)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [setuptools](https://github.com/pypa/setuptools) from 67.5.0 to 67.5.1.
