@@ -1,4 +1,17 @@
 # Changelog since v0.9.3
+- ⬆️ Bump beautifulsoup4 from 4.11.1 to 4.11.2 in /jupyterlab (#412)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) from 4.11.1 to 4.11.2.
+
+---
+updated-dependencies:
+- dependency-name: beautifulsoup4
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump numpy from 1.24.1 to 1.24.2 in /jupyterlab (#415)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
