@@ -1,4 +1,7 @@
 # Changelog since v3.2.0
+- Bump plexapi from 4.13.2 to 4.13.4 in /tautulli (#277)
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump setuptools from 67.5.1 to 67.6.0 in /tautulli (#276)
 
 Bumps [setuptools](https://github.com/pypa/setuptools) from 67.5.1 to 67.6.0.
