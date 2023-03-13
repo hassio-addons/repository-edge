@@ -508,19 +508,6 @@ It is a self-hosted monitoring tool like "Uptime Robot"
 
 [:books: Uptime Kuma add-on documentation][addon-doc-uptime-kuma]
 
-### &#10003; [VSCode Remote][addon-vscode-remote]
-
-![Latest Version][vscode-remote-version-shield]
-![Supports armhf Architecture][vscode-remote-armhf-shield]
-![Supports armv7 Architecture][vscode-remote-armv7-shield]
-![Supports aarch64 Architecture][vscode-remote-aarch64-shield]
-![Supports amd64 Architecture][vscode-remote-amd64-shield]
-![Supports i386 Architecture][vscode-remote-i386-shield]
-
-VSCode Remote access to Home Assistant
-
-[:books: VSCode Remote add-on documentation][addon-doc-vscode-remote]
-
 ### &#10003; [Vaultwarden (Bitwarden)][addon-bitwarden]
 
 ![Latest Version][bitwarden-version-shield]
@@ -1062,15 +1049,6 @@ SOFTWARE.
 [uptime-kuma-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [uptime-kuma-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [uptime-kuma-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/tree/6541b8e
-[addon-doc-vscode-remote]: https://github.com/hassio-addons/addon-vscode-remote/blob/6541b8e/README.md
-[vscode-remote-issue]: https://github.com/hassio-addons/addon-vscode-remote/issues
-[vscode-remote-version-shield]: https://img.shields.io/badge/version-6541b8e-blue.svg
-[vscode-remote-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[vscode-remote-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[vscode-remote-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[vscode-remote-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[vscode-remote-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/412bd7c
 [addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/412bd7c/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
