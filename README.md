@@ -669,7 +669,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Traccar][traccar-issue]
 - [Open an issue for the add-on: UniFi Network Application][unifi-issue]
 - [Open an issue for the add-on: Uptime Kuma][uptime-kuma-issue]
-- [Open an issue for the add-on: VSCode Remote][vscode-remote-issue]
 - [Open an issue for the add-on: Vaultwarden (Bitwarden)][bitwarden-issue]
 - [Open an issue for the add-on: WireGuard][wireguard-issue]
 - [Open an issue for the add-on: Z-Wave JS UI][zwave-js-ui-issue]
