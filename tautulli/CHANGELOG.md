@@ -1,4 +1,5 @@
 # Changelog since v3.2.0
+- 🎆 Updates maintenance/license year to 2023 (#278) 
 - Bump plexapi from 4.13.2 to 4.13.4 in /tautulli (#277)
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
