@@ -1,4 +1,20 @@
 # Changelog since v0.9.3
+- ⬆️ Bump bokeh from 3.0.3 to 3.1.0 in /jupyterlab (#416)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [bokeh](https://github.com/bokeh/bokeh) from 3.0.3 to 3.1.0.
+- [Release notes](https://github.com/bokeh/bokeh/releases)
+- [Changelog](https://github.com/bokeh/bokeh/blob/branch-3.2/docs/CHANGELOG)
+- [Commits](https://github.com/bokeh/bokeh/compare/3.0.3...3.1.0)
+
+---
+updated-dependencies:
+- dependency-name: bokeh
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump beautifulsoup4 from 4.11.1 to 4.11.2 in /jupyterlab (#412)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) from 4.11.1 to 4.11.2.
