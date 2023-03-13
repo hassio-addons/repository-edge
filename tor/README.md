@@ -57,10 +57,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-tor/33822?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-0df9deb-blue.svg
-[release]: https://github.com/hassio-addons/addon-tor/tree/0df9deb
+[release-shield]: https://img.shields.io/badge/version-ff8f67f-blue.svg
+[release]: https://github.com/hassio-addons/addon-tor/tree/ff8f67f
 [tor-hidden-service]: https://www.torproject.org/docs/hidden-services.html.en
