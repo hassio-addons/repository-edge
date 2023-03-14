@@ -1,4 +1,13 @@
 # Changelog since v0.17.2
+- add support influxdb2 (#311)Co-authored-by: Franck Nijhof <git@frenck.dev>
+
+* add support influxdb2
+
+* Tiny cleanup/styling
+
+---------
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Bump bottle from 0.12.23 to 0.12.25 in /glances (#322)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [bottle](https://github.com/bottlepy/bottle) from 0.12.23 to 0.12.25.
