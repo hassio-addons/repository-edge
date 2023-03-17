@@ -1,3 +1,2 @@
-# Changelog since v3.2.1
-- ⬆️ Upgrades Tautulli to v2.12.1 (#281) 
-- ⬆️ Upgrades Tautulli to v2.12.0 (#280) 
+# Changelog since v3.2.2
+- ⬆️ Upgrades Tautulli to v2.12.2 (#282) 
