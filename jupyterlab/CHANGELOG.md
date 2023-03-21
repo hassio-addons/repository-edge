@@ -1,4 +1,17 @@
 # Changelog since v0.10.0
+- ⬆️ Bump beautifulsoup4 to 4.12.0 (#422)
+
+Bumps [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) from 4.11.2 to 4.12.0.
+
+---
+updated-dependencies:
+- dependency-name: beautifulsoup4
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump sqlalchemy from 2.0.6 to 2.0.7 in /jupyterlab (#420)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) from 2.0.6 to 2.0.7.
