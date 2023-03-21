@@ -1,4 +1,20 @@
 # Changelog since v0.10.0
+- ⬆️ Bump jupyterlab to 3.6.2 (#421)
+
+Bumps [jupyterlab](https://github.com/jupyterlab/jupyterlab) from 3.6.1 to 3.6.2.
+- [Release notes](https://github.com/jupyterlab/jupyterlab/releases)
+- [Changelog](https://github.com/jupyterlab/jupyterlab/blob/@jupyterlab/vdom@3.6.2/CHANGELOG.md)
+- [Commits](https://github.com/jupyterlab/jupyterlab/compare/@jupyterlab/vdom@3.6.1...@jupyterlab/vdom@3.6.2)
+
+---
+updated-dependencies:
+- dependency-name: jupyterlab
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump beautifulsoup4 to 4.12.0 (#422)
 
 Bumps [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) from 4.11.2 to 4.12.0.
