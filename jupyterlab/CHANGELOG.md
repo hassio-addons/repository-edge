@@ -1,4 +1,19 @@
 # Changelog since v0.10.0
+- ⬆️ Bump jupyterlab-widgets from 3.0.5 to 3.0.6 in /jupyterlab (#423)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+Bumps [jupyterlab-widgets](https://github.com/jupyter-widgets/ipywidgets) from 3.0.5 to 3.0.6.
+- [Release notes](https://github.com/jupyter-widgets/ipywidgets/releases)
+- [Commits](https://github.com/jupyter-widgets/ipywidgets/compare/@jupyter-widgets/notebook-manager@3.0.5...@jupyter-widgets/notebook-manager@3.0.6)
+
+---
+updated-dependencies:
+- dependency-name: jupyterlab-widgets
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - ⬆️ Bump ipywidgets from 8.0.4 to 8.0.5 in /jupyterlab (#424)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) from 8.0.4 to 8.0.5.
