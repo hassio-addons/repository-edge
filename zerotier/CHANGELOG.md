@@ -1,4 +1,8 @@
-# Changelog since v0.16.0
-- ⬆️ Upgrades ZeroTier One to 1.10.4 (#167) 
-- ⬆️ Upgrades add-on base image to 13.1.3 (#166) 
-- 🎆 Updates maintenance/license year to 2023 (#165) 
+# Changelog since v0.16.1
+- ⬆️ Update alpine_3_17/openssl-dev to v3.0.8-r1 (#171)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#174)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Add Renovate for dependency management (#170) 
