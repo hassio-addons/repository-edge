@@ -1,2 +1,3 @@
-# Changelog since v4.8.2
-- ⬆️ Upgrades AdGuard Home to v0.107.26 (#399) 
+# Changelog since v4.8.3
+- Move Renovate configuration to the right folder 
+- Add Renovate for dependency management (#400) 
