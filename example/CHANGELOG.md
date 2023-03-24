@@ -1,2 +1,2 @@
-# Changelog since v6.0.1
-- ⬆️ Upgrades add-on base image to 13.1.3 (#129) 
+# Changelog since v6.0.2
+- Add Renovate for dependency management (#130) 
