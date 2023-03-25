@@ -1,4 +1,5 @@
-# Changelog since v4.1.0
-- ⬆️ Upgrades add-on base image to 13.1.3 (#157) 
-- ⬆️ Upgrades tor to 0.4.7.13-r0 (#156) 
-- 🎆 Updates maintenance/license year to 2023 (#155) 
+# Changelog since v4.1.1
+- ⬆️ Update alpine_3_17/openssl to v3.0.8-r1 (#159)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Add Renovate for dependency management (#158) 
