@@ -1,5 +1,6 @@
 # Changelog since v5.5.4
 - Renovate: Match some more packages 
+- Renovate: Match some more packages 
 - Add Renovate for dependency management (#593) 
 - Bump yamllint to 1.30.0 (#591)
 
