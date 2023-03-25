@@ -1,6 +1,7 @@
-## What’s changed
+# Changelog since v1.6.1
+- ⬆️ Update PHP to v8.1.17-r0 (#218)
 
-## ⬆️ Dependency updates
-
-- ⬆️ Update base image and dependencies @sinclairpaul ([#208](https://github.com/hassio-addons/addon-bookstack/pull/208))
-- ⬆️ Update Bookstack to v23.02.1 @sinclairpaul ([#209](https://github.com/hassio-addons/addon-bookstack/pull/209))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Fix spacing in Dockerfile (#217) 
+- Renovate: Use loose versioning for Bookstack (#215) 
+- Add Renovate for dependency management (#212) 
