@@ -1,4 +1,6 @@
 # Changelog since v5.5.4
+- Renovate: Match some more packages 
+- Add Renovate for dependency management (#593) 
 - Bump yamllint to 1.30.0 (#591)
 
 Bumps [yamllint](https://github.com/adrienverge/yamllint) from 1.29.0 to 1.30.0.
