@@ -1,6 +1,5 @@
-# Changelog since v0.12.2
-- ⬆️ Upgrades add-on base image to 13.1.3 (#207) 
-- 🎆 Updates maintenance/license year to 2023 (#206) 
-- ⬆️ Upgrades add-on base image to 13.0.0 (#199) 
-- ⬆️ Upgrades add-on base image to 12.2.7 (#197) 
-- ⬆️ Upgrades add-on base image to 12.2.3 (#188) 
+# Changelog since v0.12.3
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#211)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Add Renovate for dependency management (#210) 
