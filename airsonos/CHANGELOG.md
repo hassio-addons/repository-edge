@@ -1,4 +1,2 @@
-# Changelog since v3.5.1
-- ⬆️ Upgrades AirConnect to 1.0.14 (#128) 
-- ⬆️ Upgrades add-on base image to 6.2.3 (#127) 
-- 🎆 Updates maintenance/license year to 2023 (#126) 
+# Changelog since v3.5.2
+- Add Renovate for dependency management (#130) 
