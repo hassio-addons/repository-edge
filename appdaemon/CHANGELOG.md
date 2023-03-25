@@ -1,4 +1,6 @@
 # Changelog since v0.11.0
+- Renovate: Fix datasource 
+- Add Renovate for dependency management (#239) 
 - ⬆️ Bump appdaemon from 4.2.1 to 4.2.3 in /appdaemon (#232)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> Co-authored-by: Franck Nijhof <git@frenck.dev>
 
 * ⬆️ Bump appdaemon from 4.2.1 to 4.2.3 in /appdaemon
