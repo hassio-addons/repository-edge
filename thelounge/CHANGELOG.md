@@ -1,11 +1,14 @@
-# Changelog since v0.16.0
-- 🚑 Fix S6 dependencies (#131) 
-- 🔨 Migrate old-style S6 scripts to s6-rc.d (#130) 
-- ⬆️ Upgrades add-on base image to 13.1.1 (#129) 
-- 🎆 Updates maintenance/license year to 2023 (#128) 
-- ⬆️ Upgrades add-on base image to 12.2.7 (#127) 
-- ⬆️ Upgrades nginx to 1.22.1-r0 (#126) 
-- ⬆️ Upgrades nodejs to 16.17.1-r0 (#125) 
-- ⬆️ Upgrades python3 to 3.10.8-r0 (#124) 
-- ⬆️ Upgrades git to 2.36.3-r0 (#123) 
-- ⬆️ Upgrades add-on base image to 12.2.3 (#122) 
+# Changelog since v0.17.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#136)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/nodejs to v18.14.2-r0 (#137)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/python3 to v3.10.10-r0 (#134)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/git to v2.38.4-r1 (#133)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Add Renovate for dependency management (#132) 
