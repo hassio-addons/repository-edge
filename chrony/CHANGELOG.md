@@ -1,7 +1,5 @@
-# Changelog since v2.4.0
-- 🔨 Migrate old-style S6 scripts to s6-rc.d (#121) 
-- ⬆️ Upgrades add-on base image to 13.1.1 (#119)
+# Changelog since v2.5.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#124)
 
-Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
-- 🎆 Updates maintenance/license year to 2023 (#120) 
-- ⬆️ Upgrades add-on base image to 12.2.4 (#116) 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Add Renovate for dependency management (#123) 
