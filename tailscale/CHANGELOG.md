@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- 🔨 Migrate old-style S6 scripts to s6-rc.d (#156) 
 - 🎆 Updates maintenance/license year to 2023 (#155) 
 - ⬆️ Update tailscale/tailscale to v1.38.2 (#152)
 
