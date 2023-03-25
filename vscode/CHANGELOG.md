@@ -1,4 +1,7 @@
 # Changelog since v5.5.4
+- ⬆️ Update debian_11/git to v1:2.30.2-1+deb11u2 (#594)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Renovate: Match some more packages 
 - Renovate: Match some more packages 
 - Add Renovate for dependency management (#593) 
