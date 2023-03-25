@@ -1,4 +1,5 @@
 # Changelog since v0.18.0
+- Add Renovate for dependency management (#330) 
 - Bump zeroconf to 0.47.4 (#327)
 
 Bumps [zeroconf](https://github.com/python-zeroconf/python-zeroconf) from 0.47.3 to 0.47.4.
