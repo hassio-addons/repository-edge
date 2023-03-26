@@ -1,4 +1,6 @@
 # Changelog since v4.5.0
+- 🎆 Updates maintenance/license year to 2023 (#277) 
+- ⬆️ Upgrades Chronograf to 1.10.1 (#276) 
 - ⬆️ Update Add-on base image to v6.2.4 (#273)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
