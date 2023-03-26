@@ -1,4 +1,5 @@
 # Changelog since v13.0.3
+- Specify server MACs and KexAlgos in terms of removals (#515) 
 - Implement current ssh-audit dev client recommendations (#516) 
 - Add support for VSCode Remote - SSH (#498)
 
