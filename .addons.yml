@@ -69,10 +69,6 @@ addons:
     repository: hassio-addons/addon-jupyterlab
     target: jupyterlab
     image: ghcr.io/hassio-addons/jupyterlab/{arch}
-  ledfx:
-    repository: hassio-addons/addon-ledfx
-    target: ledfx
-    image: ghcr.io/hassio-addons/ledfx/{arch}
   log-viewer:
     repository: hassio-addons/addon-log-viewer
     target: log-viewer

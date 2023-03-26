@@ -560,19 +560,6 @@ A local NTP (Network Time Protocol) server for cameras etc.
 
 [:books: chrony add-on documentation][addon-doc-chrony]
 
-### &#10003; [ledfx][addon-ledfx]
-
-![Latest Version][ledfx-version-shield]
-![Supports armhf Architecture][ledfx-armhf-shield]
-![Supports armv7 Architecture][ledfx-armv7-shield]
-![Supports aarch64 Architecture][ledfx-aarch64-shield]
-![Supports amd64 Architecture][ledfx-amd64-shield]
-![Supports i386 Architecture][ledfx-i386-shield]
-
-A network based LED effect controller with support for advanced real-time audio effects!
-
-[:books: ledfx add-on documentation][addon-doc-ledfx]
-
 ### &#10003; [motionEye][addon-motioneye]
 
 ![Latest Version][motioneye-version-shield]
@@ -660,7 +647,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Z-Wave JS UI][zwave-js-ui-issue]
 - [Open an issue for the add-on: ZeroTier One][zerotier-issue]
 - [Open an issue for the add-on: chrony][chrony-issue]
-- [Open an issue for the add-on: ledfx][ledfx-issue]
 - [Open an issue for the add-on: motionEye][motioneye-issue]
 - [Open an issue for the add-on: phpMyAdmin][phpmyadmin-issue]
 
@@ -1070,15 +1056,6 @@ SOFTWARE.
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [chrony-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [chrony-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ledfx]: https://github.com/hassio-addons/addon-ledfx/tree/d7e3146
-[addon-doc-ledfx]: https://github.com/hassio-addons/addon-ledfx/blob/d7e3146/README.md
-[ledfx-issue]: https://github.com/hassio-addons/addon-ledfx/issues
-[ledfx-version-shield]: https://img.shields.io/badge/version-d7e3146-blue.svg
-[ledfx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[ledfx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ledfx-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[ledfx-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[ledfx-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/fa26f20
 [addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/fa26f20/README.md
 [motioneye-issue]: https://github.com/hassio-addons/addon-motioneye/issues
