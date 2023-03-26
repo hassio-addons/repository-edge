@@ -1,4 +1,5 @@
 # Changelog since v13.0.3
+- Renovate tweaks (#514) 
 - Sync server `KexAlgorithms` with OpenSSH 9.1 and ssh-audit dev (#513) 
 - ⬆️ Update yamllint to v1.30.0 (#511)
 
