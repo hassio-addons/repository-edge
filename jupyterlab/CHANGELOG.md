@@ -1,4 +1,7 @@
 # Changelog since v0.10.0
+- ⬆️ Update debian_11/git to v1:2.30.2-1+deb11u2 (#427)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Add Renovate for dependency management (#426) 
 - ⬆️ Bump jupyterlab-widgets from 3.0.5 to 3.0.6 in /jupyterlab (#423)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
