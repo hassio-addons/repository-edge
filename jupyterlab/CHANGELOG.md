@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- Add Renovate for dependency management (#426) 
 - ⬆️ Bump jupyterlab-widgets from 3.0.5 to 3.0.6 in /jupyterlab (#423)Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 
 Bumps [jupyterlab-widgets](https://github.com/jupyter-widgets/ipywidgets) from 3.0.5 to 3.0.6.
