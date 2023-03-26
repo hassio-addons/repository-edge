@@ -261,19 +261,6 @@ Expose GPIO modules and digital sensors via MQTT for remote control and monitori
 
 [:books: MQTT IO add-on documentation][addon-doc-mqtt-io]
 
-### &#10003; [Matrix][addon-matrix]
-
-![Latest Version][matrix-version-shield]
-![Supports armhf Architecture][matrix-armhf-shield]
-![Supports armv7 Architecture][matrix-armv7-shield]
-![Supports aarch64 Architecture][matrix-aarch64-shield]
-![Supports amd64 Architecture][matrix-amd64-shield]
-![Supports i386 Architecture][matrix-i386-shield]
-
-A secure and decentralized communication platform.
-
-[:books: Matrix add-on documentation][addon-doc-matrix]
-
 ### &#10003; [Mopidy][addon-mopidy]
 
 ![Latest Version][mopidy-version-shield]
@@ -650,7 +637,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: JupyterLab][jupyterlab-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: MQTT IO][mqtt-io-issue]
-- [Open an issue for the add-on: Matrix][matrix-issue]
 - [Open an issue for the add-on: Mopidy][mopidy-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
@@ -877,15 +863,6 @@ SOFTWARE.
 [mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-io-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-matrix]: https://github.com/hassio-addons/addon-matrix/tree/82acecf
-[addon-doc-matrix]: https://github.com/hassio-addons/addon-matrix/blob/82acecf/README.md
-[matrix-issue]: https://github.com/hassio-addons/addon-matrix/issues
-[matrix-version-shield]: https://img.shields.io/badge/version-82acecf-blue.svg
-[matrix-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[matrix-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[matrix-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[matrix-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[matrix-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-mopidy]: https://github.com/hassio-addons/addon-mopidy/tree/b39bd04
 [addon-doc-mopidy]: https://github.com/hassio-addons/addon-mopidy/blob/b39bd04/README.md
 [mopidy-issue]: https://github.com/hassio-addons/addon-mopidy/issues
