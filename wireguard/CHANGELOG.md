@@ -1,4 +1,6 @@
 # Changelog since v0.7.1
+- 🎆 Updates maintenance/license year to 2023 (#228) 
+- ⬆️ Upgrades WireGuard Go to 0.0.20230223 (#227) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13 (#226)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
