@@ -1,4 +1,8 @@
 # Changelog since v13.0.3
+- Add support for VSCode Remote - SSH (#498)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev>
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Renovate tweaks (#514) 
 - Sync server `KexAlgorithms` with OpenSSH 9.1 and ssh-audit dev (#513) 
 - ⬆️ Update yamllint to v1.30.0 (#511)
