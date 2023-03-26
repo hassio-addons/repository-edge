@@ -1,4 +1,5 @@
 # Changelog since v13.0.3
+- Implement current ssh-audit dev client recommendations (#516) 
 - Add support for VSCode Remote - SSH (#498)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev>
