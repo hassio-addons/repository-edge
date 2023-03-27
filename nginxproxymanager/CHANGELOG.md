@@ -1,63 +1,52 @@
-# Changelog since v0.12.2
-- ⬆️ Upgrades NGINX Proxy Manager to v2.9.19 (#383) 
-- 🚑 Exclude logs from backup (#382) 
-- 🚑 Update add-on to handle new log file paths (#357) 
-- ⬆️ Bump certbot-dns-cloudflare from 1.31.0 to 1.32.0 in /proxy-manager (#371)
+# Changelog since v0.12.3
+- Fix NPM build with NodeJS 18x (#429) 
+- hadolint: Ignore DL3042, already taken care of by the base image 
+- Fixes from base image upgrade to v13 
+- ⬆️ Update OpenSSL to v3 (major) (#427)
 
-Bumps [certbot-dns-cloudflare](https://github.com/certbot/certbot) from 1.31.0 to 1.32.0.
-- [Release notes](https://github.com/certbot/certbot/releases)
-- [Commits](https://github.com/certbot/certbot/compare/v1.31.0...v1.32.0)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/libcap to v2.66-r0 (#424)
 
----
-updated-dependencies:
-- dependency-name: certbot-dns-cloudflare
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/libffi-dev to v3.4.4-r0 (#419)
 
-Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/logrotate to v3.20.1-r3 (#425)
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Upgrades add-on base image to 12.2.7 (#381) 
-- ⬆️ Upgrades nginx to 1.22.1-r0 (#380) 
-- ⬆️ Upgrades mariadb-client to 10.6.10-r0 (#379) 
-- ⬆️ Upgrades nodejs to 16.17.1-r0 (#378) 
-- ⬆️ Upgrades python3 to 3.10.8-r0 (#377) 
-- ⬆️ Upgrades openssl to 1.1.1s-r0 (#376) 
-- ⬆️ Upgrades git to 2.36.3-r0 (#375) 
-- ⬆️ Bump certbot-dns-cloudflare from 1.30.0 to 1.31.0 in /proxy-manager (#367)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/py3-pip to v22.3.1-r1 (#426)
 
-Bumps [certbot-dns-cloudflare](https://github.com/certbot/certbot) from 1.30.0 to 1.31.0.
-- [Release notes](https://github.com/certbot/certbot/releases)
-- [Commits](https://github.com/certbot/certbot/compare/v1.30.0...v1.31.0)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/patch to v2.7.6-r8 (#421)
 
----
-updated-dependencies:
-- dependency-name: certbot-dns-cloudflare
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/apache2-utils to v2.4.56-r0 (#418)
 
-Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/git to v2.38.4-r1 (#423)
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Bump certbot-dns-cloudflare from 1.29.0 to 1.30.0 in /proxy-manager (#356)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/certbot to v1.32.0-r0 (#422)
 
-Bumps [certbot-dns-cloudflare](https://github.com/certbot/certbot) from 1.29.0 to 1.30.0.
-- [Release notes](https://github.com/certbot/certbot/releases)
-- [Commits](https://github.com/certbot/certbot/compare/v1.29.0...v1.30.0)
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/mariadb-client to v10.6.12-r0 (#420)
 
----
-updated-dependencies:
-- dependency-name: certbot-dns-cloudflare
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13 (#417)
 
-Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Python to v3.10.10-r0 (#413)
 
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆️ Upgrades add-on base image to 12.2.4 (#360) 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/npm to v9 (#416)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/nodejs to v18 (#415)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Add Renovate for dependency management (#411)
+
+* Add Renovate for dependency management
+
+* Tweaks 
+- 🎆 Updates maintenance/license year to 2023 (#408) 
