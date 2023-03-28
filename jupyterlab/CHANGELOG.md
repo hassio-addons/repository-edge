@@ -1,4 +1,8 @@
 # Changelog since v0.10.0
+- Fix broken URL (#432) 
+- ⬆️ Update jupyterlab_widgets to v3.0.7 (#431)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_11/git to v1:2.30.2-1+deb11u2 (#427)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
