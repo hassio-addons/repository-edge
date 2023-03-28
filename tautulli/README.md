@@ -44,6 +44,6 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-tautulli/68745
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v3.2.4-blue.svg
-[release]: https://github.com/hassio-addons/addon-tautulli/tree/v3.2.4
+[release-shield]: https://img.shields.io/badge/version-f86250d-blue.svg
+[release]: https://github.com/hassio-addons/addon-tautulli/tree/f86250d
 [screenshot]: https://github.com/hassio-addons/addon-tautulli/raw/main/images/screenshot.png
