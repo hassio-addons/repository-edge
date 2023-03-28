@@ -1,11 +1,2 @@
-# Changelog since v4.5.0
-- 🎆 Updates maintenance/license year to 2023 (#277) 
-- ⬆️ Upgrades Chronograf to 1.10.1 (#276) 
-- ⬆️ Update Add-on base image to v6.2.4 (#273)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update debian_11/nginx to v1.18.0-6.1+deb11u3 (#275)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Renovate: Map modlua to nginx, group nginx updates 
-- Add Renovate for dependency management (#271) 
+# Changelog since v4.6.0
+- Fix broken URL (#279) 
