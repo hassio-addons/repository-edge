@@ -1,25 +1,2 @@
-# Changelog since v0.18.0
-- 🚑 Attempt to fix Influx Issues (#329) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#331)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Add Renovate for dependency management (#330) 
-- Bump zeroconf to 0.47.4 (#327)
-
-Bumps [zeroconf](https://github.com/python-zeroconf/python-zeroconf) from 0.47.3 to 0.47.4.
-- [Release notes](https://github.com/python-zeroconf/python-zeroconf/releases)
-- [Changelog](https://github.com/python-zeroconf/python-zeroconf/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/python-zeroconf/python-zeroconf/compare/0.47.3...0.47.4)
-
----
-updated-dependencies:
-- dependency-name: zeroconf
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com>
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- Bump influxdb-client from 1.21.0 to 1.36.1 in /glances (#326)
-
-Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+# Changelog since v0.18.1
+- Fix broken URLs (#335) 
