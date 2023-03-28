@@ -38,7 +38,7 @@ If you are more interested in stable releases of our add-ons:
 [discord]: https://discord.me/hassioaddons
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-log-viewer/64377?u=dale3h
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-5ae0d90-blue.svg
-[release]: https://github.com/hassio-addons/addon-log-viewer/tree/5ae0d90
+[release-shield]: https://img.shields.io/badge/version-70dc03f-blue.svg
+[release]: https://github.com/hassio-addons/addon-log-viewer/tree/70dc03f
