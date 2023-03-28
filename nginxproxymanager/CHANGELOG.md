@@ -1,4 +1,13 @@
 # Changelog since v0.12.3
+- ⬆️ Update alpine_3_17/patch to v2.7.6-r9 (#432)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.5 (#433)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.0.8-r2 (#431)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Fix broken URL (#430) 
 - Updated icon and logo (#399) 
 - Fix NPM build with NodeJS 18x (#429) 
