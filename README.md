@@ -885,10 +885,10 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/cd82330
-[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/cd82330/README.md
+[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/321d609
+[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/321d609/README.md
 [plex-issue]: https://github.com/hassio-addons/addon-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-cd82330-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-321d609-blue.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
