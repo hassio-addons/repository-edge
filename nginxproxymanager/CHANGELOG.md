@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- Updated icon and logo (#399) 
 - Fix NPM build with NodeJS 18x (#429) 
 - hadolint: Ignore DL3042, already taken care of by the base image 
 - Fixes from base image upgrade to v13 
