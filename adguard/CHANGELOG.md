@@ -1,4 +1,5 @@
 # Changelog since v4.8.3
+- Update AdGuard Home documentation (#404) 
 - Renovate: Slightly improve repology Alpine package matching (#403) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#402)
 
