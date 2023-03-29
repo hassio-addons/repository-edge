@@ -840,10 +840,10 @@ SOFTWARE.
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/tree/cbe72d0
-[addon-doc-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/blob/cbe72d0/README.md
+[addon-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/tree/f3198fc
+[addon-doc-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/blob/f3198fc/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/addon-mqtt-io/issues
-[mqtt-io-version-shield]: https://img.shields.io/badge/version-cbe72d0-blue.svg
+[mqtt-io-version-shield]: https://img.shields.io/badge/version-f3198fc-blue.svg
 [mqtt-io-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-io-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

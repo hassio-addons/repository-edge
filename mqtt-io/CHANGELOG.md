@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.5 
 - Fix broken URL (#58) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#55)
 
