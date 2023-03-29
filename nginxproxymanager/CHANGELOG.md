@@ -1,4 +1,7 @@
 # Changelog since v0.12.3
+- ⬆️ Update NginxProxyManager/nginx-proxy-manager to v2.10.1 (#412)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_17/patch to v2.7.6-r9 (#432)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
