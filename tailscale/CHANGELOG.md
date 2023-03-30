@@ -1,4 +1,5 @@
 # Changelog since v0.8.0
+- Suppress tailscaled logs after 200 lines (#138) 
 - Revert "🗑️  Move away from Codenotary (#162)" (#164) 
 - ⬆️ Update Add-on base image to v13.2.0 (#163)
 
