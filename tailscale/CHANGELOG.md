@@ -1,4 +1,5 @@
 # Changelog since v0.8.0
+- Revert "🗑️  Move away from Codenotary (#162)" (#164) 
 - ⬆️ Update Add-on base image to v13.2.0 (#163)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
