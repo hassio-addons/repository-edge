@@ -1,4 +1,8 @@
 # Changelog since v0.8.0
+- ⬆️ Update tailscale/tailscale to v1.38.3 (#161)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- 🗑️  Move away from Codenotary (#162) 
 - ⬆️ Update Add-on base image to v13.1.5 (#160)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
