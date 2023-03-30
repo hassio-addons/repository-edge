@@ -1,4 +1,7 @@
 # Changelog since v4.6.3
+- ⬆️ Update alpine_3_17/openssl to v3.0.8-r3 (#139)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.5 (#138)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
