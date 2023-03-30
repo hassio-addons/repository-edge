@@ -1,5 +1,5 @@
 name: MQTT IO
-version: f3198fc
+version: 3cfb4eb
 slug: mqtt-io
 description: Expose GPIO modules and digital sensors via MQTT for remote control and
   monitoring.
