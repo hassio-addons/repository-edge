@@ -1,4 +1,5 @@
 # Changelog since v13.1.0
+- Revert "🚽 Move away from Codenotary (#522)" (#524) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.0 (#520)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
