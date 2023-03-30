@@ -1,4 +1,7 @@
 # Changelog since v13.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.0 (#520)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update OpenSSL to v3.0.8-r3 (#523)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
