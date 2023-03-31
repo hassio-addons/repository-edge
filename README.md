@@ -1011,10 +1011,10 @@ SOFTWARE.
 [uptime-kuma-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [uptime-kuma-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [uptime-kuma-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/9bf932f
-[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/9bf932f/README.md
+[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/949d556
+[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/949d556/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
-[bitwarden-version-shield]: https://img.shields.io/badge/version-9bf932f-blue.svg
+[bitwarden-version-shield]: https://img.shields.io/badge/version-949d556-blue.svg
 [bitwarden-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bitwarden-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
