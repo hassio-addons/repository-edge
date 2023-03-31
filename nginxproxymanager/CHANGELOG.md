@@ -1,4 +1,7 @@
 # Changelog since v0.12.3
+- ⬆️ Update NginxProxyManager/nginx-proxy-manager to v2.10.2 (#436)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.0 (#435)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
