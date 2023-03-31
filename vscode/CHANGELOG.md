@@ -1,4 +1,5 @@
 # Changelog since v5.5.5
+- Renovate: Extract versions from extension versions 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.5 (#604)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
