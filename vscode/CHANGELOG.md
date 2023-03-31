@@ -1,4 +1,5 @@
 # Changelog since v5.5.5
+- 🔨 Adjust upstream code-server org name (#603) 
 - Update URLs in documentation (#602) 
 - ⬆️ Update esphome to v2023.3.2 (#600)
 
