@@ -1,5 +1,5 @@
 name: Vaultwarden (Bitwarden)
-version: 949d556
+version: 1b7de19
 slug: bitwarden
 description: Open source password management solution
 url: https://github.com/hassio-addons/addon-bitwarden
