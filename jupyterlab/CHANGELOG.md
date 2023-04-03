@@ -1,4 +1,7 @@
 # Changelog since v0.10.0
+- ⬆️ Update jupyterlab to v3.6.3 (#433)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Fix broken URL (#432) 
 - ⬆️ Update jupyterlab_widgets to v3.0.7 (#431)
 
