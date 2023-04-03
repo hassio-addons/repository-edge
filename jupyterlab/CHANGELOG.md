@@ -1,4 +1,7 @@
 # Changelog since v0.10.0
+- ⬆️ Update psycopg2 to v2.9.6 (#436)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ipywidgets to v8.0.6 (#430)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
