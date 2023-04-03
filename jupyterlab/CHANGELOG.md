@@ -1,4 +1,7 @@
 # Changelog since v0.10.0
+- ⬆️ Update ipywidgets to v8.0.6 (#430)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update SQLAlchemy to v2.0.8 (#434)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
