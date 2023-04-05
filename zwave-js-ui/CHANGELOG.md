@@ -1,7 +1,4 @@
-# Changelog since v1.8.1
-- ⬆️ Update zwave-js/zwave-js-ui to v8.12.0 (#499)
+# Changelog since v1.9.0
+- ⬆️ Update zwave-js/zwave-js-ui to v8.13.0 (#500)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.0 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.5 (#496) 
-- Fix broken URL (#495) 
