@@ -1,4 +1,7 @@
 # Changelog since v4.1.1
+- ⬆️ Update alpine_3_17/tor to v0.4.7.13-r1 (#166)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.0 (#165)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
