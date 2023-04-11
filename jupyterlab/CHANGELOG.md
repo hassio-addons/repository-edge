@@ -1,4 +1,7 @@
 # Changelog since v0.10.1
+- ⬆️ Update nbconvert to v7.3.1 (#442)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update beautifulsoup4 to v4.12.1 (#439)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
