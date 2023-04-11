@@ -1,4 +1,7 @@
 # Changelog since v0.12.3
+- ⬆️ Update Python to v3.10.11-r0 (#440)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update NginxProxyManager/nginx-proxy-manager to v2.10.2 (#436)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
