@@ -1,4 +1,10 @@
 # Changelog since v13.1.0
+- ⬆️ Update alpine_3_17/bind-tools to v9.18.13-r0 (#534)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Python to v3.10.11-r0 (#533)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Docker to v20.10.24-r0 (#531)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
