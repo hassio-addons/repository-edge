@@ -1,4 +1,8 @@
 # Changelog since v0.11.0
+- ⬆️ Update appdaemon to v4.4.1 (#247)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update Python to v3.10.11-r0 (#245)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
