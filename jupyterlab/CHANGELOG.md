@@ -1,4 +1,7 @@
 # Changelog since v0.10.1
+- ⬆️ Update beautifulsoup4 to v4.12.2 (#441)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update SQLAlchemy to v2.0.9 (#440)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
