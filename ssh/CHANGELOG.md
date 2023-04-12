@@ -1,4 +1,10 @@
 # Changelog since v13.1.0
+- ⬆️ Update Docker to v20.10.24-r1 (#537)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_17/libxml2-utils to v2.10.4-r0 (#536)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_17/bind-tools to v9.18.13-r0 (#534)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
