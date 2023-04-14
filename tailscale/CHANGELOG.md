@@ -1,4 +1,5 @@
 # Changelog since v0.10.1
+- Add translations (#179) 
 - Tiny code styling changes (#178) 
 - ⬆️ Update Add-on base image to v13.2.1 (#177)
 
