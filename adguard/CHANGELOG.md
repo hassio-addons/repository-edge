@@ -1,7 +1,4 @@
-# Changelog since v4.8.4
-- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.28 (#412)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_17/yq to v4.30.4-r3 (#411)
+# Changelog since v4.8.5
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.1 (#414)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
