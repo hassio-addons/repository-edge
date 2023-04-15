@@ -1,5 +1,2 @@
-## What’s changed
-
-## 🐛 Bug fixes
-
-- Fix typo "login_server: unbound variable" @Saoclyph ([#182](https://github.com/hassio-addons/addon-tailscale/pull/182))
+# Changelog since v0.11.1
+- Make exit node advertisement configurable (#183) 
