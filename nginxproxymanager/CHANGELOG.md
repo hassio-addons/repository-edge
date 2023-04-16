@@ -1,4 +1,7 @@
 # Changelog since v0.12.3
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.1 (#442)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_17/apache2-utils to v2.4.57-r0 (#441)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
