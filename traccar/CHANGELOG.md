@@ -1,4 +1,7 @@
 # Changelog since v0.18.0
+- ⬆️ Update traccar/traccar to v5.7 (#218)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.1 (#217)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
