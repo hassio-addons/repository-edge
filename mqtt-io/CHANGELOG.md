@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- ⬆️ Update gpiod to v1.5.4 
 - ⬆️ Update pi-ina219 to v1.4.1 (#64) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.2 (#63)
 
