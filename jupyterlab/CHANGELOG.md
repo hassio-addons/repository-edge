@@ -1,16 +1,4 @@
-# Changelog since v0.10.1
-- ⬆️ Update beautifulsoup4 to v4.12.2 (#441)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update SQLAlchemy to v2.0.9 (#440)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update nbconvert to v7.3.1 (#442)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update beautifulsoup4 to v4.12.1 (#439)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update nbconvert to v7.3.0 (#438)
+# Changelog since v0.10.2
+- ⬆️ Update numpy to v1.24.3 (#446)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
