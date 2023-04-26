@@ -831,10 +831,10 @@ SOFTWARE.
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [jupyterlab-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [jupyterlab-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/a8fac77
-[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/a8fac77/README.md
+[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/ae05429
+[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/ae05429/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
-[log-viewer-version-shield]: https://img.shields.io/badge/version-a8fac77-blue.svg
+[log-viewer-version-shield]: https://img.shields.io/badge/version-ae05429-blue.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
