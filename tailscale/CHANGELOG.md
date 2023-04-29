@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- Make accepting magicDNS optional (#194) 
 - Drop userspace networking (#181) 
 - Device limit update in DOCS.md (#192)
 
