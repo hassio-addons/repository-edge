@@ -1,4 +1,8 @@
 # Changelog since v0.11.1
+- Enable Tailscale's builtin inbound HTTPS proxy (#137)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
+- Add docs for accept_dns (#195) 
 - Make accepting magicDNS optional (#194) 
 - Drop userspace networking (#181) 
 - Device limit update in DOCS.md (#192)
