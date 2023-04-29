@@ -1,4 +1,8 @@
 # Changelog since v0.11.1
+- Drop userspace networking (#181) 
+- Device limit update in DOCS.md (#192)
+
+Co-authored-by: Nial <48334675+nmcc1212@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.40.0 (#191)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
