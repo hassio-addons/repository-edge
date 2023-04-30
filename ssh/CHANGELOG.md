@@ -1,4 +1,5 @@
 # Changelog since v13.1.0
+- Allow HA commands without an interactive shell (#545) 
 - ⬆️ Update alpine_3_17/git to v2.38.5-r0 (#544)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
