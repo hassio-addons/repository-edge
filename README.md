@@ -53,6 +53,19 @@ Network-wide ads & trackers blocking DNS server
 
 [:books: AdGuard Home add-on documentation][addon-doc-adguard]
 
+### &#10003; [Advanced SSH & Web Terminal][addon-ssh]
+
+![Latest Version][ssh-version-shield]
+![Supports armhf Architecture][ssh-armhf-shield]
+![Supports armv7 Architecture][ssh-armv7-shield]
+![Supports aarch64 Architecture][ssh-aarch64-shield]
+![Supports amd64 Architecture][ssh-amd64-shield]
+![Supports i386 Architecture][ssh-i386-shield]
+
+A supercharged SSH & Web Terminal access to your Home Assistant instance
+
+[:books: Advanced SSH & Web Terminal add-on documentation][addon-doc-ssh]
+
 ### &#10003; [AirCast][addon-aircast]
 
 ![Latest Version][aircast-version-shield]
@@ -352,19 +365,6 @@ Explore your SQLite database
 
 [:books: SQLite Web add-on documentation][addon-doc-sqlite-web]
 
-### &#10003; [SSH & Web Terminal][addon-ssh]
-
-![Latest Version][ssh-version-shield]
-![Supports armhf Architecture][ssh-armhf-shield]
-![Supports armv7 Architecture][ssh-armv7-shield]
-![Supports aarch64 Architecture][ssh-aarch64-shield]
-![Supports amd64 Architecture][ssh-amd64-shield]
-![Supports i386 Architecture][ssh-i386-shield]
-
-SSH & Web Terminal access to your Home Assistant instance
-
-[:books: SSH & Web Terminal add-on documentation][addon-doc-ssh]
-
 ### &#10003; [Spotify Connect][addon-spotify]
 
 ![Latest Version][spotify-version-shield]
@@ -608,6 +608,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: AdGuard Home][adguard-issue]
+- [Open an issue for the add-on: Advanced SSH & Web Terminal][ssh-issue]
 - [Open an issue for the add-on: AirCast][aircast-issue]
 - [Open an issue for the add-on: AirSonos][airsonos-issue]
 - [Open an issue for the add-on: AppDaemon][appdaemon-issue]
@@ -631,7 +632,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
 - [Open an issue for the add-on: Prometheus][prometheus-issue]
 - [Open an issue for the add-on: SQLite Web][sqlite-web-issue]
-- [Open an issue for the add-on: SSH & Web Terminal][ssh-issue]
 - [Open an issue for the add-on: Spotify Connect][spotify-issue]
 - [Open an issue for the add-on: Studio Code Server][vscode-issue]
 - [Open an issue for the add-on: Tailscale][tailscale-issue]
@@ -705,6 +705,15 @@ SOFTWARE.
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/8ecd322
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/8ecd322/README.md
+[ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
+[ssh-version-shield]: https://img.shields.io/badge/version-8ecd322-blue.svg
+[ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[ssh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[ssh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/b924fec
 [addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/b924fec/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
@@ -912,15 +921,6 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/8ecd322
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/8ecd322/README.md
-[ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-8ecd322-blue.svg
-[ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[ssh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[ssh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/11e94d5
 [addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/11e94d5/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
