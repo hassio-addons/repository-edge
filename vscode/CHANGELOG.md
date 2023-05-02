@@ -1,4 +1,7 @@
 # Changelog since v5.5.7
+- ⬆️ Update esphome to v2023.4.3 (#629)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_11/mariadb-client to v1:10.5.19-0+deb11u2 (#627)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
