@@ -1,4 +1,5 @@
 # Changelog since v5.5.7
+- ⬆️ Update esphome to v2023.4.4 (#631) 
 - ⬆️ Update home-assistant/cli to v4.24.1 (#628) 
 - ⬆️ Update esphome to v2023.4.3 (#629)
 
