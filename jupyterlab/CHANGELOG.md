@@ -1,4 +1,10 @@
 # Changelog since v0.10.2
+- ⬆️ Update nbconvert to v7.4.0 (#452)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update bokeh to v3.1.1 (#451)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update scrapy to v2.9.0 (#453)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
