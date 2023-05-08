@@ -1,4 +1,5 @@
 # Changelog since v0.18.1
+- Fix influxdb2 configuration (#357) 
 - ⬆️ Update docker to v6.1.1 (#356)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
