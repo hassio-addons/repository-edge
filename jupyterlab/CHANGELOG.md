@@ -1,4 +1,10 @@
 # Changelog since v0.10.2
+- ⬆️ Update scrapy to v2.9.0 (#453)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update SQLAlchemy to v2.0.12 (#449)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.6 (#450)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
