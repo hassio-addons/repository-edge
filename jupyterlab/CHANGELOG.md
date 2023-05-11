@@ -1,4 +1,7 @@
 # Changelog since v0.10.2
+- ⬆️ Update SQLAlchemy to v2.0.13 (#454)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nbconvert to v7.4.0 (#452)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
