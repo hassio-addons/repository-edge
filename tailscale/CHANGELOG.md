@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Update tailscale/tailscale to v1.40.1 
 - Enable Tailscale's builtin inbound HTTPS proxy (#137)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
