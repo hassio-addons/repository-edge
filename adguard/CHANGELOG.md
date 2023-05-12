@@ -1,4 +1,8 @@
 # Changelog since v4.8.6
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#418)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update alpine_3_17/yq to v4.30.4-r4 (#417)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
