@@ -1,4 +1,7 @@
 # Changelog since v8.2.2
+- ⬆️ Update Add-on base image to v6.2.7 (#330)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana-image-renderer to v3.7.1 (#329)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
