@@ -1,4 +1,8 @@
 # Changelog since v0.11.1
+- ⬆️ Update Add-on base image to v14 (major) (#202)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update tailscale/tailscale to v1.40.1 
 - Enable Tailscale's builtin inbound HTTPS proxy (#137)
 
