@@ -1,4 +1,7 @@
 # Changelog since v0.18.2
+- ⬆️ Update docker to v6.1.2 (#358)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update glances to v3.4.0 (#360)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
