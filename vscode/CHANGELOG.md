@@ -1,4 +1,7 @@
 # Changelog since v5.5.7
+- ⬆️ Update esphome to v2023.5.0 (#640)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.7 (#639)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
