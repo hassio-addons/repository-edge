@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.10 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#67)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
