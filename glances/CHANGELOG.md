@@ -1,14 +1,4 @@
-# Changelog since v0.18.2
-- ⬆️ Update glances to v3.4.0.1 (#361)
+# Changelog since v0.19.0
+- ⬆️ Update glances to v3.4.0.2 (#363)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update docker to v6.1.2 (#358)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update glances to v3.4.0 (#360)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#359)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
