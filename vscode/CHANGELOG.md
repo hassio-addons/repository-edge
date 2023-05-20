@@ -1,4 +1,10 @@
 # Changelog since v5.5.7
+- ⬆️ Update cdr/code-server to v4.13.0 (#643)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update esphome to v2023.5.1 (#641)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2023.5.0 (#640)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
