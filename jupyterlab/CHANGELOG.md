@@ -1,4 +1,8 @@
 # Changelog since v0.10.2
+- ⬆️ Upgrades libpq5 to 13.10-0+deb11u1 (#458) 
+- ⬆️ Update pandas to v2 (#437)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update SQLAlchemy to v2.0.13 (#454)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
