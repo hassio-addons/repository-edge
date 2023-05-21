@@ -1,4 +1,5 @@
 # Changelog since v4.6.0
+- Add port configuration for backup and restore (#287) 
 - ⬆️ Update Add-on base image to v6.2.7 (#284)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
