@@ -1,4 +1,7 @@
 # Changelog since v15.0.0
+- ⬆️ Update home-assistant/cli to v4.25.0 (#569)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/cmake to v3.26.4-r0 (#567)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
