@@ -1,4 +1,5 @@
 # Changelog since v3.7.1
+- Fix Python site-packages location (#247) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#246)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
