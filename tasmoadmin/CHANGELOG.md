@@ -1,5 +1,4 @@
-# Changelog since v0.24.2
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#313)
+# Changelog since v0.24.3
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r4 (#315)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
