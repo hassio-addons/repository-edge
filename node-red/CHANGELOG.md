@@ -1,11 +1,4 @@
-# Changelog since v14.1.5
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#1606)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update node-red-node-email to v2 (#1601)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_17/git to v2.38.5-r0 (#1602)
+# Changelog since v14.2.0
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r4 (#1609)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
