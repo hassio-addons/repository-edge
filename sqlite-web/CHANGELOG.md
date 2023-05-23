@@ -1,19 +1,4 @@
-# Changelog since v3.7.1
-- Fix Python site-packages location (#247) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#246)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.2 (#245)
+# Changelog since v3.8.0
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r4 (#248)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.1 (#244)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_17/python3 to v3.10.11-r0 (#241)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.0 (#240)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.5 (#239) 
