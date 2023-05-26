@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.18 
 - ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.10 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#67)
 
