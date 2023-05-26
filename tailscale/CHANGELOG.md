@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r6 (#208)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.42.0 
 - ⬆️ Update alpine_3_18/nginx to v1.24.0-r5 
 - ⬆️ Update alpine_3_18/nginx to v1.24.0-r4 
