@@ -1,4 +1,7 @@
 # Changelog since v0.19.2
+- ⬆️ Update zeroconf to v0.64.0 (#374)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker to v6.1.3 (#373)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
