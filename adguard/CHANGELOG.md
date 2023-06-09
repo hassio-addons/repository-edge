@@ -1,11 +1,4 @@
-# Changelog since v4.8.7
-- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.30 (#423)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_18/nginx to v1.24.0-r6 (#421) 
-- ⬆️ Update alpine_3_18/nginx to v1.24.0-r5 (#420)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_18/nginx to v1.24.0-r4 (#419)
+# Changelog since v4.8.8
+- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.31 (#426)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
