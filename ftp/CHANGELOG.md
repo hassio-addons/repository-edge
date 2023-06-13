@@ -1,29 +1,7 @@
-# Changelog since v4.6.3
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#144)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.2 (#143)
+# Changelog since v4.7.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.1 (#146)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_17/openssl to v3.0.8-r4 (#142) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.1 (#141)
+- ⬆️ Update alpine_3_18/openssl to v3.1.1-r1 (#145)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.2.0 (#140)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_17/openssl to v3.0.8-r3 (#139)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.5 (#138)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_17/openssl to v3.0.8-r2 (#137) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v13.1.4 (#135)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_17/openssl to v3.0.8-r1 (#134)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Add Renovate for dependency management (#133) 
