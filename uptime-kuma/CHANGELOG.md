@@ -1,8 +1,5 @@
-# Changelog since v0.7.3
-- ⬆️ Update apprise to v1.4.0 (#78)
+# Changelog since v0.7.4
+- ⬆️ Update alpine_3_18/python3 to v3.11.4-r0 
+- ⬆️ Update alpine_3_18/setpriv to v2.38.1-r8 (#80)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#77)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
