@@ -1,4 +1,5 @@
 # Changelog since v1.8.0
+- ⬆️ Update alpine_3_18/composer to v2.5.8-r0 (#239) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.1 (#237)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
