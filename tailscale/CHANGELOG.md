@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Update Add-on base image to v14.0.2 
 - ⬆️ Update Add-on base image to v14.0.1 
 - ⬆️ Update alpine_3_18/nginx to v1.24.0-r6 (#208)
 
