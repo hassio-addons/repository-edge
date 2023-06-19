@@ -1,8 +1,7 @@
-# Changelog since v3.2.6
-- ⬆️ Update Tautulli/Tautulli to v2.12.4 (#299)
+# Changelog since v3.2.7
+- ⬆️ Update setuptools to v68 (#302)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update setuptools to v67.8.0 (#298)
+- ⬆️ Update plexapi to v4.14.0 (#300)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update pycryptodomex to v3.18.0 (#297) 
