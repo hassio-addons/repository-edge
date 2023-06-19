@@ -1,4 +1,7 @@
 # Changelog since v0.18.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.2 (#156)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/icu-data-full to v73.2-r0 (#154)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
