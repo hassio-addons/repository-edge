@@ -1,4 +1,7 @@
 # Changelog since v15.0.2
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.2 (#578)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.1 (#577)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
