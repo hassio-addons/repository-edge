@@ -1,4 +1,7 @@
 # Changelog since v0.18.0
+- ⬆️ Update thelounge/thelounge to v4.4.1 (#155)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.2 (#156)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
