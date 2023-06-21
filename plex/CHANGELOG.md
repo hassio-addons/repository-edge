@@ -1,3 +1,2 @@
-# Changelog since v3.2.3
-- ⬆️ Upgrades Plex Media Server to 1.31.3.6868 (#193) 
-- Fix broken URL (#192) 
+# Changelog since v3.2.4
+- ⬆️ Upgrades Plex Media Server to 1.32.4.7195 (#197) 
