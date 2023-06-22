@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update mysqlclient to v2.2.0 (#468)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nbconvert to v7.6.0 (#466)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
