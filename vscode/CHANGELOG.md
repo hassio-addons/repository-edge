@@ -1,4 +1,5 @@
 # Changelog since v5.7.0
+- Add healthcheck (#665) 
 - ⬆️ Update cdr/code-server to v4.14.1 (#664)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
