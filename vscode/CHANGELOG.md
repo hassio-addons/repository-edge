@@ -1,4 +1,7 @@
 # Changelog since v5.7.0
+- ⬆️ Update esphome/esphome-vscode to v2023.6.0 (#663)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2023.6.2 (#662)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
