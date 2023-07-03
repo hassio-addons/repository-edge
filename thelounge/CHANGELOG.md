@@ -1,4 +1,10 @@
 # Changelog since v0.18.0
+- ⬆️ Update alpine_3_18/nodejs to v18.16.1-r0 (#157)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_18/icu-data-full to v73.2-r1 (#158)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update thelounge/thelounge to v4.4.1 (#155)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
