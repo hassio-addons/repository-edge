@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update pandas to v2.0.3 (#470)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update SQLAlchemy to v2.0.17 (#469) 
 - ⬆️ Update mysqlclient to v2.2.0 (#468)
 
