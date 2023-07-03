@@ -1,4 +1,13 @@
 # Changelog since v15.0.2
+- ⬆️ Update alpine_3_18/networkmanager-cli to v1.42.8-r0 (#582)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_18/net-tools to v2.10-r3 (#581)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_18/bind-tools to v9.18.16-r0 (#580)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.2 (#578)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
