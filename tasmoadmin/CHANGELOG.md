@@ -1,4 +1,7 @@
 # Changelog since v0.24.4
+- ⬆️ Update TasmoAdmin/TasmoAdmin to v3.0.7 (#326)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/nodejs to v18.16.1-r0 (#325)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
