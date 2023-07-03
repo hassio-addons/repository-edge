@@ -1,4 +1,7 @@
 # Changelog since v0.19.1
+- ⬆️ Update alpine_3_18/nss to v3.91-r0 (#235)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.2 (#234)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
