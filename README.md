@@ -840,10 +840,10 @@ SOFTWARE.
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [jupyterlab-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [jupyterlab-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/cc2a1f2
-[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/cc2a1f2/README.md
+[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/a074cd5
+[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/a074cd5/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
-[log-viewer-version-shield]: https://img.shields.io/badge/version-cc2a1f2-blue.svg
+[log-viewer-version-shield]: https://img.shields.io/badge/version-a074cd5-blue.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
