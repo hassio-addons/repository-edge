@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update jupyterlab to v4.0.2 (#461)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pandas to v2.0.3 (#470)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
