@@ -1,4 +1,7 @@
 # Changelog since v15.0.2
+- ⬆️ Update Docker to v23.0.6-r3 (#586)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/networkmanager-cli to v1.42.8-r0 (#582)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
