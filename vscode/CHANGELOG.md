@@ -1,11 +1,4 @@
-# Changelog since v5.8.0
-- ⬆️ Update esphome to v2023.6.4 (#674)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2023.6.3 (#668)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- 🚑 Update healthcheck command (#669) 
-- ⬆️ Update prettier/prettier-vscode to v9.19.0 (#670)
+# Changelog since v5.8.1
+- ⬆️ Update home-assistant/cli to v4.27.0 (#675)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
