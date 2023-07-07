@@ -1,4 +1,5 @@
 # Changelog since v0.7.4
+- ⬆️ Update apprise to v1.4.5 
 - ⬆️ Update louislam/uptime-kuma to v1.22.1 
 - ⬆️ Update louislam/uptime-kuma to v1.22.0 (#85)
 
