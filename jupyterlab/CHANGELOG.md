@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update matplotlib to v3.7.2 (#474)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update SQLAlchemy to v2.0.18 (#473)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
