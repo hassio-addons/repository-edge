@@ -1,5 +1,5 @@
 name: Grafana
-version: dca1b09
+version: 23af72d
 slug: grafana
 description: The open platform for beautiful analytics and monitoring
 url: https://github.com/hassio-addons/addon-grafana
@@ -20,6 +20,7 @@ map:
 - ssl
 options:
   plugins: []
+  custom_plugins: []
   env_vars: []
   ssl: true
   certfile: fullchain.pem
@@ -32,6 +33,10 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   plugins:
   - str
+  custom_plugins:
+  - name: str
+    url: str
+    unsigned: bool?
   certfile: str
   keyfile: str
   ssl: bool
