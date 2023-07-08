@@ -1,5 +1,5 @@
 name: Grafana
-version: '6845632'
+version: dca1b09
 slug: grafana
 description: The open platform for beautiful analytics and monitoring
 url: https://github.com/hassio-addons/addon-grafana
@@ -18,7 +18,6 @@ arch:
 map:
 - config
 - ssl
-watchdog: http://[HOST]:1337/api/health
 options:
   plugins: []
   env_vars: []

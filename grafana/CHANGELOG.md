@@ -1,17 +1,9 @@
-# Changelog since v8.2.2
-- ⬆️ Update Add-on base image to v6.2.7 (#330)
+# Changelog since v8.3.0
+- ⬆️ Update grafana/grafana to v10 (#335)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update grafana/grafana-image-renderer to v3.7.1 (#329)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update grafana/grafana to v9.5.2 (#327)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Add-on base image to v6.2.6 (#324)
+- ⬆️ Update Add-on base image to v7 (major) (#334)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update grafana/grafana to v9.5.1 (#321)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Replace watchdog with Docker health check (#336) 
