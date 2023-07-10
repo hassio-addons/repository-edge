@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update numpy to v1.25.1 (#475)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab_widgets to v3.0.8 (#472)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
