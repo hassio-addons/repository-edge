@@ -1,4 +1,7 @@
 # Changelog since v0.24.4
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.3 (#332)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update TasmoAdmin/TasmoAdmin to v3.0.8 (#329)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
