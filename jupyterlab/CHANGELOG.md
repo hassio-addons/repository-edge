@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update nbconvert to v7.7.2 (#479)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab to v4.0.3 (#476)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
