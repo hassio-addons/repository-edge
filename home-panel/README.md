@@ -51,8 +51,8 @@ If you are more interested in stable releases of our add-ons:
 [home-panel]: https://github.com/timmo001/home-panel
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-cd9cc47-blue.svg
-[release]: https://github.com/hassio-addons/addon-home-panel/tree/cd9cc47
+[release-shield]: https://img.shields.io/badge/version-de7930e-blue.svg
+[release]: https://github.com/hassio-addons/addon-home-panel/tree/de7930e
 [screen-configuration-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/screen-configuration-main.png
 [screen-main]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/screen-main.png
 [showcase-purple-space]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/docs/showcase/timmo/purple-space.png
