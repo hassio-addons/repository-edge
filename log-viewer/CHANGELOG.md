@@ -1,4 +1,10 @@
 # Changelog since v0.15.1
+- ⬆️ Update alpine_3_18/nodejs to v18.17.0-r0 (#173)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.3 (#172)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/nodejs to v18.16.1-r0 (#170)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
