@@ -62,6 +62,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-a0031ef-blue.svg
-[release]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/a0031ef
+[release-shield]: https://img.shields.io/badge/version-75dc4b0-blue.svg
+[release]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/75dc4b0
 [zwave-js-ui]: https://github.com/zwave-js/zwave-js-ui
