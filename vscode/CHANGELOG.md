@@ -1,13 +1,4 @@
-# Changelog since v5.8.1
-- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.37.0 (#680)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2023.7.0 (#678)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2023.6.5 (#676)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update home-assistant/cli to v4.27.0 (#675)
+# Changelog since v5.8.2
+- ⬆️ Update esphome/esphome-vscode to v2023.7.0 (#681)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
