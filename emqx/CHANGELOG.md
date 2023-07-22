@@ -1,4 +1,8 @@
 # Changelog since v0.2.10
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7 (#52)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update emqx/emqx to v5.1.2 
 - ⬆️ Update emqx/emqx to v5.1.1 
 - ⬆️ Update emqx/emqx to v5.1.0 (#53)
