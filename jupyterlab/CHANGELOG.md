@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update nbconvert to v7.7.3 (#481)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bokeh to v3.2.1 (#480)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
