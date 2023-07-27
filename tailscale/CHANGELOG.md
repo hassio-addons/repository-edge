@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Update Add-on base image to v14.0.6 
 - ⬆️ Update Add-on base image to v14.0.5 
 - ⬆️ Update tailscale/tailscale to v1.46.1 
 - Fix CONTRIBUTING Link in README.md (#232) 
