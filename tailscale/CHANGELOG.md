@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Update tailscale/tailscale to v1.46.1 
 - Fix CONTRIBUTING Link in README.md (#232) 
 - ⬆️ Update tailscale/tailscale to v1.46.0 
 - ⬆️ Update tailscale/tailscale to v1.44.2 
