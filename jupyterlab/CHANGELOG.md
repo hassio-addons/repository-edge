@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update numpy to v1.25.2 (#482)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nbconvert to v7.7.3 (#481)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
