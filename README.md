@@ -786,10 +786,10 @@ SOFTWARE.
 [foldingathome-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [foldingathome-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [foldingathome-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/6600ce5
-[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/6600ce5/README.md
+[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/2f73826
+[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/2f73826/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-6600ce5-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-2f73826-blue.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
