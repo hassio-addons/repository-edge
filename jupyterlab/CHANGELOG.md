@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update ipywidgets to v8.1.0 (#483)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update numpy to v1.25.2 (#482)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
