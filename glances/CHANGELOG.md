@@ -1,4 +1,7 @@
 # Changelog since v0.19.2
+- ⬆️ Update zeroconf to v0.72.3 (#394)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update influxdb-client to v1.37.0 (#391)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
