@@ -1,8 +1,4 @@
-# Changelog since v4.8.12
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.7 (#441) 
-- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.35 (#440)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.5 (#439)
+# Changelog since v4.8.13
+- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.36 (#442)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
