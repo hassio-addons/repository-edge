@@ -1038,10 +1038,10 @@ SOFTWARE.
 [zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [zwave-js-ui-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [zwave-js-ui-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/d3c1b24
-[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/d3c1b24/README.md
+[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/d251eb0
+[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/d251eb0/README.md
 [zerotier-issue]: https://github.com/hassio-addons/addon-zerotier/issues
-[zerotier-version-shield]: https://img.shields.io/badge/version-d3c1b24-blue.svg
+[zerotier-version-shield]: https://img.shields.io/badge/version-d251eb0-blue.svg
 [zerotier-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zerotier-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zerotier-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
