@@ -921,10 +921,10 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/411966e
-[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/411966e/README.md
+[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/bc4851d
+[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/bc4851d/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-411966e-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-bc4851d-blue.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
