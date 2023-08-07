@@ -1,4 +1,7 @@
 # Changelog since v0.8.7
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.8 (#177)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.1.22-r0 (#178)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
