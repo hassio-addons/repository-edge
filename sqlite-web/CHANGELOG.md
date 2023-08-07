@@ -1,4 +1,5 @@
 # Changelog since v3.9.0
+- 🚑 Fix nginx paths under ingress for import/export (#260) 
 - ⬆️ Update sqlite-web to v0.5.1 (#264)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
