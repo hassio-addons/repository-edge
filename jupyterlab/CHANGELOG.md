@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update psycopg2 to v2.9.7 (#486)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update scrapy to v2.10.0 (#485)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
