@@ -984,10 +984,10 @@ SOFTWARE.
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/ef7cc93
-[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/ef7cc93/README.md
+[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/15951af
+[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/15951af/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-ef7cc93-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-15951af-blue.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
