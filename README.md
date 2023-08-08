@@ -804,10 +804,10 @@ SOFTWARE.
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [grafana-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grafana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-grocy]: https://github.com/hassio-addons/addon-grocy/tree/d7e7fd0
-[addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/d7e7fd0/README.md
+[addon-grocy]: https://github.com/hassio-addons/addon-grocy/tree/f5f91fe
+[addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/f5f91fe/README.md
 [grocy-issue]: https://github.com/hassio-addons/addon-grocy/issues
-[grocy-version-shield]: https://img.shields.io/badge/version-d7e7fd0-blue.svg
+[grocy-version-shield]: https://img.shields.io/badge/version-f5f91fe-blue.svg
 [grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
