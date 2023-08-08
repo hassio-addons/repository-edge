@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Update Add-on base image to v14.1.0 
 - ⬆️ Update Add-on base image to v14.0.8 
 - ⬆️ Update Add-on base image to v14.0.7 
 - ⬆️ Update Add-on base image to v14.0.6 
