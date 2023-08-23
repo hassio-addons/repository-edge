@@ -1,4 +1,7 @@
 # Changelog since v0.16.3
+- ⬆️ Update zerotier/ZeroTierOne to v1.12.0 (#201)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/cargo to v1.71.1-r0 (#200)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
