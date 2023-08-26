@@ -1,4 +1,5 @@
 # Changelog since v0.8.0
+- ⬆️ Update alpine_3_18/python3 to v3.11.5-r0 
 - ⬆️ Update alpine_3_18/nodejs to v18.17.1-r0 
 - ⬆️ Update louislam/uptime-kuma to v1.23.0 (#98)
 
