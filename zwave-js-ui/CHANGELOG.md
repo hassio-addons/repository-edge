@@ -1,3 +1,2 @@
-# Changelog since v1.15.6
-- ⬆️ Update alpine_3_18/nodejs to v18.17.1-r0 
-- ⬆️ Update zwave-js/zwave-js-ui to v8.23.1 
+# Changelog since v1.15.7
+- ⬆️ Update alpine_3_18/python3-dev to v3.11.5-r0 (#564) 
