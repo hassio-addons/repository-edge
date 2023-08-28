@@ -1,4 +1,5 @@
 # Changelog since v0.18.1
+- ⬆️ Update alpine_3_18/python3 to v3.11.5-r0 (#168) 
 - ⬆️ Update alpine_3_18/nodejs to v18.17.1-r0 (#166)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
