@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update nbconvert to v7.7.4 (#490)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update geopy to v2.4.0 (#492) 
 - ⬆️ Update SQLAlchemy to v2.0.20 (#489)
 
