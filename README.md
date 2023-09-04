@@ -741,10 +741,10 @@ SOFTWARE.
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [appdaemon-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [appdaemon-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/91142ca
-[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/91142ca/README.md
+[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/1c7e5b8
+[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/1c7e5b8/README.md
 [bookstack-issue]: https://github.com/hassio-addons/addon-bookstack/issues
-[bookstack-version-shield]: https://img.shields.io/badge/version-91142ca-blue.svg
+[bookstack-version-shield]: https://img.shields.io/badge/version-1c7e5b8-blue.svg
 [bookstack-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bookstack-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
