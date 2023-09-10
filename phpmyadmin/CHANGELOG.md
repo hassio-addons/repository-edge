@@ -1,4 +1,10 @@
 # Changelog since v0.8.7
+- ⬆️ Update alpine_3_18/mariadb-client to v10.11.5-r0 (#181)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update PHP to v8.1.23-r0 (#180)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.0 (#179)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
