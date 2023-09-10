@@ -1,4 +1,7 @@
 # Changelog since v4.2.0
+- ⬆️ Update alpine_3_18/tor to v0.4.8.5-r0 (#185)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/tor to v0.4.8.4-r0 (#184)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
