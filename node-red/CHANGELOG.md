@@ -1,4 +1,7 @@
 # Changelog since v14.4.5
+- ⬆️ Update node-red to v3.1.0 (#1671)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red-dashboard to v3.6.0 (#1667)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
