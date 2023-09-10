@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update scrapy to v2.10.1 (#494)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nbconvert to v7.8.0 (#493)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
