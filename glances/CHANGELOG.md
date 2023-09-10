@@ -1,4 +1,7 @@
 # Changelog since v0.19.2
+- ⬆️ Update Python to v3.11.5-r0 (#405)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update zeroconf to v0.82.1 (#404)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
