@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- ⬆️ Update PHP to v8.1.23-r0 (#344)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/nodejs to v18.17.1-r0 (#342)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
