@@ -1,16 +1,4 @@
-# Changelog since v1.9.1
-- ⬆️ Update BookStackApp/BookStack to v23.08.2 (#253)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.1.23-r0 (#254)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.0 (#252)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.8 (#250)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.1.22-r0 (#251)
+# Changelog since v1.10.0
+- ⬆️ Update alpine_3_18/mariadb-client to v10.11.5-r0 (#255)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
