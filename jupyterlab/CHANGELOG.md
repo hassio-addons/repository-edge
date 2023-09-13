@@ -1,4 +1,10 @@
 # Changelog since v0.11.1
+- ⬆️ Update jupyterlab_widgets to v3.0.9 (#498)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update matplotlib to v3.7.3 (#496)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update scrapy to v2.10.1 (#494)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
