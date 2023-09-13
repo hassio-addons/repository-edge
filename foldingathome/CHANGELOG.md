@@ -1,14 +1,5 @@
-# Changelog since v0.6.2
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.7 (#62)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.6 (#61)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.5 (#60)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v6.2.4 (#58)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Add Renovate for dependency management (#57) 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7 @renovate ([#63](https://github.com/hassio-addons/addon-foldingathome/pull/63))
