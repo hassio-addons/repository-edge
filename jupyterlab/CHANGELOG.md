@@ -1,4 +1,8 @@
 # Changelog since v0.11.1
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7 (#464)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ipywidgets to v8.1.1 (#497)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
