@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update scrapy to v2.11.0 (#502)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update SQLAlchemy to v2.0.21 (#504)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
