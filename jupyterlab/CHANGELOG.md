@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update numpy to v1.26.0 (#501)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update scrapy to v2.11.0 (#502)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
