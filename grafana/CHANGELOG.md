@@ -1,4 +1,7 @@
 # Changelog since v9.0.3
+- ⬆️ Update grafana/grafana-image-renderer to v3.8.2 (#356)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana-image-renderer to v3.8.1 (#355)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
