@@ -1,4 +1,13 @@
 # Changelog since v0.8.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.1 (#263)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_18/go to v1.20.8-r0 (#261)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.0 (#260)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.8 (#259)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

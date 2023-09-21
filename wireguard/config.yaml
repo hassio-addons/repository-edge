@@ -1,5 +1,5 @@
 name: WireGuard
-version: f8bd9fb
+version: '6630496'
 slug: wireguard
 description: Fast, modern, secure VPN tunnel
 url: https://github.com/hassio-addons/addon-wireguard
