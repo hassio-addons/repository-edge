@@ -1,4 +1,7 @@
-# Changelog since v15.0.7
-- ⬆️ Update alpine_3_18/mosquitto-clients to v2.0.17-r0 (#603)
+# Changelog since v15.0.8
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.1 (#609)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.1.3-r0 (#608)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
