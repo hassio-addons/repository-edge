@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- ⬆️ Update Add-on base image to v14.1.1 (#257)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.48.2 
 - ⬆️ Update tailscale/tailscale to v1.48.1 
 - ⬆️ Update tailscale/tailscale to v1.48.0 
