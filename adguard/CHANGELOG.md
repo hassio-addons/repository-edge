@@ -1,4 +1,5 @@
 # Changelog since v4.8.15
+- Ditch CAS 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.1 (#453)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
