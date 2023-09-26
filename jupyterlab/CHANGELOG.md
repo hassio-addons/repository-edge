@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- Ditch CAS 
 - ⬆️ Update pandas to v2.1.1 (#505)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
