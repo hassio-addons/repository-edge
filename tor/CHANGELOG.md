@@ -1,4 +1,11 @@
 # Changelog since v4.2.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.3 (#190)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Ditch CAS 
+- ⬆️ Update alpine_3_18/tor to v0.4.8.7-r0 (#189)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.1 (#188)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
