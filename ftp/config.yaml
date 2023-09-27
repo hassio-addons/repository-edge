@@ -1,5 +1,5 @@
 name: FTP
-version: b740470
+version: e80d7b5
 slug: ftp
 description: A secure and fast FTP server for Home Assistant
 url: https://github.com/hassio-addons/addon-ftp
