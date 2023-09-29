@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Update Add-on base image to v14.2.0 
 - ⬆️ Update Add-on base image to v14.1.3 
 - Ditch CAS 
 - ⬆️ Update ghcr.io/hassio-addons/base/i386 Docker tag to v14.1.3 (#261)
