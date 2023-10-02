@@ -1,5 +1,5 @@
 name: Log Viewer
-version: f076134
+version: 067db3a
 slug: logviewer
 description: Browser-based log utility for Home Assistant
 url: https://github.com/hassio-addons/addon-log-viewer
