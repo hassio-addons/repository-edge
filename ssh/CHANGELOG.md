@@ -1,4 +1,7 @@
 # Changelog since v15.0.8
+- ⬆️ Update tsl0922/ttyd to v1.7.4 (#614)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.0 (#612)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
