@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update nbconvert to v7.9.0 (#509)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update seaborn to v0.13.0 (#507)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
