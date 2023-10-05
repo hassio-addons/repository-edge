@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update nbconvert to v7.9.2 (#510)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update psycopg2 to v2.9.9 (#508)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
