@@ -1,4 +1,7 @@
 # Changelog since v15.0.8
+- ⬆️ Update Python to v3.11.6-r0 (#615)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tsl0922/ttyd to v1.7.4 (#614)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
