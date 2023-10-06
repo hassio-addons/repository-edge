@@ -1,4 +1,7 @@
 # Changelog since v3.2.9
+- ⬆️ Update plexapi to v4.15.4 (#315)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update crudini to v0.9.5 (#316)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
