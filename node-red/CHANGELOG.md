@@ -1,4 +1,7 @@
 # Changelog since v14.5.0
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.57.2 (#1697)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/python3-dev to v3.11.6-r0 (#1695)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
