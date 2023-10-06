@@ -1,4 +1,7 @@
 # Changelog since v15.0.8
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.1 (#616)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update home-assistant/cli to v4.28.1 (#613)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
