@@ -1,4 +1,16 @@
 # Changelog since v0.12.0
+- ⬆️ Update debian_12/libssl-dev to v3.0.11-1~deb12u1 (#513)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_12/libmariadb-dev to v1:10.11.4-1~deb12u1 (#511)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_12/pandoc to v2.17.1.1-2~deb12u1 (#514)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_12/libmariadb3 to v1:10.11.4-1~deb12u1 (#512)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nbconvert to v7.9.2 (#510)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
