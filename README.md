@@ -750,10 +750,10 @@ SOFTWARE.
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [bookstack-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bookstack-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-emqx]: https://github.com/hassio-addons/addon-emqx/tree/25c2cb7
-[addon-doc-emqx]: https://github.com/hassio-addons/addon-emqx/blob/25c2cb7/README.md
+[addon-emqx]: https://github.com/hassio-addons/addon-emqx/tree/3b10807
+[addon-doc-emqx]: https://github.com/hassio-addons/addon-emqx/blob/3b10807/README.md
 [emqx-issue]: https://github.com/hassio-addons/addon-emqx/issues
-[emqx-version-shield]: https://img.shields.io/badge/version-25c2cb7-blue.svg
+[emqx-version-shield]: https://img.shields.io/badge/version-3b10807-blue.svg
 [emqx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [emqx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
