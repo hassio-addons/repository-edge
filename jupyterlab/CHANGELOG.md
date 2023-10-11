@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update bokeh to v3.3.0 (#515)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/libssl-dev to v3.0.11-1~deb12u1 (#513)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
