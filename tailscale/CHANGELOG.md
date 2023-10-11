@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- ⬆️ Update Add-on base image to v14.2.2 
 - ⬆️ Update Add-on base image to v14.2.1 
 - ⬆️ Update tailscale/tailscale to v1.50.1 
 - ⬆️ Update Add-on base image to v14.2.0 
