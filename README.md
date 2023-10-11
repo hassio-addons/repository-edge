@@ -1029,10 +1029,10 @@ SOFTWARE.
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [wireguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [wireguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/b7a3def
-[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/b7a3def/README.md
+[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/e76c367
+[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/e76c367/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/addon-zwave-js-ui/issues
-[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-b7a3def-blue.svg
+[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-e76c367-blue.svg
 [zwave-js-ui-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zwave-js-ui-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
