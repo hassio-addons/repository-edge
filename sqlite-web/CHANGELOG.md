@@ -1,4 +1,7 @@
 # Changelog since v3.9.3
+- ⬆️ Update sqlite-web to v0.6.0 (#277)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.2 (#276)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
