@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update jupyterlab to v4.0.7 (#517)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bokeh to v3.3.0 (#515)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
