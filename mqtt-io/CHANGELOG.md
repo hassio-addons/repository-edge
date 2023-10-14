@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.19 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.2 (#77) 
 - ⬆️ Update alpine_3_18/git to v2.40.1-r0 (#86)
 
