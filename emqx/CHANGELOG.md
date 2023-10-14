@@ -1,4 +1,7 @@
 # Changelog since v0.2.10
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.2.0 (#71)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.1.1 
 - ⬆️ Update emqx/emqx to v5.3.0 
 - Ditch CAS 
