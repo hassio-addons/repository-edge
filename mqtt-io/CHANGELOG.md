@@ -1,4 +1,7 @@
 # Changelog since v0.2.1
+- ⬆️ Update smbus2 to v0.4.3 (#78)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update w1thermsensor to v2.3.0 (#83)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
