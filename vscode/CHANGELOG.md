@@ -1,4 +1,8 @@
 # Changelog since v5.11.0
+- ⬆️ Update esphome/esphome-vscode to v2023.9 (#717)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update home-assistant/cli to v4.29.0 (#720)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
