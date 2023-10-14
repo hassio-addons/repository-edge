@@ -1,4 +1,16 @@
 # Changelog since v0.2.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.2 (#77) 
+- ⬆️ Update alpine_3_18/git to v2.40.1-r0 (#86)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Bump mqtt-io to a specific commit (#85) 
+- ⬆️ Update Python to v3.11.6-r0 (#79)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Ditch CAS 
+- ⬆️ Update alpine_3_18/py3-cryptography to v41 (#80)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.3 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.2 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.0.1 (#72)
