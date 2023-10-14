@@ -1,4 +1,7 @@
 # Changelog since v3.9.3
+- ⬆️ Update sqlite-web to v0.6.1 (#278)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update sqlite-web to v0.6.0 (#277)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
