@@ -1,5 +1,5 @@
 name: MQTT IO
-version: e84cb69
+version: 78195d3
 slug: mqtt-io
 description: Expose GPIO modules and digital sensors via MQTT for remote control and
   monitoring.
@@ -13,16 +13,13 @@ arch:
 - i386
 init: false
 homeassistant_api: true
-uart: true
-gpio: true
+full_access: true
 privileged:
 - SYS_RAWIO
 map:
 - config:rw
 - share:rw
 - ssl
-devices:
-- /dev
 options:
   configuration_file: /config/mqtt-io/config.yml
 schema:

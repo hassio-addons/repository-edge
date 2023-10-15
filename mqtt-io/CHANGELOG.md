@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- Add full access to add-on (#87) 
 - ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.12 
 - ⬆️ Update smbus2 to v0.4.3 (#78)
 
