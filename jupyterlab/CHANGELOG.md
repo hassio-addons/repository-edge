@@ -1,4 +1,10 @@
 # Changelog since v0.12.0
+- ⬆️ Update numpy to v1.26.1 (#519)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update SQLAlchemy to v2.0.22 (#518)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.2.0 (#516)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
