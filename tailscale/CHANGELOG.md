@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- Rearrange proxy documentation into alphabetical order (#240) 
 - Do not opt out of client log upload in debug log level (#212) 
 - Remove duplicate status checks from dependent S6 services (#196) 
 - Create fallback page for iOS browsers failing to open Tailscale login page (#198)
