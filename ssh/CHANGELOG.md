@@ -1,4 +1,5 @@
 # Changelog since v15.0.8
+- Make ttyd writable (#621) 
 - ⬆️ Update home-assistant/cli to v4.29.0 (#620)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
