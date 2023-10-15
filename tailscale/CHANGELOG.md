@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- Make advertise routes configurable (#253) 
 - Protect local subnets from being routed toward Tailscale subnets if they collide (#201)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
