@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- Create fallback page for iOS browsers failing to open Tailscale login page (#198)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - ⬆️ Update Add-on base image to v14.2.2 
 - ⬆️ Update Add-on base image to v14.2.1 
 - ⬆️ Update tailscale/tailscale to v1.50.1 
