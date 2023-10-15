@@ -1,4 +1,10 @@
 # Changelog since v0.11.1
+- Use new .Self.CapMap in status JSON for HTTPS support check (#260) 
+- Update Installation section in documentation (#242) 
+- Warn about key expiration (#255)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev>
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Enable Tailscale's Funnel feature (#197)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
