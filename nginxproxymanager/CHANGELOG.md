@@ -1,4 +1,15 @@
 # Changelog since v0.12.3
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14 (#453)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- ⬆️ Update certbot-dns-cloudflare to v2 (#428)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update NginxProxyManager/nginx-proxy-manager to v2.10.4 (#448)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Ditch CAS 
 - ⬆️ Update alpine_3_17/git to v2.38.5-r0 (#445)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
