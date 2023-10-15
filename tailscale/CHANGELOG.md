@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- Make subnet source NAT configurable (#223)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Clamp the MSS to the MTU for all advertised subnet's interface (#222) 
 - Make advertise routes configurable (#253) 
 - Protect local subnets from being routed toward Tailscale subnets if they collide (#201)
