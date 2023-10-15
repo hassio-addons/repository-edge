@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- Update Dockerfile (#340) 
 - ⬆️ Update alpine_3_18/nodejs to v18.18.2-r0 (#353)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
