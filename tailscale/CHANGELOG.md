@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- Enable Tailscale's Funnel feature (#197)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Rearrange proxy documentation into alphabetical order (#240) 
 - Do not opt out of client log upload in debug log level (#212) 
 - Remove duplicate status checks from dependent S6 services (#196) 
