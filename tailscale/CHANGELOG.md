@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- Remove duplicate status checks from dependent S6 services (#196) 
 - Create fallback page for iOS browsers failing to open Tailscale login page (#198)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
