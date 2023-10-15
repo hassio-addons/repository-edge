@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- ⬆️ Update alpine_3_18/nodejs to v18.18.2-r0 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.2 
 - ⬆️ Update louislam/uptime-kuma to v1.23.3 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.1 (#109)
