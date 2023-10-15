@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- Make userspace networking configurable (#199)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - make accepting subnet routes optional (#252) 
 - Use new .Self.CapMap in status JSON for HTTPS support check (#260) 
 - Update Installation section in documentation (#242) 
