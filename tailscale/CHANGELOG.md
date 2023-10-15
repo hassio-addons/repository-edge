@@ -1,4 +1,7 @@
 # Changelog since v0.11.1
+- Protect local subnets from being routed toward Tailscale subnets if they collide (#201)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Make userspace networking configurable (#199)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
