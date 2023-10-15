@@ -1,4 +1,5 @@
 # Changelog since v0.11.1
+- make accepting subnet routes optional (#252) 
 - Use new .Self.CapMap in status JSON for HTTPS support check (#260) 
 - Update Installation section in documentation (#242) 
 - Warn about key expiration (#255)
