@@ -1,26 +1,4 @@
-# Changelog since v3.9.3
-- ⬆️ Update sqlite-web to v0.6.1 (#278)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update sqlite-web to v0.6.0 (#277)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.2 (#276)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.1 (#275)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_18/python3 to v3.11.6-r0 (#274)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.0 (#273)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.3 (#272)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Ditch CAS 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.1 (#271)
+# Changelog since v3.10.0
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r7 (#279)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
