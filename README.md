@@ -876,10 +876,10 @@ SOFTWARE.
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [nut-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nut-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/f3941e7
-[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/f3941e7/README.md
+[addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/3f74b16
+[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/3f74b16/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/addon-nginx-proxy-manager/issues
-[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-f3941e7-blue.svg
+[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-3f74b16-blue.svg
 [nginxproxymanager-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nginxproxymanager-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
