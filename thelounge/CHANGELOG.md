@@ -1,20 +1,4 @@
-# Changelog since v0.18.2
-- ⬆️ Update alpine_3_18/nodejs to v18.18.2-r0 (#174)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.2 (#173)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.1 (#172)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.2.0 (#170)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_18/python3 to v3.11.6-r0 (#171)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Ditch CAS 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.1.1 (#169)
+# Changelog since v0.18.3
+- ⬆️ Update alpine_3_18/nginx to v1.24.0-r7 (#175)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
