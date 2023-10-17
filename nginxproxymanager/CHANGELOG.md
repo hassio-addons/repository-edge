@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- Remove MariaDB/MySQL support (#474) 
 - Clean up upstream user (#473) 
 - ⬆️ Update NGINX to v1.24.0-r7 (#472)
 

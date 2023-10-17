@@ -1,5 +1,5 @@
 name: Nginx Proxy Manager
-version: e8fd835
+version: 1d552db
 slug: nginxproxymanager
 description: Manage Nginx proxy hosts with a simple, powerful interface
 url: https://github.com/hassio-addons/addon-nginx-proxy-manager
@@ -12,8 +12,6 @@ arch:
 - armhf
 - armv7
 - i386
-services:
-- mysql:need
 hassio_api: true
 ports:
   80/tcp: 80
@@ -30,5 +28,4 @@ backup_exclude:
 - '*/logs'
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-  reset_database: bool?
 image: ghcr.io/hassio-addons/nginxproxymanager/{arch}
