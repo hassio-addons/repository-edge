@@ -1,4 +1,7 @@
 # Changelog since v0.12.3
+- ⬆️ Update alpine_3_18/apache2-utils to v2.4.58-r0 (#479)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Remove mariadb dependencies (#475) 
 - Remove MariaDB/MySQL support (#474) 
 - Clean up upstream user (#473) 
