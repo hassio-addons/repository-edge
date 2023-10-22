@@ -1,4 +1,5 @@
 # Changelog since v0.19.4
+- Drop support for armhf & i386 (#428) 
 - ⬆️ Update psutil to v5.9.6 (#425)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
