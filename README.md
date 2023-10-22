@@ -939,10 +939,10 @@ SOFTWARE.
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tailscale]: https://github.com/hassio-addons/addon-tailscale/tree/a7b212f
-[addon-doc-tailscale]: https://github.com/hassio-addons/addon-tailscale/blob/a7b212f/README.md
+[addon-tailscale]: https://github.com/hassio-addons/addon-tailscale/tree/3bfff2b
+[addon-doc-tailscale]: https://github.com/hassio-addons/addon-tailscale/blob/3bfff2b/README.md
 [tailscale-issue]: https://github.com/hassio-addons/addon-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-a7b212f-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-3bfff2b-blue.svg
 [tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

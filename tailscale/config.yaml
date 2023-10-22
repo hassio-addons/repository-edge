@@ -1,5 +1,5 @@
 name: Tailscale
-version: a7b212f
+version: 3bfff2b
 slug: tailscale
 description: Zero config VPN for building secure networks
 url: https://github.com/hassio-addons/addon-tailscale

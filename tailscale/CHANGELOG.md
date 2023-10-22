@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- Proxy and Funnel are disabled by default (#273) 
 - Fix local subnet protection (#275) 
 - ⬆️ Update Add-on base image to v14.3.0 (#281)
 
