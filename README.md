@@ -972,9 +972,9 @@ SOFTWARE.
 [thelounge-version-shield]: https://img.shields.io/badge/version-1221905-blue.svg
 [thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[thelounge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [thelounge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[thelounge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[thelounge-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-tor]: https://github.com/hassio-addons/addon-tor/tree/305e102
 [addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/305e102/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
