@@ -1071,9 +1071,9 @@ SOFTWARE.
 [phpmyadmin-version-shield]: https://img.shields.io/badge/version-4c05910-blue.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [phpmyadmin-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
