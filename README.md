@@ -711,9 +711,9 @@ SOFTWARE.
 [ssh-version-shield]: https://img.shields.io/badge/version-74f3d30-blue.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ssh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [ssh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[ssh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[ssh-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/b5e4a01
 [addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/b5e4a01/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
