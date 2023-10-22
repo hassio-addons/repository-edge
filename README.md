@@ -929,7 +929,7 @@ SOFTWARE.
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/40a1bf7
 [addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/40a1bf7/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
