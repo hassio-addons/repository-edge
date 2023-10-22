@@ -981,9 +981,9 @@ SOFTWARE.
 [tor-version-shield]: https://img.shields.io/badge/version-a35f50f-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[tor-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[tor-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/124fa6b
 [addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/124fa6b/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
