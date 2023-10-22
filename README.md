@@ -792,9 +792,9 @@ SOFTWARE.
 [glances-version-shield]: https://img.shields.io/badge/version-73f2121-blue.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[glances-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[glances-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [glances-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[glances-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[glances-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/0895c64
 [addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/0895c64/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
