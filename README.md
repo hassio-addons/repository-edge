@@ -813,10 +813,10 @@ SOFTWARE.
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [grocy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grocy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/869ec1c
-[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/869ec1c/README.md
+[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/a0263ac
+[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/a0263ac/README.md
 [home-panel-issue]: https://github.com/hassio-addons/addon-home-panel/issues
-[home-panel-version-shield]: https://img.shields.io/badge/version-869ec1c-blue.svg
+[home-panel-version-shield]: https://img.shields.io/badge/version-a0263ac-blue.svg
 [home-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [home-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [home-panel-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

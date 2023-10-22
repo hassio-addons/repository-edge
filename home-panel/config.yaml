@@ -1,5 +1,5 @@
 name: Home Panel
-version: 869ec1c
+version: a0263ac
 slug: home-panel
 description: A web frontend for controlling the home
 url: https://github.com/hassio-addons/addon-home-panel
@@ -7,9 +7,7 @@ codenotary: codenotary@frenck.dev
 arch:
 - aarch64
 - amd64
-- armhf
 - armv7
-- i386
 init: false
 ingress: true
 ingress_stream: true
