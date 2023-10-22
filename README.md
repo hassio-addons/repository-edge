@@ -975,10 +975,10 @@ SOFTWARE.
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [thelounge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [thelounge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/a35f50f
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/a35f50f/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/305e102
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/305e102/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-a35f50f-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-305e102-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
