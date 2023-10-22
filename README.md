@@ -1008,9 +1008,9 @@ SOFTWARE.
 [uptime-kuma-version-shield]: https://img.shields.io/badge/version-0a12c2f-blue.svg
 [uptime-kuma-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [uptime-kuma-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[uptime-kuma-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[uptime-kuma-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [uptime-kuma-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[uptime-kuma-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[uptime-kuma-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/c26d77f
 [addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/c26d77f/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
