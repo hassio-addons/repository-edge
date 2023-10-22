@@ -846,9 +846,9 @@ SOFTWARE.
 [log-viewer-version-shield]: https://img.shields.io/badge/version-b48f745-blue.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[log-viewer-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[log-viewer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/tree/22927ce
 [addon-doc-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/blob/22927ce/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/addon-mqtt-io/issues
