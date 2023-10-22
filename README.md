@@ -855,9 +855,9 @@ SOFTWARE.
 [mqtt-io-version-shield]: https://img.shields.io/badge/version-78195d3-blue.svg
 [mqtt-io-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-io-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[mqtt-io-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[mqtt-io-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-mopidy]: https://github.com/hassio-addons/addon-mopidy/tree/b39bd04
 [addon-doc-mopidy]: https://github.com/hassio-addons/addon-mopidy/blob/b39bd04/README.md
 [mopidy-issue]: https://github.com/hassio-addons/addon-mopidy/issues
