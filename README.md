@@ -1035,9 +1035,9 @@ SOFTWARE.
 [zwave-js-ui-version-shield]: https://img.shields.io/badge/version-7611ad2-blue.svg
 [zwave-js-ui-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zwave-js-ui-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [zwave-js-ui-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[zwave-js-ui-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[zwave-js-ui-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/35af2c6
 [addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/35af2c6/README.md
 [zerotier-issue]: https://github.com/hassio-addons/addon-zerotier/issues
