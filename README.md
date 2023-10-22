@@ -918,9 +918,9 @@ SOFTWARE.
 [sqlite-web-version-shield]: https://img.shields.io/badge/version-3afa58e-blue.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[sqlite-web-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[sqlite-web-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/ca32c38
 [addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/ca32c38/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
