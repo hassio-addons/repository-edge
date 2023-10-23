@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- Protect local subnets only if accepting routes are enabled (#283) 
 - Test Home Assistant's HTTP reverse proxy configuration on add-on startup (#254)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
