@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- Test Home Assistant's HTTP reverse proxy configuration on add-on startup (#254)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Proxy and Funnel are disabled by default (#273) 
 - Fix local subnet protection (#275) 
 - ⬆️ Update Add-on base image to v14.3.0 (#281)
