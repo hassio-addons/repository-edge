@@ -1,5 +1,4 @@
-# Changelog since v5.12.1
-- ⬆️ Update cdr/code-server to v4.18.0 (#725)
+# Changelog since v5.13.0
+- ⬆️ Update debian_12/openssl to v3.0.11-1~deb12u2 (#726)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2023.10.1 (#723) 
