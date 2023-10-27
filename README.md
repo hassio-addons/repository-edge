@@ -831,10 +831,10 @@ SOFTWARE.
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/7c59018
-[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/7c59018/README.md
+[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/adc8702
+[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/adc8702/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/addon-jupyterlab/issues
-[jupyterlab-version-shield]: https://img.shields.io/badge/version-7c59018-blue.svg
+[jupyterlab-version-shield]: https://img.shields.io/badge/version-adc8702-blue.svg
 [jupyterlab-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlab-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
