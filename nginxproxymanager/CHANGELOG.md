@@ -1,4 +1,11 @@
 # Changelog since v0.12.3
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.1 (#484)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.1.4-r0 (#482) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.0 (#481)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update certbot-dns-cloudflare to v2.7.2 (#480)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
