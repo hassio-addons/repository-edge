@@ -1,4 +1,7 @@
 # Changelog since v5.13.0
+- ⬆️ Update esphome to v2023.10.4 (#729)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2023.10.3 (#727)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
