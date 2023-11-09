@@ -1,4 +1,7 @@
 # Changelog since v5.13.0
+- ⬆️ Update yamllint to v1.33.0 (#731)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2023.10.6 (#730)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
