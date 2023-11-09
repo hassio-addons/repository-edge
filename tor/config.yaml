@@ -1,5 +1,5 @@
 name: Tor
-version: dd9575b
+version: 5b34b81
 slug: tor
 description: Protect your privacy and access Home Assistant via Tor
 url: https://github.com/hassio-addons/addon-tor
