@@ -1,5 +1,5 @@
 name: AirSonos
-version: bf604f1
+version: 015f13a
 slug: airsonos
 description: AirPlay capabilities for your Sonos (and UPnP) devices.
 url: https://github.com/hassio-addons/addon-airsonos
@@ -13,7 +13,8 @@ arch:
 hassio_api: true
 host_network: true
 map:
-- config:rw
+- addon_config:rw
+- homeassistant_config:rw
 options:
   port: 49152
   latency_rtp: 1000
