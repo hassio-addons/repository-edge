@@ -1,5 +1,5 @@
 name: SQLite Web
-version: fde1536
+version: 31c4ab8
 slug: sqlite-web
 description: Explore your SQLite database
 url: https://github.com/hassio-addons/addon-sqlite-web/tree/main/README.md
@@ -13,7 +13,7 @@ arch:
 - amd64
 - armv7
 map:
-- config:rw
+- homeassistant_config:rw
 - share:rw
 schema:
   database: str?
