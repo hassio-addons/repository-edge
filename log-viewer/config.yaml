@@ -1,5 +1,5 @@
 name: Log Viewer
-version: 0bcc511
+version: a7468e4
 slug: logviewer
 description: Browser-based log utility for Home Assistant
 url: https://github.com/hassio-addons/addon-log-viewer
@@ -20,7 +20,7 @@ ports:
 ports_description:
   80/tcp: Web interface (Not required for Ingress)
 map:
-- config
+- homeassistant_config
 - share
 - ssl
 options:
