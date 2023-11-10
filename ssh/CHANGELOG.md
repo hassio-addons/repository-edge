@@ -1,4 +1,5 @@
 # Changelog since v15.1.0
+- Add support for public add-on configuration access (#633) 
 - ⬆️ Update yamllint to v1.33.0 (#632)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
