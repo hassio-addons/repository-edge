@@ -1,5 +1,5 @@
 name: Node-RED
-version: b5d82ef
+version: 0f52e90
 slug: nodered
 description: Flow-based programming for the Internet of Things
 url: https://github.com/hassio-addons/addon-node-red
@@ -25,7 +25,8 @@ host_network: true
 auth_api: true
 uart: true
 map:
-- config:rw
+- addon_config:rw
+- homeassistant_config:rw
 - media:rw
 - share:rw
 - ssl
