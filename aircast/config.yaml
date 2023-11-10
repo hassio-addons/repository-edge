@@ -1,5 +1,5 @@
 name: AirCast
-version: b5e4a01
+version: 9e6a8c1
 slug: aircast
 description: AirPlay capabilities for your Chromecast devices.
 url: https://github.com/hassio-addons/addon-aircast
@@ -13,7 +13,8 @@ arch:
 hassio_api: true
 host_network: true
 map:
-- config:rw
+- addon_config:rw
+- homeassistant_config:rw
 options:
   latency_rtp: 0
   latency_http: 0
