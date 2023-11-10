@@ -1,4 +1,7 @@
 # Changelog since v15.1.0
+- ⬆️ Update alpine_3_18/vim to v9.0.2073-r0 (#631)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.1 (#629)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
