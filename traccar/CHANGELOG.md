@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- Migrate Traccar config out of Home Assistant config folder (#261) 
 - ⬆️ Update alpine_3_18/nss to v3.94-r0 (#260)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
