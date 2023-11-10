@@ -1,16 +1,13 @@
-# Changelog since v5.13.0
-- ⬆️ Update yamllint to v1.33.0 (#731)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2023.10.6 (#730)
+## ✨ New features
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2023.10.4 (#729)
+- Add support for public add-on configuration access @frenck ([#732](https://github.com/hassio-addons/addon-vscode/pull/732))
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update esphome to v2023.10.3 (#727)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update debian_12/openssl to v3.0.11-1~deb12u2 (#726)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_12/openssl to v3.0.11-1~deb12u2 @renovate ([#726](https://github.com/hassio-addons/addon-vscode/pull/726))
+- ⬆️ Update esphome to v2023.10.3 @renovate ([#727](https://github.com/hassio-addons/addon-vscode/pull/727))
+- ⬆️ Update esphome to v2023.10.4 @renovate ([#729](https://github.com/hassio-addons/addon-vscode/pull/729))
+- ⬆️ Update esphome to v2023.10.6 @renovate ([#730](https://github.com/hassio-addons/addon-vscode/pull/730))
+- ⬆️ Update yamllint to v1.33.0 @renovate ([#731](https://github.com/hassio-addons/addon-vscode/pull/731))
