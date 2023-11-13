@@ -1,4 +1,7 @@
 # Changelog since v3.10.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.2 (#285)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Migrate add-on to new Home Assistant configuration mapping (#284) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.1 (#283)
 
