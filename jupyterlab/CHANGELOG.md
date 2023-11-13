@@ -1,4 +1,7 @@
 # Changelog since v0.12.1
+- ⬆️ Update numpy to v1.26.2 (#528)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pandas to v2.1.3 (#527)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
