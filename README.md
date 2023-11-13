@@ -705,10 +705,10 @@ SOFTWARE.
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/3c3bf0f
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/3c3bf0f/README.md
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/091777c
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/091777c/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-3c3bf0f-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-091777c-blue.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
