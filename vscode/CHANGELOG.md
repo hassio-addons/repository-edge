@@ -1,2 +1,4 @@
-# Changelog since v5.14.1
-- Fix unbound variable in log warning message (#736) 
+# Changelog since v5.14.2
+- ⬆️ Update esphome to v2023.11.0 (#739)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
