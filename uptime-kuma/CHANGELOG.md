@@ -1,4 +1,5 @@
 # Changelog since v0.9.1
+- ⬆️ Update louislam/uptime-kuma to v1.23.5 
 - ⬆️ Update louislam/uptime-kuma to v1.23.4 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.2 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.1 
