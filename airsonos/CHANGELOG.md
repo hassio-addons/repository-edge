@@ -1,3 +1,2 @@
-# Changelog since v3.6.1
-- Migrate AirSonos config out of Home Assistant config folder (#149) 
-- Drop support for i386 (#148) 
+# Changelog since v4.0.0
+- Fix incorrect check for existing files (#150) 
