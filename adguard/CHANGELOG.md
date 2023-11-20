@@ -1,4 +1,7 @@
 # Changelog since v4.8.17
+- ⬆️ Update alpine_3_18/yq to v4.33.3-r5 (#476)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update AdguardTeam/AdGuardHome to v0.107.41 (#475)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
