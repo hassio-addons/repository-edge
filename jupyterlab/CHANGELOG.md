@@ -1,4 +1,7 @@
 # Changelog since v0.12.1
+- ⬆️ Update matplotlib to v3.8.2 (#529)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab to v4.0.9 (#530) 
 - ⬆️ Update numpy to v1.26.2 (#528)
 
