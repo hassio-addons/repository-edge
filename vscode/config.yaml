@@ -1,5 +1,5 @@
 name: Studio Code Server
-version: 1398c21
+version: 3e83dc3
 slug: vscode
 description: Fully featured Visual Studio Code (VSCode) experience integrated in the
   Home Assistant frontend.
