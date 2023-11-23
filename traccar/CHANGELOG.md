@@ -1,20 +1,4 @@
-# Changelog since v0.21.1
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.2 (#262)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Migrate Traccar config out of Home Assistant config folder (#261) 
-- ⬆️ Update alpine_3_18/nss to v3.94-r0 (#260)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.1 (#259)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.0 (#258)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_18/openjdk11-jre-headless to v11.0.21_p9-r0 (#257)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_18/nginx to v1.24.0-r7 (#256)
+# Changelog since v0.22.0
+- ⬆️ Update traccar/traccar to v5.10 (#264)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
