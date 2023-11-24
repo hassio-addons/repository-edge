@@ -54,6 +54,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-b3a66a2-blue.svg
-[release]: https://github.com/hassio-addons/addon-jupyterlab/tree/b3a66a2
+[release-shield]: https://img.shields.io/badge/version-8c3cfcf-blue.svg
+[release]: https://github.com/hassio-addons/addon-jupyterlab/tree/8c3cfcf
 [screenshot]: https://github.com/hassio-addons/addon-jupyterlab/raw/main/images/screenshot.png
