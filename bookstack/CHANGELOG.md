@@ -1,4 +1,5 @@
 # Changelog since v1.10.1
+- ⬆️ Update PHP to v8.1.26-r0 (#275) 
 - ⬆️ Update BookStackApp/BookStack to v23.10.4 (#274)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
