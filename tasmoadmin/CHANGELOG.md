@@ -1,4 +1,7 @@
 # Changelog since v0.26.0
+- ⬆️ Update PHP to v8.1.26-r0 (#367)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update TasmoAdmin/TasmoAdmin to v3.2.0 (#364)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
