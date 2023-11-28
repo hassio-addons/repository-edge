@@ -1,4 +1,5 @@
 # Changelog since v5.14.2
+- ⬆️ Update esphome to v2023.11.6 (#750) 
 - ⬆️ Update esphome to v2023.11.4 (#748) 
 - ⬆️ Update esphome to v2023.11.3 (#747)
 
