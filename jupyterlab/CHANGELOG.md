@@ -1,4 +1,7 @@
 # Changelog since v0.12.1
+- ⬆️ Update nbconvert to v7.12.0 (#533)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bokeh to v3.3.2 (#532) 
 - ⬆️ Update geopy to v2.4.1 (#531)
 
