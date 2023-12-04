@@ -1,4 +1,7 @@
 # Changelog since v16.0.2
+- ⬆️ Update node-red-node-serialport to v2.0.2 (#1757)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red to v3.1.1 (#1754)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
