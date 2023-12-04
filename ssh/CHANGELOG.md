@@ -1,4 +1,5 @@
 # Changelog since v16.0.1
+- Update SSH documentation configuration example (#649) 
 - ⬆️ Update Docker to v23.0.6-r7 (#644)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
