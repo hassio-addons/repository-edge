@@ -1,4 +1,7 @@
 # Changelog since v0.20.0
+- ⬆️ Update influxdb-client to v1.39.0 (#443)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.3 (#442)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
