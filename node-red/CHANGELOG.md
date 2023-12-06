@@ -1,4 +1,7 @@
 # Changelog since v16.0.2
+- ⬆️ Update node-red-dashboard to v3.6.2 (#1759)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red-node-email to v2.1.0 (#1758)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
