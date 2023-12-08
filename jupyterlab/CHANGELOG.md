@@ -1,4 +1,7 @@
 # Changelog since v0.12.1
+- ⬆️ Update pandas to v2.1.4 (#534)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nbconvert to v7.12.0 (#533)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
