@@ -1,4 +1,5 @@
 # Changelog since v3.2.10
+- ⬆️ Upgrades Tautulli to v2.13.4 (#324) 
 - ⬆️ Update setuptools to v69.0.2 (#323)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
