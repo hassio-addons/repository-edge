@@ -1,4 +1,7 @@
 # Changelog since v16.0.2
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.61.1 (#1766)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red to v3.1.3 (#1761) 
 - ⬆️ Update node-red to v3.1.2 (#1760) 
 - ⬆️ Update node-red-dashboard to v3.6.2 (#1759)
