@@ -1,4 +1,5 @@
 # Changelog since v16.0.2
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.62.2 (#1778) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.62.1 (#1772)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
