@@ -1,2 +1,2 @@
-# Changelog since v0.10.0
-- Replace libqrencode with libqrencode-tools (#282) 
+# Changelog since v0.10.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.2 (#284) 
