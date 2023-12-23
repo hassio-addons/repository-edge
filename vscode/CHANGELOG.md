@@ -1,4 +1,6 @@
 # Changelog since v5.14.2
+- ⬆️ Update esphome to v2023.12.3 (#754) 
+- ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u2 (#756) 
 - ⬆️ Update cdr/code-server to v4.20.0 (#755) 
 - ⬆️ Update cdr/code-server to v4.19.1 (#751)
 
