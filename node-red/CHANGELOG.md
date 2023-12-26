@@ -1,4 +1,5 @@
 # Changelog since v16.0.2
+- ⬆️ Update alpine_3_18/openssh to v9.3_p2-r1 (#1782) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.62.2 (#1778) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.62.1 (#1772)
 
