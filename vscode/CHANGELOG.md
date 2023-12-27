@@ -1,4 +1,7 @@
 # Changelog since v5.14.2
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 (#757)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2023.12.5 (#759) 
 - ⬆️ Update esphome to v2023.12.3 (#754) 
 - ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u2 (#756) 
