@@ -1,2 +1,2 @@
-# Changelog since v2.8.1
-- ⬆️ Upgrades UniFi Network Application to 8.0.7 (#466) 
+# Changelog since v3.0.0
+- Version update to 8.0.24 (#469) 
