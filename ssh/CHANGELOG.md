@@ -1,4 +1,7 @@
 # Changelog since v17.0.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 (#666)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Disable the chacha20-poly1305@openssh.com cipher, CVE-2023-48795 (#663) 
 - ⬆️ Update alpine_3_19/openssh to v9.6_p1-r0 (#661)
 
