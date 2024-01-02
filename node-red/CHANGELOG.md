@@ -1,4 +1,7 @@
 # Changelog since v16.0.2
+- ⬆️ Update node-red-contrib-influxdb to v0.7.0 (#1785)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_18/openssh to v9.3_p2-r1 (#1782) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.62.2 (#1778) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.62.1 (#1772)
