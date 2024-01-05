@@ -714,10 +714,10 @@ SOFTWARE.
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [ssh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ssh-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/156b36b
-[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/156b36b/README.md
+[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/20d2426
+[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/20d2426/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
-[aircast-version-shield]: https://img.shields.io/badge/version-156b36b-blue.svg
+[aircast-version-shield]: https://img.shields.io/badge/version-20d2426-blue.svg
 [aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
