@@ -1,4 +1,22 @@
 # Changelog since v1.10.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 (#284)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15 (#277)
+
+* ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15
+
+* Update dependencies
+
+* PHP82
+
+* ⬆️ Update php to 8.2.14
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev>
+Co-authored-by: Paul Sinclair <sinclairpaul@hotmail.com> 
 - 📚 Update year to 2024 (#282) 
 - ⬆️ Update BookStackApp/BookStack to v23.12 (#281)
 
