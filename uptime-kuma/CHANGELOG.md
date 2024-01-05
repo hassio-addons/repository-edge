@@ -1,4 +1,5 @@
 # Changelog since v0.10.1
+- 🎆 Updates maintenance/license year to 2024 (#139) 
 - ⬆️ Update louislam/uptime-kuma to v1.23.11 
 - ⬆️ Update apprise to v1.7.1 
 - ⬆️ Update apprise to v1.7.0 
