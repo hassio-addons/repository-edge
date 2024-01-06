@@ -1,4 +1,18 @@
 # Changelog since v0.12.1
+- ⬆️ Update numpy to v1.26.3 (#541)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update mysqlclient to v2.2.1 (#535)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update SQLAlchemy to v2.0.25 (#538)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- 🎆 Updates maintenance/license year to 2024 (#542) 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 (#537)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update pandas to v2.1.4 (#534)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
