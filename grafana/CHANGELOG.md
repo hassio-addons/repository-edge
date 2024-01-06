@@ -1,4 +1,7 @@
 # Changelog since v9.1.1
+- ⬆️ Update grafana/grafana to v10.2.3 (#360)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - 🎆 Updates maintenance/license year to 2024 (#378) 
 - ⬆️ Update Add-on base image to v7.3.1 (#375)
 
