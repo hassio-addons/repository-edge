@@ -52,10 +52,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c695799-blue.svg
-[release]: https://github.com/hassio-addons/addon-emqx/tree/c695799
+[release-shield]: https://img.shields.io/badge/version-acbc977-blue.svg
+[release]: https://github.com/hassio-addons/addon-emqx/tree/acbc977
 [screenshot]: https://github.com/hassio-addons/addon-emqx/raw/main/images/screenshot.png
