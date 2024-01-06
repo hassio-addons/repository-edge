@@ -1056,10 +1056,10 @@ SOFTWARE.
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [chrony-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [chrony-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/cec7bcc
-[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/cec7bcc/README.md
+[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/37b1cd5
+[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/37b1cd5/README.md
 [motioneye-issue]: https://github.com/hassio-addons/addon-motioneye/issues
-[motioneye-version-shield]: https://img.shields.io/badge/version-cec7bcc-blue.svg
+[motioneye-version-shield]: https://img.shields.io/badge/version-37b1cd5-blue.svg
 [motioneye-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [motioneye-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

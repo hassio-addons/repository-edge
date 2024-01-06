@@ -1,4 +1,5 @@
 # Changelog since v0.19.1
+- ⬆️ Upgrades motionEye to 0.43.1b1 (#453) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15 (#426)
 
 * ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15
