@@ -73,10 +73,6 @@ addons:
     repository: hassio-addons/addon-log-viewer
     target: log-viewer
     image: ghcr.io/hassio-addons/log-viewer/{arch}
-  mopidy:
-    repository: hassio-addons/addon-mopidy
-    target: mopidy
-    image: ghcr.io/hassio-addons/mopidy/{arch}
   motioneye:
     repository: hassio-addons/addon-motioneye
     target: motioneye

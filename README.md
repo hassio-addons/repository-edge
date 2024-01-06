@@ -274,19 +274,6 @@ Expose GPIO modules and digital sensors via MQTT for remote control and monitori
 
 [:books: MQTT IO add-on documentation][addon-doc-mqtt-io]
 
-### &#10003; [Mopidy][addon-mopidy]
-
-![Latest Version][mopidy-version-shield]
-![Supports armhf Architecture][mopidy-armhf-shield]
-![Supports armv7 Architecture][mopidy-armv7-shield]
-![Supports aarch64 Architecture][mopidy-aarch64-shield]
-![Supports amd64 Architecture][mopidy-amd64-shield]
-![Supports i386 Architecture][mopidy-i386-shield]
-
-Mopidy is an extensible music server
-
-[:books: Mopidy add-on documentation][addon-doc-mopidy]
-
 ### &#10003; [Network UPS Tools][addon-nut]
 
 ![Latest Version][nut-version-shield]
@@ -612,7 +599,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: JupyterLab][jupyterlab-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: MQTT IO][mqtt-io-issue]
-- [Open an issue for the add-on: Mopidy][mopidy-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
@@ -844,15 +830,6 @@ SOFTWARE.
 [mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-io-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-mopidy]: https://github.com/hassio-addons/addon-mopidy/tree/b39bd04
-[addon-doc-mopidy]: https://github.com/hassio-addons/addon-mopidy/blob/b39bd04/README.md
-[mopidy-issue]: https://github.com/hassio-addons/addon-mopidy/issues
-[mopidy-version-shield]: https://img.shields.io/badge/version-b39bd04-blue.svg
-[mopidy-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
-[mopidy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[mopidy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[mopidy-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[mopidy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-nut]: https://github.com/hassio-addons/addon-nut/tree/0084273
 [addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/0084273/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
