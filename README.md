@@ -339,19 +339,6 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 
 [:books: Plex Media Server add-on documentation][addon-doc-plex]
 
-### &#10003; [Prometheus][addon-prometheus]
-
-![Latest Version][prometheus-version-shield]
-![Supports armhf Architecture][prometheus-armhf-shield]
-![Supports armv7 Architecture][prometheus-armv7-shield]
-![Supports aarch64 Architecture][prometheus-aarch64-shield]
-![Supports amd64 Architecture][prometheus-amd64-shield]
-![Supports i386 Architecture][prometheus-i386-shield]
-
-Cloud native metrics
-
-[:books: Prometheus add-on documentation][addon-doc-prometheus]
-
 ### &#10003; [SQLite Web][addon-sqlite-web]
 
 ![Latest Version][sqlite-web-version-shield]
@@ -630,7 +617,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
-- [Open an issue for the add-on: Prometheus][prometheus-issue]
 - [Open an issue for the add-on: SQLite Web][sqlite-web-issue]
 - [Open an issue for the add-on: Spotify Connect][spotify-issue]
 - [Open an issue for the add-on: Studio Code Server][vscode-issue]
@@ -903,15 +889,6 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prometheus]: https://github.com/hassio-addons/addon-prometheus/tree/c50878c
-[addon-doc-prometheus]: https://github.com/hassio-addons/addon-prometheus/blob/c50878c/README.md
-[prometheus-issue]: https://github.com/hassio-addons/addon-prometheus/issues
-[prometheus-version-shield]: https://img.shields.io/badge/version-c50878c-blue.svg
-[prometheus-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[prometheus-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[prometheus-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[prometheus-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[prometheus-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/84cb61e
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/84cb61e/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues

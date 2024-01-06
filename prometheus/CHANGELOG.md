@@ -1,1 +1,0 @@
-- ⬆️ Upgrades Prometheus to 2.40.1 (#54)
