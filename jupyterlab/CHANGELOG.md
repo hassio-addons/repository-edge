@@ -1,4 +1,10 @@
 # Changelog since v0.12.1
+- ⬆️ Update seaborn to v0.13.1 (#540)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update jupyterlab to v4.0.10 (#539)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update numpy to v1.26.3 (#541)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
