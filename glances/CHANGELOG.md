@@ -1,4 +1,5 @@
 # Changelog since v0.20.0
+- 🎆 Updates maintenance/license year to 2024 (#450) 
 - ⬆️ Update psutil to v5.9.7 (#448)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
