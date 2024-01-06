@@ -209,19 +209,6 @@ ERP beyond your fridge! A groceries & household management solution for your hom
 
 [:books: Grocy add-on documentation][addon-doc-grocy]
 
-### &#10003; [Home Panel][addon-home-panel]
-
-![Latest Version][home-panel-version-shield]
-![Supports armhf Architecture][home-panel-armhf-shield]
-![Supports armv7 Architecture][home-panel-armv7-shield]
-![Supports aarch64 Architecture][home-panel-aarch64-shield]
-![Supports amd64 Architecture][home-panel-amd64-shield]
-![Supports i386 Architecture][home-panel-i386-shield]
-
-A web frontend for controlling the home
-
-[:books: Home Panel add-on documentation][addon-doc-home-panel]
-
 ### &#10003; [InfluxDB][addon-influxdb]
 
 ![Latest Version][influxdb-version-shield]
@@ -594,7 +581,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Glances][glances-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
 - [Open an issue for the add-on: Grocy][grocy-issue]
-- [Open an issue for the add-on: Home Panel][home-panel-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: JupyterLab][jupyterlab-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
@@ -785,15 +771,6 @@ SOFTWARE.
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [grocy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grocy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/367ed2e
-[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/367ed2e/README.md
-[home-panel-issue]: https://github.com/hassio-addons/addon-home-panel/issues
-[home-panel-version-shield]: https://img.shields.io/badge/version-367ed2e-blue.svg
-[home-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[home-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[home-panel-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[home-panel-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[home-panel-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/eef27de
 [addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/eef27de/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
