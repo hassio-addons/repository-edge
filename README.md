@@ -795,10 +795,10 @@ SOFTWARE.
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [glances-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [glances-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/d440b88
-[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/d440b88/README.md
+[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/1d15286
+[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/1d15286/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-d440b88-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-1d15286-blue.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
