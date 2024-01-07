@@ -1,4 +1,5 @@
 # Changelog since v4.0.0
+- 🎆 Updates maintenance/license year to 2024 (#331) 
 - ⬆️ Update pycryptodomex to v3.19.1 (#330)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
