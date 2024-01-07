@@ -1,4 +1,5 @@
 # Changelog since v0.12.2
+- 🎆 Updates maintenance/license year to 2024 (#339) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 (#338)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
