@@ -1,4 +1,9 @@
 # Changelog since v0.12.3
+- Migrate old-style base scripts s6-rc (#499) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15 (#494)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Drop support for armhf & i386 (#498) 
 - ⬆️ Update certbot-dns-cloudflare to v2.8.0 (#486)
 
