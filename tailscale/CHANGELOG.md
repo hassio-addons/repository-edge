@@ -1,4 +1,8 @@
 # Changelog since v0.13.1
+- Use new tailscale cli arguments and merge proxy and funnel into longrun serve service (#306)
+
+Co-authored-by: lmagyar <lmagyar@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Clamp the MSS for IPv6 also (#308) 
 - Cleanup ip6tables (#307)
 
