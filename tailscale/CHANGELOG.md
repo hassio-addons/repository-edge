@@ -1,4 +1,5 @@
 # Changelog since v0.13.1
+- Clamp the MSS for IPv6 also (#308) 
 - Cleanup ip6tables (#307)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
