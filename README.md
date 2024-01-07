@@ -843,10 +843,10 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/84cb61e
-[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/84cb61e/README.md
+[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/a0d66fa
+[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/a0d66fa/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
-[sqlite-web-version-shield]: https://img.shields.io/badge/version-84cb61e-blue.svg
+[sqlite-web-version-shield]: https://img.shields.io/badge/version-a0d66fa-blue.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
