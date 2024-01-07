@@ -1,4 +1,8 @@
 # Changelog since v0.13.1
+- Cleanup ip6tables (#307)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Increase wait time for Supervisor (#309) 
 - 🎆 Updates maintenance/license year to 2024 (#312) 
 - ⬆️ Update Add-on base image to v15 (major) (#302)
 
