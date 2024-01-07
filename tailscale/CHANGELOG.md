@@ -1,4 +1,5 @@
 # Changelog since v0.13.1
+- Use regex for Proxy and Funnel port configuration validation (#313) 
 - Make Proxy and Funnel port configurable (#277) 
 - Use new tailscale cli arguments and merge proxy and funnel into longrun serve service (#306)
 
