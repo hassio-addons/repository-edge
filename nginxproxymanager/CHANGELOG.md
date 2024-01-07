@@ -1,4 +1,8 @@
 # Changelog since v0.12.3
+- Drop support for armhf & i386 (#498) 
+- ⬆️ Update certbot-dns-cloudflare to v2.8.0 (#486)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.2 (#491)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
