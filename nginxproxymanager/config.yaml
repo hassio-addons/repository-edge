@@ -1,5 +1,5 @@
 name: Nginx Proxy Manager
-version: 8ab8bcf
+version: 163d163
 slug: nginxproxymanager
 description: Manage Nginx proxy hosts with a simple, powerful interface
 url: https://github.com/hassio-addons/addon-nginx-proxy-manager
@@ -20,8 +20,7 @@ ports_description:
   81/tcp: Proxy management web interface
   443/tcp: HTTPS/SSL Entrance port
 map:
-- ssl:rw
-- backup:rw
+- addon_config:rw
 backup_exclude:
 - '*/logs'
 schema:
