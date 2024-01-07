@@ -1,4 +1,5 @@
 # Changelog since v0.9.0
+- Extend max query execution time to 1 hour (#206) 
 - 🎆 Updates maintenance/license year to 2024 (#205) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 (#204)
 
