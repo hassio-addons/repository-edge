@@ -1,13 +1,4 @@
-# Changelog since v0.9.0
-- Extend max query execution time to 1 hour (#206) 
-- 🎆 Updates maintenance/license year to 2024 (#205) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 (#204)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.1.27-r0 (#203) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.2 (#202)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.1.26-r1 (#201)
+# Changelog since v0.9.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.4 (#207)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
