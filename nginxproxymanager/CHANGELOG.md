@@ -1,4 +1,8 @@
 # Changelog since v0.12.3
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.1.1 (#504) 
+- ⬆️ Update OpenSSL to v3.1.4-r3 (#503)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Fix copy paste error in npm init script (#501) 
 - Migrate add-on to new Home Assistant configuration mapping (#500) 
 - Migrate old-style base scripts s6-rc (#499) 
