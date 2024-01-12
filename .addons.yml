@@ -117,6 +117,10 @@ addons:
     repository: hassio-addons/addon-radarr
     target: radarr
     image: ghcr.io/hassio-addons/radarr/{arch}
+  sonarr:
+    repository: hassio-addons/addon-sonarr
+    target: sonarr
+    image: ghcr.io/hassio-addons/sonarr/{arch}
   ssh:
     repository: hassio-addons/addon-ssh
     target: ssh
