@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- Ensure persistent letsencrypt folder exists 
 - Fix letsencrypt dirs 
 - Fix stream module patch 
 - Patch Nginx Proxy Manager instead of hacking around it (#505) 
