@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- Patch Nginx Proxy Manager instead of hacking around it (#505) 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.1.1 (#504) 
 - ⬆️ Update OpenSSL to v3.1.4-r3 (#503)
 
