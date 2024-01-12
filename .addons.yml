@@ -109,6 +109,10 @@ addons:
     repository: hassio-addons/addon-tautulli
     target: tautulli
     image: ghcr.io/hassio-addons/tautulli/{arch}
+  sabnzbd:
+    repository: hassio-addons/addon-sabnzbd
+    target: sabnzbd
+    image: ghcr.io/hassio-addons/sabnzbd/{arch}
   ssh:
     repository: hassio-addons/addon-ssh
     target: ssh
