@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- Update documentation for upcoming release (#506) 
 - Ensure persistent letsencrypt folder exists 
 - Fix letsencrypt dirs 
 - Fix stream module patch 
