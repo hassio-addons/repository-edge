@@ -1,0 +1,1 @@
+- Sonarr doesn't support armv7
