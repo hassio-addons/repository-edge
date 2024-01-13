@@ -22,6 +22,14 @@ comparison to installing any other Home Assistant add-on.
 
 _This add-on does not require any configuration to run._
 
+## Known issues and limitations
+
+- This add-on does not support Home Assistant's Ingress feature (aka, the
+  toggle that puts an add-on in the Home Assistant sidebar).
+  There are too many variables to take into account to make this work properly,
+  and if we would, it would be very easy to break. You could consider using an
+  iframe panel instead.
+
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
