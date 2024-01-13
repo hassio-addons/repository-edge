@@ -1,4 +1,5 @@
 # Changelog since v0.12.3
+- Patch certbot plugin handling (#508) 
 - Update documentation for upcoming release (#506) 
 - Ensure persistent letsencrypt folder exists 
 - Fix letsencrypt dirs 
