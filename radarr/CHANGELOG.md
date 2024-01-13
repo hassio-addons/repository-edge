@@ -1,1 +1,1 @@
-- Initial add-on
+- Reduce image size by dropping update logic
