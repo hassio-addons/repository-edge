@@ -1,1 +1,1 @@
-- Sonarr doesn't support armv7
+- Reduce image size by dropping update logic
