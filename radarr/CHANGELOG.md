@@ -1,1 +1,1 @@
-- Reduce image size by dropping update logic
+- Add notice about Ingress
