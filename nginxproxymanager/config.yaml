@@ -1,5 +1,5 @@
 name: Nginx Proxy Manager
-version: 328daf6
+version: 1e0485e
 slug: nginxproxymanager
 description: Manage Nginx proxy hosts with a simple, powerful interface
 url: https://github.com/hassio-addons/addon-nginx-proxy-manager
