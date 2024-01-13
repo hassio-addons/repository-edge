@@ -101,6 +101,10 @@ addons:
     repository: hassio-addons/addon-spotify-connect
     target: spotify
     image: ghcr.io/hassio-addons/spotify/{arch}
+  prowlarr:
+    repository: hassio-addons/addon-prowlarr
+    target: prowlarr
+    image: ghcr.io/hassio-addons/prowlarr/{arch}
   tasmoadmin:
     repository: hassio-addons/addon-tasmoadmin
     target: tasmoadmin
