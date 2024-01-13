@@ -1,1 +1,1 @@
-- Initial add-on
+- Add notice about Ingress
