@@ -1,1 +1,1 @@
-- Add linux-headers build dependency
+- Fix sub_filters by disabling gzip in proxy (#1)

@@ -894,10 +894,10 @@ SOFTWARE.
 [radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [radarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [radarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/b3ab0f0
-[addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/b3ab0f0/README.md
+[addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/bc6ad8f
+[addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/bc6ad8f/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/addon-sabnzbd/issues
-[sabnzbd-version-shield]: https://img.shields.io/badge/version-b3ab0f0-blue.svg
+[sabnzbd-version-shield]: https://img.shields.io/badge/version-bc6ad8f-blue.svg
 [sabnzbd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sabnzbd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sabnzbd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
