@@ -1,5 +1,5 @@
 name: Lidarr
-version: ac1f90d
+version: 13c6dc0
 slug: lidarr
 description: Looks and smells like Sonarr but made for music
 url: https://github.com/hassio-addons/addon-lidarr/tree/main/README.md
