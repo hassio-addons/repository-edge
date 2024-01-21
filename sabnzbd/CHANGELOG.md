@@ -1,1 +1,4 @@
-- Fix sub_filters by disabling gzip in proxy (#1)
+# Changelog since v0.1.0
+- Fix Renovate configuration 
+- Fix Renovate configuration 
+- Fix Renovate configuration 
