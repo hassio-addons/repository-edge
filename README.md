@@ -968,10 +968,10 @@ SOFTWARE.
 [radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [radarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [radarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-readarr]: https://github.com/hassio-addons/addon-readarr/tree/b342a4a
-[addon-doc-readarr]: https://github.com/hassio-addons/addon-readarr/blob/b342a4a/README.md
+[addon-readarr]: https://github.com/hassio-addons/addon-readarr/tree/676dc3f
+[addon-doc-readarr]: https://github.com/hassio-addons/addon-readarr/blob/676dc3f/README.md
 [readarr-issue]: https://github.com/hassio-addons/addon-readarr/issues
-[readarr-version-shield]: https://img.shields.io/badge/version-b342a4a-blue.svg
+[readarr-version-shield]: https://img.shields.io/badge/version-676dc3f-blue.svg
 [readarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [readarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [readarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
