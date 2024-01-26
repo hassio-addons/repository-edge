@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- ⬆️ Update seaborn to v0.13.2 (#549) 
 - ⬆️ Update pandas to v2.2.0 (#548) 
 - ⬆️ Update jupyterlab to v4.0.11 (#547)
 
