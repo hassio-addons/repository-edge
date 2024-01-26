@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- ⬆️ Update alpine_3_19/coreutils to v9.4-r2 
 - ⬆️ Update tailscale/tailscale to v1.58.2 
 - ⬆️ Update tailscale/tailscale to v1.58.0 (#319)
 
