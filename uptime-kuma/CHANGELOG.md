@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- ⬆️ Update apprise to v1.7.2 
 - ⬆️ Update cloudflare/cloudflared to v2024.1.4 (#149) 
 - ⬆️ Update cloudflare/cloudflared to v2024.1.3 (#148)
 
