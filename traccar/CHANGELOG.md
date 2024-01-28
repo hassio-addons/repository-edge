@@ -1,4 +1,7 @@
 # Changelog since v0.24.0
+- ⬆️ Update traccar/traccar to v5.12 (#283)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_19/mariadb-client to v10.11.6-r0 (#282)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
