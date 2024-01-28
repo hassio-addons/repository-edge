@@ -852,10 +852,10 @@ SOFTWARE.
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [emqx-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [emqx-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/aa81661
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/aa81661/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/b9b5ffd
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/b9b5ffd/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-aa81661-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-b9b5ffd-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
