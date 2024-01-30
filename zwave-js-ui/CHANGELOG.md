@@ -1,7 +1,4 @@
-# Changelog since v3.2.1
-- ⬆️ Update zwave-js/zwave-js-ui to v9.8.1 (#638)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update zwave-js/zwave-js-ui to v9.8.0 (#637)
+# Changelog since v3.3.0
+- ⬆️ Update zwave-js/zwave-js-ui to v9.8.2 (#640)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
