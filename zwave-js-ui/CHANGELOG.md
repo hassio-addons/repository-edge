@@ -1,4 +1,4 @@
-# Changelog since v3.3.0
-- ⬆️ Update zwave-js/zwave-js-ui to v9.8.2 (#640)
+# Changelog since v3.3.1
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 (#641)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
