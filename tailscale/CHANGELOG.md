@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- ⬆️ Update Add-on base image to v15.0.6 
 - ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
 - ⬆️ Update alpine_3_19/coreutils to v9.4-r2 
 - ⬆️ Update tailscale/tailscale to v1.58.2 
