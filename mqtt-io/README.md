@@ -37,5 +37,5 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023-2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-8f05613-blue.svg
-[release]: https://github.com/hassio-addons/addon-mqtt-io/tree/8f05613
+[release-shield]: https://img.shields.io/badge/version-cc87324-blue.svg
+[release]: https://github.com/hassio-addons/addon-mqtt-io/tree/cc87324
