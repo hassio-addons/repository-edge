@@ -1,4 +1,8 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 (#455) 
+- ⬆️ Update influxdb-client to v1.40.0 (#454)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update psutil to v5.9.8 (#453)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
