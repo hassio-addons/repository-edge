@@ -1,4 +1,10 @@
 # Changelog since v0.20.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.6 (#464)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 (#463)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_19/ffmpeg-libs to v6.1.1-r0 (#461)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
