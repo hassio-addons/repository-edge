@@ -101,8 +101,8 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-49b7cd1-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/49b7cd1
+[release-shield]: https://img.shields.io/badge/version-298eb46-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/298eb46
 [screenshot]: https://github.com/hassio-addons/addon-ssh/raw/main/images/screenshot.png
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/main/images/ssh-audit.png
 [ssh-audit]: https://github.com/jtesta/ssh-audit
