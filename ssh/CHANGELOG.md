@@ -1,5 +1,4 @@
-# Changelog since v17.0.5
-- Fix race condition when ZSH is disabled (#689) 
-- ⬆️ Update Docker to v25 (major) (#687)
+# Changelog since v17.1.0
+- ⬆️ Update yamllint to v1.34.0 (#692)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
