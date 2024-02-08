@@ -1,25 +1,4 @@
-# Changelog since v2.0.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.6 (#295)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 (#294)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/mariadb-client to v10.11.6-r0 (#293)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update BookStackApp/BookStack to v23.12.2 (#291)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.2.15-r0 (#289)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update BookStackApp/BookStack to v23.12.1 (#287)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.5 (#288)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.4 (#286)
+# Changelog since v2.0.1
+- ⬆️ Update alpine_3_19/composer to v2.7.0-r0 (#296)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
