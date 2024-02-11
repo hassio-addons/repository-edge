@@ -1,7 +1,4 @@
-# Changelog since v0.21.0
-- ⬆️ Update vaultwarden/server Docker tag to v1.30.3 (#297)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update vaultwarden/server Docker tag to v1.30.2 (#296)
+# Changelog since v0.21.1
+- ⬆️ Update debian_12/libmariadb-dev-compat to v1:10.11.6-0+deb12u1 (#299)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
