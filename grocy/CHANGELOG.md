@@ -1,4 +1,7 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_19/composer to v2.7.1-r0 (#427)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_19/composer to v2.7.0-r0 (#426)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
