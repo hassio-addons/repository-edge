@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Adjust Renovate to use loose versioning for Readarr 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.6 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.5 (#2)
 
