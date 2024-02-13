@@ -1,4 +1,6 @@
 # Changelog since v0.1.0
+- Another attempt to let Renovate handle this 
+- Another attempt to let Renovate handle this 
 - Retry using github releases 
 - Ignore old v2.0.0 tags of Readarr 
 - Ignore old v2.0.0 tags of Readarr 
