@@ -1,20 +1,4 @@
-# Changelog since v0.24.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.6 (#285)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 (#284)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update traccar/traccar to v5.12 (#283)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/mariadb-client to v10.11.6-r0 (#282)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/nss to v3.97-r0 (#281) 
-- ⬆️ Update alpine_3_19/openjdk11-jre-headless to v11.0.22_p7-r0 (#279)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.5 (#278)
+# Changelog since v0.25.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.7 (#287)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
