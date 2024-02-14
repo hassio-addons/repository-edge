@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- ⬆️ Update SQLAlchemy to v2.0.27 (#566) 
 - ⬆️ Update jupyterlab to v4.1.1 (#565)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
