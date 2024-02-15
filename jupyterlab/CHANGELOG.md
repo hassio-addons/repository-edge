@@ -1,4 +1,7 @@
 # Changelog since v0.14.0
+- ⬆️ Update matplotlib to v3.8.3 (#569)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update scrapy to v2.11.1 (#568)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
