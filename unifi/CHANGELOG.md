@@ -1,9 +1,14 @@
-# Changelog since v3.0.2
-- Dockerfile improvements (#481)
+## What’s changed
 
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- Update Network controller to version 8.0.28 (#484) 
-- Improve DOCS.md (#483) 
-- Fix markdown formatting in documentation (#479)
+## 🚀 Enhancements
 
-Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
+- Dockerfile improvements @cfergeau ([#481](https://github.com/hassio-addons/addon-unifi/pull/481))
+
+## 📚 Documentation
+
+- Fix markdown formatting in documentation @glyph-se ([#479](https://github.com/hassio-addons/addon-unifi/pull/479))
+- Improve DOCS.md @nickdos ([#483](https://github.com/hassio-addons/addon-unifi/pull/483))
+
+## ⬆️ Dependency updates
+
+- Update Network controller to version 8.0.28 @renewoensdregt ([#484](https://github.com/hassio-addons/addon-unifi/pull/484))
