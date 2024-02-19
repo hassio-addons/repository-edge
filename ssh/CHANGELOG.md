@@ -1,4 +1,6 @@
 # Changelog since v17.1.0
+- ⬆️ Update alpine_3_19/libxml2-utils to v2.11.7-r0 (#696) 
+- ⬆️ Update alpine_3_19/bind-tools to v9.18.24-r1 (#695) 
 - ⬆️ Update Docker to v25.0.3-r0 (#693)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

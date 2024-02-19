@@ -1,5 +1,5 @@
 name: Advanced SSH & Web Terminal
-version: cf8ded6
+version: e98a4d1
 slug: ssh
 description: A supercharged SSH & Web Terminal access to your Home Assistant instance
 url: https://github.com/hassio-addons/addon-ssh
