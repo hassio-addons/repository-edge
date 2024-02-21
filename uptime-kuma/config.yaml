@@ -1,5 +1,5 @@
 name: Uptime Kuma
-version: 2116bdf
+version: 0ba0b65
 slug: uptime-kuma
 description: It is a self-hosted monitoring tool like "Uptime Robot"
 url: https://github.com/hassio-addons/addon-uptime-kuma
