@@ -1,4 +1,7 @@
 # Changelog since v17.0.7
+- ⬆️ Update node-red-contrib-bigtimer to v2.8.6 (#1846)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.1.4 (#1845)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
