@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update paho-mqtt to v2 (#155)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update apprise to v1.7.4 
 - ⬆️ Update apprise to v1.7.3 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.1.4 
