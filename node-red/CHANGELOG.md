@@ -1,22 +1,7 @@
-# Changelog since v17.0.7
-- ⬆️ Update node-red to v3.1.6 (#1848)
+# Changelog since v17.0.8
+- ⬆️ Update node-red-dashboard to v3.6.3 (#1854)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update @node-red-contrib-themes/theme-collection to v3.1.11 (#1847)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update node-red-contrib-bigtimer to v2.8.6 (#1846)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.1.4 (#1845)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update node-red-node-email to v2.2.0 (#1842)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/python3-dev to v3.11.8-r0 (#1841)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update node-red-node-suncalc to v1.1.2 (#1840)
+- ⬆️ Update node-red-node-email to v2.2.1 (#1853)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
