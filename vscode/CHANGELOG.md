@@ -1,4 +1,14 @@
 # Changelog since v5.15.0
+- ⬆️ Update home-assistant/cli to v4.31.0 (#786)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.3 (#783)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- ⬆️ Update debian_12/mariadb-client to v1:10.11.6-0+deb12u1 (#781)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.21.0 (#778)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
