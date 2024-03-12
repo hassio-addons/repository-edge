@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Changed overseer url from .org to .dev (#7) 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.1.4 (#6)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
