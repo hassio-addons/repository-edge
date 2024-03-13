@@ -1,4 +1,10 @@
 # Changelog since v0.21.0
+- ⬆️ Update grocy/grocy to v4.1.0 (#428)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.1.4 (#432)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.2.16-r0 (#431)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
