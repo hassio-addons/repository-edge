@@ -1,4 +1,7 @@
 # Changelog since v4.0.1
+- ⬆️ Update setuptools to v69.2.0 (#340)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v69.1.1 (#339)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
