@@ -1,4 +1,7 @@
 # Changelog since v5.15.0
+- ⬆️ Update cdr/code-server to v4.22.1 (#794)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update yamllint to v1.35.1 (#784)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
