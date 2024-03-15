@@ -1,4 +1,7 @@
 # Changelog since v0.21.0
+- ⬆️ Update PHP to v8.2.17-r0 (#433)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grocy/grocy to v4.1.0 (#428)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
