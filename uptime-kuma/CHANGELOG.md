@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update cloudflare/cloudflared to v2024.3.0 (#165)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update paho-mqtt to v2 (#155)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
