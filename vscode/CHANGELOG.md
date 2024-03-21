@@ -1,4 +1,7 @@
 # Changelog since v5.15.0
+- ⬆️ Update prettier/prettier-vscode to v10.4.0 (#798)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update prettier/prettier-vscode to v10.3.0 (#797)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
