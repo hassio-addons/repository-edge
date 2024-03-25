@@ -1,4 +1,7 @@
 # Changelog since v0.21.0
+- ⬆️ Update glances to v3.4.0.5 (#464)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update influxdb-client to v1.41.0 (#462)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
