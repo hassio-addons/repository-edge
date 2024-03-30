@@ -1,4 +1,5 @@
 # Changelog since v17.2.0
+- ⬆️ Update tsl0922/ttyd to v1.7.7 (#709) 
 - ⬆️ Update tsl0922/ttyd to v1.7.6 (#708) 
 - ⬆️ Update tsl0922/ttyd to v1.7.5 (#707)
 
