@@ -1,4 +1,7 @@
 # Changelog since v1.0.1
+- ⬆️ Update alpine_3_19/apache2-utils to v2.4.59-r0 (#557)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.0 (#555)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
