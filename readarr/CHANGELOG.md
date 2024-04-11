@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.8 
 - Another attempt to let Renovate handle this 
 - Another attempt to let Renovate handle this 
 - Retry using github releases 
