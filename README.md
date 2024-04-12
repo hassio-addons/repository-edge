@@ -978,10 +978,10 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-overseerr]: https://github.com/hassio-addons/addon-overseerr/tree/7a4a19c
-[addon-doc-overseerr]: https://github.com/hassio-addons/addon-overseerr/blob/7a4a19c/README.md
+[addon-overseerr]: https://github.com/hassio-addons/addon-overseerr/tree/a81ed04
+[addon-doc-overseerr]: https://github.com/hassio-addons/addon-overseerr/blob/a81ed04/README.md
 [overseerr-issue]: https://github.com/hassio-addons/addon-overseerr/issues
-[overseerr-version-shield]: https://img.shields.io/badge/version-7a4a19c-blue.svg
+[overseerr-version-shield]: https://img.shields.io/badge/version-a81ed04-blue.svg
 [overseerr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [overseerr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [overseerr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
