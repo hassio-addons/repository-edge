@@ -915,10 +915,10 @@ SOFTWARE.
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/7212877
-[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/7212877/README.md
+[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/3ec8a04
+[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/3ec8a04/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/addon-jupyterlab/issues
-[jupyterlab-version-shield]: https://img.shields.io/badge/version-7212877-blue.svg
+[jupyterlab-version-shield]: https://img.shields.io/badge/version-3ec8a04-blue.svg
 [jupyterlab-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlab-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
