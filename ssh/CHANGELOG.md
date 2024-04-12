@@ -1,4 +1,10 @@
 # Changelog since v17.2.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.8 (#716)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.1.4-r6 (#715)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Docker to v25.0.3-r2 (#713) 
 - ⬆️ Update home-assistant/cli to v4.32.0 (#712)
 
