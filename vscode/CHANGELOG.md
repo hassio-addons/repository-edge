@@ -1,4 +1,7 @@
 # Changelog since v5.15.0
+- ⬆️ Update cdr/code-server to v4.23.0 (#804)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update home-assistant/cli to v4.32.0 (#801) 
 - ⬆️ Update esphome to v2024.3.1 (#799) 
 - ⬆️ Update prettier/prettier-vscode to v10.4.0 (#798)
