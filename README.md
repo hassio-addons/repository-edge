@@ -1059,10 +1059,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/d75fea0
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/d75fea0/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/b570049
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/b570049/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-d75fea0-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-b570049-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
