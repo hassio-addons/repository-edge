@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- ⬆️ Update apprise to v1.7.6 (#172) 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.1 (#171)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
