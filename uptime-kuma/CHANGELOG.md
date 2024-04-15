@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- ⬆️ Update alpine_3_19/python3 to v3.11.9-r0 
 - ⬆️ Update apprise to v1.7.6 (#172) 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.1 (#171)
 
