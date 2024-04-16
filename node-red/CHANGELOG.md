@@ -1,4 +1,5 @@
 # Changelog since v17.0.11
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.9-r0 (#1873) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.64.0 (#1871) 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.1 (#1870)
 
