@@ -1,4 +1,5 @@
 # Changelog since v5.15.0
+- ⬆️ Update esphome to v2024.4.0 (#807) 
 - ⬆️ Update cdr/code-server to v4.23.1 (#806) 
 - ⬆️ Update home-assistant/cli to v4.33.0 (#805)
 
