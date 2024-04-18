@@ -1,4 +1,7 @@
 # Changelog since v0.14.3
+- ⬆️ Update jupyter_bokeh to v4.0.2 (#587)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pandas to v2.2.2 (#585)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
