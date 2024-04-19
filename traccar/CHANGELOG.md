@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- ⬆️ Update alpine_3_19/nss to v3.99-r0 (#297) 
 - ⬆️ Update traccar/traccar to v6 (#295)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
