@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- ⬆️ Update influxdb to v5.3.2 (#472) 
 - ⬆️ Update influxdb-client to v1.42.0 (#471)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
