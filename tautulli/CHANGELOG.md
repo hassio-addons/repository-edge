@@ -1,4 +1,5 @@
 # Changelog since v4.0.1
+- ⬆️ Update plexapi to v4.15.12 (#344) 
 - ⬆️ Update setuptools to v69.5.1 (#343) 
 - ⬆️ Update setuptools to v69.5.0 (#342) 
 - ⬆️ Update plexapi to v4.15.11 (#341) 
