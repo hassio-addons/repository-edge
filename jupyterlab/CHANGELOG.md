@@ -1,4 +1,7 @@
 # Changelog since v0.14.3
+- ⬆️ Update jupyter_bokeh to v4.0.4 (#590)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyter_bokeh to v4.0.3 (#589) 
 - ⬆️ Update influxdb to v5.3.2 (#588) 
 - ⬆️ Update jupyter_bokeh to v4.0.2 (#587)
