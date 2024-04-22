@@ -1,4 +1,7 @@
 # Changelog since v1.0.1
+- ⬆️ Update certbot-dns-cloudflare to v2.10.0 (#556)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Python to v3.11.9-r0 (#563)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
