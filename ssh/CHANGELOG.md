@@ -1,4 +1,5 @@
 # Changelog since v17.2.0
+- Disable tmux mouse mode when running under ttyd (#723) 
 - ⬆️ Update Docker to v25.0.5-r0 (#727) 
 - ⬆️ Update Python to v3.11.9-r0 (#726)
 
