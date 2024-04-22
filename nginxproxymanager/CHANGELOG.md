@@ -1,4 +1,13 @@
 # Changelog since v1.0.1
+- ⬆️ Update Python to v3.11.9-r0 (#563)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.1 (#560)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.1.4-r6 (#558)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_19/apache2-utils to v2.4.59-r0 (#557)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
