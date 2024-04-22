@@ -789,10 +789,10 @@ SOFTWARE.
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/a9140d5
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/a9140d5/README.md
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/cf6312f
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/cf6312f/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-a9140d5-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-cf6312f-blue.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

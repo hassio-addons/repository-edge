@@ -1,4 +1,6 @@
 # Changelog since v17.2.0
+- Don't attempt to use xclip when X is not available (#724) 
+- Include procps by default for Visual Studio Code (#725) 
 - Disable tmux mouse mode when running under ttyd (#723) 
 - ⬆️ Update Docker to v25.0.5-r0 (#727) 
 - ⬆️ Update Python to v3.11.9-r0 (#726)
