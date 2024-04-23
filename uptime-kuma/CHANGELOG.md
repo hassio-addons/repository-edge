@@ -1,4 +1,7 @@
 # Changelog since v0.12.0
+- ⬆️ Update cloudflare/cloudflared to v2024.4.1 (#176)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update louislam/uptime-kuma to v1.23.12 
 - ⬆️ Update alpine_3_19/python3 to v3.11.9-r0 
 - ⬆️ Update apprise to v1.7.6 (#172) 
