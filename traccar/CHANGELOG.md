@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- ⬆️ Update alpine_3_19/openjdk11-jre-headless to v11.0.23_p9-r0 (#299)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_19/nss to v3.99-r0 (#297) 
 - ⬆️ Update traccar/traccar to v6 (#295)
 
