@@ -1,4 +1,2 @@
-# Changelog since v0.17.0
-- Tag names must start with a letter after 'tag:' and contain letters, … (#342) 
-- ⬆️ Update tailscale/tailscale to v1.64.0 
-- ⬆️ Update Add-on base image to v15.0.8 
+# Changelog since v0.18.0
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 
