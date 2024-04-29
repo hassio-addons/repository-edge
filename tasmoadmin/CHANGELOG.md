@@ -1,11 +1,7 @@
-# Changelog since v0.30.0
-- ⬆️ Update TasmoAdmin/TasmoAdmin to v4.0.2 (#395)
+# Changelog since v0.30.1
+- ⬆️ Update alpine_3_19/composer to v2.7.4-r0 (#399)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.8 (#396)
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 (#398)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.2.18-r0 (#397)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- 📚 Remove iframe instructions (#394) 
