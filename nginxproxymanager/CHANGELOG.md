@@ -1,4 +1,7 @@
 # Changelog since v1.0.1
+- ⬆️ Update NGINX to v1.24.0-r16 (#568)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update certbot-dns-cloudflare to v2.10.0 (#556)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
