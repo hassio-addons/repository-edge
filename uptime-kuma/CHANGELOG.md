@@ -1,4 +1,5 @@
 # Changelog since v0.12.0
+- ⬆️ Update paho-mqtt to v2.1.0 
 - ⬆️ Update louislam/uptime-kuma to v1.23.13 
 - ⬆️ Update cloudflare/cloudflared to v2024.4.1 (#176)
 
