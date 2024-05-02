@@ -1023,10 +1023,10 @@ SOFTWARE.
 [readarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [readarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [readarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/5f01464
-[addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/5f01464/README.md
+[addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/6a23d43
+[addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/6a23d43/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/addon-sabnzbd/issues
-[sabnzbd-version-shield]: https://img.shields.io/badge/version-5f01464-blue.svg
+[sabnzbd-version-shield]: https://img.shields.io/badge/version-6a23d43-blue.svg
 [sabnzbd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sabnzbd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sabnzbd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
