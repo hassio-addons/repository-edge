@@ -1,4 +1,5 @@
 # Changelog since v5.15.0
+- ⬆️ Update debian_12/less to v590-2.1~deb12u2 (#813) 
 - ⬆️ Update esphome to v2024.4.2 (#812)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
