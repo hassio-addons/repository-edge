@@ -1,4 +1,7 @@
 # Changelog since v0.1.2
+- ⬆️ Update sabnzbd/sabnzbd to v4.3.1 (#19)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update sabnzbd/sabnzbd to v4.3.0 (#18)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
