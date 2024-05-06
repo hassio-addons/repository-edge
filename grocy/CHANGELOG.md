@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_19/composer to v2.7.6-r0 (#444) 
 - ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 (#441)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
