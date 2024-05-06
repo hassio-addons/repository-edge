@@ -1,4 +1,7 @@
 # Changelog since v17.2.0
+- ⬆️ Update home-assistant/cli to v4.34.0 (#731)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Don't attempt to use xclip when X is not available (#724) 
 - Include procps by default for Visual Studio Code (#725) 
 - Disable tmux mouse mode when running under ttyd (#723) 
