@@ -1,4 +1,7 @@
 # Changelog since v0.17.0
+- ⬆️ Update alpine_3_19/git to v2.43.4-r0 (#207)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 (#206)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
