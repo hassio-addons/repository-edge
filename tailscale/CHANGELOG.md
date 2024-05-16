@@ -1,4 +1,5 @@
 # Changelog since v0.18.0
+- Linux optimizations for subnet routers and exit nodes (#351) 
 - ⬆️ Update tailscale/tailscale to v1.66.3 (#354)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
