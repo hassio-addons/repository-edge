@@ -1,4 +1,8 @@
 # Changelog since v0.18.0
+- Add app connector option (#348)
+
+Co-authored-by: Angel Urena <angel@movatic.co> 
+- Fix indentation (#356) 
 - Linux optimizations for subnet routers and exit nodes (#351) 
 - ⬆️ Update tailscale/tailscale to v1.66.3 (#354)
 
