@@ -1,4 +1,5 @@
 # Changelog since v0.18.0
+- Reword app connector option's translation (#358) 
 - Add app connector option (#348)
 
 Co-authored-by: Angel Urena <angel@movatic.co> 
