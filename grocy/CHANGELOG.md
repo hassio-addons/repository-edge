@@ -1,4 +1,7 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_19/git to v2.43.4-r0 (#446)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.2.19-r0 (#445) 
 - ⬆️ Update alpine_3_19/composer to v2.7.6-r0 (#444) 
 - ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 (#441)
