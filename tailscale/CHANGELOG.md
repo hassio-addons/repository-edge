@@ -1,4 +1,5 @@
 # Changelog since v0.18.0
+- Make stateful filtering configurable (#357) 
 - Reword app connector option's translation (#358) 
 - Add app connector option (#348)
 
