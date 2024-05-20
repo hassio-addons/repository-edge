@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- Increase PHP memory limit (#440) 
 - ⬆️ Update alpine_3_19/git to v2.43.4-r0 (#446)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
