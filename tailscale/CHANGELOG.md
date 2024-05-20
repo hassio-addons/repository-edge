@@ -1,4 +1,5 @@
 # Changelog since v0.18.0
+- Allow Linux optimizations (UDP GRO for forwarding) on multiple default interfaces and IPv6 (#361) 
 - Fix Linux optimizations (#360) 
 - Make stateful filtering configurable (#357) 
 - Reword app connector option's translation (#358) 
