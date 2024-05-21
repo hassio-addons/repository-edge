@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update requests to v2.32.1 (#477)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update requests to v2.32.0 (#476) 
 - ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 (#473)
 
