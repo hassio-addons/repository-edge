@@ -1041,10 +1041,10 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sonarr]: https://github.com/hassio-addons/addon-sonarr/tree/a1c7527
-[addon-doc-sonarr]: https://github.com/hassio-addons/addon-sonarr/blob/a1c7527/README.md
+[addon-sonarr]: https://github.com/hassio-addons/addon-sonarr/tree/1db59a6
+[addon-doc-sonarr]: https://github.com/hassio-addons/addon-sonarr/blob/1db59a6/README.md
 [sonarr-issue]: https://github.com/hassio-addons/addon-sonarr/issues
-[sonarr-version-shield]: https://img.shields.io/badge/version-a1c7527-blue.svg
+[sonarr-version-shield]: https://img.shields.io/badge/version-1db59a6-blue.svg
 [sonarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sonarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sonarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
