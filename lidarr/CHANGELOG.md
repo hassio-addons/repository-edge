@@ -1,2 +1,4 @@
-# Changelog since v0.2.0
-- ⬆️ Update Lidarr/Lidarr to v2.3.3.4204 (#9) 
+# Changelog since v0.3.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.9 (#10)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
