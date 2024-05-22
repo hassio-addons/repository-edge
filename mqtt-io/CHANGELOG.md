@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.9 
 - ⬆️ Update Python to v3.11.9-r0 
 - ⬆️ Update alpine_3_19/git to v2.43.4-r0 (#117)
 
