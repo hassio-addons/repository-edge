@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update docker to v7.1.0 (#481)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update requests to v2.32.2 (#479)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

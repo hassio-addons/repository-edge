@@ -1,5 +1,5 @@
 name: Glances
-version: '1896261'
+version: 664a3e8
 slug: glances
 description: A cross-platform system monitoring tool
 url: https://github.com/hassio-addons/addon-glances
