@@ -1,13 +1,4 @@
-# Changelog since v5.0.7
-- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.49 (#520)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.9 (#521)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/yq to v4.35.2-r4 (#518)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 (#516)
+# Changelog since v5.0.8
+- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.50 (#523)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
