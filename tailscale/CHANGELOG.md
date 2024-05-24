@@ -1,4 +1,5 @@
 # Changelog since v0.19.1
+- Failsafe enabling of UDP GRO for forwarding (#370) 
 - ⬆️ Update Add-on base image to v16 (major) (#371)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
