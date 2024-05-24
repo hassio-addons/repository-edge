@@ -1,4 +1,13 @@
 # Changelog since v1.0.1
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.2 (#574)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/git to v2.43.4-r0 (#572)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.1.5-r0 (#573)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update NGINX to v1.24.0-r16 (#568)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
