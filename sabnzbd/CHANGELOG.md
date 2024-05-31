@@ -1,4 +1,8 @@
 # Changelog since v0.2.0
+- ⬆️ Update alpine_3_20/nginx to v1.26.1-r0 
+- ⬆️ Update sabnzbd/sabnzbd to v4.3.2 (#23)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/nginx to v1.26.0-r2 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16 (#21)
 
