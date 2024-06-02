@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- ⬆️ Update traccar/traccar to v6.2 (#306)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/nginx to v1.26.1-r0 (#305) 
 - ⬆️ Update alpine_3_20/nginx to v1.26.0-r2 (#304)
 
