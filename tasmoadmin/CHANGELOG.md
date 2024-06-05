@@ -1,4 +1,7 @@
 # Changelog since v0.30.2
+- ⬆️ Update TasmoAdmin/TasmoAdmin to v4.1.1 (#408)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/nginx to v1.26.1-r0 (#407) 
 - ⬆️ Update alpine_3_20/nginx to v1.26.0-r2 (#406) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16 (#405)
