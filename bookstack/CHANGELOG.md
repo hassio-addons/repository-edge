@@ -1,4 +1,7 @@
 # Changelog since v2.0.5
+- ⬆️ Update PHP to v8.3.8-r0 (#317)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/nginx to v1.26.1-r0 (#316) 
 - ⬆️ Update alpine_3_20/nginx to v1.26.0-r2 (#315) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16 (#314)
