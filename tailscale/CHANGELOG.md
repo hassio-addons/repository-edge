@@ -1,4 +1,5 @@
 # Changelog since v0.19.1
+- ⬆️ Update Add-on base image to v16.0.1 
 - ⬆️ Update alpine_3_20/nginx to v1.26.1-r0 
 - ⬆️ Update alpine_3_20/nginx to v1.26.0-r2 (#373)
 
