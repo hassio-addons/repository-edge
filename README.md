@@ -834,10 +834,10 @@ SOFTWARE.
 [bazarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bazarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bazarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/36d23ce
-[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/36d23ce/README.md
+[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/bf6f5a7
+[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/bf6f5a7/README.md
 [bookstack-issue]: https://github.com/hassio-addons/addon-bookstack/issues
-[bookstack-version-shield]: https://img.shields.io/badge/version-36d23ce-blue.svg
+[bookstack-version-shield]: https://img.shields.io/badge/version-bf6f5a7-blue.svg
 [bookstack-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bookstack-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
