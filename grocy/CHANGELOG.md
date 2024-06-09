@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- ⬆️ Update PHP to v8.2.20-r0 (#450) 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.2 (#447) 
 - Increase PHP memory limit (#440) 
 - ⬆️ Update alpine_3_19/git to v2.43.4-r0 (#446)
