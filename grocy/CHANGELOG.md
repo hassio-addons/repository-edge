@@ -1,4 +1,7 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_19/composer to v2.7.7-r0 (#451)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.2.20-r0 (#450) 
 - ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.2 (#447) 
 - Increase PHP memory limit (#440) 
