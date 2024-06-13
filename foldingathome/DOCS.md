@@ -81,8 +81,7 @@ panel_iframe:
 
 ## Known issues and limitations
 
-- This add-on only runs on 64-bits intel-based computers. Folding@home does
-  not support ARM devices (e.g., a Raspberry Pi).
+- This add-on only runs on 64-bits intel-based computers.
 
 ## Changelog & Releases
 
