@@ -1,4 +1,7 @@
 # Changelog since v17.0.13
+- ⬆️ Update node-red-node-email to v3 (#1894)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red to v3.1.10 (#1893)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
