@@ -1077,10 +1077,10 @@ SOFTWARE.
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tailscale-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tailscale-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/d4fa93d
-[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/d4fa93d/README.md
+[addon-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/tree/1b82819
+[addon-doc-tasmoadmin]: https://github.com/hassio-addons/addon-tasmoadmin/blob/1b82819/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/addon-tasmoadmin/issues
-[tasmoadmin-version-shield]: https://img.shields.io/badge/version-d4fa93d-blue.svg
+[tasmoadmin-version-shield]: https://img.shields.io/badge/version-1b82819-blue.svg
 [tasmoadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
