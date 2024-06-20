@@ -1,4 +1,7 @@
 # Changelog since v17.0.13
+- ⬆️ Update @node-red-contrib-themes/theme-collection to v4 (#1896)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red to v4 (#1897)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
