@@ -1,4 +1,5 @@
 # Changelog since v0.20.0
+- [bugfix] Update motioneye to 0.43.1b2. (#488) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.9 (#484)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
