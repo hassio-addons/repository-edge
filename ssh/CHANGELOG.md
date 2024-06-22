@@ -1,12 +1,14 @@
-# Changelog since v17.3.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16 (#739) 
-- Fix procps -> procps-ng (#738) 
-- ⬆️ Update OpenSSL to v3.1.5-r0 (#737)
+# Changelog since v18.0.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.0.1 (#753)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/libxml2-utils to v2.11.8-r0 (#736)
+- ⬆️ Update Docker to v26.1.3-r1 (#750)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_19/git to v2.43.4-r0 (#734)
+- ⬆️ Update alpine_3_20/git to v2.45.2-r0 (#752)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.3.1-r0 (#751)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Update Renovate configuration for Alpine Linux 3.20 
