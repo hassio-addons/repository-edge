@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- 🚑 Fix shutdown addon command (#369) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.4 (#365)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
