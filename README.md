@@ -843,10 +843,10 @@ SOFTWARE.
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bookstack-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bookstack-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-emqx]: https://github.com/hassio-addons/addon-emqx/tree/c7a0bbf
-[addon-doc-emqx]: https://github.com/hassio-addons/addon-emqx/blob/c7a0bbf/README.md
+[addon-emqx]: https://github.com/hassio-addons/addon-emqx/tree/a526ec3
+[addon-doc-emqx]: https://github.com/hassio-addons/addon-emqx/blob/a526ec3/README.md
 [emqx-issue]: https://github.com/hassio-addons/addon-emqx/issues
-[emqx-version-shield]: https://img.shields.io/badge/version-c7a0bbf-blue.svg
+[emqx-version-shield]: https://img.shields.io/badge/version-a526ec3-blue.svg
 [emqx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [emqx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
