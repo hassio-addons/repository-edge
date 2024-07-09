@@ -1,4 +1,6 @@
 # Changelog since v18.0.0
+- Remove networkmanager-cli from installed packages (#761) 
+- ⬆️ Update home-assistant/cli to v4.35.0 (#762) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.2 (#765)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
