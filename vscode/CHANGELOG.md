@@ -1,4 +1,7 @@
 # Changelog since v5.15.0
+- ⬆️ Update esphome to v2024.6.6 (#836)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.2.0 (#838)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
