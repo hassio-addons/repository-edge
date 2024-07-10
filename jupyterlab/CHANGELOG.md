@@ -1,4 +1,8 @@
 # Changelog since v0.15.1
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.5 (#606)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update jupyterlab to v4.2.3 (#608)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
