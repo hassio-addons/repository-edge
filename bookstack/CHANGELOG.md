@@ -1,4 +1,6 @@
 # Changelog since v2.0.5
+- ⬆️ Update BookStackApp/BookStack to v24.05.3 (#328) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.3 (#329) 
 - ⬆️ Update PHP to v8.3.9-r0 (#327) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.2 (#324)
 
