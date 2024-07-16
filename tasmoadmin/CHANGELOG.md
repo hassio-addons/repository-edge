@@ -1,4 +1,7 @@
 # Changelog since v0.30.3
+- ⬆️ Update TasmoAdmin/TasmoAdmin to v4.1.2 (#418)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.3 (#417) 
 - ⬆️ Update PHP to v8.3.9-r0 (#416)
 
