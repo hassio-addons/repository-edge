@@ -1,2 +1,2 @@
-# Changelog since v3.5.0
-- ⬆️ Upgrades Plex Media Server to 1.40.2.8395 (#224) 
+# Changelog since v3.5.1
+- ⬆️ Upgrades base image to 7.4.0 (#229) 

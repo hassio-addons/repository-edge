@@ -987,10 +987,10 @@ SOFTWARE.
 [overseerr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [overseerr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [overseerr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/f96e914
-[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/f96e914/README.md
+[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/c47b8f3
+[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/c47b8f3/README.md
 [plex-issue]: https://github.com/hassio-addons/addon-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-f96e914-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-c47b8f3-blue.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
