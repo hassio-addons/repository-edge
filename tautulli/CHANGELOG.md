@@ -1,4 +1,7 @@
 # Changelog since v4.0.1
+- ⬆️ Update setuptools to v71.0.3 (#357)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v71 (#356)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

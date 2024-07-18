@@ -1086,10 +1086,10 @@ SOFTWARE.
 [tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tasmoadmin-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tasmoadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/1dfab78
-[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/1dfab78/README.md
+[addon-tautulli]: https://github.com/hassio-addons/addon-tautulli/tree/8203ba4
+[addon-doc-tautulli]: https://github.com/hassio-addons/addon-tautulli/blob/8203ba4/README.md
 [tautulli-issue]: https://github.com/hassio-addons/addon-tautulli/issues
-[tautulli-version-shield]: https://img.shields.io/badge/version-1dfab78-blue.svg
+[tautulli-version-shield]: https://img.shields.io/badge/version-8203ba4-blue.svg
 [tautulli-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tautulli-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
