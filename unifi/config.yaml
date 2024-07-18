@@ -1,5 +1,5 @@
 name: UniFi Network Application
-version: fb50a2c
+version: 326d5ed
 slug: unifi
 description: Manage your UniFi network using a web browser
 url: https://github.com/hassio-addons/addon-unifi

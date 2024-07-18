@@ -1,2 +1,4 @@
-# Changelog since v3.0.5
-- ⬆️ Upgrades UniFi Network Application to 8.2.93 (#509) 
+# Changelog since v3.1.0
+- ⬆️ Upgrades UniFi Network Application to 8.3.32 (#513)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
