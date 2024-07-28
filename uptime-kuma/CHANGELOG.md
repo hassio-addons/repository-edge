@@ -1,4 +1,5 @@
 # Changelog since v0.12.1
+- ⬆️ Update apprise to v1.8.1 (#186) 
 - ⬆️ Update cloudflare/cloudflared to v2024.6.1 (#185)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
