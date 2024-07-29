@@ -61,6 +61,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-f89f17a-blue.svg
-[release]: https://github.com/hassio-addons/addon-tor/tree/f89f17a
+[release-shield]: https://img.shields.io/badge/version-ef84094-blue.svg
+[release]: https://github.com/hassio-addons/addon-tor/tree/ef84094
 [tor-hidden-service]: https://www.torproject.org/docs/hidden-services.html.en
