@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.0 (#170) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.3 (#168) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.2 (#167)
 
