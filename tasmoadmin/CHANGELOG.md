@@ -1,16 +1,4 @@
-# Changelog since v0.30.3
-- ⬆️ Update TasmoAdmin/TasmoAdmin to v4.1.2 (#418)
+# Changelog since v0.30.4
+- ⬆️ Update PHP to v8.3.10-r0 (#420)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.3 (#417) 
-- ⬆️ Update PHP to v8.3.9-r0 (#416)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.2 (#415)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.1 (#413) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.0 (#412)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_20/composer to v2.7.7-r0 (#411) 
