@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- ⬆️ Update alpine_3_20/py3-setuptools to v70 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.0 (#30) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.3 (#29) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.2 
