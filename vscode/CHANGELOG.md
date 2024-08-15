@@ -1,4 +1,7 @@
 # Changelog since v5.15.0
+- ⬆️ Update prettier/prettier-vscode to v11 (#846)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2024.7.3 (#843)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
