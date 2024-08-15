@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update alpine_3_20/nginx to v1.26.2-r0 (#499)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update influxdb-client to v1.45.0 (#497)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
