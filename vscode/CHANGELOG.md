@@ -1,4 +1,5 @@
 # Changelog since v5.15.0
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.3.2 (#847) 
 - ⬆️ Update cdr/code-server to v4.92.2 (#848) 
 - ⬆️ Update esphome to v2024.8.0 (#849) 
 - ⬆️ Update prettier/prettier-vscode to v11 (#846)
