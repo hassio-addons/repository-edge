@@ -1,4 +1,7 @@
 # Changelog since v0.15.2
+- ⬆️ Update jupyterlab_widgets to v3.0.13 (#620)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bokeh to v3.5.2 (#621) 
 - ⬆️ Update numpy to v2.1.0 (#618) 
 - ⬆️ Update jupyterlab to v4.2.4 (#614)
