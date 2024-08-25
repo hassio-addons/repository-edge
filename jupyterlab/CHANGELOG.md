@@ -1,4 +1,7 @@
 # Changelog since v0.15.2
+- ⬆️ Update ipywidgets to v8.1.5 (#619)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab_widgets to v3.0.13 (#620)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
