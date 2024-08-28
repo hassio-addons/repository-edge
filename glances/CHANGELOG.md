@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- ⬆️ Update zeroconf to v0.133.0 (#502) 
 - ⬆️ Update Python to v3.12.3-r2 (#501) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.1 (#498)
 
