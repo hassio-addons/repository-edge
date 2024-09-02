@@ -1,4 +1,5 @@
 # Changelog since v0.12.1
+- ⬆️ Update apprise to v1.9.0 
 - ⬆️ Update alpine_3_19/python3 to v3.11.9-r1 
 - ⬆️ Update cloudflare/cloudflared to v2024.8.3 (#190) 
 - ⬆️ Update cloudflare/cloudflared to v2024.8.2 (#187)
