@@ -1,4 +1,7 @@
 # Changelog since v0.10.2
+- ⬆️ Update alpine_3_20/go to v1.22.7-r0 (#328)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/go to v1.22.6-r0 (#327)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
