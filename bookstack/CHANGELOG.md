@@ -1,4 +1,16 @@
 # Changelog since v2.0.5
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.0 (#332)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_20/composer to v2.7.9-r0 (#333)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update PHP to v8.3.10-r0 (#330)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_20/nginx to v1.26.2-r0 (#331)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update BookStackApp/BookStack to v24.05.3 (#328) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.1.3 (#329) 
 - ⬆️ Update PHP to v8.3.9-r0 (#327) 
