@@ -933,10 +933,10 @@ SOFTWARE.
 [lidarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [lidarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [lidarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/494f100
-[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/494f100/README.md
+[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/4cd03b1
+[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/4cd03b1/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
-[log-viewer-version-shield]: https://img.shields.io/badge/version-494f100-blue.svg
+[log-viewer-version-shield]: https://img.shields.io/badge/version-4cd03b1-blue.svg
 [log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
