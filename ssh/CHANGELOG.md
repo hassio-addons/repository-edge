@@ -1,4 +1,22 @@
 # Changelog since v18.0.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.0 (#773)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.3.2-r0 (#781)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Python to v3.12.3-r2 (#777)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_20/vim to v9.1.0707-r0 (#780)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Docker to v26.1.5-r0 (#771)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.3.1-r3 (#772)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Specify /bin/zsh when creating a new user (#755) 
 - Remove networkmanager-cli from installed packages (#761) 
 - ⬆️ Update home-assistant/cli to v4.35.0 (#762) 
