@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- Make UDP port configurable (#390) 
 - ⬆️ Update Add-on base image to v16.3.0 (#401)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
