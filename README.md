@@ -906,10 +906,10 @@ SOFTWARE.
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [grocy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grocy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/21334da
-[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/21334da/README.md
+[addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/9d3fc86
+[addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/9d3fc86/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
-[influxdb-version-shield]: https://img.shields.io/badge/version-21334da-blue.svg
+[influxdb-version-shield]: https://img.shields.io/badge/version-9d3fc86-blue.svg
 [influxdb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
