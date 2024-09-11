@@ -1,4 +1,10 @@
 # Changelog since v0.30.4
+- ⬆️ Update TasmoAdmin/TasmoAdmin to v4.1.3 (#427)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.0 (#428)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/composer to v2.7.9-r0 (#424)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
