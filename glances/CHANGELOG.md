@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update Python to v3.12.6-r0 (#506)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bottle to v0.13.1 (#503)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
