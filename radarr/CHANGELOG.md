@@ -1,9 +1,2 @@
-# Changelog since v0.7.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.0 (#25)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Radarr/Radarr to v5.9.1.9070 (#24) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.1 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.0 (#22)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v0.8.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.1 
