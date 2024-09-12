@@ -1,7 +1,2 @@
-# Changelog since v0.2.3
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.0 
-- ⬆️ Update Sonarr/Sonarr to v4.0.9.2244 (#26) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.1 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.2.0 (#24)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v0.2.4
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.1 
