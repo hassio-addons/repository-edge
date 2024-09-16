@@ -1,4 +1,7 @@
 # Changelog since v4.0.1
+- ⬆️ Update setuptools to v75 (#369)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/git to v1:2.39.5-0+deb12u1 (#367) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.0 (#366)
 
