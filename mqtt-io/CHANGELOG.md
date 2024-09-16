@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- ⬆️ Update alpine_3_19/git to v2.43.5-r0 
 - ⬆️ Update Python to v3.11.10-r0 (#129)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
