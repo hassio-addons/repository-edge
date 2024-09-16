@@ -1,4 +1,10 @@
 # Changelog since v18.0.5
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.72.4 (#1946)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/git to v2.43.5-r0 (#1945)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update @node-red-contrib-themes/theme-collection to v4.0.9 (#1943)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
