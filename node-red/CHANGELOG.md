@@ -1,4 +1,5 @@
 # Changelog since v18.0.5
+- ⬆️ Update node-red to v4.0.3 (#1947) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.72.4 (#1946)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
