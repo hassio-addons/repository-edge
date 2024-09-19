@@ -1,4 +1,5 @@
 # Changelog since v0.21.0
+- ⬆️ Update tailscale/tailscale to v1.74.1 
 - ⬆️ Update tailscale/tailscale to v1.74.0 
 - ⬆️ Update Add-on base image to v16.3.1 
 - Make UDP port configurable (#390) 
