@@ -1,4 +1,5 @@
 # Changelog since v18.0.5
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.73.0 (#1951) 
 - ⬆️ Update @node-red-contrib-themes/theme-collection to v4.0.10 (#1948)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
