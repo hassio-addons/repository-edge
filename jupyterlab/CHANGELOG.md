@@ -1,4 +1,17 @@
 # Changelog since v0.15.2
+- ⬆️ Update SQLAlchemy to v2.0.35 (#625)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update numpy to v2.1.1 (#624)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update pandas to v2.2.3 (#628)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.0 (#626)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update jupyterlab to v4.2.5 (#622) 
 - ⬆️ Update ipywidgets to v8.1.5 (#619)
 
