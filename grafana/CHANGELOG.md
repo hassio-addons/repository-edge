@@ -1,4 +1,7 @@
 # Changelog since v10.0.0
+- ⬆️ Update grafana/grafana to v11.2.0 (#413)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v7.5.0 (#417)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
