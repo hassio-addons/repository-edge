@@ -1,4 +1,10 @@
 # Changelog since v5.15.0
+- ⬆️ Update cdr/code-server to v4.93.1 (#861)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update home-assistant/cli to v4.36.0 (#862)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2024.9.1 (#860) 
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.3.3 (#859) 
 - ⬆️ Update esphome to v2024.9.0 (#858)
