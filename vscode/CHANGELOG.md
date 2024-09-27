@@ -1,4 +1,5 @@
 # Changelog since v5.15.0
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.40.2 (#863) 
 - ⬆️ Update cdr/code-server to v4.93.1 (#861)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
