@@ -1,4 +1,5 @@
 # Changelog since v5.15.0
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.41.1 (#866) 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v1.41.0 (#865) 
 - 🔧 Update add-on paths, map directly to /config (#864) 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v1.40.2 (#863) 
