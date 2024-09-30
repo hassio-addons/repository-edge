@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- Force CI to rebuild 
 - ⬆️ Update paho-mqtt to v2 (#457)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
