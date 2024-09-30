@@ -1,4 +1,10 @@
 # Changelog since v0.21.1
+- ⬆️ Update paho-mqtt to v2 (#457)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update glances to v4 (#474)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update zeroconf to v0.135.0 (#509)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
