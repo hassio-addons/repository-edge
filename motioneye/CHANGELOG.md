@@ -1,4 +1,24 @@
 # Changelog since v0.20.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16 (#486)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- ⬆️ Update alpine_3_19/python3 to v3.11.10-r0 (#493)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/curl-dev to v8.9.1-r0 (#497)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.10-r0 (#498)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/git to v2.43.5-r0 (#499)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.9-r1 (#494) 
+- ⬆️ Update alpine_3_19/curl-dev to v8.9.0-r0 (#491)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - [bugfix] Update motioneye to 0.43.1b2. (#488) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.9 (#484)
 
