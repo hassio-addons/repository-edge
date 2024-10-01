@@ -1,2 +1,4 @@
-# Changelog since v5.16.0
-- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.41.2 (#869) 
+# Changelog since v5.16.1
+- ⬆️ Update esphome to v2024.9.2 (#871)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
