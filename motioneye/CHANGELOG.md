@@ -1,4 +1,5 @@
 # Changelog since v0.20.0
+- Adjust Python version in init script (#501) 
 - ⬆️ Update Motion-Project/motion to v4.7.0 (#492) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16 (#486)
 
