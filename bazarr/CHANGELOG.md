@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- ⬆️ Update morpheus65535/bazarr to v1.4.5 (#32) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.2 
 - ⬆️ Update morpheus65535/bazarr to v1.4.4 (#30) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.1 
