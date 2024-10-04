@@ -1,2 +1,2 @@
-# Changelog since v5.16.2
-- Add back symbolic link to /homeassistant for customized workspaces (#874) 
+# Changelog since v5.16.3
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.42.0 (#877) 
