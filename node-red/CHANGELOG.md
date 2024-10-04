@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v18.1.1
+- ⬆️ Update ghcr.io/hassio-addons/base-nodejs Docker tag to v0.2.5 (#1967)
 
-## 🚀 Enhancements
-
-- Exclude node_modules from backup @frenck ([#1957](https://github.com/hassio-addons/addon-node-red/pull/1957))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
