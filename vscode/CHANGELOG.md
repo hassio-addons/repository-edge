@@ -1,2 +1,2 @@
-# Changelog since v5.16.3
-- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.42.0 (#877) 
+# Changelog since v5.17.0
+- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.43.0 (#881) 
