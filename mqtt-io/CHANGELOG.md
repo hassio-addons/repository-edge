@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.14 
 - ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.22 
 - ⬆️ Update alpine_3_19/git to v2.43.5-r0 
 - ⬆️ Update Python to v3.11.10-r0 (#129)
