@@ -1,4 +1,7 @@
 # Changelog since v19.0.0
+- ⬆️ Update Python to v3.12.7-r0 (#800)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.2 (#797) 
 - ⬆️ Update home-assistant/cli to v4.36.0 (#796)
 
