@@ -1,2 +1,2 @@
-# Changelog since v0.22.0
-- ⬆️ Update Add-on base image to v16.3.2 
+# Changelog since v0.22.1
+- ⬆️ Update tailscale/tailscale to v1.76.0 
