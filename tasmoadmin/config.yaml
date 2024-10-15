@@ -1,5 +1,5 @@
 name: TasmoAdmin
-version: 8ba80e4
+version: 7a445d3
 slug: sonweb
 description: Centrally manage all your Sonoff-Tasmota devices
 url: https://github.com/hassio-addons/addon-tasmoadmin
