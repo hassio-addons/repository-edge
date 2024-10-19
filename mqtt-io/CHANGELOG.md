@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- ⬆️ Update smbus2 to v0.5.0 
 - ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.15 
 - ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.14 
 - ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.22 
