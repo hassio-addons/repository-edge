@@ -1,4 +1,7 @@
 # Changelog since v0.15.4
+- ⬆️ Update mysqlclient to v2.2.5 (#638)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update psycopg2 to v2.9.10 (#637)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
