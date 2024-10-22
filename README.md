@@ -1113,10 +1113,10 @@ SOFTWARE.
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/70ec273
-[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/70ec273/README.md
+[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/5dc5c2c
+[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/5dc5c2c/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-70ec273-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-5dc5c2c-blue.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
