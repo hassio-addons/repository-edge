@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- ⬆️ Update alpine_3_20/openjdk17-jre-headless to v17.0.13_p11-r0 (#328) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.4 (#327)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
