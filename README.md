@@ -1005,10 +1005,10 @@ SOFTWARE.
 [prowlarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [prowlarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [prowlarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-radarr]: https://github.com/hassio-addons/addon-radarr/tree/7d06412
-[addon-doc-radarr]: https://github.com/hassio-addons/addon-radarr/blob/7d06412/README.md
+[addon-radarr]: https://github.com/hassio-addons/addon-radarr/tree/e18a254
+[addon-doc-radarr]: https://github.com/hassio-addons/addon-radarr/blob/e18a254/README.md
 [radarr-issue]: https://github.com/hassio-addons/addon-radarr/issues
-[radarr-version-shield]: https://img.shields.io/badge/version-7d06412-blue.svg
+[radarr-version-shield]: https://img.shields.io/badge/version-e18a254-blue.svg
 [radarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [radarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
