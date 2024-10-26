@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update zeroconf to v0.136.0 (#519)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update psutil to v6.1.0 (#515)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
