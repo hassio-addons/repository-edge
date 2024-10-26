@@ -1,4 +1,5 @@
 # Changelog since v0.10.0
+- ⬆️ Update Radarr/Radarr to v5.14.0.9383 (#34) 
 - ⬆️ Update Radarr/Radarr to v5.13.1.9378 (#33) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.4 (#32)
 
