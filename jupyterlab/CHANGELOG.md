@@ -1,4 +1,5 @@
 # Changelog since v0.15.4
+- ⬆️ Update jupyterlab to v4.3.0 (#639) 
 - ⬆️ Update mysqlclient to v2.2.5 (#638)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
