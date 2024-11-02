@@ -1,4 +1,5 @@
 # Changelog since v18.1.1
+- ⬆️ Update node-red-contrib-modbus to v5.43.0 (#1989) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.74.2 (#1984)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
