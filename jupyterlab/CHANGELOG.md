@@ -1,4 +1,7 @@
 # Changelog since v0.15.4
+- ⬆️ Update numpy to v2.1.3 (#640)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab to v4.3.0 (#639) 
 - ⬆️ Update mysqlclient to v2.2.5 (#638)
 
