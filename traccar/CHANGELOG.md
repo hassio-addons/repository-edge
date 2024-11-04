@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- ⬆️ Update alpine_3_20/mariadb-client to v10.11.10-r0 (#330) 
 - ⬆️ Update alpine_3_20/nss to v3.105-r0 (#329) 
 - ⬆️ Update alpine_3_20/openjdk17-jre-headless to v17.0.13_p11-r0 (#328) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.4 (#327)
