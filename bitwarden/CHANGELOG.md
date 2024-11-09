@@ -1,4 +1,4 @@
-# Changelog since v0.23.2
-- ⬆️ Update vaultwarden/server Docker tag to v1.32.3 (#325)
+# Changelog since v0.23.3
+- ⬆️ Update debian_12/sqlite3 to v3.40.1-2+deb12u1 (#327)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
