@@ -1,4 +1,7 @@
 # Changelog since v0.30.6
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.6 (#444)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Migrate renovate config (#443)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
