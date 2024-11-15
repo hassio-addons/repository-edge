@@ -1,4 +1,7 @@
 # Changelog since v0.15.4
+- ⬆️ Update mysqlclient to v2.2.6 (#643)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bokeh to v3.6.1 (#641) 
 - ⬆️ Update numpy to v2.1.3 (#640)
 
