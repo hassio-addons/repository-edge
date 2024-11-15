@@ -1,4 +1,8 @@
 # Changelog since v0.15.4
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.2 (#642)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update mysqlclient to v2.2.6 (#643)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
