@@ -1,4 +1,7 @@
 # Changelog since v0.15.4
+- ⬆️ Update scrapy to v2.12.0 (#646)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab to v4.3.1 (#645)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
