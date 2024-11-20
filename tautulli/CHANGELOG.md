@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- ⬆️ Update setuptools to v75.6.0 (#382) 
 - ⬆️ Update plexapi to v4.16.0 (#381) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.0 (#380)
 
