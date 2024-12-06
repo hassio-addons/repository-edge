@@ -1,4 +1,7 @@
 # Changelog since v0.4.1
+- ⬆️ Update Python to v3.11.11-r0 (#143)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update gpiod to v2.2.2 (#140)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
