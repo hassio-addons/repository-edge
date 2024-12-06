@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update Python to v3.12.8-r0 (#525)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update influxdb-client to v1.48.0 (#524)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
