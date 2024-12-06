@@ -1,4 +1,10 @@
 # Changelog since v3.17.0
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.11-r0 (#734)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.8 (#733)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update zwave-js/zwave-js-ui to v9.27.7 (#731)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
