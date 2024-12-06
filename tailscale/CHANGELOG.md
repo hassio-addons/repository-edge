@@ -1,4 +1,5 @@
 # Changelog since v0.23.3
+- Fix harmless typos (#429) 
 - ⬆️ Update tailscale/tailscale to v1.78.1 (#433)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
