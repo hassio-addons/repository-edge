@@ -951,10 +951,10 @@ SOFTWARE.
 [mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-io-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/c85df5b
-[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/c85df5b/README.md
+[addon-nut]: https://github.com/hassio-addons/addon-nut/tree/bc60715
+[addon-doc-nut]: https://github.com/hassio-addons/addon-nut/blob/bc60715/README.md
 [nut-issue]: https://github.com/hassio-addons/addon-nut/issues
-[nut-version-shield]: https://img.shields.io/badge/version-c85df5b-blue.svg
+[nut-version-shield]: https://img.shields.io/badge/version-bc60715-blue.svg
 [nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
