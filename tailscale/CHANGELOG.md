@@ -1,4 +1,5 @@
 # Changelog since v0.23.3
+- Fix base image update (#435) 
 - ⬆️ Update Add-on base image to v17 (major) (#434)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
