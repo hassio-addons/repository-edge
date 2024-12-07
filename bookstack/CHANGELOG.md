@@ -1,4 +1,5 @@
 # Changelog since v2.2.2
+- Fix MySQL commands (#354) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 (#353) 
 - ⬆️ Update BookStackApp/BookStack to v24.10.3 (#352)
 
