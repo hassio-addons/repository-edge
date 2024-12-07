@@ -1,4 +1,16 @@
 # Changelog since v19.0.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 (#815)
+
+* ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17
+
+* Update dependencies
+
+* Adjust Renovate
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update Python to v3.12.8-r0 (#814)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
