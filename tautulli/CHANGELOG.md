@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- ⬆️ Upgrades Tautulli to v2.15.0 (#385) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.2 (#384)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
