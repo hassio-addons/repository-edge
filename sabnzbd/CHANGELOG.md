@@ -1,4 +1,10 @@
 # Changelog since v0.2.3
+- ⬆️ Update alpine_3_20/python3 to v3.12.8-r1 (#53)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_20/python3-dev to v3.12.8-r1 (#54)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/python3 to v3.12.8-r0 (#50)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
