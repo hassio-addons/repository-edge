@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- ⬆️ Upgrades Whisparr to 2.0.0.548 (#24) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 (#23)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
