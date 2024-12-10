@@ -1,4 +1,11 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_21/ffmpeg to v6.1.2-r1 (#511)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/ffmpeg-libs to v6.1.2-r1 (#510)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/ffmpeg-dev to v6.1.2-r1 (#509) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 (#508)
 
 * ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17
