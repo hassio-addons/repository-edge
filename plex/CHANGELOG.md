@@ -1,2 +1,2 @@
-# Changelog since v3.6.0
-- ⬆️ Upgrades Plex Media Server to 1.41.2.9200 (#237) 
+# Changelog since v3.6.1
+- ⬆️ Upgrades Plex Media Server to 1.41.3.9292 (#238) 
