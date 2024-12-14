@@ -1,4 +1,5 @@
 # Changelog since v19.0.0
+- ⬆️ Update alpine_3_21/rsync to v3.3.0-r1 (#819) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.1 (#817)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
