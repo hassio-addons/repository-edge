@@ -1,4 +1,5 @@
 # Changelog since v0.15.5
+- ⬆️ Update matplotlib to v3.10.0 (#655) 
 - ⬆️ Update matplotlib to v3.9.4 (#654) 
 - ⬆️ Update jupyterlab to v4.3.3 (#652)
 
