@@ -1,4 +1,7 @@
 # Changelog since v18.1.1
+- ⬆️ Update node-red to v4.0.6 (#2009)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_19/python3-dev to v3.11.11-r0 (#2005)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
