@@ -1,4 +1,7 @@
 # Changelog since v19.0.0
+- ⬆️ Update alpine_3_21/bind-tools to v9.18.32-r0 (#820)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/rsync to v3.3.0-r1 (#819) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.1 (#817)
 
