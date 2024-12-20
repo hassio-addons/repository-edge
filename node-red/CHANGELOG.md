@@ -1,4 +1,5 @@
 # Changelog since v18.1.1
+- ⬆️ Update node-red to v4.0.8 (#2011) 
 - ⬆️ Update node-red to v4.0.7 (#2010)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
