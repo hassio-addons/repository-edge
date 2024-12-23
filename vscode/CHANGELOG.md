@@ -1,4 +1,7 @@
 # Changelog since v5.17.3
+- ⬆️ Update cdr/code-server to v4.96.2 (#901)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.2 (#898)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
