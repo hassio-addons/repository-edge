@@ -14,7 +14,7 @@ Scalable datastore for metrics, events, and real-time analytics.
 
 InfluxDB is an open source time series database optimized for high-write-volume.
 It's useful for recording metrics, sensor data, events,
-and performing analytics. It exposes an HTTP API for client interaction and if
+and performing analytics. It exposes an HTTP API for client interaction and is
 often used in combination with Grafana to visualize the data.
 
 This add-on comes with Chronograf & Kapacitor pre-installed as well. Which
@@ -53,6 +53,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-caf0d4a-blue.svg
-[release]: https://github.com/hassio-addons/addon-influxdb/tree/caf0d4a
+[release-shield]: https://img.shields.io/badge/version-39885fb-blue.svg
+[release]: https://github.com/hassio-addons/addon-influxdb/tree/39885fb
 [screenshot]: https://github.com/hassio-addons/addon-influxdb/raw/main/images/screenshot.png
