@@ -1,4 +1,5 @@
 # Changelog since v0.3.0
+- 🎆 Updates maintenance/license year to 2025 (#48) 
 - ⬆️ Update morpheus65535/bazarr to v1.5.1 (#47) 
 - ⬆️ Update morpheus65535/bazarr to v1.5.0 (#46)
 
