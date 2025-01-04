@@ -1,4 +1,5 @@
 # Changelog since v18.1.1
+- 🚨 Drop support for ARMv7 (#2016) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.75.0 (#2013) 
 - ⬆️ Update node-red to v4.0.8 (#2011) 
 - ⬆️ Update node-red to v4.0.7 (#2010)
