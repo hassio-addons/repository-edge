@@ -1,2 +1,4 @@
-# Changelog since v0.23.6
-- ⬆️ Update vaultwarden/server Docker tag to v1.32.7 (#334) 
+# Changelog since v0.23.7
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.3 (#337)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
