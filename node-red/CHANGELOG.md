@@ -1,4 +1,5 @@
 # Changelog since v18.1.1
+- Update to Alpine 3.21 (NodeJS 22) (#2015) 
 - 🚨 Drop support for ARMv7 (#2016) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.75.0 (#2013) 
 - ⬆️ Update node-red to v4.0.8 (#2011) 
