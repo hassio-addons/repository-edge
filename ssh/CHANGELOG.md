@@ -1,4 +1,5 @@
 # Changelog since v19.0.0
+- 🎆 Updates maintenance/license year to 2025 (#822) 
 - Synchronize the Features list (#782) 
 - Update profile filename to run with zsh (#821) 
 - ⬆️ Update alpine_3_21/bind-tools to v9.18.32-r0 (#820)
