@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update glances to v4.3.0.8 (#532)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update glances to v4.3.0.7 (#530)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
