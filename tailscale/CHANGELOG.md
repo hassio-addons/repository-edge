@@ -1,4 +1,7 @@
 # Changelog since v0.24.0
+- ⬆️ Update Add-on base image to v17.0.2 (#446)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Update links to Tailscale documentation (#444) 
 - ⬆️ Update alpine_3_21/nginx to v1.26.2-r4 (#443) 
 - ⬆️ Update alpine_3_21/networkmanager to v1.50.1-r0 (#441)
