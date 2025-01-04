@@ -1,4 +1,6 @@
 # Changelog since v19.0.0
+- Synchronize the Features list (#782) 
+- Update profile filename to run with zsh (#821) 
 - ⬆️ Update alpine_3_21/bind-tools to v9.18.32-r0 (#820)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
