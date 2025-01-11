@@ -1,4 +1,5 @@
 # Changelog since v4.2.0
+- ⬆️ Update plexapi to v4.16.1 (#389) 
 - ⬆️ Update setuptools to v75.7.0 (#387)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
