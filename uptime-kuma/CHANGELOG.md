@@ -1,4 +1,14 @@
 # Changelog since v0.12.4
+- ⬆️ Update cloudflare/cloudflared to v2025 (#218)
+
+* ⬆️ Update cloudflare/cloudflared to v2025
+
+* Prettified Code!
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update apprise to v1.9.2 (#219) 
 - Update DOCS.md (#217) 
 - ⬆️ Update louislam/uptime-kuma to v1.23.16 (#216)
