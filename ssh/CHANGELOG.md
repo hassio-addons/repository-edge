@@ -1,4 +1,7 @@
 # Changelog since v20.0.0
+- ⬆️ Update alpine_3_21/vim to v9.1.1012-r0 (#828)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Limit shell change to just root (#826)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
