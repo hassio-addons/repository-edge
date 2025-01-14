@@ -1,4 +1,7 @@
 # Changelog since v0.24.0
+- ⬆️ Update Add-on base image to v17.1.0 (#451)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/coreutils to v9.5-r2 (#448)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
