@@ -1,4 +1,7 @@
 # Changelog since v0.4.1
+- ⬆️ Update alpine_3_19/git to v2.43.6-r0 (#145)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update gpiod to v2.2.3 (#144)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
