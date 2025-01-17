@@ -1,4 +1,7 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_21/rsync to v3.4.0-r0 (#520)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/git to v2.47.2-r0 (#519)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
