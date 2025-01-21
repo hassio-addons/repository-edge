@@ -1,4 +1,7 @@
 # Changelog since v19.0.0
+- ⬆️ Update node-red-node-email to v3.0.3 (#2037)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/git to v2.47.2-r0 (#2034)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
