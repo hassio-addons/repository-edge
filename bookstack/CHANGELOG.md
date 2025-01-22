@@ -1,4 +1,10 @@
 # Changelog since v2.4.0
+- ⬆️ Update PHP to v8.3.16-r0 (#365)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/composer to v2.8.5-r0 (#366)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update BookStackApp/BookStack to v24.12.1 (#363)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
