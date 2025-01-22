@@ -1,4 +1,5 @@
 # Changelog since v5.0.1
+- README.md grammar fixes (#367) 
 - ⬆️ Update Add-on base image to v7.7.0 (#366)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
