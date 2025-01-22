@@ -1,4 +1,7 @@
 # Changelog since v0.31.2
+- ⬆️ Update alpine_3_21/composer to v2.8.5-r0 (#458)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.3.16-r0 (#456)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
