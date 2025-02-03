@@ -1,4 +1,7 @@
 # Changelog since v0.4.1
+- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.25 (#149)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.16 (#147)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
