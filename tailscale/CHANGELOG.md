@@ -1,4 +1,7 @@
 # Changelog since v0.24.0
+- ⬆️ Update alpine_3_21/iptables to v1.8.11-r1 (#460)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/iptables to v1.8.11-r0 (#459)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
