@@ -1,4 +1,7 @@
 # Changelog since v0.12.4
+- ⬆️ Update cloudflare/cloudflared to v2025.1.1 (#221)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2025 (#218)
 
 * ⬆️ Update cloudflare/cloudflared to v2025
