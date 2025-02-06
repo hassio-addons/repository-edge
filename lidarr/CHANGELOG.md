@@ -1,10 +1,4 @@
-# Changelog since v0.7.0
-- ⬆️ Update Lidarr/Lidarr to v2.9.6.4552 (#35)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.0 (#34)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.2 (#33)
+# Changelog since v0.8.0
+- ⬆️ Update alpine_3_21/sqlite-libs to v3.48.0-r0 (#36)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
