@@ -1,4 +1,10 @@
 # Changelog since v0.21.1
+- ⬆️ Update Python to v3.12.9-r0 (#541)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.1 (#540)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update zeroconf to v0.143.0 (#539)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
