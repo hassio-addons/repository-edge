@@ -1,4 +1,17 @@
 # Changelog since v0.13.0
+- 🎆 Update copyright year to 2025 in license and documentation files (#282) 
+- Add librespot autoplay option (#254)
+
+* autoplay
+
+* Update spotify/config.yaml
+
+Co-authored-by: Jorim Tielemans <tielemans.jorim@gmail.com>
+
+---------
+
+Co-authored-by: Jorim Tielemans <tielemans.jorim@gmail.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Upgrade base to 17.1.1 and resolve problems with building librespot 0.6.0 (#281)
 
 * feat: upgrade to 17.1.0 and resolve problems with librespot 0.6.0
