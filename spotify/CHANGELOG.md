@@ -1,13 +1,18 @@
-# Changelog since v0.12.6
-- 🎆 Updates maintenance/license year to 2024 (#255) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.3 (#252)
+# Changelog since v0.13.0
+- Upgrade base to 17.1.1 and resolve problems with building librespot 0.6.0 (#281)
+
+* feat: upgrade to 17.1.0 and resolve problems with librespot 0.6.0
+
+* fix: build librespot  with libmdns
+
+* ⬆️ Bump base image version to 17.1.1 in Dockerfile and build.yaml
+
+---------
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- ⬆️ Update alpine_3_18/git to v2.40.4-r0 (#280)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.2 (#250)
+- ⬆️ Update librespot to 0.6.0 (#273)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.1 (#248)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Drop support for i386 (#249) 
-- Move coc and contributing to .github folder (#247) 
