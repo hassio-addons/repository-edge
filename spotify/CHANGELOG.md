@@ -1,4 +1,7 @@
 # Changelog since v0.13.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.2 (#283)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - 🎆 Update copyright year to 2025 in license and documentation files (#282) 
 - Add librespot autoplay option (#254)
 
