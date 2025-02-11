@@ -1,4 +1,9 @@
 # Changelog since v0.1.0
+- Fix overseerr link and description (#22)
+
+* Correct Broken link to Overseerr and add link to git repo for parent.
+
+* Update description with more detail 
 - ⬆️ Update alpine_3_19/python3 to v3.11.11-r0 (#20)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

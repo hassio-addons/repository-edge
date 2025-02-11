@@ -8,12 +8,13 @@ Request management and media discovery tool for the Plex ecosystem.
 
 ## About
 
-[Overseerr] is a multi-platform binary newsgroup downloader. The program works in
-the background and simplifies the downloading verifying and extracting of files
-from [Usenet].
+[Overseerr] is a request management and media discovery platform for the [Plex] media platform. Overseerr
+integrates into a Plex environment as well as [Radarr]/[Sonarr] for Movie and PVR/TV content management.
 
-[Overseerr]: https://overseerr.org/
-[Usenet]: http://en.wikipedia.org/wiki/Usenet
+[Overseerr]: https://overseerr.dev/
+[Plex]: https://plex.tv/
+[Radarr]: https://radarr.video/
+[Sonarr]: https://sonarr.tv/
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -40,5 +41,5 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-c295e75-blue.svg
-[release]: https://github.com/hassio-addons/addon-overseerr/tree/c295e75
+[release-shield]: https://img.shields.io/badge/version-84c3317-blue.svg
+[release]: https://github.com/hassio-addons/addon-overseerr/tree/84c3317
