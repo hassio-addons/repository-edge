@@ -1,4 +1,5 @@
 # Changelog since v0.23.7
+- 🎆 Updates maintenance/license year to 2025 (#343) 
 - ⬆️ Update vaultwarden/server Docker tag to v1.33.2 (#339)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
