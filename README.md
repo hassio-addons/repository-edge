@@ -1068,10 +1068,10 @@ SOFTWARE.
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tailscale]: https://github.com/hassio-addons/addon-tailscale/tree/c60e517
-[addon-doc-tailscale]: https://github.com/hassio-addons/addon-tailscale/blob/c60e517/README.md
+[addon-tailscale]: https://github.com/hassio-addons/addon-tailscale/tree/e329b6f
+[addon-doc-tailscale]: https://github.com/hassio-addons/addon-tailscale/blob/e329b6f/README.md
 [tailscale-issue]: https://github.com/hassio-addons/addon-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-c60e517-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-e329b6f-blue.svg
 [tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
