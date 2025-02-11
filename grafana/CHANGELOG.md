@@ -1,4 +1,8 @@
 # Changelog since v10.2.2
+- 🎆 Updates maintenance/license year to 2025 (#445) 
+- ⬆️ Update grafana/grafana-image-renderer to v3.12.1 (#439)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana to v11.5.1 (#442)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
