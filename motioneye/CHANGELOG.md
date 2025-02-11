@@ -1,4 +1,25 @@
 # Changelog since v0.21.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.3 (#527)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/curl-dev to v8.11.1-r1 (#530)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Revert "⬆️ Update alpine_3_21/curl-dev to v8.12.0-r0 (#523)" (#529)
+
+This reverts commit d12f146e618431a1d7ba929d28ca846bad1d8da4. 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.2 (#522)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/python3 to v3.12.9-r0 (#525)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/python3-dev to v3.12.9-r0 (#524)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/curl-dev to v8.12.0-r0 (#523)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/rsync to v3.4.0-r0 (#520)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
