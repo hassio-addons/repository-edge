@@ -1,4 +1,14 @@
 # Changelog since v10.2.2
+- ⬆️ Update Add-on base image to v7.7.0 (#440)
+
+* ⬆️ Update Add-on base image to v7.7.0
+
+* Update dependencies
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update Add-on base image to v7.6.3 (#438)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
