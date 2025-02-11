@@ -1,4 +1,5 @@
 # Changelog since v0.24.0
+- Reformat docs about read-only Web-UI (#464) 
 - ⬆️ Update Add-on base image to v17.1.3 (#467)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
