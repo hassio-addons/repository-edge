@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- ⬆️ Update traccar/traccar to v6.6 (#336)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/openjdk17-jre-headless to v17.0.14_p7-r0 (#339)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
