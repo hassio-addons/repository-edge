@@ -1,4 +1,9 @@
 # Changelog since v0.24.0
+- Don't break sentences into multiple log messages (#452)
+
+* Don't break sentences into multiple log messages
+
+* revert mss related changes, they will be in another pr 
 - Reformat docs about read-only Web-UI (#464) 
 - ⬆️ Update Add-on base image to v17.1.3 (#467)
 
