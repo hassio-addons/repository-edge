@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- ⬆️ Update zeroconf to v0.143.1 (#545) 
 - 🎆 Updates maintenance/license year to 2025 (#544) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.3 (#542)
 
