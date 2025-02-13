@@ -1,4 +1,17 @@
 # Changelog since v20.0.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.4 (#847)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Docker to v27.3.1-r2 (#851)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/vim to v9.1.1105-r0 (#850) 
+- ⬆️ Update OpenSSL to v3.3.3-r0 (#849)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.3.2-r6 (#846)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.2 (#843)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
