@@ -1,4 +1,5 @@
 # Changelog since v5.2.3
+- ⬆️ Update alpine_3_21/yq-go to v4.44.5-r2 (#579) 
 - Migrate renovate config (#578)
 
 * ⬆️: migrate config .github/renovate.json
