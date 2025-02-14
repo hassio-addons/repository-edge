@@ -1,4 +1,7 @@
 # Changelog since v0.13.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.5 (#285)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Add librespot initial-volume option (#276)
 
 * Adds initial-volume option.
