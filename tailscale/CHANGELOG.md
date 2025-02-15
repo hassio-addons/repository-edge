@@ -1,4 +1,7 @@
 # Changelog since v0.24.0
+- ⬆️ Update Add-on base image to v17.2.0 (#470)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v17.1.4 (#469)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
