@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- Fix autoplay (#287) 
 - Fix problem with declaring bash variable with dash (#286)
 
 * fix: initial volume variable name
