@@ -1,4 +1,13 @@
 # Changelog since v0.21.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.0 (#534)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/musl-dev to v1.2.5-r9 (#532)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/curl-dev to v8.12.1-r0 (#533)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.4 (#531)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
