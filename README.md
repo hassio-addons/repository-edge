@@ -780,10 +780,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/d875457
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/d875457/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/bc05587
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/bc05587/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-d875457-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-bc05587-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
