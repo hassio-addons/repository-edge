@@ -1,4 +1,5 @@
 # Changelog since v0.24.0
+- 🎆 Updates maintenance/license year to 2025 (#473) 
 - ⬆️ Update Add-on base image to v17.2.1 (#472)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
