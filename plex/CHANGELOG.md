@@ -1,4 +1,5 @@
 # Changelog since v3.6.2
+- 🎆 Updates maintenance/license year to 2025 (#245) 
 - ⬆️ Update Plex Media Server to 1.41.4.9463 (#242)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
