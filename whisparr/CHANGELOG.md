@@ -1,4 +1,5 @@
 # Changelog since v0.3.0
+- 🎆 Updates maintenance/license year to 2025 (#37) 
 - ⬆️: migrate renovate config (#36)
 
 * ⬆️: migrate config .github/renovate.json

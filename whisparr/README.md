@@ -39,7 +39,7 @@ If you are more interested in stable releases of our add-ons:
 [discord]: https://discord.gg/c5DvZ4e
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/?u=frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-5145120-blue.svg
-[release]: https://github.com/hassio-addons/addon-whisparr/tree/5145120
+[release-shield]: https://img.shields.io/badge/version-af836a7-blue.svg
+[release]: https://github.com/hassio-addons/addon-whisparr/tree/af836a7
