@@ -1,4 +1,5 @@
 # Changelog since v4.3.0
+- 🎆 Updates maintenance/license year to 2025 (#353) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.1 (#352)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
