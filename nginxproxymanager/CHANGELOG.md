@@ -1,4 +1,11 @@
 # Changelog since v1.0.1
+- Set startup option in addon config (#613) 
+- ⬆️ Update certbot-dns-cloudflare to v3 (#607)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update certbot-dns-cloudflare to v2.11.0 (#577)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Update to Alpine 3.21 (NodeJS 22) (#627) 
 - 🎆 Updates maintenance/license year to 2025 (#628) 
 - ⬆️: migrate renovate config (#626)
