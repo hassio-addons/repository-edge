@@ -1014,10 +1014,10 @@ SOFTWARE.
 [radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [radarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [radarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-readarr]: https://github.com/hassio-addons/addon-readarr/tree/69481b8
-[addon-doc-readarr]: https://github.com/hassio-addons/addon-readarr/blob/69481b8/README.md
+[addon-readarr]: https://github.com/hassio-addons/addon-readarr/tree/eaf5eef
+[addon-doc-readarr]: https://github.com/hassio-addons/addon-readarr/blob/eaf5eef/README.md
 [readarr-issue]: https://github.com/hassio-addons/addon-readarr/issues
-[readarr-version-shield]: https://img.shields.io/badge/version-69481b8-blue.svg
+[readarr-version-shield]: https://img.shields.io/badge/version-eaf5eef-blue.svg
 [readarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [readarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [readarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
