@@ -1,4 +1,7 @@
 # Changelog since v10.0.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.1 (#196)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️: migrate renovate config (#197)
 
 * ⬆️: migrate config .github/renovate.json
