@@ -49,10 +49,10 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-unifi-controller/56297?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-c8d405b-blue.svg
-[release]: https://github.com/hassio-addons/addon-unifi/tree/c8d405b
+[release-shield]: https://img.shields.io/badge/version-44a78ea-blue.svg
+[release]: https://github.com/hassio-addons/addon-unifi/tree/44a78ea
 [screenshot]: https://github.com/hassio-addons/addon-unifi/raw/main/images/screenshot.jpg
