@@ -1,28 +1,4 @@
-# Changelog since v10.2.2
-- 🎆 Updates maintenance/license year to 2025 (#445) 
-- ⬆️ Update grafana/grafana-image-renderer to v3.12.1 (#439)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update grafana/grafana to v11.5.1 (#442)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update Add-on base image to v7.7.0 (#440)
-
-* ⬆️ Update Add-on base image to v7.7.0
-
-* Update dependencies
-
----------
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update Add-on base image to v7.6.3 (#438)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- 💄 Remove auth.google api_url (#432) 
-- ⬆️ Update Add-on base image to v7.6.2 (#436)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update grafana/grafana to v11.4.0 (#437)
+# Changelog since v10.4.0
+- ⬆️ Update Add-on base image to v7.7.1 (#446)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
