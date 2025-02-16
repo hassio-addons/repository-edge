@@ -1,4 +1,16 @@
 # Changelog since v0.12.4
+- Update to Alpine 3.21 (NodeJS 22) (#226) 
+- ⬆️: migrate renovate config (#225)
+
+* ⬆️: migrate config .github/renovate.json
+
+* Prettified Code!
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
+- 🎆 Updates maintenance/license year to 2025 (#224) 
 - ⬆️ Update cloudflare/cloudflared to v2025.2.0 (#222)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

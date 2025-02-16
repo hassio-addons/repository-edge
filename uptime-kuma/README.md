@@ -44,9 +44,9 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/?
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-a476303-blue.svg
-[release]: https://github.com/hassio-addons/addon-uptime-kuma/tree/a476303
+[release-shield]: https://img.shields.io/badge/version-60c2681-blue.svg
+[release]: https://github.com/hassio-addons/addon-uptime-kuma/tree/60c2681
