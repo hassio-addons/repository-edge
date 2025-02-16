@@ -44,11 +44,11 @@ If you are more interested in stable releases of our add-ons:
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/?u=timmo001
 [hass]: https://www.home-assistant.io/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [midnight-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/midnight-theme.png
 [more-info-light]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/more-info-light.png
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-e0e6d3e-blue.svg
-[release]: https://github.com/hassio-addons/addon-thelounge/tree/e0e6d3e
+[release-shield]: https://img.shields.io/badge/version-6c1be52-blue.svg
+[release]: https://github.com/hassio-addons/addon-thelounge/tree/6c1be52
 [screenshot]: https://raw.githubusercontent.com/hassio-addons/addon-thelounge/master/images/screenshot.png
 [thelounge]: https://github.com/timmo001/thelounge
