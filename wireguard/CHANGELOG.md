@@ -1,4 +1,25 @@
 # Changelog since v0.10.2
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 (#342)
+
+* ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17
+
+* Update dependencies
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- 🎆 Updates maintenance/license year to 2025 (#348) 
+- ⬆️: migrate renovate config (#347)
+
+* ⬆️: migrate config .github/renovate.json
+
+* Prettified Code!
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/git to v2.45.3-r0 (#344)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
