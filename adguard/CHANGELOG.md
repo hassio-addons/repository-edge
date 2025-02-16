@@ -1,22 +1,4 @@
-# Changelog since v5.2.3
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.0 (#580)
+# Changelog since v5.2.4
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.1 (#581)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.5 (#576)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_21/yq-go to v4.44.5-r2 (#579) 
-- Migrate renovate config (#578)
-
-* ⬆️: migrate config .github/renovate.json
-
-* Prettified Code!
-
----------
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.1.1 (#574)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_21/yq-go to v4.44.5-r1 (#572) 
