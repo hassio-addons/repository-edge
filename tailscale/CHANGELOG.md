@@ -1,4 +1,20 @@
 # Changelog since v0.24.0
+- Update site-to-site networking related documentation (#457)
+
+* s2s docs in separate PR"
+
+* fine tune s2s related docs
+
+* bunny is right on s2s 
+- Fix MSS clamping for site-to-site networking (#453)
+
+* refactor mss clamping
+
+* fix mss clamping
+
+* remove s2s docs, will be in separate PR
+
+* bunny is right on mss 
 - 🎆 Updates maintenance/license year to 2025 (#473) 
 - ⬆️ Update Add-on base image to v17.2.1 (#472)
 
