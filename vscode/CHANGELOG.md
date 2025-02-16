@@ -1,4 +1,5 @@
 # Changelog since v5.18.1
+- user-init: Safeguarded linking directories via the --no-dereference flag to avoid link-loops. Catching linking of .gitignore and .ssh via a warning, so that s6 does does not crash (and with it, the container) (#922) 
 - 🎆 Updates maintenance/license year to 2025 (#924) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.1 (#923)
 
