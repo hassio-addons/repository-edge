@@ -1,5 +1,11 @@
-# Changelog since v0.23.0
-- ⬆️ Update grocy/grocy to v4.4.0 (#471) 
-- ⬆️ Update alpine_3_19/git to v2.43.6-r0 (#468)
+# Changelog since v0.24.0
+- ⬆️: migrate renovate config (#475)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+* ⬆️: migrate config .github/renovate.json
+
+* Prettified Code!
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
