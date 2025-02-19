@@ -1,4 +1,5 @@
 # Changelog since v20.0.0
+- ⬆️ Update alpine_3_21/openssh to v9.9_p2-r0 (#857) 
 - ⬆️ Update home-assistant/cli to v4.37.0 (#856)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
