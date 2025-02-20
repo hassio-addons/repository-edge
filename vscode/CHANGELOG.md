@@ -1,4 +1,5 @@
 # Changelog since v5.18.2
+- Revert "⬆️ Update cdr/code-server to v4.97.2 (#927)" (#930) 
 - ⬆️ Update esphome to v2025 (#928)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
