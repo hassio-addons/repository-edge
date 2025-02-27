@@ -1,3 +1,4 @@
-# Changelog since v3.20.0
-- Update to Alpine 3.21 (NodeJS 22) (#751) 
-- 🎆 Updates maintenance/license year to 2025 (#748) 
+# Changelog since v3.21.0
+- ⬆️ Update zwave-js/zwave-js-ui to v9.31.0 (#753)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
