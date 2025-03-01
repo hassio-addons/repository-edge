@@ -1,4 +1,5 @@
 # Changelog since v1.0.1
+- ⬆️ Update alpine_3_21/libffi-dev to v3.4.7-r0 (#629) 
 - Set startup option in addon config (#613) 
 - ⬆️ Update certbot-dns-cloudflare to v3 (#607)
 
