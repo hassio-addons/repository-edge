@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Update setuptools to v76 (#398) 
 - ⬆️ Update setuptools to v75.9.1 (#397) 
 - ⬆️ Update setuptools to v75.8.2 (#396)
 
