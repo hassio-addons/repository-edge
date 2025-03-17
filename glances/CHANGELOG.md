@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#557) 
 - ⬆️ Update zeroconf to v0.146.1 (#555)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
