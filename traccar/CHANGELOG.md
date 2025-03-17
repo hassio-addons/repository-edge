@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- ⬆️ Update alpine_3_20/nginx to v1.26.3-r0 (#343) 
 - ⬆️ Update alpine_3_20/mariadb-client to v10.11.11-r0 (#341) 
 - Migrate renovate config (#340)
 
