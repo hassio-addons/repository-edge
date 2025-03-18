@@ -1,4 +1,7 @@
 # Changelog since v4.2.1
+- ⬆️ Update setuptools to v76.1.0 (#401)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pycryptodomex to v3.22.0 (#400)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
