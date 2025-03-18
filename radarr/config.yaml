@@ -1,5 +1,5 @@
 name: Radarr
-version: a6ae45a
+version: b2d2d05
 slug: radarr
 description: Movie organizer/manager for usenet and torrent users
 url: https://github.com/hassio-addons/addon-radarr/tree/main/README.md
