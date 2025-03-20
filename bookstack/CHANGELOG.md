@@ -1,4 +1,13 @@
 # Changelog since v2.4.2
+- ⬆️ Update PHP to v8.3.18-r0 (#375)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#377)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update BookStackApp/BookStack to v25 (#374)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/mariadb-client to v11.4.5-r0 (#373)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
