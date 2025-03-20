@@ -1,4 +1,10 @@
 # Changelog since v5.18.3
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.0 (#941)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update esphome to v2025.3.0 (#940)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update yamllint to v1.36.2 (#939)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
