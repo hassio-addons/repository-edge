@@ -1,4 +1,7 @@
 # Changelog since v5.18.3
+- ⬆️ Update yamllint to v1.36.2 (#939)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update yamllint to v1.36.1 (#938)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
