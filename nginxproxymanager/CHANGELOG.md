@@ -1,4 +1,10 @@
 # Changelog since v1.0.1
+- ⬆️ Update certbot-dns-cloudflare to v3.3.0 (#631)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update NGINX to v1.26.3-r0 (#636)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/libffi-dev to v3.4.7-r0 (#629) 
 - Set startup option in addon config (#613) 
 - ⬆️ Update certbot-dns-cloudflare to v3 (#607)
