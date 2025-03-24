@@ -1,11 +1,4 @@
-# Changelog since v3.24.0
-- ⬆️ Update zwave-js/zwave-js-ui to v10 (#760) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.2 (#759)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update zwave-js/zwave-js-ui to v9.33.1 (#758)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_21/nginx to v1.26.3-r0 (#757)
+# Changelog since v4.0.0
+- ⬆️ Update zwave-js/zwave-js-ui to v10.1.1 (#762)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
