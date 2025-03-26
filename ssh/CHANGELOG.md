@@ -1,4 +1,10 @@
 # Changelog since v20.0.2
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.2 (#875)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update yamllint to v1.37.0 (#876)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Docker to v27.3.1-r3 (#873) 
 - ⬆️ Update alpine_3_21/bind-tools to v9.18.35-r0 (#874)
 
