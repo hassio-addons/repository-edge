@@ -1,4 +1,7 @@
 # Changelog since v10.4.2
+- ⬆️ Update Add-on base image to v7.8.1 (#458)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana to v11.6.0 (#457) 
 - ⬆️ Update Add-on base image to v7.8.0 (#456) 
 - ⬆️ Update debian_12/nginx to v1.22.1-9+deb12u1 (#455)
