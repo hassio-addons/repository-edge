@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Update setuptools to v78 (#405) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.0 (#404) 
 - ⬆️ Update setuptools to v77.0.3 (#403) 
 - ⬆️ Update setuptools to v77 (#402)
