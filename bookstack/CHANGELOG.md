@@ -1,4 +1,7 @@
 # Changelog since v2.4.2
+- ⬆️ Update BookStackApp/BookStack to v25.02.2 (#380)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update PHP to v8.3.19-r0 (#379)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
