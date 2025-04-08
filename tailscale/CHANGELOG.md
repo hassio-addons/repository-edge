@@ -1,4 +1,10 @@
 # Changelog since v0.25.0
+- ⬆️ Update Add-on base image to v17.2.4 (#491)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Add-on base image to v17.2.3 (#490)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.82.0 (#487)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
