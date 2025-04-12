@@ -1,4 +1,7 @@
 # Changelog since v20.0.2
+- ⬆️ Update Python to v3.12.10-r0 (#881)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Docker to v27.3.1-r4 (#879)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
