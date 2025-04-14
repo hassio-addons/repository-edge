@@ -1,4 +1,7 @@
 # Changelog since v2.4.2
+- ⬆️ Update alpine_3_21/composer to v2.8.8-r0 (#381)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update BookStackApp/BookStack to v25.02.2 (#380)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
