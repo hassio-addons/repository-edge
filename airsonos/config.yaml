@@ -1,5 +1,5 @@
 name: AirSonos
-version: d31754b
+version: 0b241ba
 slug: airsonos
 description: AirPlay capabilities for your Sonos (and UPnP) devices.
 url: https://github.com/hassio-addons/addon-airsonos
