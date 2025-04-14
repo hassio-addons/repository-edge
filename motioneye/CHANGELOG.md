@@ -1,4 +1,10 @@
 # Changelog since v0.21.0
+- ⬆️ Update alpine_3_21/python3 to v3.12.10-r0 (#542)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/python3-dev to v3.12.10-r0 (#543)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.3 (#540)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
