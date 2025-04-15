@@ -888,10 +888,10 @@ SOFTWARE.
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [glances-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [glances-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/5720f7a
-[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/5720f7a/README.md
+[addon-grafana]: https://github.com/hassio-addons/addon-grafana/tree/eff6501
+[addon-doc-grafana]: https://github.com/hassio-addons/addon-grafana/blob/eff6501/README.md
 [grafana-issue]: https://github.com/hassio-addons/addon-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-5720f7a-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-eff6501-blue.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
