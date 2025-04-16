@@ -1,4 +1,7 @@
 # Changelog since v20.0.2
+- ⬆️ Update alpine_3_21/bind-tools to v9.18.36-r0 (#883)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/sqlite to v3.48.0-r1 (#882)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
