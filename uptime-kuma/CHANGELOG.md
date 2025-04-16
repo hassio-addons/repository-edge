@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- ⬆️ Update alpine_3_21/setpriv to v2.40.4-r1 (#235) 
 - ⬆️ Update alpine_3_21/python3 to v3.12.10-r0 (#234)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
