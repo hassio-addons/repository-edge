@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Update crudini to v0.9.6 (#408) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.2 (#407)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
