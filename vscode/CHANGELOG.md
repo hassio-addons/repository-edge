@@ -1,2 +1,2 @@
-# Changelog since v5.19.0
-- Add python-venv to dockerfile (#954) 
+# Changelog since v5.19.1
+- ⬆️ Update esphome to v2025.4.0 (#955) 
