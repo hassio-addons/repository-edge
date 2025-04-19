@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- ⬆️ Update alpine_3_20/openjdk17-jre-headless to v17.0.15_p6-r0 (#344)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/nginx to v1.26.3-r0 (#343) 
 - ⬆️ Update alpine_3_20/mariadb-client to v10.11.11-r0 (#341) 
 - Migrate renovate config (#340)
