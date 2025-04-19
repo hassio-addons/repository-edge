@@ -1,4 +1,7 @@
 # Changelog since v4.2.1
+- ⬆️ Update plexapi to v4.17.0 (#409)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update crudini to v0.9.6 (#408) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.2 (#407)
 
