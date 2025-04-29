@@ -1,4 +1,7 @@
 # Changelog since v0.9.0
+- ⬆️ Update Lidarr/Lidarr to v2.11.2.4629 (#51)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_21/sqlite-libs to v3.48.0-r1 (#50)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
