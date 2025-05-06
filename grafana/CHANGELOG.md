@@ -1,4 +1,7 @@
 # Changelog since v10.5.0
+- ⬆️ Update grafana/grafana to v12 (#465)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana to v11.6.1 (#464)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
