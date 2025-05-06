@@ -1,4 +1,7 @@
 # Changelog since v0.31.5
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.5 (#478)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - 🐛 Fix path to  PHP opcache blacklist (#477) 
 - ⬆️ Update TasmoAdmin/TasmoAdmin to v4.3.0 (#475)
 
