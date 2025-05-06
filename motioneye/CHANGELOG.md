@@ -1,4 +1,7 @@
 # Changelog since v0.21.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.5 (#545)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update motioneye-project/motioneye to v0.43.1b3 (#544)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
