@@ -1,4 +1,7 @@
 # Changelog since v20.0.2
+- ⬆️ Update yamllint to v1.37.1 (#888)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.2.5 (#890)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
