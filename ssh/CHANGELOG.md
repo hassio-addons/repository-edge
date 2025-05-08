@@ -1,4 +1,5 @@
 # Changelog since v20.0.2
+- Update DOCS.md (#887) 
 - ⬆️ Update yamllint to v1.37.1 (#888)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
