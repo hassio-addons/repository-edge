@@ -1,6 +1,4 @@
-# Changelog since v5.19.2
-- ⬆️ Update yamllint to v1.37.1 (#964) 
-- ⬆️ Update cdr/code-server to v4.99.4 (#963) 
-- ⬆️ Update esphome to v2025.4.1 (#961)
+# Changelog since v5.19.3
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#966)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
