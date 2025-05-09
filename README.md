@@ -1104,10 +1104,10 @@ SOFTWARE.
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [thelounge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [thelounge-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/05c60ec
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/05c60ec/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/3052eb9
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/3052eb9/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-05c60ec-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-3052eb9-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
