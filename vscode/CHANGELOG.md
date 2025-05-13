@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- ⬆️ Update cdr/code-server to v4.100.0 (#970) 
 - ⬆️ Update esphome to v2025.4.2 (#969) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#966)
 
