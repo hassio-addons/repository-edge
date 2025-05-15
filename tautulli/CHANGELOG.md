@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Update setuptools to v80.7.1 (#419) 
 - ⬆️ Update setuptools to v80.6.0 (#418) 
 - ⬆️ Update setuptools to v80.4.0 (#417)
 
