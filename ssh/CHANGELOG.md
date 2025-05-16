@@ -1,4 +1,10 @@
 # Changelog since v20.0.2
+- ⬆️ Update Docker to v27.3.1-r5 (#893)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_21/libxml2-utils to v2.13.4-r6 (#892)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Update DOCS.md (#887) 
 - ⬆️ Update yamllint to v1.37.1 (#888)
 
