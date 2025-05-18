@@ -1,4 +1,7 @@
 # Changelog since v4.2.1
+- ⬆️ Update pycryptodomex to v3.23.0 (#420)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update setuptools to v80.7.1 (#419) 
 - ⬆️ Update setuptools to v80.6.0 (#418) 
 - ⬆️ Update setuptools to v80.4.0 (#417)
