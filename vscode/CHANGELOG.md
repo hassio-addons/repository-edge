@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update cdr/code-server to v4.100.2 (#973)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades zsh to 5.9-4+b6 (#975) 
 - ⬆️ Update cdr/code-server to v4.100.1 (#971)
 
