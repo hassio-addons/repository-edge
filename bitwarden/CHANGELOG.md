@@ -1,4 +1,5 @@
 # Changelog since v0.24.1
+- ⬆️ Update debian_12/nginx to v1.22.1-9+deb12u2 (#356) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#354)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
