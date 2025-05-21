@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- ⬆️ Update debian_12/openssl to v3.0.16-1~deb12u1 (#978) 
 - ⬆️ Update debian_12/net-tools to v2.10-0.1+deb12u1 (#976) 
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.4.1 (#974)
 
