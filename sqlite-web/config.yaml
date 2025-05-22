@@ -1,5 +1,5 @@
 name: SQLite Web
-version: 64b38be
+version: 3ac95a4
 slug: sqlite-web
 description: Explore your SQLite database
 url: https://github.com/hassio-addons/addon-sqlite-web/tree/main/README.md
