@@ -1,4 +1,7 @@
 # Changelog since v0.13.0
+- ⬆️ Update alpine_3_21/python3 to v3.12.10-r1 (#241)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2025.5.0 (#240)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
