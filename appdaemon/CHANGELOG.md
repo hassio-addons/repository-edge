@@ -1,4 +1,5 @@
 # Changelog since v0.16.7
+- Handle YAML tag in migration properly (#381) 
 - Migrate AppDaemon configuration (#380) 
 - Patch hass plugin config validation model (#379) 
 - Drop support for 32-bits systems (#378) 
