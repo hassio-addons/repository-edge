@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- ⬆️ Update debian_12/net-tools to v2.10-0.1+deb12u2 (#990) 
 - ⬆️ Upgrades usernamehw.errorlens to 3.26.0 (#987) 
 - ⬆️ Upgrades ESPHome.esphome-vscode to 2025.4.2 (#986) 
 - Remove netcorext.uuid-generator, it is now built-in the HA extension (#985) 
