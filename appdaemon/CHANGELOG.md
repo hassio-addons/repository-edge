@@ -1,5 +1,2 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update appdaemon to v4.5.3 @[renovate[bot]](https://github.com/apps/renovate) ([#387](https://github.com/hassio-addons/addon-appdaemon/pull/387))
+# Changelog since v0.17.2
+- ⬆️ Update appdaemon to v4.5.4 (#397) 
