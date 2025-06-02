@@ -1,4 +1,5 @@
 # Changelog since v0.20.0
+- ⬆️ Update alpine_3_21/nodejs to v22.15.1-r0 (#215) 
 - ⬆️ Update alpine_3_21/python3 to v3.12.10-r1 (#214)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
