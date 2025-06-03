@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update esphome to v2025.5.2 (#992)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/net-tools to v2.10-0.1+deb12u2 (#990) 
 - ⬆️ Upgrades usernamehw.errorlens to 3.26.0 (#987) 
 - ⬆️ Upgrades ESPHome.esphome-vscode to 2025.4.2 (#986) 
