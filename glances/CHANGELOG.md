@@ -1,4 +1,10 @@
 # Changelog since v0.21.1
+- ⬆️ Update influxdb-client to v1.49.0 (#570)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update requests to v2.32.4 [SECURITY] (#572)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Python to v3.12.11-r0 (#569)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
