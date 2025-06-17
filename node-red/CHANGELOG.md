@@ -1,4 +1,11 @@
 # Changelog since v19.0.2
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.77.0 (#2083)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Clarify timezone handling (#2084)
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.76.0 (#2080)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
