@@ -1,4 +1,5 @@
 # Changelog since v0.7.5
+- Do not raise open file limit unnecessarily (fixes HAOS 16 compat) (#142) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#140)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
