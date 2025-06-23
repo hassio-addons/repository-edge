@@ -1,5 +1,5 @@
 name: Sonarr
-version: b6d955d
+version: 11dc5c6
 slug: sonarr
 description: Smart PVR for newsgroup and bittorrent users
 url: https://github.com/hassio-addons/addon-sonarr/tree/main/README.md
