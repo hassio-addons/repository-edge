@@ -1,4 +1,7 @@
 # Changelog since v19.0.2
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.77.1 (#2085)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.77.0 (#2083)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
