@@ -1,4 +1,7 @@
 # Changelog since v20.0.2
+- ⬆️ Update home-assistant/cli to v4.39.0 (#900)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Python to v3.12.11-r0 (#899)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
