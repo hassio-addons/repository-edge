@@ -1,4 +1,9 @@
 # Changelog since v20.0.2
+- fix: ssh-audit hardenings (#897)
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev>
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - Fix /var/log/btmp logging and sudo config perms (#896)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
