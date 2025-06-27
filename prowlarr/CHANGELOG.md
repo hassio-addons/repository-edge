@@ -1,4 +1,5 @@
-# Changelog since v0.23.0
-- ⬆️ Update Prowlarr/Prowlarr to v1.37.0.5076 (#67)
+# Changelog since v0.24.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18 (#68)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
