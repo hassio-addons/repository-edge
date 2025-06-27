@@ -1,4 +1,8 @@
 # Changelog since v19.0.2
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18 (#2087)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.77.1 (#2085)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
