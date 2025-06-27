@@ -57,6 +57,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-df9d5b2-blue.svg
-[release]: https://github.com/hassio-addons/addon-wireguard/tree/df9d5b2
+[release-shield]: https://img.shields.io/badge/version-d86f00f-blue.svg
+[release]: https://github.com/hassio-addons/addon-wireguard/tree/d86f00f
 [wireguard]: https://www.wireguard.com
