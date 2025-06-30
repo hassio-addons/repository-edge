@@ -1,4 +1,8 @@
 # Changelog since v4.3.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18 (#365)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update alpine_3_21/python3 to v3.12.11-r0 (#364)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
