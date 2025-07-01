@@ -924,10 +924,10 @@ SOFTWARE.
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [jupyterlab-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [jupyterlab-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-lidarr]: https://github.com/hassio-addons/addon-lidarr/tree/25408e8
-[addon-doc-lidarr]: https://github.com/hassio-addons/addon-lidarr/blob/25408e8/README.md
+[addon-lidarr]: https://github.com/hassio-addons/addon-lidarr/tree/bbb0d8a
+[addon-doc-lidarr]: https://github.com/hassio-addons/addon-lidarr/blob/bbb0d8a/README.md
 [lidarr-issue]: https://github.com/hassio-addons/addon-lidarr/issues
-[lidarr-version-shield]: https://img.shields.io/badge/version-25408e8-blue.svg
+[lidarr-version-shield]: https://img.shields.io/badge/version-bbb0d8a-blue.svg
 [lidarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [lidarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [lidarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
