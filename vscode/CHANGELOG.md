@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.4.2 (#1001)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.6.2 (#1000) 
 - ⬆️ Update cdr/code-server to v4.101.2 (#998)
 
