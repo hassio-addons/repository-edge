@@ -861,10 +861,10 @@ SOFTWARE.
 [example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [example-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/9bd2970
-[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/9bd2970/README.md
+[addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/0fa133f
+[addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/0fa133f/README.md
 [ftp-issue]: https://github.com/hassio-addons/addon-ftp/issues
-[ftp-version-shield]: https://img.shields.io/badge/version-9bd2970-blue.svg
+[ftp-version-shield]: https://img.shields.io/badge/version-0fa133f-blue.svg
 [ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
