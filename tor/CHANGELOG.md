@@ -1,5 +1,7 @@
-# Changelog since v6.1.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.1 (#276) 
-- ⬆️ Update alpine_3_22/tor to v0.4.8.17-r0 (#275)
+# Changelog since v6.1.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.2 (#278)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_22/openssl to v3.5.1-r0 (#277)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
