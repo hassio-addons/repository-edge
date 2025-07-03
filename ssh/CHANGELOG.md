@@ -1,7 +1,7 @@
-# Changelog since v21.0.0
-- 🔨 Restore curve25519-sha256 Key Exchange/remove SSH-Audit references in documentation (#912) 
-- ⬆️ Update Docker to v28.3.0-r0 (#910) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.1 (#908) 
-- ⬆️ Update alpine_3_22/sudo to v1.9.17_p1-r0 (#907)
+# Changelog since v21.0.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.2 (#914)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update OpenSSL to v3.5.1-r0 (#915)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
