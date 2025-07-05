@@ -1,2 +1,4 @@
-# Changelog since v3.6.3
-- ⬆️ Update Plex Media Server to 1.41.5.9522 (#248) 
+# Changelog since v3.6.4
+- ⬆️ Update Plex Media Server to v1.41.8.9834 (#256)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
