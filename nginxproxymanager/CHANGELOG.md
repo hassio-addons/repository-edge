@@ -1,4 +1,5 @@
 # Changelog since v1.0.1
+- Update to NPM v2.12.4 and base image v18 (#655) 
 - ⬆️ Update certbot-dns-cloudflare to v4 (#644)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
