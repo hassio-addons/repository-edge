@@ -1,4 +1,8 @@
 # Changelog since v0.21.1
+- Migrate add-on data out of Home Assitant config dir (#556)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev>
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18 (#576)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>

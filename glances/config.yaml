@@ -1,5 +1,5 @@
 name: Glances
-version: 89c37d8
+version: 2a83920
 slug: glances
 description: A cross-platform system monitoring tool
 url: https://github.com/hassio-addons/addon-glances
@@ -21,10 +21,11 @@ ports_description:
 map:
 - addons
 - backup
-- config:rw
+- addon_config:rw
 - share
 - ssl
 - media
+- homeassistant_config:rw
 hassio_api: true
 auth_api: true
 docker_api: true
