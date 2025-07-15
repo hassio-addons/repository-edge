@@ -1,2 +1,2 @@
-# Changelog since v4.1.0
-- Update Dockerfile for 9.2.87 (#568) 
+# Changelog since v4.1.1
+- ⬆️ Upgrades UniFi Network Application to 9.3.43 (#576) 
