@@ -1,4 +1,10 @@
 # Changelog since v0.25.0
+- ⬆️ Update alpine_3_22/networkmanager to v1.52.1-r0 (#528)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Add-on base image to v18.0.3 (#527)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Wait for local network on startup (#507) 
 - ⬆️ Update Add-on base image to v18.0.2 (#521)
 
