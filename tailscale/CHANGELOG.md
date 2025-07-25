@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- ⬆️ Update tailscale/tailscale to v1.86.0 (#531)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/networkmanager to v1.52.1-r0 (#528)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
