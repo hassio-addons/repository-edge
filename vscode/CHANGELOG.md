@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.4.4 (#1011)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update keesschollaart81/vscode-home-assistant to v2.1.0 (#1006)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
