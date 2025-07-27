@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update cdr/code-server to v4.102.2 (#1012)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.4.4 (#1011)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
