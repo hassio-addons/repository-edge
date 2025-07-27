@@ -1,4 +1,5 @@
 # Changelog since v0.15.12
+- ⬆️ Update numpy to v2.3.2 (#714) 
 - ⬆️ Update jupyterlab to v4.4.5 (#713)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
