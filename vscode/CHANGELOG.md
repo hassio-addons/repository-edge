@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- ⬆️ Update esphome to v2025.7.4 (#1014) 
 - ⬆️ Update esphome to v2025.7.3 (#1013)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
