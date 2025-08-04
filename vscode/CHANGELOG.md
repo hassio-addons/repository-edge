@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update debian_12/openssl to v3.0.17-1~deb12u1 (#1017)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.7.4 (#1014) 
 - ⬆️ Update esphome to v2025.7.3 (#1013)
 
