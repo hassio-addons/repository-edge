@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- ⬆️ Update esphome to v2025.7.5 (#1018) 
 - ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u7 (#1016)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
