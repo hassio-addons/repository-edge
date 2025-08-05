@@ -1032,10 +1032,10 @@ SOFTWARE.
 [sabnzbd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sabnzbd-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sabnzbd-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/5d09eec
-[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/5d09eec/README.md
+[addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/f62e539
+[addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/f62e539/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
-[sqlite-web-version-shield]: https://img.shields.io/badge/version-5d09eec-blue.svg
+[sqlite-web-version-shield]: https://img.shields.io/badge/version-f62e539-blue.svg
 [sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
