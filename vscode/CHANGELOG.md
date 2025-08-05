@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update cdr/code-server to v4.102.3 (#1015)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.7.5 (#1018) 
 - ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u7 (#1016)
 
