@@ -1,4 +1,10 @@
 # Changelog since v20.0.0
+- ⬆️ Update node-red-node-email to v3.1.0 (#2100)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update node-red to v4.1.0 (#2099)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update @node-red-contrib-themes/theme-collection to v4.1.0 (#2097)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
