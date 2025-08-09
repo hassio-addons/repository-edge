@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- ⬆️ Update debian_12/openssl to v3.0.17-1~deb12u2 (#1020) 
 - ⬆️ Update cdr/code-server to v4.102.3 (#1015)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
