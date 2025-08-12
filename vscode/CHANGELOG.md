@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update home-assistant/cli to v4.40.1 (#1019)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update debian_12/openssl to v3.0.17-1~deb12u2 (#1020) 
 - ⬆️ Update cdr/code-server to v4.102.3 (#1015)
 
