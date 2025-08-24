@@ -1,5 +1,5 @@
 name: Prowlarr
-version: 665d72a
+version: 26be965
 slug: prowlarr
 description: Indexer manager/proxy built on the popular arr stack to integrate with
   your various PVR apps
