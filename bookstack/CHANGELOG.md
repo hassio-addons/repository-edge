@@ -1,4 +1,7 @@
 # Changelog since v3.1.1
+- ⬆️ Update BookStackApp/BookStack to v25.07.2 (#410)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/mariadb-client to v11.4.8-r0 (#409)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
