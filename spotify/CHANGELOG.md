@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- Fix typo in finish-file (#307) 
 - Update librespot 0.7.0 (#315)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
