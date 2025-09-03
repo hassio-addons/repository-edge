@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- Fix warning: nginx 'listen ... http2' directive is deprecated (#405) 
 - ⬆️ Update BookStackApp/BookStack to v25.07.2 (#410)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
