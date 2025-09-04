@@ -1,4 +1,10 @@
 # Changelog since v0.15.12
+- ⬆️ Update matplotlib to v3.10.6 (#716)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update bokeh to v3.8.0 (#722)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update beautifulsoup4 to v4.13.5 (#720)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
