@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- remove duplicated service dependencies (#506)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Forward incoming tailnet connections to the host's primary interface (#454)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
