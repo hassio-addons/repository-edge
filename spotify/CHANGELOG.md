@@ -1,4 +1,5 @@
 # Changelog since v0.15.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#316) 
 - Fix typo in finish-file (#307) 
 - Update librespot 0.7.0 (#315)
 
