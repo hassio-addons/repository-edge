@@ -1,4 +1,8 @@
 # Changelog since v0.15.0
+- ⬆️: migrate renovate config (#317)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#316) 
 - Fix typo in finish-file (#307) 
 - Update librespot 0.7.0 (#315)
