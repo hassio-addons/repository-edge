@@ -1,4 +1,5 @@
 # Changelog since v3.1.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#411) 
 - Fix warning: nginx 'listen ... http2' directive is deprecated (#405) 
 - ⬆️ Update BookStackApp/BookStack to v25.07.2 (#410)
 
