@@ -1,4 +1,17 @@
 # Changelog since v0.15.12
+- ⬆️ Update beautifulsoup4 to v4.13.5 (#720)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update pandas to v2.3.2 (#719)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update jupyterlab to v4.4.7 (#718)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 (#723)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update numpy to v2.3.2 (#714) 
 - ⬆️ Update jupyterlab to v4.4.5 (#713)
 
