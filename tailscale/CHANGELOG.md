@@ -1,4 +1,8 @@
 # Changelog since v0.25.0
+- nok (#513)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Add HEALTHCHECK support (#421) 
 - update taildrop link (#512) 
 - ⬆️ Update Add-on base image to v18.1.1 (#540)
 
