@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update zeroconf to v0.147.2 (#584)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update requests to v2.32.5 (#582)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
