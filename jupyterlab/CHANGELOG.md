@@ -1,4 +1,22 @@
 # Changelog since v0.15.12
+- ⬆️ Update debian_13/libpq-dev to v17.6-0+deb13u1 (#728)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_13/libmariadb-dev to v1:11.8.3-0+deb13u1 (#725)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_13/libmariadb3 to v1:11.8.3-0+deb13u1 (#726)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_13/nginx to v1.26.3-3+deb13u1 (#727)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_13/libpq5 to v17.6-0+deb13u1 (#729)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_13/git to v1:2.47.3-0+deb13u1 (#724)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update SQLAlchemy to v2.0.43 (#717)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
