@@ -1,4 +1,8 @@
 # Changelog since v0.15.12
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8.1.0 (#731)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update debian_13/libpq-dev to v17.6-0+deb13u1 (#728)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
