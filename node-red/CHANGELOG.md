@@ -1,4 +1,5 @@
 # Changelog since v20.0.0
+- ⬆️ Update node-red-contrib-modbus to v5.44.0 (#2106) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#2105)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
