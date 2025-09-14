@@ -1,4 +1,5 @@
 # Changelog since v5.3.2
+- Revert "⬇️ Downgrade AdGuard Home to v0.107.64 (#635)" (#637) 
 - ⬇️ Downgrade AdGuard Home to v0.107.64 (#635)
 
 Co-authored-by: ocueye2 <carsonmayn@fuse.net> 
