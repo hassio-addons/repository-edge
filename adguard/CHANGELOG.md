@@ -1,4 +1,7 @@
 # Changelog since v5.3.2
+- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.65 (#636)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Revert "⬇️ Downgrade AdGuard Home to v0.107.64 (#635)" (#637) 
 - ⬇️ Downgrade AdGuard Home to v0.107.64 (#635)
 
