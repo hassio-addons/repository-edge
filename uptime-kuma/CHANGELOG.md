@@ -1,4 +1,7 @@
 # Changelog since v0.14.0
+- ⬆️ Update cloudflare/cloudflared to v2025.9.1 (#270)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2025.9.0 (#269) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#268)
 
