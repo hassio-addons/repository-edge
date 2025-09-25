@@ -1,21 +1,10 @@
-# Changelog since v0.15.0
-- ⬆️ Upgrades librespot to 0.7.1 (#318) 
-- ⬆️: migrate renovate config (#317)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#316) 
-- Fix typo in finish-file (#307) 
-- Update librespot 0.7.0 (#315)
+# Changelog since v0.16.0
+- ⬆️ Update alpine_3_22/libcrypto3 to v3.5.3-r0 (#320)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.0 (#306)
+- ⬆️ Update alpine_3_22/libssl3 to v3.5.3-r0 (#321)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/git to v2.49.1-r0 (#305)
+- ⬆️ Update alpine_3_22/openssl-dev to v3.5.3-r0 (#322)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.2 (#303)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.1 (#302) 
