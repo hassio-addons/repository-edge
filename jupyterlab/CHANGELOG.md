@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- ⬆️ Update jupyterlab to v4.4.9 (#735) 
 - ⬆️ Update jupyterlab to v4.4.8 (#733) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8.1.1 (#732)
 
