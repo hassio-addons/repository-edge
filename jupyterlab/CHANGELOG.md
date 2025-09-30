@@ -1,4 +1,5 @@
 # Changelog since v0.16.0
+- ⬆️ Update pandas to v2.3.3 (#738) 
 - ⬆️ Update beautifulsoup4 to v4.14.0 (#736) 
 - ⬆️ Update jupyterlab to v4.4.9 (#735) 
 - ⬆️ Update jupyterlab to v4.4.8 (#733) 
