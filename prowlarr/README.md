@@ -41,5 +41,5 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6dcf9d8-blue.svg
-[release]: https://github.com/hassio-addons/addon-prowlarr/tree/6dcf9d8
+[release-shield]: https://img.shields.io/badge/version-8451218-blue.svg
+[release]: https://github.com/hassio-addons/addon-prowlarr/tree/8451218
