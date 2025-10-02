@@ -1050,10 +1050,10 @@ SOFTWARE.
 [sonarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sonarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sonarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/98d9951
-[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/98d9951/README.md
+[addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/c604c8e
+[addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/c604c8e/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-98d9951-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-c604c8e-blue.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
