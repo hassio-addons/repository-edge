@@ -1,5 +1,5 @@
 name: The Lounge
-version: '2398636'
+version: 82b36fb
 slug: thelounge
 description: A self-hosted web IRC client
 url: https://github.com/hassio-addons/addon-thelounge
