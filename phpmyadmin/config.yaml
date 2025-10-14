@@ -1,5 +1,5 @@
 name: phpMyAdmin
-version: a7612f4
+version: 1de8792
 slug: phpmyadmin
 description: A web interface for the official MariaDB add-on
 url: https://github.com/hassio-addons/addon-phpmyadmin

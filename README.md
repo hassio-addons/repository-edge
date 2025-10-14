@@ -1203,10 +1203,10 @@ SOFTWARE.
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [motioneye-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [motioneye-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/tree/a7612f4
-[addon-doc-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/blob/a7612f4/README.md
+[addon-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/tree/1de8792
+[addon-doc-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/blob/1de8792/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/addon-phpmyadmin/issues
-[phpmyadmin-version-shield]: https://img.shields.io/badge/version-a7612f4-blue.svg
+[phpmyadmin-version-shield]: https://img.shields.io/badge/version-1de8792-blue.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

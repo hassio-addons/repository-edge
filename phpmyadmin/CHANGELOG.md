@@ -1,21 +1,4 @@
-# Changelog since v0.12.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.4 (#253)
+# Changelog since v0.12.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 (#254)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.1 (#252)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/mariadb-client to v11.4.8-r0 (#251)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.0 (#250)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.3 (#249)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.2 (#248)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update PHP to v8.2.29-r0 (#246) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.0.1 (#245) 
