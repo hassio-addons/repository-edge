@@ -1,4 +1,7 @@
 # Changelog since v20.0.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 (#2125)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red to v4.1.1 (#2124)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
