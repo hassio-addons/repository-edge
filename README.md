@@ -825,10 +825,10 @@ SOFTWARE.
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [appdaemon-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [appdaemon-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-bazarr]: https://github.com/hassio-addons/addon-bazarr/tree/45d98b7
-[addon-doc-bazarr]: https://github.com/hassio-addons/addon-bazarr/blob/45d98b7/README.md
+[addon-bazarr]: https://github.com/hassio-addons/addon-bazarr/tree/c601474
+[addon-doc-bazarr]: https://github.com/hassio-addons/addon-bazarr/blob/c601474/README.md
 [bazarr-issue]: https://github.com/hassio-addons/addon-bazarr/issues
-[bazarr-version-shield]: https://img.shields.io/badge/version-45d98b7-blue.svg
+[bazarr-version-shield]: https://img.shields.io/badge/version-c601474-blue.svg
 [bazarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bazarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bazarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
