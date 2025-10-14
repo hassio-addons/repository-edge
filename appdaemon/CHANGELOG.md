@@ -1,8 +1,7 @@
-# Changelog since v0.17.9
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.4 (#450)
+# Changelog since v0.17.10
+- ⬆️ Update alpine_3_22/yq-go to v4.47.2-r1 (#454)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/yq-go to v4.47.2-r0 (#448) 
-- ⬆️ Update alpine_3_22/yq-go to v4.46.1-r2 (#445)
+- ⬆️ Update Python to v3.12.12-r0 (#452)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
