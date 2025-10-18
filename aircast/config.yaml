@@ -1,5 +1,5 @@
 name: AirCast
-version: c6cc9df
+version: 8f61be6
 slug: aircast
 description: AirPlay capabilities for your Chromecast devices.
 url: https://github.com/hassio-addons/addon-aircast
