@@ -1,11 +1,11 @@
-# Changelog since v11.0.3
-- ⬆️: migrate renovate config (#214)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#212)
+## 🚨 Breaking changes
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 (#211)
+- Drop support for armv7 systems @frenck ([#215](https://github.com/hassio-addons/addon-example/pull/215))
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+## ⬆️ Dependency updates
+
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 @[renovate[bot]](https://github.com/apps/renovate) ([#211](https://github.com/hassio-addons/addon-example/pull/211))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 @[renovate[bot]](https://github.com/apps/renovate) ([#212](https://github.com/hassio-addons/addon-example/pull/212))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#214](https://github.com/hassio-addons/addon-example/pull/214))
