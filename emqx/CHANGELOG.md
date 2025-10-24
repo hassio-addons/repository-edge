@@ -1,4 +1,5 @@
 # Changelog since v0.7.7
+- Clean up readme (#153) 
 - ⬆️: migrate renovate config (#152)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
