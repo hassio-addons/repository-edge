@@ -1,4 +1,8 @@
 # Changelog since v4.2.4
+- ⬆️: migrate renovate config (#188)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update philippe44/AirConnect to v1.9.2 (#187)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
