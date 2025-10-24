@@ -859,7 +859,7 @@ SOFTWARE.
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[example-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[example-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [example-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-ftp]: https://github.com/hassio-addons/addon-ftp/tree/28a5542
 [addon-doc-ftp]: https://github.com/hassio-addons/addon-ftp/blob/28a5542/README.md
