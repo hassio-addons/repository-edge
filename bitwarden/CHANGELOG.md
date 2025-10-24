@@ -1,4 +1,7 @@
 # Changelog since v0.24.3
+- Drop support for armv7 systems (#374)
+
+Co-authored-by: frenck <frenck@users.noreply.github.com> 
 - ⬆️: migrate renovate config (#373)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
