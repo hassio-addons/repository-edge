@@ -868,7 +868,7 @@ SOFTWARE.
 [ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[ftp-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[ftp-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/tree/5ba1a5e
 [addon-doc-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/blob/5ba1a5e/README.md
