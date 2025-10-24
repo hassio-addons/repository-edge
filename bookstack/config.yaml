@@ -1,5 +1,5 @@
 name: Bookstack
-version: 2b34da7
+version: f9f70aa
 slug: bookstack
 description: Simple & Free Wiki Software
 url: https://github.com/hassio-addons/addon-bookstack
@@ -9,7 +9,6 @@ init: false
 arch:
 - aarch64
 - amd64
-- armv7
 services:
 - mysql:want
 map:
