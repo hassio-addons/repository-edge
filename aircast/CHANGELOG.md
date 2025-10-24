@@ -1,28 +1,17 @@
-# Changelog since v4.2.4
-- ⬆️: migrate renovate config (#237)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update philippe44/AirConnect to v1.9.2 (#236)
+## 🚨 Breaking changes
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 (#231)
+- Drop support for armv7 systems @frenck ([#238](https://github.com/hassio-addons/addon-aircast/pull/238))
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update philippe44/AirConnect to v1.9.1 (#235)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#229)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.2 (#228)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.1 (#227)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.0 (#226) 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.1 (#223)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.7.1 @[renovate[bot]](https://github.com/apps/renovate) ([#223](https://github.com/hassio-addons/addon-aircast/pull/223))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.0 @[renovate[bot]](https://github.com/apps/renovate) ([#226](https://github.com/hassio-addons/addon-aircast/pull/226))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.1 @[renovate[bot]](https://github.com/apps/renovate) ([#227](https://github.com/hassio-addons/addon-aircast/pull/227))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.2 @[renovate[bot]](https://github.com/apps/renovate) ([#228](https://github.com/hassio-addons/addon-aircast/pull/228))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 @[renovate[bot]](https://github.com/apps/renovate) ([#229](https://github.com/hassio-addons/addon-aircast/pull/229))
+- ⬆️ Update philippe44/AirConnect to v1.9.1 @[renovate[bot]](https://github.com/apps/renovate) ([#235](https://github.com/hassio-addons/addon-aircast/pull/235))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 @[renovate[bot]](https://github.com/apps/renovate) ([#231](https://github.com/hassio-addons/addon-aircast/pull/231))
+- ⬆️ Update philippe44/AirConnect to v1.9.2 @[renovate[bot]](https://github.com/apps/renovate) ([#236](https://github.com/hassio-addons/addon-aircast/pull/236))
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#237](https://github.com/hassio-addons/addon-aircast/pull/237))
