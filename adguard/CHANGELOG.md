@@ -1,4 +1,5 @@
 # Changelog since v5.3.4
+- Drop support for armv7 systems (#651) 
 - Update DOCS.md to fix broken link for network configuration documentation (#649) 
 - ⬆️ Update AdguardTeam/AdGuardHome to v0.107.68 (#650)
 
