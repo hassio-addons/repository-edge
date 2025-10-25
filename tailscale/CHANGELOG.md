@@ -1,4 +1,7 @@
 # Changelog since v0.26.1
+- ⬆️ Update tailscale/tailscale to v1.90.2 (#558)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.90.1 (#557)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
