@@ -1,4 +1,7 @@
 # Changelog since v20.0.0
+- ⬆️ Update node-red-contrib-modbus to v5.45.1 (#2133)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bcryptjs to v3.0.3 (#2136)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
