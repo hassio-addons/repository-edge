@@ -1,4 +1,8 @@
 # Changelog since v0.26.1
+- ⬆️: migrate renovate config (#559)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.90.6 (#563)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
