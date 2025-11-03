@@ -1,15 +1,4 @@
-# Changelog since v5.3.4
-- Drop support for armv7 systems (#651) 
-- Update DOCS.md to fix broken link for network configuration documentation (#649) 
-- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.68 (#650)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#648)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 (#646)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/yq-go to v4.47.2-r1 (#645)
+# Changelog since v6.0.0
+- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.69 (#653)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
