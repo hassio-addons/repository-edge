@@ -1,5 +1,9 @@
-# Changelog since v6.0.0
-- ⬆️: migrate renovate config (#213)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
+## 🐛 Bug fixes
+
+- Remove deprecated codenotary fields @frenck ([#214](https://github.com/hassio-addons/addon-chrony/pull/214))
+
+## ⬆️ Dependency updates
+
+- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#213](https://github.com/hassio-addons/addon-chrony/pull/213))
