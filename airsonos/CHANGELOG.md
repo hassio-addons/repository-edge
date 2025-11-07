@@ -1,18 +1,5 @@
-# Changelog since v4.2.4
-- Drop support for armv7 systems (#189) 
-- ⬆️: migrate renovate config (#188)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update philippe44/AirConnect to v1.9.2 (#187)
+## 🐛 Bug fixes
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 (#186)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#184) 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.2 (#183)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.1 (#181) 
+- Remove deprecated codenotary fields @frenck ([#190](https://github.com/hassio-addons/addon-airsonos/pull/190))
