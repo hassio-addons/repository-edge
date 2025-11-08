@@ -1,4 +1,8 @@
 # Changelog since v20.0.0
+- ⬆️ Update node-red-dashboard to v3.6.6 (#2101)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Clean up older architecture references (#2141) 
 - Remove deprecated codenotary fields (#2140) 
 - ⬆️: migrate renovate config (#2139)
