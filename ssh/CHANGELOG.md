@@ -1,4 +1,8 @@
 # Changelog since v21.0.4
+- Remove deprecated codenotary fields (#964) 
+- ⬆️ Update alpine_3_22/bind-tools to v9.20.15-r0 (#959)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#956)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
