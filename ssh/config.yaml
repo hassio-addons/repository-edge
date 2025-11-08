@@ -1,5 +1,5 @@
 name: Advanced SSH & Web Terminal
-version: dcd2885
+version: 1eec8f7
 slug: ssh
 description: A supercharged SSH & Web Terminal access to your Home Assistant instance
 url: https://github.com/hassio-addons/addon-ssh
@@ -14,7 +14,6 @@ homeassistant: 0.92.0b2
 arch:
 - aarch64
 - amd64
-- armv7
 ports:
   22/tcp: 22
 ports_description:
