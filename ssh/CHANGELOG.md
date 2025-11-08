@@ -1,4 +1,7 @@
 # Changelog since v21.0.4
+- Exclude .vscode-server from backups (#962)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Drop support for armv7 systems (#965) 
 - ⬆️ Update home-assistant/cli to v4.42.0 (#961)
 
