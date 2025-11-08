@@ -1,4 +1,12 @@
 # Changelog since v20.0.0
+- Remove deprecated codenotary fields (#2140) 
+- ⬆️: migrate renovate config (#2139)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update node-red-contrib-home-assistant-websocket to v0.79.4 (#2137)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red-contrib-modbus to v5.45.2 (#2138)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
