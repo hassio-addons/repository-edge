@@ -1,4 +1,5 @@
 # Changelog since v20.0.0
+- Clean up older architecture references (#2141) 
 - Remove deprecated codenotary fields (#2140) 
 - ⬆️: migrate renovate config (#2139)
 
