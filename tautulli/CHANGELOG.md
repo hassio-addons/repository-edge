@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- Remove deprecated codenotary fields (#426) 
 - ⬆️ Update plexapi to v4.17.1 (#423)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
