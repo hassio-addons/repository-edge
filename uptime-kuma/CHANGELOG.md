@@ -1,4 +1,8 @@
 # Changelog since v0.14.1
+- Fix: Determine  port for discovery from addon config (#258)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Drop support for armv7 systems (#286) 
 - ⬆️ Update cloudflare/cloudflared to v2025.11.1 (#284)
 
