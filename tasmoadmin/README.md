@@ -53,6 +53,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-b3ded5e-blue.svg
-[release]: https://github.com/hassio-addons/addon-tasmoadmin/tree/b3ded5e
+[release-shield]: https://img.shields.io/badge/version-9ea6226-blue.svg
+[release]: https://github.com/hassio-addons/addon-tasmoadmin/tree/9ea6226
 [screenshot]: https://github.com/hassio-addons/addon-tasmoadmin/raw/main/images/screenshot.png
