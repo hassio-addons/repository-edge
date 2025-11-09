@@ -1,4 +1,15 @@
 # Changelog since v5.19.3
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 (#1030)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Remove deprecated codenotary fields (#1046) 
+- ⬆️ Update debian_12/openssl to v3.0.17-1~deb12u3 (#1038)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update debian_12/mariadb-client to v1:10.11.14-0+deb12u2 (#1032)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.8.3 (#1031)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
