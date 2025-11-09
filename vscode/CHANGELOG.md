@@ -1,4 +1,8 @@
 # Changelog since v5.19.3
+- ⬆️ Update cdr/code-server to v4.105.1 (#1036) 
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.4.5 (#1040) 
+- ⬆️ Update esphome to v2025.10.4 (#1034) 
+- ⬆️ Update home-assistant/cli to v4.42.0 (#1033) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 (#1030)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
