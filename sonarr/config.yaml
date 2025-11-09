@@ -1,9 +1,8 @@
 name: Sonarr
-version: cbe50ce
+version: 864531b
 slug: sonarr
 description: Smart PVR for newsgroup and bittorrent users
 url: https://github.com/hassio-addons/addon-sonarr/tree/main/README.md
-codenotary: codenotary@frenck.dev
 webui: http://[HOST]:[PORT:8989]
 init: false
 arch:
