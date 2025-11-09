@@ -1,4 +1,7 @@
 # Changelog since v0.4.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#50)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Upgrades Whisparr to 2.0.0.1331 (#53) 
 - Remove deprecated codenotary fields (#51) 
 - ⬆️: migrate renovate config (#52)
