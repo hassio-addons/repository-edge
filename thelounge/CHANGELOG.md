@@ -1,4 +1,5 @@
 # Changelog since v0.21.2
+- Drop support for armv7 systems (#233) 
 - Remove deprecated codenotary fields (#232) 
 - ⬆️: migrate renovate config (#231)
 
