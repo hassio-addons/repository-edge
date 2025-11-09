@@ -1,4 +1,5 @@
 # Changelog since v4.2.1
+- ⬆️ Upgrades Tautulli to v2.16.0 (#428) 
 - Drop support for armv7 systems (#427) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v8 (#424)
 
