@@ -1,5 +1,5 @@
 name: Whisparr
-version: 93ea511
+version: '2353299'
 slug: whisparr
 description: Whisparr is an adult video collection manager for Usenet and BitTorrent
   users
@@ -9,7 +9,6 @@ init: false
 arch:
 - aarch64
 - amd64
-- armv7
 map:
 - addon_config:rw
 - share:rw

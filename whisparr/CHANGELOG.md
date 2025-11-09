@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- Drop support for armv7 systems (#54) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#50)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
