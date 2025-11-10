@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- Drop support for armv7 systems (#101) 
 - Remove deprecated codenotary fields (#100) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#99)
 

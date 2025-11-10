@@ -1,5 +1,5 @@
 name: SABnzbd
-version: 98e7fb6
+version: 2a866c4
 slug: sabnzbd
 description: Free and easy binary newsreader
 url: https://github.com/hassio-addons/addon-sabnzbd/tree/main/README.md
@@ -10,7 +10,6 @@ init: false
 arch:
 - aarch64
 - amd64
-- armv7
 map:
 - addon_config:rw
 - share:rw
