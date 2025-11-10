@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- Remove deprecated codenotary fields (#100) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#99)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
