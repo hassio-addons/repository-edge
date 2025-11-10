@@ -1057,7 +1057,7 @@ SOFTWARE.
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[spotify-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/83c111d
 [addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/83c111d/README.md
