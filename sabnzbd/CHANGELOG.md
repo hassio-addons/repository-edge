@@ -1,4 +1,7 @@
 # Changelog since v0.5.0
+- ⬆️ Update sabnzbd/sabnzbd to v4.5.5 (#87)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Drop support for armv7 systems (#101) 
 - Remove deprecated codenotary fields (#100) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#99)
