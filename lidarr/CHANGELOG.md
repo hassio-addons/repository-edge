@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- Drop support for armv7 systems (#73) 
 - Remove deprecated codenotary fields (#72) 
 - ⬆️ Update Lidarr/Lidarr to v3 (#71)
 
