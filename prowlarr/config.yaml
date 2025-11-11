@@ -1,10 +1,9 @@
 name: Prowlarr
-version: 62237ef
+version: d51a688
 slug: prowlarr
 description: Indexer manager/proxy built on the popular arr stack to integrate with
   your various PVR apps
 url: https://github.com/hassio-addons/addon-prowlarr/tree/main/README.md
-codenotary: codenotary@frenck.dev
 webui: http://[HOST]:[PORT:9696]
 init: false
 arch:
