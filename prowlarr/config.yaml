@@ -1,5 +1,5 @@
 name: Prowlarr
-version: d51a688
+version: 19341ac
 slug: prowlarr
 description: Indexer manager/proxy built on the popular arr stack to integrate with
   your various PVR apps
@@ -9,7 +9,6 @@ init: false
 arch:
 - aarch64
 - amd64
-- armv7
 map:
 - addon_config:rw
 - share:rw

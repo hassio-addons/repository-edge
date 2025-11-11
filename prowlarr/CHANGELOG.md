@@ -1,4 +1,5 @@
 # Changelog since v0.26.0
+- Drop support for armv7 systems (#86) 
 - Remove deprecated codenotary fields (#85) 
 - ⬆️ Update Prowlarr/Prowlarr to v2.1.5.5216 (#84)
 
