@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- Mark add-on EOL (#63) 
 - Drop support for armv7 systems (#62) 
 - ⬆️: migrate Renovate config (#61)
 
