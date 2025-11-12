@@ -378,19 +378,6 @@ Movie organizer/manager for usenet and torrent users
 
 [:books: Radarr add-on documentation][addon-doc-radarr]
 
-### &#10003; [Readarr][addon-readarr]
-
-![Latest Version][readarr-version-shield]
-![Supports armhf Architecture][readarr-armhf-shield]
-![Supports armv7 Architecture][readarr-armv7-shield]
-![Supports aarch64 Architecture][readarr-aarch64-shield]
-![Supports amd64 Architecture][readarr-amd64-shield]
-![Supports i386 Architecture][readarr-i386-shield]
-
-Book Manager and Automation (Sonarr for Ebooks)
-
-[:books: Readarr add-on documentation][addon-doc-readarr]
-
 ### &#10003; [SABnzbd][addon-sabnzbd]
 
 ![Latest Version][sabnzbd-version-shield]
@@ -711,7 +698,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
 - [Open an issue for the add-on: Prowlarr][prowlarr-issue]
 - [Open an issue for the add-on: Radarr][radarr-issue]
-- [Open an issue for the add-on: Readarr][readarr-issue]
 - [Open an issue for the add-on: SABnzbd][sabnzbd-issue]
 - [Open an issue for the add-on: SQLite Web][sqlite-web-issue]
 - [Open an issue for the add-on: Sonarr][sonarr-issue]
@@ -1014,15 +1000,6 @@ SOFTWARE.
 [radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [radarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [radarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-readarr]: https://github.com/hassio-addons/addon-readarr/tree/97d9cc7
-[addon-doc-readarr]: https://github.com/hassio-addons/addon-readarr/blob/97d9cc7/README.md
-[readarr-issue]: https://github.com/hassio-addons/addon-readarr/issues
-[readarr-version-shield]: https://img.shields.io/badge/version-97d9cc7-blue.svg
-[readarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[readarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[readarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[readarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[readarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/e41795b
 [addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/e41795b/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/addon-sabnzbd/issues
