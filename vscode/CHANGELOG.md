@@ -1,4 +1,8 @@
 # Changelog since v5.19.3
+- Clean up older architecture references (#1048) 
+- ⬆️ Update esphome to v2025.10.5 (#1047)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.105.1 (#1036) 
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.4.5 (#1040) 
 - ⬆️ Update esphome to v2025.10.4 (#1034) 
