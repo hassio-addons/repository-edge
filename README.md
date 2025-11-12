@@ -1021,7 +1021,7 @@ SOFTWARE.
 [readarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [readarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [readarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[readarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[readarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [readarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/e41795b
 [addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/e41795b/README.md
