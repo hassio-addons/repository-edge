@@ -1,5 +1,5 @@
 name: Readarr
-version: e83a3cf
+version: 8d41627
 slug: readarr
 description: Book Manager and Automation (Sonarr for Ebooks)
 url: https://github.com/hassio-addons/addon-readarr/tree/main/README.md
@@ -8,7 +8,6 @@ init: false
 arch:
 - aarch64
 - amd64
-- armv7
 map:
 - addon_config:rw
 - share:rw
