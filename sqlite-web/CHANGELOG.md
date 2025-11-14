@@ -1,4 +1,9 @@
 # Changelog since v4.4.1
+- ⬆️: migrate Renovate config (#383)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
+- Drop support for armv7 systems (#382) 
 - Remove deprecated codenotary fields (#381) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#379)
 
