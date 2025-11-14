@@ -1,9 +1,8 @@
 name: Plex Media Server
-version: 55dd5a5
+version: 0db9340
 slug: plex
 description: Recorded media, live TV, online news, and podcasts ready to stream.
 url: https://github.com/hassio-addons/addon-plex
-codenotary: codenotary@frenck.dev
 webui: http://[HOST]:[PORT:32400]/web
 startup: services
 init: false

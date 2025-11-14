@@ -1,2 +1,2 @@
-# Changelog since v3.6.5
-- ⬆️ Upgrades Plex Media Server to 1.42.1.10060 (#265) 
+# Changelog since v3.7.0
+- Remove deprecated codenotary fields (#270) 
