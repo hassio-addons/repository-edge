@@ -1,5 +1,5 @@
 name: Plex Media Server
-version: 0db9340
+version: 25b4149
 slug: plex
 description: Recorded media, live TV, online news, and podcasts ready to stream.
 url: https://github.com/hassio-addons/addon-plex
@@ -9,7 +9,6 @@ init: false
 arch:
 - aarch64
 - amd64
-- armv7
 map:
 - media:rw
 - share:rw
