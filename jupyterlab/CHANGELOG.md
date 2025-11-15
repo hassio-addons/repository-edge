@@ -1,4 +1,5 @@
 # Changelog since v0.16.1
+- Clean up older architecture references (#754) 
 - ⬆️ Update HASS-data-detective to v3.2 (#747)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
