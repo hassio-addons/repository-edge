@@ -1,4 +1,9 @@
 # Changelog since v11.0.0
+- Drop support for armv7 systems (#485) 
+- Remove deprecated codenotary fields (#484) 
+- ⬆️ Update grafana/grafana-image-renderer to v4.1.5 (#481)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grafana/grafana-image-renderer to v4 (#478)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
