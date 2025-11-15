@@ -1,4 +1,16 @@
 # Changelog since v0.16.1
+- ⬆️ Update numpy to v2.3.4 (#742)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update psycopg2 to v2.9.11 (#740)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update matplotlib to v3.10.7 (#739)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update jupyterlab_widgets to v3.0.16 (#749)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab to v4.4.10 (#745)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
