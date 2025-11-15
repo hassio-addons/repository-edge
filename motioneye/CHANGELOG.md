@@ -1,4 +1,7 @@
 # Changelog since v0.22.3
+- ⬆️ Update motioneye-project/motioneye to v0.43.1b5 (#570)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Drop support for armhf, armv7, and i386 systems (#574) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#564)
 
