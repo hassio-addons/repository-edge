@@ -1,4 +1,7 @@
 # Changelog since v5.19.3
+- ⬆️ Update debian_13/openssl to v3.5.4-1~deb13u1 (#1050)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Clean up older architecture references (#1048) 
 - ⬆️ Update esphome to v2025.10.5 (#1047)
 
