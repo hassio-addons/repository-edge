@@ -1171,10 +1171,10 @@ SOFTWARE.
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [chrony-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [chrony-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/fb6b1e0
-[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/fb6b1e0/README.md
+[addon-motioneye]: https://github.com/hassio-addons/addon-motioneye/tree/6eb0d4a
+[addon-doc-motioneye]: https://github.com/hassio-addons/addon-motioneye/blob/6eb0d4a/README.md
 [motioneye-issue]: https://github.com/hassio-addons/addon-motioneye/issues
-[motioneye-version-shield]: https://img.shields.io/badge/version-fb6b1e0-blue.svg
+[motioneye-version-shield]: https://img.shields.io/badge/version-6eb0d4a-blue.svg
 [motioneye-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [motioneye-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
