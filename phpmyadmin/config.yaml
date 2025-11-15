@@ -1,9 +1,8 @@
 name: phpMyAdmin
-version: 19f8afb
+version: 161018c
 slug: phpmyadmin
 description: A web interface for the official MariaDB add-on
 url: https://github.com/hassio-addons/addon-phpmyadmin
-codenotary: codenotary@frenck.dev
 ingress: true
 ingress_stream: true
 panel_icon: mdi:database
