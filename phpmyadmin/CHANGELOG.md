@@ -1,4 +1,5 @@
 # Changelog since v0.12.1
+- ⬆️ Upgrades phpMyAdmin to 5.2.3 (#259) 
 - Drop support for armv7 systems (#258) 
 - Remove deprecated codenotary fields (#257) 
 - ⬆️: migrate Renovate config (#256)
