@@ -1,4 +1,7 @@
 # Changelog since v0.16.1
+- ⬆️ Update HASS-data-detective to v3.2 (#747)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update numpy to v2.3.4 (#742)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
