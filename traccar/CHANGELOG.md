@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- Add --skip-ssl option to MySQL commands (#354) 
 - ⬆️: migrate Renovate config (#353)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
