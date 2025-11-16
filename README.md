@@ -1081,10 +1081,10 @@ SOFTWARE.
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [thelounge-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [thelounge-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/a33fa7f
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/a33fa7f/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/6c32f16
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/6c32f16/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-a33fa7f-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-6c32f16-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
