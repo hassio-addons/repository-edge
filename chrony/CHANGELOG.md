@@ -1,9 +1,4 @@
-## What’s changed
+# Changelog since v6.0.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v19 (#216)
 
-## 🐛 Bug fixes
-
-- Remove deprecated codenotary fields @frenck ([#214](https://github.com/hassio-addons/addon-chrony/pull/214))
-
-## ⬆️ Dependency updates
-
-- ⬆️: migrate renovate config @[renovate[bot]](https://github.com/apps/renovate) ([#213](https://github.com/hassio-addons/addon-chrony/pull/213))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
