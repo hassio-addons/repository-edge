@@ -982,10 +982,10 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/tree/19341ac
-[addon-doc-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/blob/19341ac/README.md
+[addon-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/tree/3f99a18
+[addon-doc-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/blob/3f99a18/README.md
 [prowlarr-issue]: https://github.com/hassio-addons/addon-prowlarr/issues
-[prowlarr-version-shield]: https://img.shields.io/badge/version-19341ac-blue.svg
+[prowlarr-version-shield]: https://img.shields.io/badge/version-3f99a18-blue.svg
 [prowlarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [prowlarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [prowlarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
