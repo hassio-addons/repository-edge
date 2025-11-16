@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- ⬆️ Upgrades keesschollaart.vscode-home-assistant to 2.2.0 (#1053) 
 - Prevent the use of the root folder as workspace (#1052) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#1051)
 
