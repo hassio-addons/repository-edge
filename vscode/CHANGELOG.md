@@ -1,4 +1,5 @@
 # Changelog since v5.19.3
+- Prevent the use of the root folder as workspace (#1052) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#1051)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
