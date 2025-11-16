@@ -1,4 +1,13 @@
 # Changelog since v0.25.0
+- ⬆️ Update traccar/traccar to v6.10.0 (#345)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Clean up older architecture references (#352) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v19 (#335)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Remove deprecated codenotary fields (#351) 
 - ⬆️ Update alpine_3_20/openjdk17-jre-headless to v17.0.15_p6-r0 (#344)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
