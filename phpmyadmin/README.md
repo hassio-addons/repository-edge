@@ -51,6 +51,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-d8093de-blue.svg
-[release]: https://github.com/hassio-addons/addon-phpmyadmin/tree/d8093de
+[release-shield]: https://img.shields.io/badge/version-9afd674-blue.svg
+[release]: https://github.com/hassio-addons/addon-phpmyadmin/tree/9afd674
 [screenshot]: https://github.com/hassio-addons/addon-phpmyadmin/raw/main/images/screenshot.png
