@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v5.0.1
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#241)
 
-## 🐛 Bug fixes
-
-- Remove deprecated codenotary fields @frenck ([#239](https://github.com/hassio-addons/addon-aircast/pull/239))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
