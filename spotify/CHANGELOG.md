@@ -1,10 +1,4 @@
-# Changelog since v0.16.1
-- ⬆️ Update librespot to 0.8.0 (#338) 
-- Drop support for armv7 systems (#337) 
-- Remove deprecated codenotary fields (#336) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#333)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 (#332)
+# Changelog since v0.17.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v19 (#340)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
