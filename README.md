@@ -1135,10 +1135,10 @@ SOFTWARE.
 [whisparr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [whisparr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [whisparr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/0f2e44d
-[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/0f2e44d/README.md
+[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/58b4002
+[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/58b4002/README.md
 [wireguard-issue]: https://github.com/hassio-addons/addon-wireguard/issues
-[wireguard-version-shield]: https://img.shields.io/badge/version-0f2e44d-blue.svg
+[wireguard-version-shield]: https://img.shields.io/badge/version-58b4002-blue.svg
 [wireguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wireguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
