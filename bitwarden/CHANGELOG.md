@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v0.25.1
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#377)
 
-## 🐛 Bug fixes
-
-- Remove deprecated codenotary fields @frenck ([#375](https://github.com/hassio-addons/addon-bitwarden/pull/375))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
