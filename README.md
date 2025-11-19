@@ -1000,10 +1000,10 @@ SOFTWARE.
 [radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [radarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [radarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/e41795b
-[addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/e41795b/README.md
+[addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/c28d1ad
+[addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/c28d1ad/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/addon-sabnzbd/issues
-[sabnzbd-version-shield]: https://img.shields.io/badge/version-e41795b-blue.svg
+[sabnzbd-version-shield]: https://img.shields.io/badge/version-c28d1ad-blue.svg
 [sabnzbd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sabnzbd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sabnzbd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
