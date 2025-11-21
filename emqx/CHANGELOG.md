@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v0.8.1
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#156)
 
-## 🐛 Bug fixes
-
-- Remove deprecated codenotary fields @frenck ([#154](https://github.com/hassio-addons/addon-emqx/pull/154))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
