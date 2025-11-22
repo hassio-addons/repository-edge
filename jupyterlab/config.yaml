@@ -1,5 +1,5 @@
 name: JupyterLab
-version: b5ce86a
+version: 0.17.0
 slug: jupyterlablite
 description: Create documents containing live code, equations, visualizations, and
   explanatory text
