@@ -1153,10 +1153,10 @@ SOFTWARE.
 [zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [zwave-js-ui-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [zwave-js-ui-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/f779cfd
-[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/f779cfd/README.md
+[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/c951007
+[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/c951007/README.md
 [zerotier-issue]: https://github.com/hassio-addons/addon-zerotier/issues
-[zerotier-version-shield]: https://img.shields.io/badge/version-f779cfd-blue.svg
+[zerotier-version-shield]: https://img.shields.io/badge/version-c951007-blue.svg
 [zerotier-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zerotier-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zerotier-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
