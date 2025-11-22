@@ -1,4 +1,5 @@
 # Changelog since v0.26.1
+- share - update docs (#545) 
 - Fix shebangs and shellchecks in some scripts (#566) 
 - ⬆️ Update Add-on base image to v19 (#573)
 
