@@ -1,13 +1,4 @@
-# Changelog since v4.0.1
-- ⬆️ Update BookStackApp/BookStack to v25.11.3 (#426)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update BookStackApp/BookStack to v25.11.2 (#425)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update BookStackApp/BookStack to v25.11.1 (#423)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v19 (#424)
+# Changelog since v4.0.2
+- ⬆️ Update BookStackApp/BookStack to v25.11.4 (#427)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
