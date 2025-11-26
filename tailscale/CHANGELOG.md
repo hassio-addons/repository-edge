@@ -1,4 +1,7 @@
 # Changelog since v0.26.1
+- ⬆️ Update tailscale/tailscale to v1.90.9 (#588)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - share - update docs (#545) 
 - Fix shebangs and shellchecks in some scripts (#566) 
 - ⬆️ Update Add-on base image to v19 (#573)
