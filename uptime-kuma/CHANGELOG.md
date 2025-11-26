@@ -1,4 +1,7 @@
 # Changelog since v0.15.0
+- ⬆️ Update alpine_3_22/npm to v11.6.4-r0 (#294)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/npm to v11.6.3-r0 (#293)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
