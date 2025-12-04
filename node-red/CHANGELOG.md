@@ -1,4 +1,5 @@
 # Changelog since v20.2.3
+- ⬆️ Update @node-red-contrib-themes/theme-collection to v4.1.1 (#2160) 
 - ⬆️ Update node-red to v4.1.2 (#2159)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
