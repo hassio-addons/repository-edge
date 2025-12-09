@@ -1,17 +1,4 @@
-# Changelog since v20.2.3
-- ⬆️ Update @node-red-contrib-themes/theme-collection to v4.1.1 (#2160) 
-- ⬆️ Update node-red to v4.1.2 (#2159)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update node-red-node-email to v5.0.1 (#2156)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/openssh to v10.0_p1-r10 (#2154)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/npm to v11.6.4-r0 (#2153)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_22/npm to v11.6.3-r0 (#2152)
+# Changelog since v20.2.4
+- ⬆️ Update node-red-node-email to v5.0.2 (#2161)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
