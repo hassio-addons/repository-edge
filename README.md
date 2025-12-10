@@ -820,10 +820,10 @@ SOFTWARE.
 [bazarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bazarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [bazarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/d0fc911
-[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/d0fc911/README.md
+[addon-bookstack]: https://github.com/hassio-addons/addon-bookstack/tree/cc8b306
+[addon-doc-bookstack]: https://github.com/hassio-addons/addon-bookstack/blob/cc8b306/README.md
 [bookstack-issue]: https://github.com/hassio-addons/addon-bookstack/issues
-[bookstack-version-shield]: https://img.shields.io/badge/version-d0fc911-blue.svg
+[bookstack-version-shield]: https://img.shields.io/badge/version-cc8b306-blue.svg
 [bookstack-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bookstack-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
