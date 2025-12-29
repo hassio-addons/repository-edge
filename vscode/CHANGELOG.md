@@ -1,4 +1,10 @@
 # Changelog since v6.0.1
+- ⬆️ Update cdr/code-server to v4.107.0 (#1077)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update home-assistant/cli to v4.45.0 (#1074)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2025.12.2 (#1076)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

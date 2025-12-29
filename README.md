@@ -1036,10 +1036,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/7ddc655
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/7ddc655/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/00b10b8
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/00b10b8/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-7ddc655-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-00b10b8-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
