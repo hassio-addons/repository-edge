@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- ⬆️ Update esphome to v2025.12.3 (#1079) 
 - ⬆️ Update cdr/code-server to v4.107.0 (#1077)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
