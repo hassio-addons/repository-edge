@@ -1,4 +1,7 @@
 # Changelog since v4.0.2
+- ⬆️ Update BookStackApp/BookStack to v25.12.1 (#431)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update BookStackApp/BookStack to v25.12 (#430)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
