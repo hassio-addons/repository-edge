@@ -1,4 +1,7 @@
 # Changelog since v6.1.2
+- ⬆️ Update zwave-js/zwave-js-ui to v11.10.1 (#858)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update zwave-js/zwave-js-ui to v11.10.0 (#857)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
