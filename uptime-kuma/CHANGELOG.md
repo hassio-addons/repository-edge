@@ -1,4 +1,7 @@
 # Changelog since v0.15.0
+- ⬆️ Update apprise to v1.9.7 (#299)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update apprise to v1.9.6 (#295)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
