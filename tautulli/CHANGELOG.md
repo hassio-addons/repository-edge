@@ -1,4 +1,7 @@
 # Changelog since v5.0.0
+- ⬆️ Update setuptools to v80.10.1 (#432)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update plexapi to v4.17.2 (#430)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
