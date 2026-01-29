@@ -1,4 +1,7 @@
 # Changelog since v22.0.3
+- ⬆️ Update hassio-addons/workflows action to v2.0.3 (#997)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Further CI refactoring (#996) 
 - ⬆️ Update home-assistant/cli to v4.45.0 (#994)
 
