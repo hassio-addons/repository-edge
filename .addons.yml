@@ -22,9 +22,9 @@ addons:
     target: bazarr
     image: ghcr.io/hassio-addons/bazarr/{arch}
   bitwarden:
-    repository: hassio-addons/addon-bitwarden
+    repository: hassio-addons/app-vaultwarden
     target: bitwarden
-    image: ghcr.io/hassio-addons/bitwarden/{arch}
+    image: ghcr.io/hassio-addons/bitwarden
   bookstack:
     repository: hassio-addons/addon-bookstack
     target: bookstack
