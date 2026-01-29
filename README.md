@@ -775,10 +775,10 @@ SOFTWARE.
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-ssh]: https://github.com/hassio-addons/app-ssh/tree/ee2b3e4
-[addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/ee2b3e4/README.md
+[addon-ssh]: https://github.com/hassio-addons/app-ssh/tree/516da0f
+[addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/516da0f/README.md
 [ssh-issue]: https://github.com/hassio-addons/app-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-ee2b3e4-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-516da0f-blue.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
