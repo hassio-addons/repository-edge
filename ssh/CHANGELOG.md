@@ -1,4 +1,5 @@
 # Changelog since v22.0.3
+- Tone down tmux opinions; remove custom bindings (#1000) 
 - Fix multi-line init commands being split on embedded newlines (#999)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
