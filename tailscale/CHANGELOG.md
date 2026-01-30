@@ -1,4 +1,11 @@
 # Changelog since v0.26.1
+- ⬆️ Update Add-on base image to v20 (major) (#607)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- ⬆️ Update tailscale/tailscale to v1.94.1 (#608)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.92.5 (#601)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
