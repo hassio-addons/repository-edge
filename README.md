@@ -1045,10 +1045,10 @@ SOFTWARE.
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/713dfd6
-[addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/713dfd6/README.md
+[addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/070a5ad
+[addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/070a5ad/README.md
 [tailscale-issue]: https://github.com/hassio-addons/app-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-713dfd6-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-070a5ad-blue.svg
 [tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
