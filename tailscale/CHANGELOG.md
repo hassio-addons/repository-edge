@@ -1,4 +1,5 @@
 # Changelog since v0.26.1
+- add export LOG_FD to each script (#568) 
 - Refactoring and renaming add-ons to apps (#610) 
 - ⬆️ Update Add-on base image to v20 (major) (#607)
 
