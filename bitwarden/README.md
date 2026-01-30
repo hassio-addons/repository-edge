@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Vaultwarden (Bitwarden)
+# Home Assistant Community App: Vaultwarden
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -18,7 +18,7 @@ information such as website credentials in an encrypted vault.
 The Bitwarden platform offers a variety of client applications including
 a web interface, desktop applications, browser extensions and mobile apps.
 
-This add-on is based upon the lightweight and opensource
+This app is based upon the lightweight and opensource
 [Vaultwarden][vaultwarden] implementation, allowing you to self-host
 this amazing password manager.
 
@@ -31,8 +31,8 @@ email, bank, and other important accounts. USE A PASSWORD MANAGER!
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -41,10 +41,10 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
@@ -54,11 +54,11 @@ If you are more interested in stable releases of our add-ons:
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-bitwarden-rs/115573?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-e1881b9-blue.svg
-[release]: https://github.com/hassio-addons/addon-bitwarden/tree/e1881b9
-[screenshot]: https://github.com/hassio-addons/addon-bitwarden/raw/main/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-834ca88-blue.svg
+[release]: https://github.com/hassio-addons/app-vaultwarden/tree/834ca88
+[screenshot]: https://github.com/hassio-addons/app-vaultwarden/raw/main/images/screenshot.png
 [vaultwarden]: https://github.com/dani-garcia/vaultwarden
