@@ -1,4 +1,5 @@
 # Changelog since v0.26.1
+- Refactoring and renaming add-ons to apps (#610) 
 - ⬆️ Update Add-on base image to v20 (major) (#607)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
