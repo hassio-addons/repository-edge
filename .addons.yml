@@ -146,9 +146,9 @@ addons:
     target: sqlite-web
     image: ghcr.io/hassio-addons/sqlite-web/{arch}
   tailscale:
-    repository: hassio-addons/addon-tailscale
+    repository: hassio-addons/app-tailscale
     target: tailscale
-    image: ghcr.io/hassio-addons/tailscale/{arch}
+    image: ghcr.io/hassio-addons/tailscale
   thelounge:
     repository: hassio-addons/addon-thelounge
     target: thelounge
