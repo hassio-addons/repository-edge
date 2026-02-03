@@ -1,4 +1,5 @@
 # Changelog since v0.27.1
+- Fix DNS service default option value handling (#616) 
 - fix missed add-on to app renames (#615) 
 - Fix MagicDNS incompatibility with Home Assistant's DNS (#455)
 
