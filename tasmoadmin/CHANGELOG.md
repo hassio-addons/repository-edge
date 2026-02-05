@@ -1,4 +1,7 @@
 # Changelog since v0.33.0
+- ⬆️ Update alpine_3_22/nginx to v1.28.2-r0 (#507)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update TasmoAdmin/TasmoAdmin to v4.3.4 (#505)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
