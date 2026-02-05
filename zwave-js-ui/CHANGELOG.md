@@ -1,4 +1,14 @@
 # Changelog since v6.1.2
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#862)
+
+* ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20
+
+* Update dependencies
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update zwave-js/zwave-js-ui to v11.11.0 (#864)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
