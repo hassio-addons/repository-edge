@@ -1,4 +1,5 @@
 # Changelog since v6.1.2
+- Migrate to use npm package instead of building from source (#866) 
 - Refactoring and renaming add-ons to apps (#865) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#862)
 
