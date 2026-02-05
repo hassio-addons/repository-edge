@@ -140,7 +140,7 @@ Simple & Free Wiki Software
 ![Supports amd64 Architecture][emqx-amd64-shield]
 ![Supports i386 Architecture][emqx-i386-shield]
 
-The most scalable open-source MQTT broker for IoT. An alternative for the Mosquitto app
+The most scalable open-source MQTT broker for IoT. An alternative for the Mosquitto add-on
 
 [:books: EMQX app documentation][addon-doc-emqx]
 
@@ -647,7 +647,7 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras
 ![Supports amd64 Architecture][phpmyadmin-amd64-shield]
 ![Supports i386 Architecture][phpmyadmin-i386-shield]
 
-A web interface for the official MariaDB app
+A web interface for the official MariaDB add-on
 
 [:books: phpMyAdmin app documentation][addon-doc-phpmyadmin]
 
