@@ -1,4 +1,7 @@
 # Changelog since v0.17.13
+- ⬆️ Update appdaemon to v4.5.13 (#485)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Refactoring and renaming add-ons to apps (#490) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#487)
 
