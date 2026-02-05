@@ -1,4 +1,6 @@
 # Changelog since v0.27.1
+- Fix DNS service: always resolve letsencrypt's api locally (#622) 
+- Update documentation of service dependencies (#623) 
 - Make always use DERP option configurable (#592)
 
 * Make always use derp option configurable
