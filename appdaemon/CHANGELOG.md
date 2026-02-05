@@ -1,18 +1,4 @@
-# Changelog since v0.17.13
-- ⬆️ Update appdaemon to v4.5.13 (#485)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Refactoring and renaming add-ons to apps (#490) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#487)
-
-* ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20
-
-* Update dependencies
-
----------
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update alpine_3_22/yq-go to v4.47.2-r2 (#473)
+# Changelog since v0.18.0
+- ⬆️ Update alpine_3_23/yq-go to v4.49.2-r3 (#491)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
