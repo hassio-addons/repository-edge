@@ -1,4 +1,13 @@
 # Changelog since v0.27.1
+- Make always use DERP option configurable (#592)
+
+* Make always use derp option configurable
+
+* Fix small typo in English translation (#261)
+
+---------
+
+Co-authored-by: David Bishop <teancom@users.noreply.github.com> 
 - Reinitialize bashio log outputs to the redirected stdout (#567) 
 - Make all config options mandatory (#541)
 
