@@ -1,6 +1,6 @@
 ---
 channel: edge
-addons:
+apps:
   adguard:
     repository: hassio-addons/app-adguard-home
     target: adguard
