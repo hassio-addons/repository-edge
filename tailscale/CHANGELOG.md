@@ -1,4 +1,13 @@
 # Changelog since v0.27.1
+- Make service name option configurable for Share Home Assistant option (#626)
+
+* Make service name option configurable for Share Home Assistant option
+
+* fix share service name
+
+* fix service name, drop it in case of funnel
+
+* fix service name regex, thanks bunny 
 - Add support for Taildrive (#617)
 
 * feat: Taildrive shares
