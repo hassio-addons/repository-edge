@@ -1,4 +1,5 @@
 # Changelog since v0.27.1
+- Update links to Tailscale documentation (#627) 
 - Make service name option configurable for Share Home Assistant option (#626)
 
 * Make service name option configurable for Share Home Assistant option
