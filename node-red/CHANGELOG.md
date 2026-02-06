@@ -1,4 +1,7 @@
 # Changelog since v20.2.4
+- ⬆️ Update node-red to v4.1.4 (#2170)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Refactoring and renaming add-ons to apps (#2178) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#2171)
 
