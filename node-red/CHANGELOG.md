@@ -1,4 +1,8 @@
 # Changelog since v20.2.4
+- Update deprecated http2 nginx conf syntax (#2174)
+
+Co-authored-by: Luke Moch <luke@mochfamily.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update node-red to v4.1.4 (#2170)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
