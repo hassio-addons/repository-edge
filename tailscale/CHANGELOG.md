@@ -1,4 +1,40 @@
 # Changelog since v0.27.1
+- Add support for Taildrive (#617)
+
+* feat: Taildrive shares
+
+Share homeassistant directories to your Tailnet using Taildrive.
+
+* Several fixes (#1)
+
+Fix parsing Tailscale drive data.
+Fix homeassistant share config.
+
+* Fix Taildrive breaking startup (#2)
+
+* add export LOG_FD to each script (taildrive)
+
+* improve error handling based on bunny's suggestions
+
+I went with exit.nok, let it fail as taildrop fails on startup.
+
+* fix typos in taildrive
+
+* minor fix in docs
+
+* Bugfix for Taildrive (prevent logging anything when no share is configured)
+
+* rename add-on to app
+
+* fix log messages (taildrive) suggested by copilot
+
+* fix taildrive map config
+
+* make the linter happy
+
+---------
+
+Co-authored-by: Ananth Bhaskararaman <antsub@gmail.com> 
 - ⬆️ Update alpine_3_23/nginx to v1.28.2-r0 (#625)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
