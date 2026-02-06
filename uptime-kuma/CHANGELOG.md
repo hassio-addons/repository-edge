@@ -1,4 +1,10 @@
 # Changelog since v0.15.0
+- ⬆️ Update cloudflare/cloudflared to v2026.2.0 (#306)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update cloudflare/cloudflared to v2026.1.2 (#302)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_22/nodejs to v22.22.0-r0 (#301)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
