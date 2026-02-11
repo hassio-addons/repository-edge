@@ -1,2 +1,4 @@
-# Changelog since v23.0.1
-- ⬆️ Update Docker to v29.1.3-r2 (#1004) 
+# Changelog since v23.0.2
+- ⬆️ Update alpine_3_23/vim to v9.1.2132-r0 (#1005)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
