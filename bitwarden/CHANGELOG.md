@@ -1,4 +1,7 @@
 # Changelog since v0.26.0
+- ⬆️ Update debian_13/nginx to v1.26.3-3+deb13u2 (#401)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update vaultwarden/server Docker tag to v1.35.3 (#400)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
