@@ -1,4 +1,7 @@
 # Changelog since v0.15.0
+- ⬆️ Update louislam/uptime-kuma to v2.1.1 (#309)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update louislam/uptime-kuma to v2.1.0 (#307)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
