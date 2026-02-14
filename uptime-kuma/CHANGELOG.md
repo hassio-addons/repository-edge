@@ -1,4 +1,11 @@
 # Changelog since v0.15.0
+- Refactoring and renaming add-ons to apps (#310)
+
+* Refactoring and renaming add-ons to apps
+
+* Version pinning
+
+* Review commnets 
 - ⬆️ Update louislam/uptime-kuma to v2.1.1 (#309)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
