@@ -142,9 +142,9 @@ apps:
     target: ssh
     image: ghcr.io/hassio-addons/ssh
   sqlite-web:
-    repository: hassio-addons/addon-sqlite-web
+    repository: hassio-addons/app-sqlite-web
     target: sqlite-web
-    image: ghcr.io/hassio-addons/sqlite-web/{arch}
+    image: ghcr.io/hassio-addons/sqlite-web
   tailscale:
     repository: hassio-addons/app-tailscale
     target: tailscale
