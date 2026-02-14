@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- Refactoring and renaming add-ons to apps (#105) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#103)
 
 * ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20
