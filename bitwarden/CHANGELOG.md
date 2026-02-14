@@ -1,10 +1,10 @@
-# Changelog since v0.26.0
-- ⬆️ Update debian_13/nginx to v1.26.3-3+deb13u2 (#401)
+# Changelog since v0.26.1
+- Fix IPv6 support (#398)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update vaultwarden/server Docker tag to v1.35.3 (#400)
+* Add IPv6 support to direct-ssl configuration
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update hassio-addons/workflows action to v2.0.4 (#399)
+* Add IPv6 support to Nginx server configuration
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+---------
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 

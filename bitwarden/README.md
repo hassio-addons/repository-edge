@@ -58,7 +58,7 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-acd4011-blue.svg
-[release]: https://github.com/hassio-addons/app-vaultwarden/tree/acd4011
+[release-shield]: https://img.shields.io/badge/version-7db6599-blue.svg
+[release]: https://github.com/hassio-addons/app-vaultwarden/tree/7db6599
 [screenshot]: https://github.com/hassio-addons/app-vaultwarden/raw/main/images/screenshot.png
 [vaultwarden]: https://github.com/dani-garcia/vaultwarden
