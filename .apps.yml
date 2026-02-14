@@ -126,9 +126,9 @@ apps:
     target: tautulli
     image: ghcr.io/hassio-addons/tautulli/{arch}
   sabnzbd:
-    repository: hassio-addons/addon-sabnzbd
+    repository: hassio-addons/app-sabnzbd
     target: sabnzbd
-    image: ghcr.io/hassio-addons/sabnzbd/{arch}
+    image: ghcr.io/hassio-addons/sabnzbd
   radarr:
     repository: hassio-addons/addon-radarr
     target: radarr
