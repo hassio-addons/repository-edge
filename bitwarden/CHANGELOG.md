@@ -1,10 +1,2 @@
-# Changelog since v0.26.1
-- Fix IPv6 support (#398)
-
-* Add IPv6 support to direct-ssl configuration
-
-* Add IPv6 support to Nginx server configuration
-
----------
-
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
+# Changelog since v0.26.2
+- ⬆️ Update vaultwarden/server Docker tag to v1.35.4 (#404) 
