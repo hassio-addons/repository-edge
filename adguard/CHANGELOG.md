@@ -1,4 +1,5 @@
 # Changelog since v6.1.0
+- ⬆️ Update alpine_3_23/nginx to v1.28.2-r1 (#672) 
 - ⬆️ Update AdguardTeam/AdGuardHome to v0.107.72 (#671) 
 - ⬆️ Update alpine_3_23/nginx to v1.28.2-r0 (#668)
 
