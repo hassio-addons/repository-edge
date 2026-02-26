@@ -1,4 +1,7 @@
 # Changelog since v0.27.1
+- ⬆️ Update tailscale/tailscale to v1.94.2 (#634)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/bind-tools to v9.20.19-r0 (#635)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
