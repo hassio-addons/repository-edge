@@ -1,4 +1,7 @@
 # Changelog since v21.0.2
+- ⬆️ Update node-red-node-email to v5.2.1 (#2190)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update node-red to v4.1.6 (#2189)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
