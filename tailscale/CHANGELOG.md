@@ -1,4 +1,9 @@
 # Changelog since v0.27.1
+- add permissions to deploy.yaml also (#639) 
+- ⬆️ Update hassio-addons/workflows action to v2.0.5 (#638)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com> 
 - Drop health warning. (#629) 
 - ⬆️ Update tailscale/tailscale to v1.94.2 (#634)
 
