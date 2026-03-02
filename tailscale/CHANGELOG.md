@@ -1,4 +1,7 @@
 # Changelog since v0.27.1
+- ⬆️ Update alpine_3_23/bind-tools to v9.20.20-r0 (#640)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - add permissions to deploy.yaml also (#639) 
 - ⬆️ Update hassio-addons/workflows action to v2.0.5 (#638)
 
