@@ -1,4 +1,7 @@
 # Changelog since v7.0.0
+- ⬆️ Update zwave-js/zwave-js-ui to v11.15.0 (#874)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_23/npm to v11.11.0-r0 (#873)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
