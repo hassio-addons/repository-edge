@@ -1,4 +1,7 @@
 # Changelog since v0.16.1
+- ⬆️ Update alpine_3_23/nodejs to v24.14.1-r0 (#326)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update apprise to v1.9.9 (#324)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
