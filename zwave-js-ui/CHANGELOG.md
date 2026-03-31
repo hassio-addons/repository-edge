@@ -1,4 +1,11 @@
 # Changelog since v7.0.0
+- ⬆️ Update alpine_3_23/nginx to v1.28.3-r0 (#877)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update hassio-addons/workflows action to v2.0.6 (#869)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update alpine_3_23/nodejs to v24.14.1-r0 (#876)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
