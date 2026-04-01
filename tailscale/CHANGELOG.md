@@ -1,4 +1,7 @@
 # Changelog since v0.27.1
+- ⬆️ Update App base image to v20.0.2 (#654)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.96.4 (#645)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
