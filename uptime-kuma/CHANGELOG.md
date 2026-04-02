@@ -1,4 +1,7 @@
 # Changelog since v0.16.1
+- ⬆️ Update cloudflare/cloudflared to v2026.3.0 (#323)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update hassio-addons/workflows action to v2.0.6 (#315)
 
 Co-authored-by: Claude Sonnet 4.6 <noreply@anthropic.com>
