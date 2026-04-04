@@ -1,4 +1,5 @@
 # Changelog since v0.27.1
+- Prevent logging SERVFAIL by MagicDNS, caused by Supervisor's hourly DNS tests (#636) 
 - Fix NetworkManager dispatcher script crashes due to s6-overlay changes (#653) 
 - Change Home Assistant Discord join link (#655) 
 - ⬆️ Update hassio-addons/workflows action to v2.0.6 (#652)
