@@ -1,5 +1,5 @@
 name: AppDaemon
-version: 147a2c0
+version: 6903f02
 slug: appdaemon
 description: Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 url: https://github.com/hassio-addons/app-appdaemon
