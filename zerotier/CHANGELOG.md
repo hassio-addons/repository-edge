@@ -1,15 +1,4 @@
-# Changelog since v0.24.0
-- Refactoring and renaming add-ons to apps (#297) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#295)
-
-* ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20
-
-* Update dependencies
-
----------
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v19 (#293)
+# Changelog since v0.25.0
+- ⬆️ Update alpine_3_23/cargo to v1.91.1-r1 (#299)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
