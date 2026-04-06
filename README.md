@@ -838,10 +838,10 @@ SOFTWARE.
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [emqx-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [emqx-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-example]: https://github.com/hassio-addons/app-example/tree/9ca8ede
-[addon-doc-example]: https://github.com/hassio-addons/app-example/blob/9ca8ede/README.md
+[addon-example]: https://github.com/hassio-addons/app-example/tree/ed35893
+[addon-doc-example]: https://github.com/hassio-addons/app-example/blob/ed35893/README.md
 [example-issue]: https://github.com/hassio-addons/app-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-9ca8ede-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-ed35893-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
