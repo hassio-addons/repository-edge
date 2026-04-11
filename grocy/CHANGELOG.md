@@ -1,4 +1,9 @@
 # Changelog since v0.24.0
+- Move from base-nodejs to base, upgrade to PHP 8.4 (#520)
+
+* Move from base-nodejs to base, upgrade to PHP 8.3
+
+* php 8.4 :) 
 - Refactoring and renaming add-ons to apps (#519) 
 - ⬆️ Update grocy/grocy to v4.5.0 (#483)
 
