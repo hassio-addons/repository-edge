@@ -1,12 +1,8 @@
-# Changelog since v5.0.2
-- Refactoring and renaming add-ons to apps (#196)
-
-* Refactoring and renaming add-ons to apps
-
-* Fix 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.2.0 (#195)
+# Changelog since v5.1.0
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.3.0 (#198)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.1.0 (#194)
+- ⬆️ Update hassio-addons/workflows action to v2.0.6 (#197)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
