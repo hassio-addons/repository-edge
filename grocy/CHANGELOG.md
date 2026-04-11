@@ -1,4 +1,9 @@
 # Changelog since v0.24.0
+- ⬆️ Update grocy/grocy to v4.6.0 (#515)
+
+Co-authored-by: Claude Sonnet 4.6 <noreply@anthropic.com>
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.3 (#521)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
