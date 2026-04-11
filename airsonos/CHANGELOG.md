@@ -1,8 +1,6 @@
-# Changelog since v5.1.0
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.3.0 (#198)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update hassio-addons/workflows action to v2.0.6 (#197)
+## ⬆️ Dependency updates
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- ⬆️ Update hassio-addons/workflows action to v2.0.6 @[renovate[bot]](https://github.com/apps/renovate) ([#197](https://github.com/hassio-addons/app-airsonos/pull/197))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#198](https://github.com/hassio-addons/app-airsonos/pull/198))
