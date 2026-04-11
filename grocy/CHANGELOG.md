@@ -1,4 +1,5 @@
 # Changelog since v0.24.0
+- Refactoring and renaming add-ons to apps (#519) 
 - ⬆️ Update grocy/grocy to v4.5.0 (#483)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

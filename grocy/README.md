@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Grocy
+# Home Assistant Community App: Grocy
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -28,8 +28,8 @@ management solution for your home, delivering features like:
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -38,10 +38,10 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
@@ -53,10 +53,10 @@ If you are more interested in stable releases of our add-ons:
 [github-sponsors]: https://github.com/sponsors/frenck
 [grocy-demo]: https://demo-en.grocy.info
 [grocy]: https://grocy.info/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-84c3853-blue.svg
-[release]: https://github.com/hassio-addons/addon-grocy/tree/84c3853
-[screenshot]: https://github.com/hassio-addons/addon-grocy/raw/main/images/screenshot.gif
+[release-shield]: https://img.shields.io/badge/version-27774bd-blue.svg
+[release]: https://github.com/hassio-addons/app-grocy/tree/27774bd
+[screenshot]: https://github.com/hassio-addons/app-grocy/raw/main/images/screenshot.gif
