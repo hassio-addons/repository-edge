@@ -1,4 +1,6 @@
 # Changelog since v4.0.0
+- Update example hostname to homeassistant.local (#287) 
+- Remove unused variable declaration in finish script (#286) 
 - ⬆️ Update plexmediaserver to v1.43.1.10611-1e34174b1 (#281)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
