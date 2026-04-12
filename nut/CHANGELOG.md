@@ -1,4 +1,5 @@
 # Changelog since v0.17.0
+- Add nutdrv_hashx driver support (#499) 
 - ⬆️ Update networkupstools/nut to v2.8.5 (#493)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
