@@ -1,4 +1,5 @@
 # Changelog since v0.17.0
+- Supervise UPS driver processes with s6 for automatic recovery (#500) 
 - Add nutdrv_hashx driver support (#499) 
 - ⬆️ Update networkupstools/nut to v2.8.5 (#493)
 
