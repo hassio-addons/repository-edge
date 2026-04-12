@@ -1,4 +1,5 @@
 # Changelog since v0.24.0
+- Fix frontend assets not loading after migration from yarn to npm (#531) 
 - Add missing php85-tokenizer extension (#530) 
 - Move Node.js and npm to build-only dependencies (#529) 
 - Remove deprecated X-XSS-Protection header (#528) 
