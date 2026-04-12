@@ -1,4 +1,6 @@
 # Changelog since v0.24.0
+- Remove deprecated X-XSS-Protection header (#528) 
+- Warn about default credentials on first boot (#527) 
 - Remove unused reference links from documentation (#526) 
 - Fix missing languages in documentation (#525) 
 - Fix unquoted command substitutions in PHP-FPM run script (#524) 
