@@ -1,4 +1,5 @@
 # Changelog since v0.24.0
+- Remove unused reference links from documentation (#526) 
 - Fix missing languages in documentation (#525) 
 - Fix unquoted command substitutions in PHP-FPM run script (#524) 
 - Fix incorrect bashio function call syntax in init-grocy (#523) 
