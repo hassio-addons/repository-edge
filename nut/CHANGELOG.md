@@ -1,4 +1,5 @@
 # Changelog since v0.17.0
+- Deprecate master/slave terminology in favor of primary/secondary (#494) 
 - NUT v2.8.4: compiled from the source code (#477)
 
 Co-authored-by: Claude Sonnet 4.6 <noreply@anthropic.com>
