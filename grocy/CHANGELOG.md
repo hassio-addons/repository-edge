@@ -1,4 +1,12 @@
 # Changelog since v0.24.0
+- Add support for changing GrocyCode type (#513)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Adds support for printer configuration (#422)
+
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update grocy/grocy to v4.6.0 (#515)
 
 Co-authored-by: Claude Sonnet 4.6 <noreply@anthropic.com>

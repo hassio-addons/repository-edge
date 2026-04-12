@@ -39,6 +39,7 @@ Example app configuration:
 culture: en
 currency: USD
 entry_page: stock
+grocycode_type: 2D
 features:
   batteries: true
   calendar: true
@@ -48,6 +49,11 @@ features:
   shoppinglist: true
   stock: true
   tasks: true
+printers:
+  label_printer:
+    enabled: false
+  thermal_printer:
+    enabled: false
 tweaks:
   chores_assignment: true
   multiple_shopping_lists: true
@@ -157,6 +163,17 @@ You can use the one of the following values:
 
 By default the homepage is set to the stock overview.
 
+### Option: `grocycode_type`
+
+Allows you to change the barcode type for GrocyCodes. Useful if your barcode scanner doesn't support the default.
+
+You can use the one of the following values:
+
+- `1D` (Code128)
+- `2D` (DataMatrix)
+
+Since v4.5.0 Grocy uses `2D` as the default.
+
 ### Option: `features`
 
 Is used for enable or disable features in Grocy. Disabled features
@@ -201,6 +218,37 @@ equal Sunday:
 Allows you to specify a default ingress user if desired (e.g. `admin`).
 
 If no ingress user is set, the default login authentication is used.
+
+### Option: `printers`
+
+Configures label and thermal printer support.
+
+#### Label printer
+
+Set `printers.label_printer.enabled` to `true` to enable label printing via a webhook.
+
+- `enabled`: Set to `true` to enable, `false` otherwise.
+- `webhook`: The URI that Grocy will POST to when asked to print a label.
+- `run_server`: Set to `false` to call the webhook client-side instead of server-side.
+- `params`: Additional parameters supplied to the webhook.
+- `hook_json`: Set to `true` to POST as JSON, `false` to use regular form-encoded variables.
+
+#### Thermal printer
+
+Thermal printers are receipt printers that support the ESC/POS protocol.
+See [ESC/POS protocol][escpos] for more information.
+
+**Note:** _Only network printers are supported when running as a Home Assistant
+add-on. Direct USB/serial printer connections are not available in the
+containerized environment._
+
+Set `printers.thermal_printer.enabled` to `true` to enable thermal printing.
+
+- `enabled`: Set to `true` to enable, `false` otherwise.
+- `ip`: IP address of the network printer.
+- `port`: Port of the network printer.
+- `print_quantity_name`: Set to `false` to omit quantity names from the printout.
+- `print_notes`: Set to `false` to omit notes from the printout.
 
 ## Known issues and limitations
 
@@ -268,6 +316,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
+[escpos]: https://github.com/mike42/escpos-php
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_grocy&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
 [alpine-packages]: https://pkgs.alpinelinux.org/packages
 [contributors]: https://github.com/hassio-addons/app-grocy/graphs/contributors
