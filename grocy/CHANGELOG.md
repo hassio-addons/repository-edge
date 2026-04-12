@@ -1,4 +1,5 @@
 # Changelog since v0.24.0
+- Fix unquoted command substitutions in PHP-FPM run script (#524) 
 - Fix incorrect bashio function call syntax in init-grocy (#523) 
 - Fix unescaped dot in nginx location regex patterns (#522) 
 - Add support for changing GrocyCode type (#513)
