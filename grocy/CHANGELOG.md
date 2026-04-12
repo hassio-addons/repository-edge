@@ -1,4 +1,6 @@
 # Changelog since v0.24.0
+- Document barcode scanner secure context requirement (#533) 
+- Fix feature flags not being disabled when set to false (#532) 
 - Fix frontend assets not loading after migration from yarn to npm (#531) 
 - Add missing php85-tokenizer extension (#530) 
 - Move Node.js and npm to build-only dependencies (#529) 
