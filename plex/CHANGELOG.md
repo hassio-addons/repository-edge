@@ -1,4 +1,9 @@
 # Changelog since v4.0.0
+- Track APT package versions with Renovate (#285)
+
+* Track APT package versions with Renovate
+
+* Fixes 
 - Update example hostname to homeassistant.local (#287) 
 - Remove unused variable declaration in finish script (#286) 
 - ⬆️ Update plexmediaserver to v1.43.1.10611-1e34174b1 (#281)
