@@ -1,5 +1,5 @@
 name: Grocy
-version: 716c777
+version: a16ebe8
 slug: grocy
 description: ERP beyond your fridge! A groceries & household management solution for
   your home
@@ -93,4 +93,4 @@ schema:
   certfile: str
   keyfile: str
   grocy_ingress_user: str
-image: ghcr.io/hassio-addons/grocy/{arch}
+image: ghcr.io/hassio-addons/grocy
