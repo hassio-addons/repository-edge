@@ -1,4 +1,5 @@
 # Changelog since v0.24.0
+- Fix unescaped dot in nginx location regex patterns (#522) 
 - Add support for changing GrocyCode type (#513)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
