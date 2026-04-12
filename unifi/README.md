@@ -11,6 +11,15 @@
 The UniFi Network Application allows you to manage your UniFi network
 using a web browser.
 
+## Important notice
+
+**The standalone UniFi Network Application is approaching end-of-life.**
+Ubiquiti is transitioning to UniFi OS Server, which does not translate to a
+Docker/Home Assistant app. There is no upgrade path from this app to UniFi OS
+Server. This app will continue to work as long as Ubiquiti ships the standalone
+application, but users planning long-term should consider migrating to a
+dedicated machine or VM.
+
 ## About
 
 This app runs Ubiquiti Networks' UniFi Network Application software, which
@@ -53,6 +62,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-3219a1a-blue.svg
-[release]: https://github.com/hassio-addons/app-unifi/tree/3219a1a
+[release-shield]: https://img.shields.io/badge/version-5a807c6-blue.svg
+[release]: https://github.com/hassio-addons/app-unifi/tree/5a807c6
 [screenshot]: https://github.com/hassio-addons/app-unifi/raw/main/images/screenshot.jpg
