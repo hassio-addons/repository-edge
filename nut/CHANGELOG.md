@@ -1,4 +1,5 @@
 # Changelog since v0.17.0
+- Fix directory permissions for /etc/nut (#495) 
 - Deprecate master/slave terminology in favor of primary/secondary (#494) 
 - NUT v2.8.4: compiled from the source code (#477)
 
