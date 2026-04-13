@@ -1,30 +1,13 @@
-# Changelog since v0.16.1
-- ⬆️ Update cloudflare/cloudflared to v2026.3.0 (#323)
+# Changelog since v0.17.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#331)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update hassio-addons/workflows action to v2.0.6 (#315)
-
-Co-authored-by: Claude Sonnet 4.6 <noreply@anthropic.com>
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 (#327)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.3 (#329)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_23/nodejs to v24.14.1-r0 (#326)
+- ⬆️ Update alpine_3_23/python3 to v3.12.13-r0 (#330)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update apprise to v1.9.9 (#324)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update louislam/uptime-kuma to v2.2.1 (#321)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update apprise to v1.9.8 (#320)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_23/npm to v11.11.0-r0 (#322)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update louislam/uptime-kuma to v2.2.0 (#317)
+- ⬆️ Update alpine_3_23/setpriv to v2.41.4-r0 (#328)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
