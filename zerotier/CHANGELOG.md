@@ -1,11 +1,5 @@
-# Changelog since v0.25.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 (#300)
+# Changelog since v0.25.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#303)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update hassio-addons/workflows action to v2.0.6 (#298)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update alpine_3_23/cargo to v1.91.1-r1 (#299)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_23/openssl-dev to v3.5.6-r0 (#302) 
