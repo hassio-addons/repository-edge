@@ -130,9 +130,9 @@ apps:
     target: sabnzbd
     image: ghcr.io/hassio-addons/sabnzbd
   radarr:
-    repository: hassio-addons/addon-radarr
+    repository: hassio-addons/app-radarr
     target: radarr
-    image: ghcr.io/hassio-addons/radarr/{arch}
+    image: ghcr.io/hassio-addons/radarr
   sonarr:
     repository: hassio-addons/addon-sonarr
     target: sonarr
