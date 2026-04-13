@@ -1,7 +1,7 @@
 # Home Assistant Community App: Tor
 
-This Tor app allows you to access you Home Assistant instance as an Onion site,
-trough [Tor's Hidden Service][tor-hidden-service] feature. With this feature
+This Tor app allows you to access your Home Assistant instance as an Onion site,
+through [Tor's Hidden Service][tor-hidden-service] feature. With this feature
 enabled, you do not need to open your firewall ports or setup HTTPS to enable
 secure remote access.
 
@@ -55,7 +55,7 @@ ports:
 bridges: []
 ```
 
-**Note**: _This is just an example, don't copy and past it! Create your own!_
+**Note**: _This is just an example, don't copy and paste it! Create your own!_
 
 ### Option: `log_level`
 
@@ -98,7 +98,7 @@ applications on your network to access the Tor network via the HTTP proxy.
 The `hidden_services` options allows you to enable
 [Tor's Hidden Service][tor-hidden-service] feature in this app. You can offer
 a web server, SSH server, etc., without revealing your IP address to its users.
-In fact, because you don not use any public address, you can run a hidden
+In fact, because you do not use any public address, you can run a hidden
 service from behind your firewall.
 
 ### Option: `stealth`
@@ -156,7 +156,7 @@ The accepted syntaxs of this configuration is:
 - local_port `"8123"`
 
 If you do not define a published port, the local port will be used.
-If you do not define a hostname or IP adress `homeassistant` will be used.
+If you do not define a hostname or IP address `homeassistant` will be used.
 
 ### Option: `bridges`
 
@@ -245,8 +245,8 @@ such as Tasker or Owntracks.
 To our knowledge, there are currently no iOS apps available supporting the
 stealth feature.
 
-You can use the standard FireFox browser to access .onion domains, but you need
-to enable this in FireFix settings. In FireFox, type "about:config" in the
+You can use the standard Firefox browser to access .onion domains, but you need
+to enable this in Firefox settings. In Firefox, type "about:config" in the
 address bar and click 'I accept the risk' to open the advanced settings.
 Search for "onion" to find the setting "network.dns.blockDotOnion" and toggle
 the setting so that it is set to "false". Now you should be able to access
