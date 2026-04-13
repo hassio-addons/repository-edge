@@ -1,9 +1,9 @@
-## What’s changed
+# Changelog since v0.7.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#113)
 
-## ⬆️ Dependency updates
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_23/musl-dev to v1.2.5-r23 (#112)
 
-- ⬆️ Update alpine_3_23/nginx to v1.28.2-r1 @[renovate[bot]](https://github.com/apps/renovate) ([#106](https://github.com/hassio-addons/app-sabnzbd/pull/106))
-- ⬆️ Update hassio-addons/workflows action to v2.0.5 @[renovate[bot]](https://github.com/apps/renovate) ([#107](https://github.com/hassio-addons/app-sabnzbd/pull/107))
-- ⬆️ Update alpine_3_23/nginx to v1.28.3-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#109](https://github.com/hassio-addons/app-sabnzbd/pull/109))
-- ⬆️ Update hassio-addons/workflows action to v2.0.6 @[renovate[bot]](https://github.com/apps/renovate) ([#110](https://github.com/hassio-addons/app-sabnzbd/pull/110))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#111](https://github.com/hassio-addons/app-sabnzbd/pull/111))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_23/python3 to v3.12.13-r0 (#114) 
+- ⬆️ Update alpine_3_23/python3-dev to v3.12.13-r0 (#115) 
