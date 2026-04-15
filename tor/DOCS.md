@@ -258,6 +258,27 @@ a SOCKS5 proxy in Firefox pointing to your Home Assistant host on port `9050`.
 In `about:config`, also set `network.proxy.socks_remote_dns` to `true` so that
 `.onion` hostnames are resolved through Tor rather than your local DNS.
 
+## Resetting your onion address
+
+Each time the app starts for the first time, Tor generates a key pair for
+your hidden service. The onion address is derived from that key pair and
+remains the same across restarts for as long as the keys exist.
+
+If you want to obtain a fresh onion address (for example, because the
+current address is no longer reachable), you need to delete the hidden
+service keys. These are stored on the the `/ssl/tor/` directory.
+
+To reset:
+
+1. Stop the Tor app.
+2. Delete the contents of the `/ssl/tor/hidden_service/` directory.
+3. Start the Tor app again. New keys and a new onion address will be
+   generated automatically.
+
+**Note**: _If stealth mode is enabled, the old `.auth_private` client key
+files will also be gone. You will need to redistribute the newly generated
+keys to all authorized clients._
+
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
