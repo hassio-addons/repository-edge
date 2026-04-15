@@ -1,4 +1,5 @@
 # Changelog since v23.0.6
+- Revert "🐛 Fix unreadable terminal text in Safari/iOS and Firefox" (#1034) 
 - 🐛 Fix unreadable terminal text in Safari/iOS and Firefox (#1033)
 
 Co-authored-by: Claude Sonnet 4.6 <noreply@anthropic.com> 
