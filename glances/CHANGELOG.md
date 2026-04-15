@@ -1,4 +1,9 @@
 # Changelog since v0.21.1
+- Ensure /config directory exists on first boot (#604)
+
+Co-authored-by: Florian Horner <florianhorner@MacBook-Pro-von-Florian-8.local>
+Co-authored-by: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update requests to v2.33.1 (#615)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
