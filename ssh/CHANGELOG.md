@@ -1,4 +1,7 @@
 # Changelog since v23.0.6
+- 🐛 Fix unreadable terminal text in Safari/iOS and Firefox (#1033)
+
+Co-authored-by: Claude Sonnet 4.6 <noreply@anthropic.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#1030)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
