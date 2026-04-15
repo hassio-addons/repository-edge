@@ -1,4 +1,7 @@
 # Changelog since v0.21.1
+- ⬆️ Update requests to v2.33.1 (#615)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update requests to v2.33.0 [SECURITY] (#607)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
