@@ -1,4 +1,5 @@
 # Changelog since v7.0.2
+- Fix Tor hanging on startup with persistent DataDirectory (#313) 
 - Fix Tor failing to start with persistent DataDirectory
 
 - Set /data permissions to 0700 before use, as Tor requires its
