@@ -14,7 +14,7 @@ Protect your privacy and access Home Assistant via Tor.
 
 This Tor app allows you to access your Home Assistant instance as an Onion site,
 through [Tor's Hidden Service][tor-hidden-service] feature. With this feature
-enabled, you do not need to open your firewall ports or setup HTTPS to enable
+enabled, you do not need to open your firewall ports or set up HTTPS to enable
 secure remote access.
 
 This is useful if you want to have:
@@ -28,7 +28,7 @@ This is useful if you want to have:
 - Want to block anyone from knowing your home IP address and seeing your
   traffic to your Home Assistant.
 
-The app also offers the possibility to open a Sock proxy into the
+The app also offers the possibility to open a SOCKS proxy into the
 Tor network. Allowing you to access Tor from any of your (SOCKS supporting)
 applications through your Home Assistant installation.
 
@@ -61,6 +61,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-9a3514f-blue.svg
-[release]: https://github.com/hassio-addons/app-tor/tree/9a3514f
+[release-shield]: https://img.shields.io/badge/version-3a7aa01-blue.svg
+[release]: https://github.com/hassio-addons/app-tor/tree/3a7aa01
 [tor-hidden-service]: https://www.torproject.org/docs/hidden-services.html.en

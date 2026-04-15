@@ -2,7 +2,7 @@
 
 This Tor app allows you to access your Home Assistant instance as an Onion site,
 through [Tor's Hidden Service][tor-hidden-service] feature. With this feature
-enabled, you do not need to open your firewall ports or setup HTTPS to enable
+enabled, you do not need to open your firewall ports or set up HTTPS to enable
 secure remote access.
 
 This is useful if you want to have:
@@ -16,7 +16,7 @@ This is useful if you want to have:
 - Want to block anyone from knowing your home IP address and seeing your
   traffic to your Home Assistant.
 
-The app also offers the possibility to open a Sock proxy into the
+The app also offers the possibility to open a SOCKS proxy into the
 Tor network. Allowing you to access Tor from any of your (SOCKS supporting)
 applications through your Home Assistant installation.
 
@@ -75,7 +75,7 @@ more severe level, e.g., `debug` also shows `info` messages. By default,
 the `log_level` is set to `info`, which is the recommended setting unless
 you are troubleshooting.
 
-These log level also affects the log levels of the Tor program.
+These log levels also affect the log levels of the Tor program.
 
 ### Option: `socks`
 
@@ -95,7 +95,7 @@ applications on your network to access the Tor network via the HTTP proxy.
 
 ### Option: `hidden_services`
 
-The `hidden_services` options allows you to enable
+The `hidden_services` option allows you to enable
 [Tor's Hidden Service][tor-hidden-service] feature in this app. You can offer
 a web server, SSH server, etc., without revealing your IP address to its users.
 In fact, because you do not use any public address, you can run a hidden
@@ -109,13 +109,13 @@ instance over Tor is hidden even from other nodes on the Tor network.
 Using a traditional Hidden Service, a hidden server publishes in the Tor network
 how to begin communication with it (not its real location). Tor uses a complex
 middle nodes link setup for bidirectional route anonymization; the server and
-client knows nothing about end point's location. A client asks the network how
+client know nothing about the endpoint's location. A client asks the network how
 to reach a Hidden Service with this info.
 
-This option put the Tor Hidden Service in the authorize client mode. The
+This option puts the Tor Hidden Service in the authorized client mode. The
 hidden server publishes encrypted instructions on how to begin the
 communication, a client with the right key can decipher this info.
-If you are an authorized client, you only can locate the Hidden Service path
+If you are an authorized client, you can only locate the Hidden Service path
 and then try to establish a connection if you have this key.
 
 Enabling `stealth` can prevent a DDOS because if the client does not have the
@@ -131,8 +131,9 @@ Valid client names are 1 to 16 characters long and only use characters in
 `A-Za-z0-9+-_` (no spaces). If this option is set, the hidden service is not
 accessible for clients without authorization anymore.
 
-Clients need to put this authorization data in their configuration file using
-HidServAuth.
+Clients need to place the generated `.auth_private` file in their Tor
+`ClientOnionAuthDir` directory. See the [Tor client access setup](#tor-client-access-setup)
+section below for details.
 
 ### Option: `ports`
 
@@ -147,7 +148,7 @@ ports:
   - 22
 ```
 
-The accepted syntaxs of this configuration is:
+The accepted syntax of this configuration is:
 
 - hostname:local_port:published_port `"homeassistant:8123:8080"`
 - local_ip:local_port:published_port `"192.168.1.60:8123:8080"`
@@ -200,7 +201,7 @@ bridges:
 
 #### Snowflake
 
-What is [snowflake][what-is-snowflake], example:
+For more information on what Snowflake is, see [what is Snowflake?][what-is-snowflake]. Example:
 
 ```yaml
 bridges:
@@ -219,38 +220,43 @@ bridges:
 Using this app, you can access your Home Assistant instance over Tor from
 your laptop or mobile device, using Tor Browser and other software.
 
-However, with the `stealth` option enabled, the client would need extra
+However, with the `stealth` option enabled, the client needs extra
 configuration to be able to connect.
 
-Add the authentication cookie to your `torrc` client configuration on your
-laptop or mobile device. It would look like this:
+The app generates a key pair for each configured client. The private key file
+is stored at `/ssl/tor/hidden_service/clients/<clientname>.auth_private` and
+contains a line in this format:
 
-```bash
-HidServAuth abcdef1234567890.onion adEG02FAsdq/GAFeNSeLvc haremote1
+```
+<address-without-.onion>:descriptor:x25519:<private-key>
 ```
 
-For Tor Browser on Windows, Mac or Linux, you can find the torrc file here:
-`<tor browser install directory>/Browser/TorBrowser/tor/ssl/torrc`
+Copy this file to a directory on your client device and configure Tor to use
+it by adding the following to your `torrc`:
 
-Once you have added the entry, restart the browser, and then browse to the
-"dot onion" site address to connect to your Home Assistant instance.
+```
+ClientOnionAuthDir /path/to/authorized_clients
+```
 
-For [Orbot: Tor on Android][orbot], add it in **Orbot** -> **Menu**
--> **Settings** to the "Torrc Custom Config" entry. Restart Orbot, and then
-use the [Orfox browser app][orfox], and browse to the "dot onion" site name to
-access your Home Assistant instance. You can also use Orbot's VPN mode,
-to enable Tor access from any application on your device,
-such as Tasker or Owntracks.
+Restart Tor or Tor Browser after adding the file, then browse to the `.onion`
+address to connect to your Home Assistant instance.
 
-To our knowledge, there are currently no iOS apps available supporting the
-stealth feature.
+For [Tor Browser][tor-browser] on Windows, Mac or Linux, place the
+`.auth_private` file in the `authorized_clients` folder inside the Tor Browser
+data directory. Newer versions of Tor Browser also offer a GUI for managing
+client authorization under the connection settings.
 
-You can use the standard Firefox browser to access .onion domains, but you need
-to enable this in Firefox settings. In Firefox, type "about:config" in the
-address bar and click 'I accept the risk' to open the advanced settings.
-Search for "onion" to find the setting "network.dns.blockDotOnion" and toggle
-the setting so that it is set to "false". Now you should be able to access
-.onion sites.
+For Android, use [Tor Browser for Android][tor-browser-android], which has
+built-in support for `.onion` sites. You can also use [Orbot][orbot] in VPN
+mode together with another browser to route your traffic through Tor.
+
+For iOS, [Onion Browser][onion-browser] supports accessing `.onion` sites.
+
+You can also use Firefox to access `.onion` domains by routing it through the
+SOCKS proxy this app provides (requires `socks: true`, port `9050`). Configure
+a SOCKS5 proxy in Firefox pointing to your Home Assistant host on port `9050`.
+In `about:config`, also set `network.proxy.socks_remote_dns` to `true` so that
+`.onion` hostnames are resolved through Tor rather than your local DNS.
 
 ## Changelog & Releases
 
@@ -319,9 +325,11 @@ SOFTWARE.
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-tor/33822?u=frenck
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/hassio-addons/app-tor/issues
+[onion-browser]: https://onionbrowser.com
 [orbot]: https://guardianproject.info/apps/orbot
-[orfox]: https://guardianproject.info/apps/orfox
 [reddit]: https://reddit.com/r/homeassistant
+[tor-browser]: https://www.torproject.org/download/
+[tor-browser-android]: https://www.torproject.org/download/#android
 [releases]: https://github.com/hassio-addons/app-tor/releases
 [semver]: http://semver.org/spec/v2.0.0.htm
 [tor-hidden-service]: https://www.torproject.org/docs/hidden-services.html.en

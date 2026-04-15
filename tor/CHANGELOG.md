@@ -1,4 +1,5 @@
 # Changelog since v7.0.2
+- Various spelling & grammar (#310) 
 - Various spelling & grammar (#309) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#308)
 
