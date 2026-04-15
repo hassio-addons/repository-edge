@@ -1,4 +1,14 @@
 # Changelog since v0.21.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 (#613)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Drop support for armv7 architecture (#614)
+
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com> 
+- Refactoring and renaming add-ons to apps (#612) 
+- ⬆️ Update Python to v3.12.13-r0 (#610) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.1 (#583)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
