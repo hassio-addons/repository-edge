@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- Upgrade Glances to 4.5.3 and improve stability (#617) 
 - ⬆️: migrate Renovate config (#616)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
