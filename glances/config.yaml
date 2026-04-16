@@ -1,5 +1,5 @@
 name: Glances
-version: a12acf4
+version: 0c3c705
 slug: glances
 description: A cross-platform system monitoring tool
 url: https://github.com/hassio-addons/app-glances
@@ -72,4 +72,4 @@ schema:
   leave_front_door_open: bool?
 environment:
   LOG_FORMAT: '{LEVEL}: {MESSAGE}'
-image: ghcr.io/hassio-addons/glances/{arch}
+image: ghcr.io/hassio-addons/glances
