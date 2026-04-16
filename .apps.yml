@@ -50,9 +50,9 @@ apps:
     target: foldingathome
     image: ghcr.io/hassio-addons/foldingathome/{arch}
   glances:
-    repository: hassio-addons/addon-glances
+    repository: hassio-addons/app-glances
     target: glances
-    image: ghcr.io/hassio-addons/glances/{arch}
+    image: ghcr.io/hassio-addons/glances
   grafana:
     repository: hassio-addons/addon-grafana
     target: grafana
@@ -110,9 +110,9 @@ apps:
     target: plex
     image: ghcr.io/hassio-addons/plex
   spotify:
-    repository: hassio-addons/addon-spotify-connect
+    repository: hassio-addons/app-spotify-connect
     target: spotify
-    image: ghcr.io/hassio-addons/spotify/{arch}
+    image: ghcr.io/hassio-addons/spotify
   prowlarr:
     repository: hassio-addons/addon-prowlarr
     target: prowlarr
