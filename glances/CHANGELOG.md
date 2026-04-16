@@ -1,4 +1,5 @@
 # Changelog since v0.21.1
+- Fix Glances web server dependencies (#619) 
 - Fix unbound variable error on startup (#618) 
 - Upgrade Glances to 4.5.3 and improve stability (#617) 
 - ⬆️: migrate Renovate config (#616)
