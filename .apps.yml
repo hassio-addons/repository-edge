@@ -50,9 +50,9 @@ apps:
     target: foldingathome
     image: ghcr.io/hassio-addons/foldingathome/{arch}
   glances:
-    repository: hassio-addons/app-glances
+    repository: hassio-addons/addon-glances
     target: glances
-    image: ghcr.io/hassio-addons/glances
+    image: ghcr.io/hassio-addons/glances/{arch}
   grafana:
     repository: hassio-addons/addon-grafana
     target: grafana
@@ -154,9 +154,9 @@ apps:
     target: thelounge
     image: ghcr.io/hassio-addons/thelounge/{arch}
   tor:
-    repository: hassio-addons/addon-tor
+    repository: hassio-addons/app-tor
     target: tor
-    image: ghcr.io/hassio-addons/tor/{arch}
+    image: ghcr.io/hassio-addons/tor
   traccar:
     repository: hassio-addons/addon-traccar
     target: traccar
