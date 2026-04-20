@@ -98,7 +98,7 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-4f64a4d-blue.svg
-[release]: https://github.com/hassio-addons/app-ssh/tree/4f64a4d
+[release-shield]: https://img.shields.io/badge/version-c0830a5-blue.svg
+[release]: https://github.com/hassio-addons/app-ssh/tree/c0830a5
 [screenshot]: https://github.com/hassio-addons/app-ssh/raw/main/images/screenshot.png
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
