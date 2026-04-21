@@ -1,5 +1,5 @@
 name: Tor
-version: 4f3977b
+version: 2a18b4a
 slug: tor
 description: Protect your privacy and access Home Assistant via Tor
 url: https://github.com/hassio-addons/app-tor
@@ -38,4 +38,4 @@ schema:
   - match(^(.*:)?(?:[0-9]{1,4}|[1-5][0-9]{4}|6[0-4][0-9]{3}|65[0-4][0-9]{2}|655[0-2][0-9]|6553[0-5])?$)
   bridges:
   - str
-image: ghcr.io/hassio-addons/tor/{arch}
+image: ghcr.io/hassio-addons/tor
