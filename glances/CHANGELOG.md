@@ -1,4 +1,7 @@
 # Changelog since v0.22.0
+- ⬆️ Update uvicorn to v0.45.0 (#625)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update glances to v4.5.4 [SECURITY] (#601)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
