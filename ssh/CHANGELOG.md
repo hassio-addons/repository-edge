@@ -1,4 +1,5 @@
 # Changelog since v23.0.7
+- ⬆️ Update alpine_3_23/vim to v9.2.0389-r0 (#1040) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#1038)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
