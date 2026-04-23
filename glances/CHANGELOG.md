@@ -1,4 +1,7 @@
 # Changelog since v0.22.0
+- ⬆️ Update uvicorn to v0.46.0 (#626)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update fastapi to v0.136.1 (#627)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
