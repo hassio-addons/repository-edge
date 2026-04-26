@@ -1,4 +1,7 @@
 # Changelog since v0.17.0
+- ⬆️ Update apprise to v1.10.0 (#334)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#333)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
