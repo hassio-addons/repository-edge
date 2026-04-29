@@ -1,16 +1,4 @@
-# Changelog since v4.0.0
-- Track APT package versions with Renovate (#285)
-
-* Track APT package versions with Renovate
-
-* Fixes 
-- Update example hostname to homeassistant.local (#287) 
-- Remove unused variable declaration in finish script (#286) 
-- ⬆️ Update plexmediaserver to v1.43.1.10611-1e34174b1 (#281)
+# Changelog since v4.1.0
+- ⬆️ Update release-drafter/release-drafter action to v7.2.1 (#288)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#282)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Handle all updates through renovate (#280) 
-- Refactoring and renaming add-ons to apps (#279) 
