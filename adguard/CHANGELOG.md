@@ -1,4 +1,5 @@
 # Changelog since v6.1.3
+- ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#684) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#683)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
