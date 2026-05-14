@@ -955,10 +955,10 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/00b17bd
-[addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/00b17bd/README.md
+[addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/bf6863c
+[addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/bf6863c/README.md
 [node-red-issue]: https://github.com/hassio-addons/app-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-00b17bd-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-bf6863c-blue.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
