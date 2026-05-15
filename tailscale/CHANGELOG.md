@@ -1,4 +1,6 @@
 # Changelog since v0.28.1
+- ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#687) 
+- ⬆️ Update alpine_3_23/dnsmasq to v2.91-r1 (#686) 
 - ⬆️ Update App base image to v20.1.1 (#682)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
