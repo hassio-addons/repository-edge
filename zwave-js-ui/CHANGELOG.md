@@ -1,4 +1,7 @@
 # Changelog since v7.3.0
+- ⬆️ Update alpine_3_23/nginx to v1.28.3-r2 (#897)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update zwave-js/zwave-js-ui to v11.18.0 (#896)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
