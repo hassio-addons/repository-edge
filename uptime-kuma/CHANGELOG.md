@@ -1,4 +1,7 @@
 # Changelog since v0.17.2
+- ⬆️ Update apprise to v1.11.0 (#344)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2026.5.0 (#341)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
