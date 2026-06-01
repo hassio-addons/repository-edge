@@ -1,4 +1,5 @@
 # Changelog since v0.17.2
+- ⬆️ Update louislam/uptime-kuma to v2.4.0 (#345) 
 - ⬆️ Update cloudflare/cloudflared to v2026.5.2 (#343) 
 - ⬆️ Update apprise to v1.11.0 (#344)
 
