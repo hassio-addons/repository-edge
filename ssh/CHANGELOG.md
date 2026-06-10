@@ -1,4 +1,6 @@
 # Changelog since v23.0.9
+- 🔧 Migrate to workflows v3.0.0 and clean up README badges (#1066) 
+- 🔨 Use bashio::app.* instead of deprecated bashio::addon.* (#1065) 
 - ⬆️ Update App base image to v21.0.0 and Alpine 3.24 packages (#1062)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
