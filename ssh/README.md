@@ -62,7 +62,7 @@ well. Additionally, it comes out of the box with the following:
   ["Oh My ZSH"][ohmyzsh], with some plugins enabled as well.
 - Contains a sensible set of tools right out of the box: curl, Wget, RSync, GIT,
   Nmap, Mosquitto client, MariaDB/MySQL client, Awake ("wake on LAN"), Nano,
-  Vim, tmux, and a bunch commonly used networking tools.
+  Neovim, tmux, and a bunch commonly used networking tools.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -92,7 +92,7 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-cec5827-blue.svg
-[release]: https://github.com/hassio-addons/app-ssh/tree/cec5827
+[release-shield]: https://img.shields.io/badge/version-cac3d0c-blue.svg
+[release]: https://github.com/hassio-addons/app-ssh/tree/cac3d0c
 [screenshot]: https://github.com/hassio-addons/app-ssh/raw/main/images/screenshot.png
 [zsh]: https://en.wikipedia.org/wiki/Z_shell

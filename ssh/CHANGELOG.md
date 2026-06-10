@@ -1,4 +1,5 @@
 # Changelog since v23.0.9
+- ✨ Replace Vim with Neovim, mapping vi/vim/neovim to nvim (#1075) 
 - 📝 Document running ha and the Supervisor API non-interactively (#1074) 
 - 📝 Document clipboard copy and paste in the Web Terminal (#1073) 
 - 🐛 Keep starting when custom package installation fails (#1072) 
