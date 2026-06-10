@@ -1,4 +1,5 @@
 # Changelog since v21.0.10
+- 🔥 Remove unmaintained node-red-node-twitter package (#2233) 
 - 🔧 Use npm --omit flags instead of deprecated install flags (#2230) 
 - 🐛 Use bashio::app functions for bashio v0.18 compatibility (#2228) 
 - ⬆️ Update node-red-node-email to v5.2.4 (#2219) 
