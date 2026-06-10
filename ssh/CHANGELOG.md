@@ -1,4 +1,9 @@
 # Changelog since v23.0.9
+- ✨ Add GNU Screen (#1079) 
+- 📝 Add an example to the packages option documentation (#1080) 
+- ✨ Add Midnight Commander (mc) (#1078) 
+- ✨ Add disk and storage tools (ncdu, lsblk, smartmontools) (#1077) 
+- ✨ Add network debugging tools (tcpdump, ncat, mtr) (#1076) 
 - ✨ Replace Vim with Neovim, mapping vi/vim/neovim to nvim (#1075) 
 - 📝 Document running ha and the Supervisor API non-interactively (#1074) 
 - 📝 Document clipboard copy and paste in the Web Terminal (#1073) 
