@@ -1,4 +1,6 @@
 # Changelog since v23.0.9
+- 📝 Document clipboard copy and paste in the Web Terminal (#1073) 
+- 🐛 Keep starting when custom package installation fails (#1072) 
 - 📝 Clean up documentation: drop stale SSH-Audit refs and fix copy (#1071) 
 - 🔨 Tidy compatibility-mode sshd_config regexes (#1070) 
 - 🐛 Fix malformed redirect when setting the account password (#1067) 
