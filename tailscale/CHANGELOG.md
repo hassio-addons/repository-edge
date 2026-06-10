@@ -1,4 +1,14 @@
 # Changelog since v0.28.1
+- ⬆️ Update tailscale/tailscale to v1.98.4 (#695)
+
+* ⬆️ Update tailscale/tailscale to v1.98.5
+
+* v1.98.4 is the latest on linux, v1.98.5 is Apple only
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com> 
 - ⬆️ Update alpine_3_23/nginx to v1.28.3-r3 (#696)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
