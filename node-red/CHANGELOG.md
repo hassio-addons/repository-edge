@@ -1,4 +1,5 @@
 # Changelog since v21.0.10
+- 📝 Fix broken branch links and typos in README and docs (#2235) 
 - 🔥 Remove deprecated Node-RED Dashboard (#2234) 
 - 🔧 Align engines.node with Node-RED 5 requirement (#2229) 
 - Rename 'dark' theme to 'dark-modern' (#2221)
