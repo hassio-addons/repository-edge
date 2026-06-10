@@ -1,4 +1,8 @@
 # Changelog since v23.0.9
+- 🔒 Restrict permissions on generated service credential files (#1068) 
+- 🐛 Exit cleanly when SSH access is disabled (#1051)
+
+Co-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com> 
 - 🔧 Migrate to workflows v3.0.0 and clean up README badges (#1066) 
 - 🔨 Use bashio::app.* instead of deprecated bashio::addon.* (#1065) 
 - ⬆️ Update App base image to v21.0.0 and Alpine 3.24 packages (#1062)
