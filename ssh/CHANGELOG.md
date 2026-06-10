@@ -1,4 +1,6 @@
 # Changelog since v23.0.9
+- 🐛 Fix malformed redirect when setting the account password (#1067) 
+- 🔒 Exclude the SSH environment file from backups (#1069) 
 - 🔒 Restrict permissions on generated service credential files (#1068) 
 - 🐛 Exit cleanly when SSH access is disabled (#1051)
 
