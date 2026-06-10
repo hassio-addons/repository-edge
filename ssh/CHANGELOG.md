@@ -1,4 +1,5 @@
 # Changelog since v23.0.9
+- 📝 Clean up documentation: drop stale SSH-Audit refs and fix copy (#1071) 
 - 🔨 Tidy compatibility-mode sshd_config regexes (#1070) 
 - 🐛 Fix malformed redirect when setting the account password (#1067) 
 - 🔒 Exclude the SSH environment file from backups (#1069) 
