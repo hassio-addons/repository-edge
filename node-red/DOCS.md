@@ -113,7 +113,7 @@ Sets one of the Node-RED themes. Currently available options:
 - `default`
 - `aurora`
 - `cobalt2`
-- `dark`
+- `dark-modern`
 - `dracula`
 - `espresso-libre`
 - `github-dark`
@@ -238,10 +238,6 @@ The time zone will need to reflect your environment.
 Save the file and restart the Node-RED app.
 
 ## Known issues and limitations
-
-- While this app ships with Node-RED Dashboard, it currently does not
-  support accessing the dashboard via Ingress. This is a technical limitation
-  on the Node-RED Dashboard end.
 
 - If you cannot access HTTP nodes or Node-RED Dashboard, please check
   if you have enabled direct access mode by setting a port number in

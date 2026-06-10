@@ -1,4 +1,11 @@
 # Changelog since v21.0.10
+- 🔥 Remove deprecated Node-RED Dashboard (#2234) 
+- 🔧 Align engines.node with Node-RED 5 requirement (#2229) 
+- Rename 'dark' theme to 'dark-modern' (#2221)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- 🔧 Drop redundant $NODE_OPTIONS token from start script (#2232) 
+- 🔧 Add missing shellcheck directive to NGINX s6 scripts (#2231) 
 - 🔥 Remove unmaintained node-red-node-twitter package (#2233) 
 - 🔧 Use npm --omit flags instead of deprecated install flags (#2230) 
 - 🐛 Use bashio::app functions for bashio v0.18 compatibility (#2228) 
