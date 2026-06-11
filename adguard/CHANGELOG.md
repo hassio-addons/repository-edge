@@ -1,4 +1,5 @@
 # Changelog since v6.1.3
+- 🐛 Fix AdGuard Home config schema version detection (#695) 
 - 🐛 Pass --verbose to AdGuard Home in debug mode (#694) 
 - 📝 Fix AdGuard Home documentation issues (#693) 
 - 🔧 Workflow cleanup, release drafter restore, and bashio v0.18 compat (#691) 
