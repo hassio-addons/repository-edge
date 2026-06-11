@@ -2,8 +2,6 @@
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
-[![Discord][discord-shield]][discord] [![Community Forum][forum-shield]][forum]
-
 [![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
 
 [![Support Frenck on Patreon][patreon-shield]][patreon]
@@ -50,11 +48,7 @@ If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[discord]: https://discord.me/hassioaddons
 [esphome]: https://esphome.io/components/mqtt.html#on-message-trigger
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [logo]: https://github.com/hassio-addons/app-zwave-js-ui/raw/main/zwave-js-ui/logo.png
@@ -62,6 +56,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-9bc2f6f-blue.svg
-[release]: https://github.com/hassio-addons/app-zwave-js-ui/tree/9bc2f6f
+[release-shield]: https://img.shields.io/badge/version-e5d240e-blue.svg
+[release]: https://github.com/hassio-addons/app-zwave-js-ui/tree/e5d240e
 [zwave-js-ui]: https://github.com/zwave-js/zwave-js-ui

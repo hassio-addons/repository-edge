@@ -1,4 +1,7 @@
 # Changelog since v7.3.0
+- 🔥 Remove unused nginx ssl_params.conf (#912) 
+- 🔒 Disable legacy X-XSS-Protection filter (#913) 
+- 📝 Remove chat and community forum badges from add-on README (#909) 
 - 🔥 Remove non-functional log_level option (#910) 
 - 📝 Fix grammar in discovery success log message (#911) 
 - 📝 Clarify the Z-Wave integration setup instructions (#907) 
