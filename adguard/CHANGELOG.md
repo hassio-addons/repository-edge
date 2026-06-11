@@ -1,4 +1,5 @@
 # Changelog since v6.1.3
+- 🐛 Pass --verbose to AdGuard Home in debug mode (#694) 
 - 📝 Fix AdGuard Home documentation issues (#693) 
 - 🔧 Workflow cleanup, release drafter restore, and bashio v0.18 compat (#691) 
 - ⬆️ Update to base image 21.0.0 (Alpine 3.24) (#690) 
