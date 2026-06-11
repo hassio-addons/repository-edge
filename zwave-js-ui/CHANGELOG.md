@@ -1,4 +1,7 @@
 # Changelog since v7.3.0
+- 📝 Clarify the Z-Wave integration setup instructions (#907) 
+- 📝 Remove unused forum-shield link reference from docs (#906) 
+- 📝 Drop outdated Supervisor wording from docs (#908) 
 - 👷 Migrate to workflows v3.0.0, clean up badges and bashio compatibility (#905) 
 - ⬆️ Update to Alpine 3.24 (base image 21.0.0) (#902) 
 - ⬆️ Update zwave-js/zwave-js-ui to v11.19.1 (#901)
