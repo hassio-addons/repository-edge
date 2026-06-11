@@ -1,4 +1,6 @@
 # Changelog since v6.1.3
+- 🔧 Remove non-functional NGINX OCSP stapling (#696) 
+- 🌐 Add English configuration translations (#697) 
 - 🐛 Fix AdGuard Home config schema version detection (#695) 
 - 🐛 Pass --verbose to AdGuard Home in debug mode (#694) 
 - 📝 Fix AdGuard Home documentation issues (#693) 
