@@ -1,4 +1,5 @@
 # Changelog since v6.1.3
+- 🔧 Workflow cleanup, release drafter restore, and bashio v0.18 compat (#691) 
 - ⬆️ Update to base image 21.0.0 (Alpine 3.24) (#690) 
 - ⬆️ Update AdguardTeam/AdGuardHome to v0.107.77 (#685) 
 - ⬆️ Update alpine_3_23/nginx to v1.28.3-r2 (#687) 
