@@ -1,4 +1,6 @@
 # Changelog since v7.3.0
+- 🔥 Remove non-functional log_level option (#910) 
+- 📝 Fix grammar in discovery success log message (#911) 
 - 📝 Clarify the Z-Wave integration setup instructions (#907) 
 - 📝 Remove unused forum-shield link reference from docs (#906) 
 - 📝 Drop outdated Supervisor wording from docs (#908) 
