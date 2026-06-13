@@ -1,4 +1,40 @@
 # Changelog since v0.28.1
+- ⬆️ Update App base image to v21 (#699)
+
+* ⬆️ Update App base image to v21
+
+* Update renovate.json also to Alpine v3.24
+
+* Update alpine_3_24/iptables to v1.8.13-r0 (#318)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
+* Update alpine_3_24/coreutils to v9.11-r0 (#319)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
+* Update alpine_3_24/dnsmasq to v2.92_p2-r0 (#320)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
+* Update alpine_3_24/nginx to v1.30.2-r1 (#321)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
+* Update alpine_3_24/ethtool to v7 (#322)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
+* Update alpine_3_24/iproute2 to v7 (#323)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+
+* downgrade networkmanager
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com> 
 - ⬆️ Update App base image to v20.2.0 (#698)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
