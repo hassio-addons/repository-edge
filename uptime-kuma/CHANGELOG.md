@@ -1,4 +1,5 @@
 # Changelog since v0.17.2
+- 📝 Polish README and documentation wording (#353) 
 - ⬆️ Upgrade to base image 21.0.0 (Alpine 3.24) (#351) 
 - ⬆️ Update cloudflare/cloudflared to v2026.6.0 (#349) 
 - ⬆️: migrate Renovate config (#350) 
