@@ -1,4 +1,7 @@
 # Changelog since v13.0.3
+- ⬆️ Update hassio-addons/workflows action to v3 (#232)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update App base image to v21 (#231)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
