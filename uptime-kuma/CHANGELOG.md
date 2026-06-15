@@ -1,4 +1,11 @@
 # Changelog since v0.17.2
+- ⬆️ Upgrade to base image 21.0.0 (Alpine 3.24) (#351) 
+- ⬆️ Update cloudflare/cloudflared to v2026.6.0 (#349) 
+- ⬆️: migrate Renovate config (#350) 
+- 🔧 Workflow cleanup, release drafter restore, and documentation improvements (#347) 
+- ⬆️ Update App base image to v20.2.0 (#348)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update louislam/uptime-kuma to v2.4.0 (#345) 
 - ⬆️ Update cloudflare/cloudflared to v2026.5.2 (#343) 
 - ⬆️ Update apprise to v1.11.0 (#344)
