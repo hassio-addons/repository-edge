@@ -1,4 +1,7 @@
 # Changelog since v13.0.3
+- ⬆️ Update App base image to v21 (#231)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#229) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#228)
 
