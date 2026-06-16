@@ -1,4 +1,10 @@
 # Changelog since v0.17.0
+- ⬆️ Update hassio-addons/workflows action to v3 (#362)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- ⬆️ Update App base image to v21 (#361)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#354)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
