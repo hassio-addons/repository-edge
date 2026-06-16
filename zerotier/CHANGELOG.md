@@ -1,4 +1,7 @@
 # Changelog since v0.25.2
+- ⬆️ Update hassio-addons/workflows action to v3 (#312)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update to base image v21.0.0 and Alpine 3.24 (#309) 
 - ⬆️ Update zerotier/ZeroTierOne to v1.16.2 (#308) 
 - ⬆️ Update alpine_3_23/cargo to v1.91.1-r2 (#307) 
