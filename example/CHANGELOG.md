@@ -1,4 +1,5 @@
 # Changelog since v13.0.3
+- 🐛 Fix quote selection bug and tidy example app sources (#233) 
 - ⬆️ Update hassio-addons/workflows action to v3 (#232)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
