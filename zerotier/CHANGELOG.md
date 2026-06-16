@@ -1,4 +1,7 @@
 # Changelog since v0.25.2
+- 🐛 Harden API auth token file handling (#314) 
+- 🧹 Fix comment typos and remove dead variable (#316) 
+- 📝 Fix incorrect option references in documentation (#315) 
 - ⬆️ Update hassio-addons/workflows action to v3 (#312)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
