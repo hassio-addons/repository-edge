@@ -1,4 +1,5 @@
 # Changelog since v0.17.0
+- Improve documentation (#367) 
 - Rename spotifyd service to librespot and drop unused config (#366) 
 - Remove username/password from translations (#365) 
 - Remove non-functional username/password login (#364) 
