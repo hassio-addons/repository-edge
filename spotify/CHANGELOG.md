@@ -1,4 +1,7 @@
 # Changelog since v0.17.0
+- Fix misleading librespot shutdown log message (#368)
+
+Co-authored-by: LenzGr <263427+LenzGr@users.noreply.github.com> 
 - Improve documentation (#367) 
 - Rename spotifyd service to librespot and drop unused config (#366) 
 - Remove username/password from translations (#365) 
