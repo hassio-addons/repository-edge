@@ -1,4 +1,5 @@
 # Changelog since v0.17.0
+- Remove non-functional username/password login (#364) 
 - ⬆️ Update hassio-addons/workflows action to v3 (#362)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
