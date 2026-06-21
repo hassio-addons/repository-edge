@@ -1,2 +1,2 @@
-# Changelog since v24.0.0
-- ⬆️ Update home-assistant/cli to v5.2.0 (#1084) 
+# Changelog since v24.0.1
+- ⬆️ Update alpine_3_24/lsblk to v2.42.1-r0 (#1086) 
