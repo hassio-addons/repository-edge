@@ -1,4 +1,7 @@
 # Changelog since v0.28.1
+- ⬆️ Update alpine_3_24/nginx to v1.30.3-r0 (#706)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update App base image to v21 (#699)
 
 * ⬆️ Update App base image to v21
