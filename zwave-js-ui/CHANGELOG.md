@@ -1,30 +1,8 @@
-# Changelog since v7.3.0
-- 🔥 Remove unused nginx ssl_params.conf (#912) 
-- 🔒 Disable legacy X-XSS-Protection filter (#913) 
-- 📝 Remove chat and community forum badges from add-on README (#909) 
-- 🔥 Remove non-functional log_level option (#910) 
-- 📝 Fix grammar in discovery success log message (#911) 
-- 📝 Clarify the Z-Wave integration setup instructions (#907) 
-- 📝 Remove unused forum-shield link reference from docs (#906) 
-- 📝 Drop outdated Supervisor wording from docs (#908) 
-- 👷 Migrate to workflows v3.0.0, clean up badges and bashio compatibility (#905) 
-- ⬆️ Update to Alpine 3.24 (base image 21.0.0) (#902) 
-- ⬆️ Update zwave-js/zwave-js-ui to v11.19.1 (#901)
+# Changelog since v7.4.0
+- ⬆️ Update zwave-js/zwave-js-ui to v11.21.1 (#914)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_23/nginx to v1.28.3-r3 (#900)
+- ⬆️ Update alpine_3_24/nginx to v1.30.3-r0 (#915)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update zwave-js/zwave-js-ui to v11.19.0 (#898)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_23/nginx to v1.28.3-r2 (#897)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update zwave-js/zwave-js-ui to v11.18.0 (#896)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#895) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#893)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/nodejs to v24.17.0-r0 (#916) 

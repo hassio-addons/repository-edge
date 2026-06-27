@@ -1,5 +1,5 @@
 name: Z-Wave JS UI
-version: e5d240e
+version: ff95cf3
 slug: zwavejs2mqtt
 description: Fully configurable Z-Wave JS gateway and control panel
 url: https://github.com/hassio-addons/app-zwave-js-ui
