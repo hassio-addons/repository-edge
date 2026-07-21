@@ -1,4 +1,7 @@
 # Changelog since v0.28.1
+- ⬆️ Update alpine_3_24/nginx to v1.30.4-r0 (#716)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update tailscale/tailscale to v1.98.8 (#711)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
