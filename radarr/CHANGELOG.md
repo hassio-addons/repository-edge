@@ -1,4 +1,5 @@
 # Changelog since v0.30.0
+- ⬆️ Update Radarr/Radarr to v6.3.0.10514 (#96) 
 - ⬆️ Update App base image to v20.2.0 (#95)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
