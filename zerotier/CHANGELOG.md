@@ -1,16 +1,2 @@
-# Changelog since v0.25.2
-- 🐛 Harden API auth token file handling (#314) 
-- 🧹 Fix comment typos and remove dead variable (#316) 
-- 📝 Fix incorrect option references in documentation (#315) 
-- ⬆️ Update hassio-addons/workflows action to v3 (#312)
-
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update to base image v21.0.0 and Alpine 3.24 (#309) 
-- ⬆️ Update zerotier/ZeroTierOne to v1.16.2 (#308) 
-- ⬆️ Update alpine_3_23/cargo to v1.91.1-r2 (#307) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#305)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#304)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v0.26.0
+- ⬆️ Update alpine_3_24/cargo to v1.96.1-r0 (#317) 
