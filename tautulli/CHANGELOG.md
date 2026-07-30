@@ -1,4 +1,7 @@
 # Changelog since v5.0.0
+- Bump setuptools from 80.10.2 to 83.0.0 in /tautulli (#442)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - ⬆️ Update plexapi to v4.18.2 (#438) 
 - ⬆️ Update plexapi to v4.18.0 (#435) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.2.0 (#434)
