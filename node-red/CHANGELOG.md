@@ -1,4 +1,6 @@
 # Changelog since v22.0.0
+- ⬆️ Update js-yaml to v5.2.2 [SECURITY] (#2251) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#2254) 
 - ⬆️ Update node-red-node-email to v5.2.5 (#2249) 
 - ⬆️ Update node-red to v5.0.2 (#2246) 
 - ⬆️ Update node-red-contrib-modbus to v5.60.1 (#2253) 
