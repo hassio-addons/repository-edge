@@ -1,20 +1,9 @@
-# Changelog since v0.17.2
-- 📝 Polish README and documentation wording (#353) 
-- ⬆️ Upgrade to base image 21.0.0 (Alpine 3.24) (#351) 
-- ⬆️ Update cloudflare/cloudflared to v2026.6.0 (#349) 
-- ⬆️: migrate Renovate config (#350) 
-- 🔧 Workflow cleanup, release drafter restore, and documentation improvements (#347) 
-- ⬆️ Update App base image to v20.2.0 (#348)
+# Changelog since v0.18.0
+- ⬆️ Update cloudflare/cloudflared to v2026.7.3 (#355) 
+- ⬆️ Update apprise to v1.12.0 (#357) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#361)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update louislam/uptime-kuma to v2.4.0 (#345) 
-- ⬆️ Update cloudflare/cloudflared to v2026.5.2 (#343) 
-- ⬆️ Update apprise to v1.11.0 (#344)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cloudflare/cloudflared to v2026.5.0 (#341)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#340)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/nodejs to v24.18.1-r0 (#360) 
+- ⬆️ Update alpine_3_24/setpriv to v2.42.1-r0 (#354) 
+- ⬆️ Update alpine_3_24/nodejs to v24.17.0-r0 (#356) 
