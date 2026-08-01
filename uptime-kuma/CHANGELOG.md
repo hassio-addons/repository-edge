@@ -1,4 +1,7 @@
 # Changelog since v0.18.0
+- ⬆️ Update louislam/uptime-kuma to v2.5.0 (#362)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2026.7.3 (#355) 
 - ⬆️ Update apprise to v1.12.0 (#357) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#361)
