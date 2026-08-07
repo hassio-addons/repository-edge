@@ -1,4 +1,7 @@
 # Changelog since v7.4.0
+- ⬆️ Update zwave-js/zwave-js-ui to v11.22.2 (#924)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#921)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
