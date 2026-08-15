@@ -1,4 +1,7 @@
 # Changelog since v0.18.0
+- ⬆️ Update alpine_3_24/python3 to v3.14.7-r1 (#367)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/python3 to v3.14.7-r0 (#365)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
