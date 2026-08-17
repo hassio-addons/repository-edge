@@ -1,4 +1,22 @@
 # Changelog since v0.28.1
+- ⬆️ Update hassio-addons/workflows action to v3 (#700)
+
+* ⬆️ Update hassio-addons/workflows action to v3
+
+* Partially revert "⬆️ Update hassio-addons/workflows action to v2.0.5 (#638)"
+
+This partially reverts commit 358ea5586102108a757086edd1ee0e1cbd4313c1.
+
+* Revert "add permissions to deploy.yaml also (#639)"
+
+This reverts commit cc3d0cfad1344ee123f1f9008580559b535ae886.
+
+* update relese drafter reference
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com> 
 - ⬆️ Update tailscale/tailscale to v1.102.2 (#725)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
