@@ -1,4 +1,10 @@
 # Changelog since v24.0.1
+- ⬆️ Update hassio-addons/workflows action to v3.0.1 (#1117) 
+- ⬆️ Update alpine_3_24/nano-syntax to v9.2-r0 (#1111) 
+- ⬆️ Update Python to v3.14.7-r1 (#1112) 
+- ⬆️ Update alpine_3_24/htop to v3.5.3-r0 (#1115) 
+- ⬆️ Update alpine_3_24/nano to v9.2-r0 (#1108) 
+- ⬆️ Update alpine_3_24/screen to v5.0.2-r0 (#1114) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#1102) 
 - ⬆️ Update alpine_3_24/bind-tools to v9.20.26-r0 (#1101) 
 - ⬆️ Update alpine_3_24/nano to v9.1-r0 (#1100) 
