@@ -1,4 +1,6 @@
 # Changelog since v24.0.1
+- ⬆️ Update home-assistant/cli to v5.3.1 (#1120) 
+- ⬆️ Update alpine_3_24/tmux to v3.7c-r0 (#1118) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#1119) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#1116) 
 - ⬆️ Update home-assistant/cli to v5.3.0 (#1110) 
