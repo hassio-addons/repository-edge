@@ -1,4 +1,5 @@
 # Changelog since v0.27.0
+- Repository maintenance: workflows, badges and Bashio compatibility (#444) 
 - Fix Repology mapping for the libpq5 apt pin (#440)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
