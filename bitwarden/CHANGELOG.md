@@ -1,4 +1,5 @@
 # Changelog since v0.27.0
+- ⬆️ Update vaultwarden/server Docker tag to v1.37.1 (#424) 
 - Repository maintenance: workflows, badges and Bashio compatibility (#444) 
 - Fix Repology mapping for the libpq5 apt pin (#440)
 
