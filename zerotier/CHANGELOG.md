@@ -1,4 +1,5 @@
 # Changelog since v0.26.0
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#322) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#321) 
 - ⬆️ Update hassio-addons/workflows action to v3.0.1 (#320) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#319) 
