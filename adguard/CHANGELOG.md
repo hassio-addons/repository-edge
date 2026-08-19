@@ -1,4 +1,6 @@
 # Changelog since v6.2.0
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#714) 
+- Add Hebrew translations for AdGuard configuration (#703) 
 - Fix translations for network ports (#707) 
 - ⬆️ Update hassio-addons/workflows action to v3.0.1 (#712) 
 - ⬆️ Update AdguardTeam/AdGuardHome to v0.107.79 (#713) 
