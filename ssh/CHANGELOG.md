@@ -1,4 +1,7 @@
 # Changelog since v24.0.1
+- ✨ Replace unmantained net-tools with iproute2 (#1092)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update home-assistant/cli to v5.3.1 (#1120) 
 - ⬆️ Update alpine_3_24/tmux to v3.7c-r0 (#1118) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#1119) 
