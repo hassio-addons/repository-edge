@@ -1,4 +1,5 @@
 # Changelog since v6.2.0
+- 🐛 Wait for host network before collecting AdGuard Home bind hosts (#717) 
 - 📝 Document how to reach the AdGuard Home API (#716) 
 - 🐛 Fix non-existent bashio::warning calls in schema migration warning (#715) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#714) 
