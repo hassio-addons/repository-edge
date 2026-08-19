@@ -1,4 +1,7 @@
 # Changelog since v6.2.0
+- Fix translations for network ports (#707) 
+- ⬆️ Update hassio-addons/workflows action to v3.0.1 (#712) 
+- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.79 (#713) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#711) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#710) 
 - ⬆️ Update AdguardTeam/AdGuardHome to v0.107.78 (#706) 
