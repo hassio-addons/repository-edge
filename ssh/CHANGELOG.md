@@ -1,20 +1,2 @@
-# Changelog since v24.0.1
-- ✨ Replace unmantained net-tools with iproute2 (#1092)
-
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update home-assistant/cli to v5.3.1 (#1120) 
-- ⬆️ Update alpine_3_24/tmux to v3.7c-r0 (#1118) 
-- 👷 Replace Repology with Alpine CDN datasource for package pins (#1119) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#1116) 
-- ⬆️ Update home-assistant/cli to v5.3.0 (#1110) 
-- ⬆️ Update hassio-addons/workflows action to v3.0.1 (#1117) 
-- ⬆️ Update alpine_3_24/nano-syntax to v9.2-r0 (#1111) 
-- ⬆️ Update Python to v3.14.7-r1 (#1112) 
-- ⬆️ Update alpine_3_24/htop to v3.5.3-r0 (#1115) 
-- ⬆️ Update alpine_3_24/nano to v9.2-r0 (#1108) 
-- ⬆️ Update alpine_3_24/screen to v5.0.2-r0 (#1114) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#1102) 
-- ⬆️ Update alpine_3_24/bind-tools to v9.20.26-r0 (#1101) 
-- ⬆️ Update alpine_3_24/nano to v9.1-r0 (#1100) 
-- ⬆️ Update alpine_3_24/nano-syntax to v9.1-r0 (#1089) 
-- ⬆️ Update alpine_3_24/lsblk to v2.42.1-r0 (#1086) 
+# Changelog since v24.1.0
+- 📝 Document connecting with Mosh (#1123) 
