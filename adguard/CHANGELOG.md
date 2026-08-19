@@ -1,4 +1,5 @@
 # Changelog since v6.2.0
+- 🐛 Fix non-existent bashio::warning calls in schema migration warning (#715) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#714) 
 - Add Hebrew translations for AdGuard configuration (#703) 
 - Fix translations for network ports (#707) 
