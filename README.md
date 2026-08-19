@@ -1027,10 +1027,10 @@ SOFTWARE.
 [sonarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sonarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sonarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-spotify]: https://github.com/hassio-addons/app-spotify-connect/tree/db0f70c
-[addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/db0f70c/README.md
+[addon-spotify]: https://github.com/hassio-addons/app-spotify-connect/tree/dc19af6
+[addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/dc19af6/README.md
 [spotify-issue]: https://github.com/hassio-addons/app-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-db0f70c-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-dc19af6-blue.svg
 [spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
