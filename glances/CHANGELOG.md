@@ -1,4 +1,8 @@
 # Changelog since v0.22.0
+- ♻️ Use bashio::app functions instead of deprecated bashio::addon (#652) 
+- 👷 Update workflows to v3.0.1, restore Release Drafter & tidy README (#651) 
+- ⬆️ Update fastapi to v0.141.1 (#637) 
+- ⬆️ Update uvicorn to v0.52.4 (#635) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#642)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
