@@ -1,4 +1,5 @@
 # Changelog since v0.25.1
+- 🐛 Give each PHP-FPM pool its own Grocy view cache (#560) 
 - Fix BaseUrl handling in patch for Grocy (#556) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#559) 
 - 👷 Update workflows to v3.0.1, restore Release Drafter & tidy README (#558) 
