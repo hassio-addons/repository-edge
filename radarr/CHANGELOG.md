@@ -1,4 +1,7 @@
 # Changelog since v0.30.0
+- ⬆️ Update alpine_3_23/sqlite-libs to v3.53.4-r0 (#101)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Radarr/Radarr to v6.3.0.10514 (#96) 
 - ⬆️ Update App base image to v20.2.0 (#95)
 
