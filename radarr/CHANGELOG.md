@@ -1,4 +1,5 @@
 # Changelog since v0.30.0
+- 👷 Update workflows to v3.0.1, restore Release Drafter & tidy README (#102) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#97)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
