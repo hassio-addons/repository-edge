@@ -1,4 +1,7 @@
 # Changelog since v0.22.0
+- Fix InfluxDB export broken in Glances v4 (#639)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update glances to v4.5.6 [SECURITY] (#646) 
 - ⬆️ Update zeroconf to v0.150.0 (#653) 
 - ⬆️ Update zeroconf to v0.149.16 [SECURITY] (#638) 
