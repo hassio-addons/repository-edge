@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#742) 
 - Repository maintenance and add-ons to apps rename preparation (#741)
 
 * Generic repository maintenance updates
