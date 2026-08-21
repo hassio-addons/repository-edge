@@ -1,16 +1,5 @@
-# Changelog since v6.2.0
-- 🐛 Wait for host network before collecting AdGuard Home bind hosts (#717) 
-- 📝 Document how to reach the AdGuard Home API (#716) 
-- 🐛 Fix non-existent bashio::warning calls in schema migration warning (#715) 
-- 👷 Replace Repology with Alpine CDN datasource for package pins (#714) 
-- Add Hebrew translations for AdGuard configuration (#703) 
-- Fix translations for network ports (#707) 
-- ⬆️ Update hassio-addons/workflows action to v3.0.1 (#712) 
-- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.79 (#713) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#711) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.1 (#710) 
-- ⬆️ Update AdguardTeam/AdGuardHome to v0.107.78 (#706) 
-- ⬆️ Update alpine_3_24/nginx to v1.30.4-r1 (#708) 
-- ⬆️ Update alpine_3_24/nginx to v1.30.4-r0 (#702) 
-- 🔒 Improve NGINX response headers (#700) 
-- 🚿 Tidy up NGINX service scripts (#701) 
+# Changelog since v6.2.1
+- ⬆️ Update hassio-addons/workflows action to v4 (#719)
+
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
