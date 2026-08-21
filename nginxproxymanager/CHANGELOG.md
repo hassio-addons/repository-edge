@@ -1,4 +1,7 @@
 # Changelog since v2.1.0
+- ⬆️ Update Nginx Proxy Manager to v2.15.1 (#743)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#742) 
 - Repository maintenance and add-ons to apps rename preparation (#741)
 
