@@ -1,4 +1,5 @@
 # Changelog since v0.28.1
+- Write userspace_networking as a boolean, not a string (#739) 
 - Fix forwarding for local tailnet connections (#663)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
