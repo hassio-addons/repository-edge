@@ -1,4 +1,7 @@
 # Changelog since v12.1.0
+- ⬆️ Update grafana/grafana to v13 (#502)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Use the bashio app namespace instead of the deprecated addon aliases (#520) 
 - Track Debian apt pins with the Renovate deb datasource (#519) 
 - 🔨 Repository maintenance and Add-on to App rename (#518) 
