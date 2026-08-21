@@ -1,4 +1,6 @@
 # Changelog since v0.8.0
+- 🔧 Migrate to workflows v3.0.1 and restore the release drafter (#135) 
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#134) 
 - 🔨 Use bashio::app.* instead of deprecated bashio::addon.* (#133) 
 - 🔧 Remove lock and stale workflows, clean up README badges (#132) 
 - ⬆️ Update sabnzbd/sabnzbd to v5.1.1 (#120) 
