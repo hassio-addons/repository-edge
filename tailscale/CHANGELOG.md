@@ -1,4 +1,5 @@
 # Changelog since v0.28.1
+- Adopt Bashio 0.19 APIs and drop local workarounds (#738) 
 - Revert "add export LOG_FD to each script (#568)" (#614)
 
 This reverts commit aa49672809d0d50da12d7e4ff521a4a92697783b. 
