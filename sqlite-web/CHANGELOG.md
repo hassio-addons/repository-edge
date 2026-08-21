@@ -1,4 +1,7 @@
 # Changelog since v6.0.1
+- ⬆️ Update sqlite-web to v0.8.0 (#410) 
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#413) 
+- 🔨 Modernize workflows, tidy README badges and adopt bashio::app (#412) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#408)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
