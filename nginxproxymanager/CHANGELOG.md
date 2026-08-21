@@ -1,4 +1,16 @@
 # Changelog since v2.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#696)
+
+* ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21
+
+* ⬆️ Update Alpine packages for Alpine 3.24
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Remove deprecated codenotary fields and resolve shellcheck findings (#740) 
+- Drop support for the armv7 architecture (#739) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.2.0 (#693)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
