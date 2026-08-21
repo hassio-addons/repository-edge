@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#88) 
 - ⬆️ Update alpine_3_23/sqlite-libs to v3.53.4-r0 (#92)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
