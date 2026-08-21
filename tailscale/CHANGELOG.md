@@ -1,4 +1,7 @@
 # Changelog since v0.28.1
+- Revert "add export LOG_FD to each script (#568)" (#614)
+
+This reverts commit aa49672809d0d50da12d7e4ff521a4a92697783b. 
 - Remove lock and stale workflows, drop architecture and chat badges (#737) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#736) 
 - ⬆️ Update tailscale/tailscale to v1.102.3 (#735)
