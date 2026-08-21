@@ -63,6 +63,7 @@ advertise_tags:
 always_use_derp: false
 exit_node: 100.101.102.103
 log_level: info
+log_upload: false
 login_server: "https://controlplane.tailscale.com"
 share_homeassistant: disabled
 share_on_port: 443
@@ -220,10 +221,10 @@ node is specified. This is required by the Home Assistant environment.
 
 ### Option: `log_level`
 
-Optionally enable tailscaled debug messages in the app's log. Turn it on only
+Optionally enable all tailscaled debug messages in the app's log. Turn it on only
 in case you are troubleshooting, because Tailscale's daemon is quite chatty. If
-`log_level` is set to `info` or less severe level, the app also opts out of
-client log upload to log.tailscale.io.
+`log_level` is set to `info` or less severe level, tailscaled logs will be
+suppressed after 200 lines.
 
 The `log_level` option controls the level of log output by the app and can
 be changed to be more or less verbose, which might be useful when you are
@@ -241,6 +242,16 @@ Please note that each level automatically includes log messages from a
 more severe level, e.g., `debug` also shows `info` messages. By default,
 the `log_level` is set to `info`, which is the recommended setting unless
 you are troubleshooting.
+
+### Option: `log_upload`
+
+Controls Tailscale's client log upload to log.tailscale.com. Enable it if your
+tailnet policy requires client log upload, otherwise Tailscale and the app can
+refuse to start.
+
+**Note:** When disabled, turns on Tailscale's `--no-logs-no-support` flag.
+
+This option is disabled by default.
 
 ### Option: `login_server`
 

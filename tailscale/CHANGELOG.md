@@ -1,4 +1,10 @@
 # Changelog since v0.28.1
+- Force reauthentication when tailscale explicitly complains about login server change (#673)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Add log_upload config option to configure log upload separately from local app log level (#681)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Allow serving / funneling even if HA is set up with HTTPS/SSL (#702)
 
 Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com>
