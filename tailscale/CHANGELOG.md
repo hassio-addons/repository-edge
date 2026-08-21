@@ -1,4 +1,5 @@
 # Changelog since v0.28.1
+- Redirect LOG_FD also when suppressing log messages (#669) 
 - Adopt Bashio 0.19 APIs and drop local workarounds (#738) 
 - Revert "add export LOG_FD to each script (#568)" (#614)
 
