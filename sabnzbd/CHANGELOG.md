@@ -1,4 +1,5 @@
 # Changelog since v0.8.0
+- 🐛 Fix ingress access when Home Assistant uses a non-local hostname (#136) 
 - 🔧 Migrate to workflows v3.0.1 and restore the release drafter (#135) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#134) 
 - 🔨 Use bashio::app.* instead of deprecated bashio::addon.* (#133) 
