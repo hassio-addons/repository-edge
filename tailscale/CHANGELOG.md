@@ -1,4 +1,5 @@
 # Changelog since v0.28.1
+- Properly handle failure during service startup (#729) 
 - Graceful shutdown on SIGTERM caused by manual app stop (#703) 
 - Redirect LOG_FD also when suppressing log messages (#669) 
 - Adopt Bashio 0.19 APIs and drop local workarounds (#738) 
