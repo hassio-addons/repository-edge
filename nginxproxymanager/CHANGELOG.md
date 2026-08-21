@@ -1,4 +1,9 @@
 # Changelog since v2.1.0
+- Repository maintenance and add-ons to apps rename preparation (#741)
+
+* Generic repository maintenance updates
+
+* Prepare for the Home Assistant add-ons to apps rename 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#696)
 
 * ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21
