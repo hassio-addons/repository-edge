@@ -1,2 +1,6 @@
 # Changelog since v0.19.0
+- ⬆️ Update hassio-addons/workflows action to v4 (#373)
+
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
 - ⬆️ Update apprise to v1.13.0 (#372) 
