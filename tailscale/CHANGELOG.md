@@ -1,4 +1,8 @@
 # Changelog since v0.28.1
+- Allow serving / funneling even if HA is set up with HTTPS/SSL (#702)
+
+Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Rename the `addons` and `addon_configs` Taildrive shares to `local_apps` and `app_configs` to match Home Assistant's app terminology - config is automatically updated (#722)
 
 Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>

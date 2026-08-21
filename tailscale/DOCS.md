@@ -287,8 +287,13 @@ instead.
 
 1. Configure Home Assistant to be accessible through an HTTP connection (this is
    the default). See [HTTP integration documentation][http_integration] for more
-   information. If you still want to use another HTTPS connection to access Home
-   Assistant, please use a reverse proxy app.
+   information.
+
+   **Note:** If you want to use another HTTPS connection to access Home
+   Assistant, though Tailscale can access Home Assistant even if Home Assistant
+   is using SSL and is accessible through an HTTPS connection, please use a
+   reverse proxy app for that HTTPS connection instead of configuring Home
+   Assistant to use SSL.
 
 1. Home Assistant, by default, blocks requests from reverse proxies, like the
    Tailscale Serve. To enable it, add the following lines to your
