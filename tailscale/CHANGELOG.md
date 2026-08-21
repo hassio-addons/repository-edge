@@ -1,4 +1,7 @@
 # Changelog since v0.28.1
+- Refactor slow activities from nm-dispatcher script into separate listener service (#680)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Refactor MagicDNS support to properly handle appconnectors and exit nodes (#667)
 
 Co-authored-by: Copilot Autofix powered by AI <175728472+Copilot@users.noreply.github.com>
