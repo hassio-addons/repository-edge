@@ -1,4 +1,5 @@
 # Changelog since v0.28.1
+- Remove lock and stale workflows, drop architecture and chat badges (#737) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#736) 
 - ⬆️ Update tailscale/tailscale to v1.102.3 (#735)
 
