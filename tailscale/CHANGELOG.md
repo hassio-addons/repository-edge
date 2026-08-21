@@ -1,4 +1,9 @@
 # Changelog since v0.28.1
+- Refactor MagicDNS support to properly handle appconnectors and exit nodes (#667)
+
+Co-authored-by: Copilot Autofix powered by AI <175728472+Copilot@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev>
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - In case of invalid networking DNS settings disable MagicDNS to enable the app to start up (#662) 
 - Properly handle failure during service startup (#729) 
 - Graceful shutdown on SIGTERM caused by manual app stop (#703) 
