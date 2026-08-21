@@ -1,4 +1,6 @@
 # Changelog since v0.8.0
+- 🔨 Use bashio::app.* instead of deprecated bashio::addon.* (#133) 
+- 🔧 Remove lock and stale workflows, clean up README badges (#132) 
 - ⬆️ Update sabnzbd/sabnzbd to v5.1.1 (#120) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#124)
 
