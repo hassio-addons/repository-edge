@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- Drop modclean from the image build (#748) 
 - Harden and quiet the image build (#747) 
 - Harden the service initialisation scripts (#746) 
 - Remove dead code and unused configuration (#745) 
