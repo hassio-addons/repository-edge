@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- Fix broken links, stale badges and product name capitalisation (#744) 
 - ⬆️ Update Nginx Proxy Manager to v2.15.1 (#743)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
