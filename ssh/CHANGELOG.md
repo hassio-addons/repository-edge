@@ -1,6 +1,10 @@
-# Changelog since v24.1.0
-- ⬆️ Update hassio-addons/workflows action to v4 (#1124)
+## What’s changed
 
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
-- 📝 Document connecting with Mosh (#1123) 
+## 📚 Documentation
+
+- 📝 Document connecting with Mosh @frenck ([#1123](https://github.com/hassio-addons/app-ssh/pull/1123))
+
+## ⬆️ Dependency updates
+
+- ⬆️ Update hassio-addons/workflows action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#1124](https://github.com/hassio-addons/app-ssh/pull/1124))
+- ⬆️ Update alpine_3_24/sqlite to v3.53.4-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#1125](https://github.com/hassio-addons/app-ssh/pull/1125))
