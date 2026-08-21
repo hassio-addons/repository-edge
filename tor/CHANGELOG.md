@@ -1,4 +1,7 @@
 # Changelog since v8.0.0
+- Add automatic Home Assistant port mapping (#331)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#333) 
 - 👷 Update workflows to v3.0.1, restore Release Drafter & tidy README (#332) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#321)
