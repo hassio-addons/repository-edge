@@ -1,4 +1,8 @@
 # Changelog since v0.28.1
+- Add support for advertising Tailscale Services (#715)
+
+Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Change options default value and name to align with stock Tailscale's platform-specific behavior - config is automatically updated!!! (#585)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl>

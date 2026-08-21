@@ -79,6 +79,41 @@ configuration:
       internet.
       Only ports 443, 8443, and 10000 are allowed by Tailscale.
       Port 443 is used by default.
+  services:
+    name: Service hosts
+    description: >-
+      This option allows you to advertise other local services running on this
+      device as Tailscale Services. Each service needs a name, a local target
+      address, a protocol, and a port to expose it on.
+      This option is disabled by default.
+    fields:
+      name:
+        name: Service name
+        description: >-
+          Must include the `svc:` prefix.
+      target:
+        name: Target
+        description: >-
+          Must be a local address reachable from this app. Use `http://` or
+          `https://` targets for HTTP/HTTPS protocols, and `tcp://` targets for TCP and
+          tls-terminated-tcp protocols, for example `http://127.0.0.1:13378`.
+      protocol:
+        name: Protocol
+        description: >-
+          The protocol by which the target will be presented.
+          Note: For `https` and `tls-terminated-tcp` protocols you must enable
+          MagicDNS and HTTPS certificates for your tailnet on the DNS
+          page of the admin console first. Once enabled, Tailscale
+          automatically provisions a TLS certificate for the service.
+      port:
+        name: Port
+        description: >-
+          The port where the target will be exposed.
+      path:
+        name: Path
+        description: >-
+          The path where the target will be exposed.
+          Optional, defaults to `/`, and can be used only for the HTTP/HTTPS protocols.
   snat_subnet_routes:
     name: Source NAT subnet routes
     description: >-
