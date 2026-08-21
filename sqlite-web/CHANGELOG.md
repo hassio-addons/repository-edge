@@ -1,23 +1,5 @@
-# Changelog since v6.0.1
-- ⬆️ Update sqlite-web to v0.8.0 (#410) 
-- 👷 Replace Repology with Alpine CDN datasource for package pins (#413) 
-- 🔨 Modernize workflows, tidy README badges and adopt bashio::app (#412) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#408)
+# Changelog since v6.1.0
+- ⬆️ Update hassio-addons/workflows action to v4 (#414)
 
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update alpine_3_23/nginx to v1.28.3-r1 (#405) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#403)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#402)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#401)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.3 (#399)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_23/python3 to v3.12.13-r0 (#400)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
