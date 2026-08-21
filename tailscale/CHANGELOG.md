@@ -1,4 +1,5 @@
 # Changelog since v0.28.1
+- Point the AppArmor profile at the S6 v3 service paths (#741) 
 - ⬆️ Update hassio-addons/workflows action to v4 (#740) 
 - Write userspace_networking as a boolean, not a string (#739) 
 - Fix forwarding for local tailnet connections (#663)
