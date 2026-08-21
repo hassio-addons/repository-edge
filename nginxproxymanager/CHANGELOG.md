@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- Document ports, storage and troubleshooting; add a .gitignore (#750) 
 - Reconcile the certbot log directory and cap log retention (#749) 
 - Drop modclean from the image build (#748) 
 - Harden and quiet the image build (#747) 
