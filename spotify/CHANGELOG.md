@@ -1,6 +1,5 @@
-# Changelog since v0.18.0
-- 👷 Replace Repology with Alpine CDN datasource for package pins (#382) 
-- Add access_token option (#370) 
-- ⬆️ Update hassio-addons/workflows action to v3.0.1 (#381) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 (#377) 
-- ⬆️ Update alpine_3_24/cargo to v1.96.1-r0 (#380) 
+# Changelog since v0.19.0
+- ⬆️ Update hassio-addons/workflows action to v4 (#383)
+
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
