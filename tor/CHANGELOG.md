@@ -1,16 +1,5 @@
-# Changelog since v8.0.0
-- Add automatic Home Assistant port mapping (#331)
+# Changelog since v8.1.0
+- ⬆️ Update hassio-addons/workflows action to v4 (#334)
 
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- 👷 Replace Repology with Alpine CDN datasource for package pins (#333) 
-- 👷 Update workflows to v3.0.1, restore Release Drafter & tidy README (#332) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#321)
-
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update alpine_3_23/go to v1.25.10-r0 (#317) 
-- ⬆️ Update alpine_3_23/openssl to v3.5.7-r0 (#324) 
-- ⬆️ Update alpine_3_23/tor to v0.4.9.8-r0 (#316) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#315) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#314)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
