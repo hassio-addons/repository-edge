@@ -15,7 +15,7 @@ It is free to use for personal & hobby projects, up to 100 clients/devices on a
 single user account. Sign up using your Google, Microsoft or GitHub account at
 the following URL:
 
-<https://login.tailscale.com/start>
+https://tailscale.com/start
 
 You can also create an account during the app installation processes,
 however, it is nice to know where you need to go later on.
@@ -46,7 +46,12 @@ device. See [Key expiry][tailscale_info_key_expiry] for more information.
 Logging in to Tailscale, you can configure your Tailscale network right from
 their interface.
 
-<https://login.tailscale.com/>
+https://console.tailscale.com/
+
+**Note:** _Remember to restart the app when the configuration is changed._
+
+**Note:** _This is just an example, not even the default, don't copy and paste
+it! Create your own!_
 
 ```yaml
 accept_dns: true
@@ -274,6 +279,10 @@ This can prevent browsers from warning that HTTP URLs to your Home Assistant
 instance look unencrypted (browsers are not aware that the connections between
 Tailscale nodes are secured with end-to-end encryption).
 
+**Note:** Tailscale Serve and Funnel will automatically update the certificate
+before expiration, unlike the `tailscale cert` command. Follow the steps in this
+documentation below to set up Serve or Funnel properly.
+
 With the Tailscale Serve feature, you can access your Home Assistant instance
 with the provided certificate within your tailnet from devices already connected
 to your tailnet.
@@ -328,7 +337,7 @@ instead.
 1. Optionally, if you want to use Tailscale Funnel, navigate to the [Access
    controls page][tailscale_acls] of the admin console:
    - Add the required `funnel` node attribute to the tailnet policy file. See
-     [Tailnet policy file requirement][tailscale_info_funnel_policy_requirement]
+     [Funnel node attribute][tailscale_info_funnel_node_attribute]
      for more information.
 
 1. Restart the app.
@@ -607,13 +616,13 @@ SOFTWARE.
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/app-tailscale/releases
 [semver]: https://semver.org/spec/v2.0.0.html
-[tailscale_acls]: https://login.tailscale.com/admin/acls
-[tailscale_dns]: https://login.tailscale.com/admin/dns
+[tailscale_acls]: https://console.tailscale.com/admin/acls
+[tailscale_dns]: https://console.tailscale.com/admin/dns
 [tailscale_info_app_connectors]: https://tailscale.com/docs/features/app-connectors
 [tailscale_info_dns]: https://tailscale.com/docs/reference/dns-in-tailscale
 [tailscale_info_exit_nodes]: https://tailscale.com/docs/features/exit-nodes
 [tailscale_info_funnel]: https://tailscale.com/docs/features/tailscale-funnel
-[tailscale_info_funnel_policy_requirement]: https://tailscale.com/docs/features/tailscale-funnel#requirements-and-limitations
+[tailscale_info_funnel_node_attribute]: https://tailscale.com/docs/features/tailscale-funnel#funnel-node-attribute
 [tailscale_info_https]: https://tailscale.com/docs/how-to/set-up-https-certificates
 [tailscale_info_key_expiry]: https://tailscale.com/docs/features/access-control/key-expiry
 [tailscale_info_magicdns]: https://tailscale.com/docs/features/magicdns
@@ -627,5 +636,5 @@ SOFTWARE.
 [tailscale_info_taildrive]: https://tailscale.com/docs/features/taildrive
 [tailscale_info_taildrop]: https://tailscale.com/docs/features/taildrop
 [tailscale_info_userspace_networking]: https://tailscale.com/docs/concepts/userspace-networking
-[tailscale_machines]: https://login.tailscale.com/admin/machines
+[tailscale_machines]: https://console.tailscale.com/admin/machines
 [tailscale_services]: https://console.tailscale.com/admin/services

@@ -1,4 +1,10 @@
 # Changelog since v0.28.1
+- Update documentation links and extend error messages (#708)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
+- Update Docs, add notes for general and serve/funnel configuration (#671)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Force reauthentication when tailscale explicitly complains about login server change (#673)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
