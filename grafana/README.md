@@ -1,8 +1,6 @@
-# Home Assistant Community Add-on: Grafana
+# Home Assistant Community App: Grafana
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
-
-[![Discord][discord-shield]][discord] [![Community Forum][forum-shield]][forum]
 
 [![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
 
@@ -19,15 +17,15 @@ no matter where they are stored. Create, explore, and share dashboards. Learn
 about your Home Automation system using sexy and compelling graphs, and other
 data visualizations.
 
-Combine this add-on with the InfluxDB add-on to get insanely powerful
+Combine this app with the InfluxDB app to get insanely powerful
 insights to your home.
 
 ![Grafana in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -36,23 +34,21 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-grafana/54674?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-faad4ed-blue.svg
-[release]: https://github.com/hassio-addons/addon-grafana/tree/faad4ed
-[screenshot]: https://github.com/hassio-addons/addon-grafana/raw/main/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-0463d4e-blue.svg
+[release]: https://github.com/hassio-addons/app-grafana/tree/0463d4e
+[screenshot]: https://github.com/hassio-addons/app-grafana/raw/main/images/screenshot.png
