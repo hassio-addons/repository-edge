@@ -1,4 +1,8 @@
 # Changelog since v0.28.1
+- Change options default value and name to align with stock Tailscale's platform-specific behavior - config is automatically updated!!! (#585)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Refactor slow activities from nm-dispatcher script into separate listener service (#680)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
