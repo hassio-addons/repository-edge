@@ -1,4 +1,5 @@
 # Changelog since v0.28.1
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#736) 
 - ⬆️ Update tailscale/tailscale to v1.102.3 (#735)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
