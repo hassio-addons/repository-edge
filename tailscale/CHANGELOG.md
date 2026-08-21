@@ -1,4 +1,7 @@
 # Changelog since v0.28.1
+- Update docs to refer to the new networking UI in HA v2026.8 to configure http integration (#727)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Update documentation links and extend error messages (#708)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
