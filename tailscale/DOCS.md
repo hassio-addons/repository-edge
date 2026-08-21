@@ -75,8 +75,8 @@ services:
 snat_subnet_routes: true
 stateful_filtering: false
 taildrive:
-  addons: false
-  addon_configs: false
+  local_apps: false
+  app_configs: false
   backup: false
   config: false
   media: false

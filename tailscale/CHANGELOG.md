@@ -1,4 +1,8 @@
 # Changelog since v0.28.1
+- Rename the `addons` and `addon_configs` Taildrive shares to `local_apps` and `app_configs` to match Home Assistant's app terminology - config is automatically updated (#722)
+
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Add support for advertising Tailscale Services (#715)
 
 Co-authored-by: Laszlo Magyar <lmagyar1973@gmail.com>
