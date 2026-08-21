@@ -1,4 +1,5 @@
 # Changelog since v12.1.0
+- Track Debian apt pins with the Renovate deb datasource (#519) 
 - 🔨 Repository maintenance and Add-on to App rename (#518) 
 - ⬆️ Update Add-on base image to v9.4.0 (#493)
 
