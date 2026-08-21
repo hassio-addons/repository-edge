@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- Harden the service initialisation scripts (#746) 
 - Remove dead code and unused configuration (#745) 
 - Fix broken links, stale badges and product name capitalisation (#744) 
 - ⬆️ Update Nginx Proxy Manager to v2.15.1 (#743)
