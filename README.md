@@ -874,10 +874,10 @@ SOFTWARE.
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [glances-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [glances-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-grafana]: https://github.com/hassio-addons/app-grafana/tree/635017c
-[addon-doc-grafana]: https://github.com/hassio-addons/app-grafana/blob/635017c/README.md
+[addon-grafana]: https://github.com/hassio-addons/app-grafana/tree/8fc5f5e
+[addon-doc-grafana]: https://github.com/hassio-addons/app-grafana/blob/8fc5f5e/README.md
 [grafana-issue]: https://github.com/hassio-addons/app-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-635017c-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-8fc5f5e-blue.svg
 [grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

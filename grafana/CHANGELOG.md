@@ -1,4 +1,5 @@
 # Changelog since v12.1.0
+- Remove image rendering support (#521) 
 - ⬆️ Update grafana/grafana to v13 (#502)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
