@@ -41,14 +41,12 @@ If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
-[discord]: https://discord.me/hassioaddons
-[forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-grafana/54674?u=frenck
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-5144e5a-blue.svg
-[release]: https://github.com/hassio-addons/app-grafana/tree/5144e5a
+[release-shield]: https://img.shields.io/badge/version-f151887-blue.svg
+[release]: https://github.com/hassio-addons/app-grafana/tree/f151887
 [screenshot]: https://github.com/hassio-addons/app-grafana/raw/main/images/screenshot.png
