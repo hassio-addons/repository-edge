@@ -1,4 +1,5 @@
 # Changelog since v12.1.0
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#528) 
 - Drop the InfluxDB add-on links from the documentation (#527) 
 - Own .github subdirectories and drop the unused mdl config (#526) 
 - Use the non-deprecated grafana server and grafana cli subcommands (#524) 
