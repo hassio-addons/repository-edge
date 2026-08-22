@@ -1,4 +1,5 @@
 # Changelog since v12.1.0
+- Drop the unused musl package pin (#523) 
 - Quality sweep: docs, grammar and script consistency (#522) 
 - Remove image rendering support (#521) 
 - ⬆️ Update grafana/grafana to v13 (#502)
