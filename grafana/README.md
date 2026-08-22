@@ -18,14 +18,14 @@ about your Home Automation system using sexy and compelling graphs, and other
 data visualizations.
 
 Combine this app with the InfluxDB app to get insanely powerful
-insights to your home.
+insights into your home.
 
 ![Grafana in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
 This Home Assistant Apps repository contains edge builds of apps.
-Edge builds apps are based upon the latest development version.
+Edge builds are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -49,6 +49,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-8fc5f5e-blue.svg
-[release]: https://github.com/hassio-addons/app-grafana/tree/8fc5f5e
+[release-shield]: https://img.shields.io/badge/version-a8cfacf-blue.svg
+[release]: https://github.com/hassio-addons/app-grafana/tree/a8cfacf
 [screenshot]: https://github.com/hassio-addons/app-grafana/raw/main/images/screenshot.png
