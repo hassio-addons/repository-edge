@@ -1,4 +1,5 @@
 # Changelog since v0.19.0
+- ⬆️ Update louislam/uptime-kuma to v2.5.3 (#374) 
 - ⬆️ Update hassio-addons/workflows action to v4 (#373)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>

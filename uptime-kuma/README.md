@@ -42,5 +42,5 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-eb20d9c-blue.svg
-[release]: https://github.com/hassio-addons/app-uptime-kuma/tree/eb20d9c
+[release-shield]: https://img.shields.io/badge/version-774542b-blue.svg
+[release]: https://github.com/hassio-addons/app-uptime-kuma/tree/774542b
