@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- 🐛 Wait for MariaDB instead of failing on the first attempt (#278) 
 - 🔨 Prepare for the add-on to app rename (#277) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#276) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#262)
