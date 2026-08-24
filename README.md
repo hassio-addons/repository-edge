@@ -647,7 +647,7 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras
 ![Supports amd64 Architecture][phpmyadmin-amd64-shield]
 ![Supports i386 Architecture][phpmyadmin-i386-shield]
 
-A web interface for the official MariaDB add-on
+A web interface for the official MariaDB app
 
 [:books: phpMyAdmin app documentation][addon-doc-phpmyadmin]
 
@@ -1180,9 +1180,9 @@ SOFTWARE.
 [motioneye-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [motioneye-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [motioneye-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/tree/5d555b3
-[addon-doc-phpmyadmin]: https://github.com/hassio-addons/addon-phpmyadmin/blob/5d555b3/README.md
-[phpmyadmin-issue]: https://github.com/hassio-addons/addon-phpmyadmin/issues
+[addon-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/tree/5d555b3
+[addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/5d555b3/README.md
+[phpmyadmin-issue]: https://github.com/hassio-addons/app-phpmyadmin/issues
 [phpmyadmin-version-shield]: https://img.shields.io/badge/version-5d555b3-blue.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
