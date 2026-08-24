@@ -1,4 +1,8 @@
 # Changelog since v5.0.0
+- 🧹 Assorted cleanups across the repository (#454) 
+- 🔥 Remove leftovers from the dropped configuration options (#453) 
+- 🐛 Fix operator precedence in the Dockerfile cleanup find (#452) 
+- 🔥 Drop unused Python dependencies and the build toolchain (#451) 
 - ⬆️ Update Tautulli/Tautulli to v2.17.2 (#450) 
 - ⬆️ Update setuptools to v84 (#444) 
 - 👷 Track Debian apt pins with the deb datasource and fix the Tautulli pin (#449) 

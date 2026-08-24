@@ -68,7 +68,7 @@ panel_iframe:
   tautulli:
     title: Tautulli
     icon: mdi:filmstrip
-    url: http://addres.to.your.home.assistant:8181
+    url: http://address.to.your.home.assistant:8181
 ```
 
 ## Changelog & Releases
