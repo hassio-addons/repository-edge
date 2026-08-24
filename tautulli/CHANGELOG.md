@@ -1,4 +1,5 @@
 # Changelog since v5.0.0
+- ⬆️ Update Tautulli/Tautulli to v2.17.2 (#450) 
 - ⬆️ Update setuptools to v84 (#444) 
 - 👷 Track Debian apt pins with the deb datasource and fix the Tautulli pin (#449) 
 - 🔧 Rename add-on to app, modernize workflows, and refresh project docs (#448) 
