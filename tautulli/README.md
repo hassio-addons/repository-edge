@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Tautulli
+# Home Assistant Community App: Tautulli
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -21,8 +21,8 @@ graphs, which makes it easy to brag about your server to everyone else.
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -31,10 +31,10 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
@@ -42,8 +42,8 @@ If you are more interested in stable releases of our add-ons:
 [discord]: https://discord.gg/c5DvZ4e
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-tautulli/68745
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-1a32e14-blue.svg
-[release]: https://github.com/hassio-addons/addon-tautulli/tree/1a32e14
-[screenshot]: https://github.com/hassio-addons/addon-tautulli/raw/main/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-eb49ec0-blue.svg
+[release]: https://github.com/hassio-addons/addon-tautulli/tree/eb49ec0
+[screenshot]: https://github.com/hassio-addons/app-tautulli/raw/main/images/screenshot.png

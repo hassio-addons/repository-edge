@@ -1,8 +1,8 @@
 name: Tautulli
-version: 1a32e14
+version: eb49ec0
 slug: tautulli
 description: Monitoring and tracking tool for Plex Media Server
-url: https://github.com/hassio-addons/addon-tautulli/tree/main/README.md
+url: https://github.com/hassio-addons/app-tautulli/tree/main/README.md
 webui: '[PROTO:ssl]://[HOST]:[PORT:8181]'
 arch:
 - aarch64

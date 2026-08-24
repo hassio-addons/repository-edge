@@ -3,7 +3,7 @@ configuration:
   log_level:
     name: Log level
     description: >-
-      Controls the level of log details the add-on provides.
+      Controls the level of log details the app provides.
   username:
     name: Username
     description: >-
@@ -30,7 +30,7 @@ configuration:
     name: Leave front door open
     description: >-
       When enabled, this option disables the username/password authentication
-      on the add-on. It is STRONGLY suggested not to use this option.
+      on the app. It is STRONGLY suggested not to use this option.
       USE AT YOUR OWN RISK!
 network:
   8181/tcp: Web interface

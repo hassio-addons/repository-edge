@@ -1,4 +1,6 @@
 # Changelog since v5.0.0
+- 🔧 Rename add-on to app, modernize workflows, and refresh project docs (#448) 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.4.0 (#446) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.3.0 (#439) 
 - Bump setuptools from 80.10.2 to 83.0.0 in /tautulli (#442)
 
