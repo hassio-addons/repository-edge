@@ -1,4 +1,7 @@
 # Changelog since v0.7.2
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#90)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.3 (#89) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.2 (#88)
 
