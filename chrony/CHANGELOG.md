@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- 👷 Prepare for the apps rename and modernize the repository (#221) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#218)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
