@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- 🐛 Make Traccar start again on 6.x (#374) 
 - 🚀 Prepare for Apps rename and catch up on maintenance (#373) 
 - ⬆️ Update traccar/traccar to v6.15.2 (#356) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#372) 
