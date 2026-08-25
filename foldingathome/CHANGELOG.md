@@ -1,4 +1,5 @@
 # Changelog since v0.7.2
+- Track fah-client releases with the Renovate custom datasource (#96) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#90)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
