@@ -1,8 +1,8 @@
 name: Traccar
-version: b368783
+version: ca1aedf
 slug: traccar
 description: Modern GPS Tracking Platform
-url: https://github.com/hassio-addons/addon-traccar
+url: https://github.com/hassio-addons/app-traccar
 webui: '[PROTO:ssl]://[HOST]:[PORT:80]'
 panel_icon: mdi:car-connected
 startup: services

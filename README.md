@@ -1090,10 +1090,10 @@ SOFTWARE.
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-traccar]: https://github.com/hassio-addons/app-traccar/tree/b368783
-[addon-doc-traccar]: https://github.com/hassio-addons/app-traccar/blob/b368783/README.md
+[addon-traccar]: https://github.com/hassio-addons/app-traccar/tree/ca1aedf
+[addon-doc-traccar]: https://github.com/hassio-addons/app-traccar/blob/ca1aedf/README.md
 [traccar-issue]: https://github.com/hassio-addons/app-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-b368783-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-ca1aedf-blue.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
