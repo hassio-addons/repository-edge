@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: The Lounge
+# Home Assistant Community App: The Lounge
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -16,8 +16,8 @@ A self-hosted web IRC client that uses a modern and sleek interface with
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
-This Home Assistant Add-ons repository contains edge builds of add-ons.
-Edge builds add-ons are based upon the latest development version.
+This Home Assistant Apps repository contains edge builds of apps.
+Edge builds apps are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -26,10 +26,10 @@ Edge builds add-ons are based upon the latest development version.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 - Developers.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/hassio-addons/repository>
 
@@ -42,7 +42,7 @@ If you are more interested in stable releases of our add-ons:
 [midnight-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/midnight-theme.png
 [more-info-light]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/more-info-light.png
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-3fe79bc-blue.svg
-[release]: https://github.com/hassio-addons/addon-thelounge/tree/3fe79bc
-[screenshot]: https://raw.githubusercontent.com/hassio-addons/addon-thelounge/master/images/screenshot.png
+[release-shield]: https://img.shields.io/badge/version-f471d30-blue.svg
+[release]: https://github.com/hassio-addons/app-thelounge/tree/f471d30
+[screenshot]: https://raw.githubusercontent.com/hassio-addons/app-thelounge/main/images/screenshot.png
 [thelounge]: https://github.com/timmo001/thelounge

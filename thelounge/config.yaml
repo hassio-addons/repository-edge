@@ -1,8 +1,8 @@
 name: The Lounge
-version: 3fe79bc
+version: f471d30
 slug: thelounge
 description: A self-hosted web IRC client
-url: https://github.com/hassio-addons/addon-thelounge
+url: https://github.com/hassio-addons/app-thelounge
 arch:
 - aarch64
 - amd64
