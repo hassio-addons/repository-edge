@@ -1,4 +1,7 @@
 # Changelog since v0.25.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#358)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Add --skip-ssl option to MySQL commands (#354) 
 - ⬆️: migrate Renovate config (#353)
 
