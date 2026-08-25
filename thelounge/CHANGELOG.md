@@ -1,4 +1,5 @@
 # Changelog since v0.22.0
+- 🧹 Repository housekeeping and security policy refresh (#243) 
 - ⬆️ Update thelounge/thelounge to v4.5.2 (#239) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#236)
 
