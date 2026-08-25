@@ -1,4 +1,5 @@
 # Changelog since v0.33.0
+- ⬆️ Update TasmoAdmin/TasmoAdmin to v5 (#508) 
 - 🚀 Prepare for the Home Assistant Apps rename and refresh repository chores (#515) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#516) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#506)
