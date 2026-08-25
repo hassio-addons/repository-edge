@@ -1,4 +1,6 @@
 # Changelog since v0.22.0
+- 🐛 Fix themes not installing on first run and clear deprecations (#245) 
+- 🚨 Align with the conventions used across the other apps (#246) 
 - ♻️ Rename Add-on to App and adopt the app workflows (#244) 
 - 🧹 Repository housekeeping and security policy refresh (#243) 
 - ⬆️ Update thelounge/thelounge to v4.5.2 (#239) 

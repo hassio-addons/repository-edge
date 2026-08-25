@@ -47,6 +47,7 @@ dealing with an unknown issue. Possible values are:
 - `trace`: Show every detail, like all called internal functions.
 - `debug`: Shows detailed debug information.
 - `info`: Normal (usually) interesting events.
+- `notice`: Normal but significant events.
 - `warning`: Exceptional occurrences that are not errors.
 - `error`: Runtime errors that do not require immediate action.
 - `fatal`: Something went terribly wrong. App becomes unusable.
