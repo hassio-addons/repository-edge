@@ -1,4 +1,5 @@
 # Changelog since v0.25.0
+- ⬆️ Update traccar/traccar to v6.15.2 (#356) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#372) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#358)
 
