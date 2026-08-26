@@ -1,4 +1,5 @@
 # Changelog since v0.7.2
+- Repository maintenance: App rename, workflows and policies (#98) 
 - Make the add-on work with the Folding@home v8 client (#97)
 
 Co-authored-by: price-gaines <will.gaines13@gmail.com> 

@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Folding@home
+# Home Assistant Community App: Folding@home
 
 Folding@home (FAH or F@h) is a distributed computing project for performing
 molecular dynamics simulations of protein dynamics. Its initial focus was on
@@ -17,30 +17,30 @@ Team stats: <https://stats.foldingathome.org/team/247478>
 
 ## Installation
 
-The installation of this add-on is pretty straightforward and not different in
-comparison to installing any other Home Assistant add-on.
+The installation of this app is pretty straightforward and not different in
+comparison to installing any other Home Assistant app.
 
-1. Click the Home Assistant My button below to open the add-on on your Home
+1. Click the Home Assistant My button below to open the app on your Home
    Assistant instance.
 
-   [![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
+   [![Open this app in your Home Assistant instance.][addon-badge]][addon]
 
-1. Click the "Install" button to install the add-on.
-1. Start the "Folding@home" add-on.
+1. Click the "Install" button to install the app.
+1. Start the "Folding@home" app.
 1. Check the logs of the "Folding@home" to see if everything went well.
 
-That is all that is needed. The add-on starts folding on its own.
+That is all that is needed. The app starts folding on its own.
 
-**Note**: By default, the add-on folds anonymously for the Home Assistant team
+**Note**: By default, the app folds anonymously for the Home Assistant team
 (id: 247478).
 
 Team stats: <https://stats.foldingathome.org/team/247478>
 
 ## Configuration
 
-**Note**: _Remember to restart the add-on when the configuration is changed._
+**Note**: _Remember to restart the app when the configuration is changed._
 
-Example add-on configuration:
+Example app configuration:
 
 ```yaml
 log_level: info
@@ -60,7 +60,7 @@ dealing with an unknown issue. Possible values are:
 - `info`: Normal (usually) interesting events.
 - `warning`: Exceptional occurrences that are not errors.
 - `error`: Runtime errors that do not require immediate action.
-- `fatal`: Something went terribly wrong. Add-on becomes unusable.
+- `fatal`: Something went terribly wrong. App becomes unusable.
 
 Please note that each level automatically includes log messages from a
 more severe level, e.g., `debug` also shows `info` messages. By default,
@@ -90,7 +90,7 @@ Optional. Links this machine to a Folding@home account, which is what makes it
 show up in the Web Control at <https://app.foldingathome.org>. Find the token
 under "Account Settings" -> "Machines" -> "Link a machine".
 
-Folding does **not** require an account. Leave this empty and the add-on folds
+Folding does **not** require an account. Leave this empty and the app folds
 anonymously, exactly as it did before, using the `user` and `team` above.
 
 ### Option: `machine_name`
@@ -100,7 +100,7 @@ The name this machine is shown under in the Web Control. Defaults to
 
 ## Controlling the client
 
-The Folding@home v8 client has no web interface of its own, so this add-on has
+The Folding@home v8 client has no web interface of its own, so this app has
 no Web UI button. Monitoring and control happen in the hosted Web Control at
 <https://app.foldingathome.org>.
 
@@ -109,14 +109,14 @@ outbound connection to your Folding@home account, and the Web Control reaches
 it through that. From there you can watch progress, pick a cause, or pause
 folding.
 
-None of that is required to contribute. The add-on tells the client to start
+None of that is required to contribute. The app tells the client to start
 folding every time it starts, so it folds whether or not an account is linked.
 Note that this also means pausing from the Web Control does not survive an
-add-on restart.
+app restart.
 
 Port `7396` is the client's own API. It is not published by default, because
 account-linked control does not go through it and it has no authentication in
-front of it. Map it under the add-on's Network settings only if you intend to
+front of it. Map it under the app's Network settings only if you intend to
 point a Web Control at this machine directly.
 
 Previous versions of this documentation described embedding the old local Web
@@ -125,8 +125,8 @@ the v8 client, so that is no longer possible.
 
 ## Known issues and limitations
 
-- This add-on only runs on 64-bits intel-based computers.
-- The Folding@home v8 client ships no local web interface, so the add-on has no
+- This app only runs on 64-bits intel-based computers.
+- The Folding@home v8 client ships no local web interface, so the app has no
   Web UI. Monitoring and controlling it from a browser requires linking an
   account, see `account_token` above.
 
@@ -149,7 +149,7 @@ Got questions?
 
 You have several options to get them answered:
 
-- The [Home Assistant Community Add-ons Discord chat server][discord] for add-on
+- The [Home Assistant Community Apps Discord chat server][discord] for app
   support and feature requests.
 - The [Home Assistant Discord chat server][discord-ha] for general Home
   Assistant discussions and questions.
@@ -169,7 +169,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2020-2024 Franck Nijhof
+Copyright (c) 2020-2026 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -191,12 +191,12 @@ SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_foldingathome&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
-[contributors]: https://github.com/hassio-addons/addon-foldingathome/graphs/contributors
+[contributors]: https://github.com/hassio-addons/app-foldingathome/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-folding-home/180496?u=frenck
 [frenck]: https://github.com/frenck
-[issue]: https://github.com/hassio-addons/addon-foldingathome/issues
+[issue]: https://github.com/hassio-addons/app-foldingathome/issues
 [reddit]: https://reddit.com/r/homeassistant
-[releases]: https://github.com/hassio-addons/addon-foldingathome/releases
+[releases]: https://github.com/hassio-addons/app-foldingathome/releases
 [semver]: http://semver.org/spec/v2.0.0.htm
