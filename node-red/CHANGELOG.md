@@ -1,4 +1,5 @@
 # Changelog since v22.0.2
+- ⬆️ Update js-yaml to v5.4.1 (#2270) 
 - ⬆️ Update js-yaml to v5.4.0 (#2269) 
 - ⬆️ Update hassio-addons/workflows action to v4 (#2267)
 
