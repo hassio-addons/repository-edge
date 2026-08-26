@@ -1,4 +1,6 @@
 # Changelog since v0.8.1
+- Track Debian apt pins with the Renovate deb datasource (#167) 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.4.0 (#162) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.2.0 (#160)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
