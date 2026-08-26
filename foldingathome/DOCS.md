@@ -28,9 +28,11 @@ comparison to installing any other Home Assistant add-on.
 1. Click the "Install" button to install the add-on.
 1. Start the "Folding@home" add-on.
 1. Check the logs of the "Folding@home" to see if everything went well.
-1. Open the Web UI.
 
-**Note**: By default, the add-on joins the Home Assistant team (id: 247478).
+That is all that is needed. The add-on starts folding on its own.
+
+**Note**: By default, the add-on folds anonymously for the Home Assistant team
+(id: 247478).
 
 Team stats: <https://stats.foldingathome.org/team/247478>
 
@@ -42,6 +44,9 @@ Example add-on configuration:
 
 ```yaml
 log_level: info
+user: Anonymous
+team: 247478
+machine_name: Home Assistant
 ```
 
 ### Option: `log_level`
@@ -62,26 +67,68 @@ more severe level, e.g., `debug` also shows `info` messages. By default,
 the `log_level` is set to `info`, which is the recommended setting unless
 you are troubleshooting.
 
-## Embedding into Home Assistant
+### Option: `user`
 
-It is possible to embed the Folding@home interface directly into Home Assistant,
-allowing you to access it through the Home Assistant frontend.
+The name your work is credited to on the Folding@home statistics pages.
+Defaults to `Anonymous`.
 
-Home Assistant provides the `panel_iframe` integration, for these purposes.
+### Option: `team`
 
-Example configuration:
+The team your work is credited to. Defaults to `247478`, the Home Assistant
+team. Set it to `0` to fold without a team.
 
-```yaml
-panel_iframe:
-  foldingathome:
-    title: Folding@home
-    icon: mdi:bacteria-outline
-    url: http://addres.to.your.hass.io:7396
-```
+### Option: `passkey`
+
+Optional. A passkey ties your contributions to you and qualifies you for bonus
+points on work units returned quickly. Request one at
+<https://apps.foldingathome.org/getpasskey>. It must be 32 hexadecimal
+characters.
+
+### Option: `account_token`
+
+Optional. Links this machine to a Folding@home account, which is what makes it
+show up in the Web Control at <https://app.foldingathome.org>. Find the token
+under "Account Settings" -> "Machines" -> "Link a machine".
+
+Folding does **not** require an account. Leave this empty and the add-on folds
+anonymously, exactly as it did before, using the `user` and `team` above.
+
+### Option: `machine_name`
+
+The name this machine is shown under in the Web Control. Defaults to
+`Home Assistant`. Only meaningful together with `account_token`.
+
+## Controlling the client
+
+The Folding@home v8 client has no web interface of its own, so this add-on has
+no Web UI button. Monitoring and control happen in the hosted Web Control at
+<https://app.foldingathome.org>.
+
+To see this machine there, set an `account_token`. The client then keeps an
+outbound connection to your Folding@home account, and the Web Control reaches
+it through that. From there you can watch progress, pick a cause, or pause
+folding.
+
+None of that is required to contribute. The add-on tells the client to start
+folding every time it starts, so it folds whether or not an account is linked.
+Note that this also means pausing from the Web Control does not survive an
+add-on restart.
+
+Port `7396` is the client's own API. It is not published by default, because
+account-linked control does not go through it and it has no authentication in
+front of it. Map it under the add-on's Network settings only if you intend to
+point a Web Control at this machine directly.
+
+Previous versions of this documentation described embedding the old local Web
+Control with the `panel_iframe` integration. That interface no longer exists in
+the v8 client, so that is no longer possible.
 
 ## Known issues and limitations
 
 - This add-on only runs on 64-bits intel-based computers.
+- The Folding@home v8 client ships no local web interface, so the add-on has no
+  Web UI. Monitoring and controlling it from a browser requires linking an
+  account, see `account_token` above.
 
 ## Changelog & Releases
 

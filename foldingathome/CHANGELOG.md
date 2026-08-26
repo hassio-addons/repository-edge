@@ -1,4 +1,7 @@
 # Changelog since v0.7.2
+- Make the add-on work with the Folding@home v8 client (#97)
+
+Co-authored-by: price-gaines <will.gaines13@gmail.com> 
 - Track fah-client releases with the Renovate custom datasource (#96) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9 (#90)
 
