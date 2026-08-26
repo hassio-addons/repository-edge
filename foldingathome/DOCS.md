@@ -47,6 +47,7 @@ log_level: info
 user: Anonymous
 team: 247478
 machine_name: Home Assistant
+cpus: 2
 ```
 
 ### Option: `log_level`
@@ -98,6 +99,18 @@ anonymously, exactly as it did before, using the `user` and `team` above.
 The name this machine is shown under in the Web Control. Defaults to
 `Home Assistant`. Only meaningful together with `account_token`.
 
+### Option: `cpus`
+
+Optional. How many CPU cores to fold with.
+
+When unset, the client uses one less than the number of cores it finds, which
+on a four core machine means three cores working flat out for as long as the
+app runs. Set this lower if Home Assistant, or anything else on the same
+machine, needs the headroom.
+
+Asking for more cores than the machine has stops the client from starting, so
+the app clamps the value to what is actually available and says so in the log.
+
 ## Controlling the client
 
 The Folding@home v8 client has no web interface of its own, so this app has
@@ -126,6 +139,11 @@ the v8 client, so that is no longer possible.
 ## Known issues and limitations
 
 - This app only runs on 64-bits intel-based computers.
+- Folding runs on the CPU only. GPU folding needs an OpenCL driver for the
+  specific graphics card, and none of them are usable here: Home Assistant OS
+  ships no NVIDIA driver, Debian 13 no longer packages Intel's OpenCL runtime,
+  and the only remaining option would quadruple the size of this app to serve
+  AMD cards alone.
 - The Folding@home v8 client ships no local web interface, so the app has no
   Web UI. Monitoring and controlling it from a browser requires linking an
   account, see `account_token` above.
