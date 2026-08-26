@@ -1,4 +1,8 @@
 # Changelog since v0.8.1
+- Update link to EMQX documentation. (#165)
+
+Co-authored-by: Gary Bell <git@whiteneon.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - Track Debian apt pins with the Renovate deb datasource (#167) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.4.0 (#162) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.2.0 (#160)

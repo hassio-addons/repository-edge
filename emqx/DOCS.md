@@ -70,7 +70,7 @@ start of this chapter to get an idea of how the configuration looks.
 For more information about using these variables, see the official EMQX
 documentation:
 
-<https://www.emqx.io/docs/en/v5.0/admin/cfg.html>
+<https://docs.emqx.com/en/emqx/v5.10/configuration/configuration.html#environment-variables>
 
 **Note**: _Only environment variables starting with `EMQX_` are accepted.\_
 
