@@ -1,4 +1,6 @@
 # Changelog since v0.7.2
+- Remove the obsolete screenshot (#99) 
+- Drop unused bzip2 and mdl config, refresh badges (#100) 
 - Repository maintenance: App rename, workflows and policies (#98) 
 - Make the add-on work with the Folding@home v8 client (#97)
 

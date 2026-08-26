@@ -2,6 +2,10 @@
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
+[![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
+
+[![Support Frenck on Patreon][patreon-shield]][patreon]
+
 Fighting disease with a world wide distributed super computer.
 
 ## About
@@ -18,8 +22,6 @@ Now you can donate the idle time of your Home Assistant instance to the
 Folding@home project, helping to fight these diseases.
 
 Join the Home Assistant Folding@home team! (id: 247478)
-
-![Folding@home in the Home Assistant Frontend][screenshot]
 
 ## WARNING! THIS IS AN EDGE VERSION!
 
@@ -45,7 +47,6 @@ If you are more interested in stable releases of our apps:
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-99f2f7d-blue.svg
-[release]: https://github.com/hassio-addons/addon-foldingathome/tree/99f2f7d
-[screenshot]: https://github.com/hassio-addons/addon-foldingathome/raw/main/images/screenshot.png
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[release-shield]: https://img.shields.io/badge/version-b99239c-blue.svg
+[release]: https://github.com/hassio-addons/addon-foldingathome/tree/b99239c

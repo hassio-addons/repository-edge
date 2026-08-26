@@ -856,10 +856,10 @@ SOFTWARE.
 [ftp-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [ftp-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [ftp-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/tree/99f2f7d
-[addon-doc-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/blob/99f2f7d/README.md
+[addon-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/tree/b99239c
+[addon-doc-foldingathome]: https://github.com/hassio-addons/addon-foldingathome/blob/b99239c/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/addon-foldingathome/issues
-[foldingathome-version-shield]: https://img.shields.io/badge/version-99f2f7d-blue.svg
+[foldingathome-version-shield]: https://img.shields.io/badge/version-b99239c-blue.svg
 [foldingathome-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [foldingathome-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [foldingathome-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
