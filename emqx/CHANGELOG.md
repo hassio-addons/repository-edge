@@ -1,4 +1,5 @@
 # Changelog since v0.8.1
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#169) 
 - Update link to EMQX documentation. (#165)
 
 Co-authored-by: Gary Bell <git@whiteneon.com>
