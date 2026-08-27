@@ -14,9 +14,9 @@ website, this app runs EMQX in a fully local, self-hosted environment.
 
 As of version 5.9.0, EMQX is no longer open source; it is licensed under the
 [Business Source License 1.1][emqx-license]. The build shipped here carries the
-EMQX Community License, which is free of charge and allows running a single
-node, which is exactly what this app does. Clustering requires a commercial
-license.
+EMQX Community License, which is free of charge, does not expire, and covers a
+single node with up to 10 million concurrent sessions. Clustering is the part
+that needs a commercial license, and this app has never clustered.
 
 ## Installation
 
@@ -62,7 +62,7 @@ Example app configuration:
 ```yaml
 env_vars:
   - name: EMQX_NODE__NAME
-    value: "something@else.local"
+    value: "emqx@stable.example"
 ```
 
 **Note**: _This is just an example, don't copy and paste it! Create your own!_
@@ -79,6 +79,32 @@ documentation:
 <https://docs.emqx.com/en/emqx/v6.2/configuration/configuration.html#environment-variables>
 
 **Note**: _Only environment variables starting with `EMQX_` are accepted.\_
+
+### The EMQX node name
+
+EMQX stores its database in a directory named after its node name, and this app
+used to derive that name from the Home Assistant hostname. Renaming your Home
+Assistant instance therefore pointed EMQX at a fresh, empty database, leaving
+the old one on disk but out of reach.
+
+The node name is now decided once and kept in `/data/emqx/node.name`:
+
+- A new installation uses `emqx@127.0.0.1`.
+- An existing installation keeps the name its database already carries, so
+  nothing moves when you update.
+
+You do not need to configure anything. If you want a specific name anyway, set
+`EMQX_NODE__NAME` through `env_vars` and it wins over both of the above.
+
+If a hostname change already left you with more than one database directory
+under `/data/emqx/data/mnesia`, this app cannot tell which one you meant to
+keep. It logs the names it found and then picks one of two ways out. If one of
+them matches your current hostname it uses that, and you get the data in that
+directory. If none of them match it uses `emqx@127.0.0.1`, which is a directory
+that does not exist yet, so EMQX starts empty and looks freshly installed with
+your data untouched beside it. Either way, set `EMQX_NODE__NAME` to the
+directory you want and restart, or use [EMQX backup and restore][backup-restore]
+to merge them.
 
 ## Known issues and limitations
 
@@ -97,8 +123,15 @@ documentation:
 
 This app has moved from EMQX 5.8.9 to EMQX 6. EMQX 6 reads the existing data
 directory in place, so dashboard users, authentication records, rules and
-retained messages carry over on the first start, and there is nothing to do
-beyond updating the app.
+retained messages carry over on the first start.
+
+One thing does not carry over. EMQX
+[does not preserve durable session state][rolling-upgrades] across the version 5
+to version 6 boundary: clients holding one reconnect into a clean session, and
+the messages queued for them while they were away are gone. This only affects
+you if you turned durable sessions on yourself through
+`EMQX_DURABLE_SESSIONS__ENABLE`, since EMQX ships with them disabled. Ordinary
+retained messages are unaffected.
 
 A major version change is still a good moment for a backup. Downgrading back to
 EMQX 5 is not something EMQX supports, so take one before updating if you want a
@@ -166,6 +199,7 @@ SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_emqx&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
+[backup-restore]: https://docs.emqx.com/en/emqx/latest/operations/backup-restore.html
 [contributors]: https://github.com/hassio-addons/app-emqx/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons
@@ -175,5 +209,6 @@ SOFTWARE.
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/hassio-addons/app-emqx/issues
 [reddit]: https://reddit.com/r/homeassistant
+[rolling-upgrades]: https://docs.emqx.com/en/emqx/latest/deploy/rolling-upgrades.html
 [releases]: https://github.com/hassio-addons/app-emqx/releases
 [semver]: https://semver.org/spec/v2.0.0.html

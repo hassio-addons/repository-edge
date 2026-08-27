@@ -24,9 +24,9 @@ website, this app runs EMQX in a fully local, self-hosted environment.
 
 As of version 5.9.0, EMQX is no longer open source; it is licensed under the
 [Business Source License 1.1][emqx-license]. The build shipped here carries the
-EMQX Community License, which is free of charge and allows running a single
-node, which is exactly what this app does. Clustering requires a commercial
-license.
+EMQX Community License, which is free of charge, does not expire, and covers a
+single node with up to 10 million concurrent sessions. Clustering is the part
+that needs a commercial license, and this app has never clustered.
 
 ![EMQX in the Home Assistant Frontend][screenshot]
 
@@ -57,6 +57,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-675310e-blue.svg
-[release]: https://github.com/hassio-addons/addon-emqx/tree/675310e
+[release-shield]: https://img.shields.io/badge/version-1801d91-blue.svg
+[release]: https://github.com/hassio-addons/app-emqx/tree/1801d91
 [screenshot]: https://github.com/hassio-addons/app-emqx/raw/main/images/screenshot.png
