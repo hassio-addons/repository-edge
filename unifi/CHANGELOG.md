@@ -1,4 +1,5 @@
 # Changelog since v5.2.0
+- ⬆️ Update UniFi Network Application to v10.6.101 (#666) 
 - ⬆️ Update hassio-addons/workflows action to v4 (#663)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
