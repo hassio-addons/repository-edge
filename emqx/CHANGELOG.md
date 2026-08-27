@@ -1,4 +1,5 @@
 # Changelog since v0.8.1
+- Update EMQX to 6.2.3 (#170) 
 - Repository maintenance: App rename, workflows and policies (#168) 
 - Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#169) 
 - Update link to EMQX documentation. (#165)

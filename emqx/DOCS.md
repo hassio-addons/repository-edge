@@ -1,9 +1,9 @@
 # Home Assistant Community App: EMQX
 
-[EMQX][emqx] is an Open-source MQTT broker with a high-performance real-time
-message processing engine, powering event streaming for IoT devices at massive
-scale. As the most scalable MQTT broker, EMQX can help you connect any device,
-at any scale (including your home).
+[EMQX][emqx] is an MQTT broker with a high-performance real-time message
+processing engine, powering event streaming for IoT devices at massive scale.
+As the most scalable MQTT broker, EMQX can help you connect any device, at any
+scale (including your home).
 
 The [EMQX MQTT broker][emqx] is an advanced alternative to the Mosquitto MQTT
 broker/app that is generally used in Home Assistant. It has a UI
@@ -11,6 +11,12 @@ to configure, manage, and debug your MQTT broker, clients, and traffic.
 
 While EMQX sells their product mainly as a cloud hosted product on their
 website, this app runs EMQX in a fully local, self-hosted environment.
+
+As of version 5.9.0, EMQX is no longer open source; it is licensed under the
+[Business Source License 1.1][emqx-license]. The build shipped here carries the
+EMQX Community License, which is free of charge and allows running a single
+node, which is exactly what this app does. Clustering requires a commercial
+license.
 
 ## Installation
 
@@ -70,7 +76,7 @@ start of this chapter to get an idea of how the configuration looks.
 For more information about using these variables, see the official EMQX
 documentation:
 
-<https://docs.emqx.com/en/emqx/v5.10/configuration/configuration.html#environment-variables>
+<https://docs.emqx.com/en/emqx/v6.2/configuration/configuration.html#environment-variables>
 
 **Note**: _Only environment variables starting with `EMQX_` are accepted.\_
 
@@ -86,6 +92,18 @@ documentation:
   port 8083. Temporary disabling the integration (similar as the point above
   for apps) can be used to allow accessing the EMQX web UI to adjust the
   listeners.
+
+## Upgrading from EMQX 5
+
+This app has moved from EMQX 5.8.9 to EMQX 6. EMQX 6 reads the existing data
+directory in place, so dashboard users, authentication records, rules and
+retained messages carry over on the first start, and there is nothing to do
+beyond updating the app.
+
+A major version change is still a good moment for a backup. Downgrading back to
+EMQX 5 is not something EMQX supports, so take one before updating if you want a
+way back. The app data lives in `/data/emqx`, which the Home Assistant backup of
+this app covers.
 
 ## Changelog & Releases
 
@@ -151,6 +169,7 @@ SOFTWARE.
 [contributors]: https://github.com/hassio-addons/app-emqx/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons
+[emqx-license]: https://github.com/emqx/emqx/blob/main/LICENSE
 [emqx]: https://www.emqx.io/
 [forum]: https://community.home-assistant.io/?u=frenck
 [frenck]: https://github.com/frenck
