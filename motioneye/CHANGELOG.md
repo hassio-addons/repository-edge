@@ -1,4 +1,21 @@
 # Changelog since v0.23.0
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#606)
+
+Renovate's repology datasource has stopped resolving Alpine package
+pins across the organisation. Every alpine_X_YY/* lookup returns
+no-result, so Alpine pins are no longer updated at all, and builds break
+whenever upstream moves a pinned package. Repology rate limits its
+tools/project-by endpoint hard, and each run resolves every pin through
+it.
+
+This replaces it with a custom datasource that reads the Alpine CDN
+directory listings directly, matching what has already landed on
+app-ssh.
+
+Packages from the community repository need an explicit registry URL,
+since custom datasources use a "first" registry strategy and do not hunt
+through multiple URLs. For this repository that is ffmpeg, ffmpeg-dev,
+ffmpeg-libs, v4l-utils and v4l-utils-dev. 
 - ⬆️ Update motioneye-project/motioneye to v0.44.0 (#587)
 
 * ⬆️ Update motioneye-project/motioneye to v0.44.0
