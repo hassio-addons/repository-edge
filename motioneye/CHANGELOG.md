@@ -1,4 +1,28 @@
 # Changelog since v0.23.0
+- ⬆️ Update motioneye-project/motioneye to v0.44.0 (#587)
+
+* ⬆️ Update motioneye-project/motioneye to v0.44.0
+
+* 🐛 Fix startup failure from hardcoded Python path
+
+The init script referenced motionEye's migrateconf.sh through a
+hardcoded /usr/lib/python3.12 path. Alpine 3.24 ships Python 3.14, so
+that path no longer resolves. Because bashio enables errexit, the
+missing file aborted init-motioneye with exit code 127 on every start,
+which took down the S6 supervision tree and the whole add-on.
+
+The location is now resolved from the installed motioneye package, so a
+future Python bump cannot break it again.
+
+Also drops http_basic_auth from the shipped configuration, since
+motionEye 0.44.0 removed the option and warns about it on every start,
+and updates the installation docs for the passwords that 0.44.0 now
+requires for both the admin and surveillance user.
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#580)
 
 * ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21
