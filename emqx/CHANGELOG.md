@@ -1,4 +1,5 @@
 # Changelog since v0.8.1
+- Repair Ingress-decoded topic paths in front of EMQX (#173) 
 - Correct the license label and document the v5 to v6 session loss (#172) 
 - Keep the EMQX node name stable across hostname changes (#171)
 
