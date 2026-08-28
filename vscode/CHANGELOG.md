@@ -1,4 +1,7 @@
 # Changelog since v6.0.1
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.4.0 (#1094)
+
+Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
 - ⬆️ Update esphome to v2025.12.3 (#1079) 
 - ⬆️ Update cdr/code-server to v4.107.0 (#1077)
 
