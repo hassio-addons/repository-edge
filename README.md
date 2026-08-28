@@ -261,19 +261,6 @@ Looks and smells like Sonarr but made for music
 
 [:books: Lidarr app documentation][addon-doc-lidarr]
 
-### &#10003; [Log Viewer][addon-log-viewer]
-
-![Latest Version][log-viewer-version-shield]
-![Supports armhf Architecture][log-viewer-armhf-shield]
-![Supports armv7 Architecture][log-viewer-armv7-shield]
-![Supports aarch64 Architecture][log-viewer-aarch64-shield]
-![Supports amd64 Architecture][log-viewer-amd64-shield]
-![Supports i386 Architecture][log-viewer-i386-shield]
-
-Browser-based log utility for Home Assistant
-
-[:books: Log Viewer app documentation][addon-doc-log-viewer]
-
 ### &#10003; [MQTT IO][addon-mqtt-io]
 
 ![Latest Version][mqtt-io-version-shield]
@@ -689,7 +676,6 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: InfluxDB][influxdb-issue]
 - [Open an issue for the app: JupyterLab][jupyterlab-issue]
 - [Open an issue for the app: Lidarr][lidarr-issue]
-- [Open an issue for the app: Log Viewer][log-viewer-issue]
 - [Open an issue for the app: MQTT IO][mqtt-io-issue]
 - [Open an issue for the app: Network UPS Tools][nut-issue]
 - [Open an issue for the app: Nginx Proxy Manager][nginxproxymanager-issue]
@@ -919,15 +905,6 @@ SOFTWARE.
 [lidarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [lidarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [lidarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/7bf328c
-[addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/7bf328c/README.md
-[log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
-[log-viewer-version-shield]: https://img.shields.io/badge/version-7bf328c-blue.svg
-[log-viewer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[log-viewer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[log-viewer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[log-viewer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[log-viewer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/tree/daa42c4
 [addon-doc-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/blob/daa42c4/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/addon-mqtt-io/issues
