@@ -1,2 +1,2 @@
-# Changelog since v6.0.0
-- ⬆️ Update Tautulli/Tautulli to v2.18.0 (#455) 
+# Changelog since v6.1.0
+- ⬆️ Update Tautulli/Tautulli to v2.18.1 (#457) 
