@@ -1,4 +1,5 @@
 # Changelog since v0.27.1
+- 🔨 Prepare for the add-on to app rename and refresh repository maintenance (#95) 
 - 🔨 Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#94) 
 - ⬆️ Update Prowlarr/Prowlarr to v2.5.2.5491 (#91) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#93) 
