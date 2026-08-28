@@ -1,4 +1,9 @@
 # Changelog since v0.17.0
+- ⬆️ Update beautifulsoup4 to v4.15.0 (#807) 
+- ⬆️ Update geopy to v2.5.0 (#808) 
+- ⬆️ Update jupyter_bokeh to v4.1.0 (#809) 
+- ⬆️ Update matplotlib to v3.11.1 (#823) 
+- ⬆️ Update numpy to v2.5.2 (#824) 
 - Repository maintenance: apps rename, workflows and community health files (#822) 
 - ⬆️ Update scrapy to v2.18.0 (#798) 
 - ⬆️ Update pandas-datareader to v0.11.1 (#810) 
