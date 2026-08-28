@@ -10,7 +10,7 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras.
 
 ## About
 
-motionEye is a popular frontend to the camera software called motion. This app provides both, allowing you to add your camera's to your Hass.io setup.
+motionEye is a popular frontend to the camera software called motion. This app provides both, allowing you to add your cameras to your Home Assistant setup.
 
 motionEye is Open Source CCTV and NVR, that is elegant and really easy to use. It can be used as a Baby Monitor, Construction Site Montage Viewer, Store Camera DVR, Garden Security, and much more.
 
@@ -19,8 +19,8 @@ Some cool features of motionEye:
 - Support for a ridiculous amount of cameras, including IP cams.
 - Add multiple cameras by hooking up multiple motionEye instances together.
   For example, by using MotionEyeOS on a Pi Zero + Pi camera in your network.
-- Supports uploading recording into Google Drive and Dropbox.
-- motion detection, including email notification and scheduling.
+- Supports uploading recordings to Google Drive and Dropbox.
+- Motion detection, including email notification and scheduling.
 - Can record continuously, motion, or timelapse, with retention settings.
 
 ![motionEye screenshot][screenshot]
@@ -50,6 +50,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-6478e5a-blue.svg
-[release]: https://github.com/hassio-addons/app-motioneye/tree/6478e5a
+[release-shield]: https://img.shields.io/badge/version-282a42c-blue.svg
+[release]: https://github.com/hassio-addons/app-motioneye/tree/282a42c
 [screenshot]: https://github.com/hassio-addons/app-motioneye/raw/main/images/screenshot.png
