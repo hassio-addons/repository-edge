@@ -1,4 +1,24 @@
 # Changelog since v0.5.0
+- ⬆️ Pin hassio-addons/workflows action to e0c532a (#59)
+
+* ⬆️ Pin hassio-addons/workflows action to e0c532a
+
+* 👷 Allow a single space before inline YAML comments
+
+Renovate pins reusable workflow references to a commit digest and adds
+the original ref as a trailing comment, using one space before the #.
+The YAMLLint configuration required two, so every pinned workflow failed
+the comments rule:
+
+  12:106  error  too few spaces before comment  (comments)
+
+The other app repositories already allow a single space here, so this
+brings the configuration in line with them.
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#56)
 
 * ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21
