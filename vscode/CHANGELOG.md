@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- Quality sweep: build integrity, script robustness and stale defaults (#1134) 
 - Track Debian apt pins with the Renovate deb datasource (#1133) 
 - Persist Claude Code credentials and document AI assistant support (#1129)
 

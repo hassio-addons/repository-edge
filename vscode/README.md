@@ -1,4 +1,4 @@
-# Home Assistant Community App: Visual Studio Code
+# Home Assistant Community App: Studio Code Server
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -48,6 +48,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-8c48e14-blue.svg
-[release]: https://github.com/hassio-addons/app-vscode/tree/8c48e14
+[release-shield]: https://img.shields.io/badge/version-bb44b28-blue.svg
+[release]: https://github.com/hassio-addons/app-vscode/tree/bb44b28
 [screenshot]: https://github.com/hassio-addons/app-vscode/raw/main/images/screenshot.png
