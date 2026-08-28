@@ -1126,9 +1126,9 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-whisparr]: https://github.com/hassio-addons/addon-whisparr/tree/4a5f6d3
-[addon-doc-whisparr]: https://github.com/hassio-addons/addon-whisparr/blob/4a5f6d3/README.md
-[whisparr-issue]: https://github.com/hassio-addons/addon-whisparr/issues
+[addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/4a5f6d3
+[addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/4a5f6d3/README.md
+[whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
 [whisparr-version-shield]: https://img.shields.io/badge/version-4a5f6d3-blue.svg
 [whisparr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [whisparr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
