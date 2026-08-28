@@ -1,4 +1,57 @@
 # Changelog since v0.4.1
+- ⬆️ Update add-on base image to v21.0.2 (#177) 
+- ⬆️ Update adafruit-circuitpython-mcp230xx to v2.6.2 (#171)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.30 (#170)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update smbus2 to v0.6.1 (#169)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update gpiod to v2.4.2 (#168)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update adafruit-circuitpython-mcp230xx to v2.6.1 (#167)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.29 (#166)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update adafruit-circuitpython-mcp230xx to v2.6.0 (#165)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update smbus2 to v0.6.0 (#164)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update adafruit-circuitpython-ads1x15 to v2.4.4 (#125)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update Python to v3.11.14-r0 (#155)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_19/git to v2.43.7-r0 (#159)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update adafruit-circuitpython-mcp230xx to v2.5.19 (#157)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.28 (#156)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update gpiod to v2.4.1 (#150)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️: migrate renovate config (#152)
+
+* ⬆️: migrate config .github/renovate.json
+
+* Prettified Code!
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update adafruit-circuitpython-ahtx0 to v1.0.25 (#149)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
