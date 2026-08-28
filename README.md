@@ -439,7 +439,7 @@ Play Spotify music on your Home Assistant device
 ![Supports amd64 Architecture][vscode-amd64-shield]
 ![Supports i386 Architecture][vscode-i386-shield]
 
-Fully featured Visual Studio Code (VSCode) experience integrated in the Home Assistant frontend.
+Fully featured Visual Studio Code (VSCode) experience integrated in the Home Assistant frontend
 
 [:books: Studio Code Server app documentation][addon-doc-vscode]
 
@@ -1036,9 +1036,9 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/283fa63
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/283fa63/README.md
-[vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
+[addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/283fa63
+[addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/283fa63/README.md
+[vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
 [vscode-version-shield]: https://img.shields.io/badge/version-283fa63-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
