@@ -1,4 +1,17 @@
 # Changelog since v0.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#44) 
+- Update to latest add-on base image and Alpine packages (#43) 
+- Drop armv7 support and remove codenotary (#42) 
+- ⬆️: migrate renovate config (#23)
+
+* ⬆️: migrate config .github/renovate.json
+
+* Prettified Code!
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: renovate[bot] <renovate[bot]@users.noreply.github.com> 
 - Fix overseerr link and description (#22)
 
 * Correct Broken link to Overseerr and add link to git repo for parent.
