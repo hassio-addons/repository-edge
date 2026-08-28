@@ -1,4 +1,5 @@
 # Changelog since v0.17.0
+- Track Debian apt pins with the Renovate deb datasource (#825) 
 - ⬆️ Update ipywidgets to v8.1.9 (#818) 
 - ⬆️ Bump jupyterlab from 4.5.7 to 4.5.10 in /jupyterlab (#817)
 
