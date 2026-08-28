@@ -1,4 +1,58 @@
 # Changelog since v0.23.0
+- 🚜 Rename add-ons to apps and general maintenance (#607)
+
+* 👷 Migrate to app workflows and tidy repository automation
+
+Home Assistant renames add-ons to apps as of the 2026.2 release, and the
+shared workflows repository now exposes app-ci and app-deploy alongside
+the old addon-prefixed ones. This moves over to those, and pins every
+shared workflow to the v4.0.0 commit instead of tracking main.
+
+Following the workflows v3.0.0 release, release drafting runs as a
+standalone workflow again, so the CI and deploy workflows carry explicit
+permissions and deploy now runs CI itself rather than chaining off a
+workflow_run trigger.
+
+The lock and stale workflows are dropped entirely.
+
+Renovate is asked to SHA pin GitHub Actions, and the base image group is
+renamed to match the new terminology. YAMLLint now allows a single space
+before comments and no longer limits line length.
+
+* 📝 Update Code of Conduct and security policy
+
+Adopts Contributor Covenant 3.0, pointing reports at the maintainer
+email and dropping the placeholder note about the enforcement ladder
+being a suggestion.
+
+The security policy is replaced with the current template, describing
+private vulnerability reporting, the disclosure timeline and what falls
+outside of scope for this repository.
+
+* ⬆️ Use bashio::app functions instead of deprecated bashio::addon
+
+Bashio 0.19.0, shipped in the add-on base image since v21, renamed the
+add-on functions to app functions. The old names still work, but every
+one of them now logs a deprecation warning the first time it is called.
+
+Verified against the base image that every bashio function this app
+calls resolves, including bashio::app.ip_address, ingress_port and port.
+
+* 🚜 Rename add-ons to apps
+
+Home Assistant renames add-ons to apps as of the 2026.2 release. This
+renames the user facing references throughout, keeping the existing
+capitalisation, and moves "Home Assistant Community Add-ons" to
+"Home Assistant Community Apps".
+
+Repository links move to the app variant of the name. The hassio-addons
+organisation itself is unchanged, as are the Home Assistant My links,
+the community forum thread URL, the Docker Hub and Discord handles, and
+the io.hass.type label, which the Supervisor still reads as "addon".
+
+Also updates the maintainer address to opensource@frenck.dev, bumps the
+copyright range and the maintenance badge to 2026, points the vendor URL
+at the new apps page, and drops the architecture, chat and forum badges. 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#606)
 
 Renovate's repology datasource has stopped resolving Alpine package
