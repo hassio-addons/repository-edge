@@ -918,10 +918,10 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-overseerr]: https://github.com/hassio-addons/addon-overseerr/tree/c8d31ff
-[addon-doc-overseerr]: https://github.com/hassio-addons/addon-overseerr/blob/c8d31ff/README.md
+[addon-overseerr]: https://github.com/hassio-addons/addon-overseerr/tree/e575b7e
+[addon-doc-overseerr]: https://github.com/hassio-addons/addon-overseerr/blob/e575b7e/README.md
 [overseerr-issue]: https://github.com/hassio-addons/addon-overseerr/issues
-[overseerr-version-shield]: https://img.shields.io/badge/version-c8d31ff-blue.svg
+[overseerr-version-shield]: https://img.shields.io/badge/version-e575b7e-blue.svg
 [overseerr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [overseerr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [overseerr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
