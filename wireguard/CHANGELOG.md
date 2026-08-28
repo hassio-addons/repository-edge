@@ -1,4 +1,6 @@
 # Changelog since v0.13.0
+- 🐛 Use bashio::app.port instead of the removed bashio::addon.port (#402) 
+- ✨ Rename add-on to app (#401) 
 - 🧹 Repository maintenance (#400) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#393)
 
