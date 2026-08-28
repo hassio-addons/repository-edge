@@ -1,4 +1,6 @@
 # Changelog since v4.0.2
+- 👷 Replace Repology with Alpine CDN datasource for package pins (#443) 
+- 🧹 Repository housekeeping (#441) 
 - ⬆️ Update BookStackApp/BookStack to v26 (#436) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#433)
 

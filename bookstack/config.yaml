@@ -1,8 +1,8 @@
 name: Bookstack
-version: f9764bd
+version: 5a8f193
 slug: bookstack
 description: Simple & Free Wiki Software
-url: https://github.com/hassio-addons/addon-bookstack
+url: https://github.com/hassio-addons/app-bookstack
 webui: '[PROTO:ssl]://[HOST]:[PORT:80]'
 init: false
 arch:
