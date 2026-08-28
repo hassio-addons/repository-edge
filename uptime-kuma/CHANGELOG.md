@@ -1,7 +1,4 @@
-# Changelog since v0.19.0
-- ⬆️ Update louislam/uptime-kuma to v2.5.3 (#374) 
-- ⬆️ Update hassio-addons/workflows action to v4 (#373)
+# Changelog since v0.19.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#376)
 
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
-- ⬆️ Update apprise to v1.13.0 (#372) 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
