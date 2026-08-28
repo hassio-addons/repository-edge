@@ -1,4 +1,7 @@
 # Changelog since v4.0.2
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#433)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update BookStackApp/BookStack to v25.12.2 (#432)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
