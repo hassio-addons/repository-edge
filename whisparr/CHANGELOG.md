@@ -1,4 +1,21 @@
 # Changelog since v0.5.0
+- 🔨 Move the user bundle to user-bundles.d (#61)
+
+s6-overlay 3.2.3.2 moved the user bundle definitions out of
+/etc/s6-overlay/s6-rc.d and into /etc/s6-overlay/user-bundles.d. The
+bundle was still defined in the old location, so every container start
+logged:
+
+  rc.init: warning: defining user bundles in /etc/s6-overlay/s6-rc.d is
+  deprecated, please define them in /etc/s6-overlay/user-bundles.d
+  instead
+
+Upstream still accepts the old location, but drops that compatibility in
+the next major release, at which point the bundle would no longer be
+picked up and the service would stop being started.
+
+Only the bundle moves; the service definition stays in s6-rc.d. The type
+file at the new location is shipped by s6-overlay itself. 
 - 📝 Prepare for the add-on to app rename (#60)
 
 * 🔨 Refresh repository meta files
