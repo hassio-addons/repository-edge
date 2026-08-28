@@ -1,4 +1,5 @@
 # Changelog since v6.0.1
+- Track Debian apt pins with the Renovate deb datasource (#1133) 
 - Persist Claude Code credentials and document AI assistant support (#1129)
 
 Co-authored-by: Zahin Mohammad <ahmedbaysuyev14@gmail.com>
