@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- 🐛 Hand /etc/resolv.conf to resolvconf before starting WireGuard (#405) 
 - 📝 Document that this app is a WireGuard server, not a client (#404) 
 - 🐛 Use bashio::app.port instead of the removed bashio::addon.port (#402) 
 - ✨ Rename add-on to app (#401) 
