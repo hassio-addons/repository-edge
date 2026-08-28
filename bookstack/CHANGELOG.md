@@ -1,4 +1,5 @@
 # Changelog since v4.0.2
+- 🐛 Mark the session cookie secure when serving TLS (#445) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#443) 
 - 🧹 Repository housekeeping (#441) 
 - ⬆️ Update BookStackApp/BookStack to v26 (#436) 
