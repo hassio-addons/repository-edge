@@ -1,4 +1,8 @@
 # Changelog since v6.0.1
+- Repository maintenance: rename to app, workflows, badges and s6 bundle (#1132) 
+- Remove duplicated dot in description (#1086)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.4.0 (#1094)
 
 Co-authored-by: Franck Nijhof <frenck@frenck.nl> 
