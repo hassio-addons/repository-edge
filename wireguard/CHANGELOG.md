@@ -1,4 +1,5 @@
 # Changelog since v0.13.0
+- 🧹 Repository maintenance (#400) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#393)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
