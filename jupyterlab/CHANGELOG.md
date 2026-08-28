@@ -1,4 +1,8 @@
 # Changelog since v0.17.0
+- ⬆️ Update ipywidgets to v8.1.9 (#818) 
+- ⬆️ Bump jupyterlab from 4.5.7 to 4.5.10 in /jupyterlab (#817)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - ⬆️ Update beautifulsoup4 to v4.15.0 (#807) 
 - ⬆️ Update geopy to v2.5.0 (#808) 
 - ⬆️ Update jupyter_bokeh to v4.1.0 (#809) 
