@@ -1,4 +1,9 @@
 # Changelog since v6.0.1
+- Fix SSH key symlink creating nested .ssh directory (#1098)
+
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev>
+Co-authored-by: Franck Nijhof <frenck@frenck.dev> 
 - Repository maintenance: rename to app, workflows, badges and s6 bundle (#1132) 
 - Remove duplicated dot in description (#1086)
 
