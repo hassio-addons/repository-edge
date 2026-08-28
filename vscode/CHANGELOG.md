@@ -1,4 +1,8 @@
 # Changelog since v6.0.1
+- Persist Claude Code credentials and document AI assistant support (#1129)
+
+Co-authored-by: Zahin Mohammad <ahmedbaysuyev14@gmail.com>
+Co-authored-by: Franck Nijhof <frenck@frenck.dev> 
 - Fix SSH key symlink creating nested .ssh directory (#1098)
 
 Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
