@@ -1,4 +1,10 @@
 # Changelog since v0.17.0
+- Repository maintenance: apps rename, workflows and community health files (#822) 
+- ⬆️ Update scrapy to v2.18.0 (#798) 
+- ⬆️ Update pandas-datareader to v0.11.1 (#810) 
+- ⬆️ Update jupyterlab_widgets to v3.0.17 (#819) 
+- ⬆️ Update SQLAlchemy to v2.0.52 (#821) 
+- ⬆️ Update bokeh to v3.10.0 (#803) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.4.0 (#776)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
