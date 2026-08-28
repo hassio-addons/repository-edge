@@ -1,4 +1,6 @@
 # Changelog since v0.23.0
+- 🐛 Use the http2 directive instead of the deprecated listen parameter (#608) 
+- 🔥 Remove OCSP stapling, which can no longer work (#610) 
 - 🚜 Rename add-ons to apps and general maintenance (#607)
 
 * 👷 Migrate to app workflows and tidy repository automation
