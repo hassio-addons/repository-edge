@@ -141,6 +141,10 @@ apps:
     repository: hassio-addons/app-sqlite-web
     target: sqlite-web
     image: ghcr.io/hassio-addons/sqlite-web
+  syncthing:
+    repository: hassio-addons/app-syncthing
+    target: syncthing
+    image: ghcr.io/hassio-addons/syncthing
   tailscale:
     repository: hassio-addons/app-tailscale
     target: tailscale
