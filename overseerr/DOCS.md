@@ -39,6 +39,16 @@ be able to go back to Overseerr.
 
 _This app does not require any configuration to run._
 
+## Known issues and limitations
+
+- This app does not support Home Assistant's Ingress feature (aka, the
+  toggle that puts an app in the Home Assistant sidebar). Seerr serves
+  everything from the root of the domain and has no support for running
+  under a URL base path, so it cannot be placed in the sidebar without
+  rewriting its responses, which would break as soon as Seerr changes.
+  Upstream tracks this in [seerr-team/seerr#97][upstream-basepath].
+  You could consider using an iframe panel instead.
+
 ## Changelog & Releases
 
 This repository keeps a change log using [GitHub's releases][releases]
@@ -109,3 +119,4 @@ SOFTWARE.
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/app-seerr/releases
 [semver]: http://semver.org/spec/v2.0.0.html
+[upstream-basepath]: https://github.com/seerr-team/seerr/issues/97

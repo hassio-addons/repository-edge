@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Update the logo to the Seerr wordmark, and document the Ingress limitation (#50) 
 - Listen on both IP stacks instead of IPv4 only (#49) 
 - Migrate from Overseerr to Seerr (#48) 
 - Prepare for the Add-on to App rename and repository housekeeping (#47) 

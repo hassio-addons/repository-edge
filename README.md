@@ -963,10 +963,10 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-overseerr]: https://github.com/hassio-addons/app-seerr/tree/89bc871
-[addon-doc-overseerr]: https://github.com/hassio-addons/app-seerr/blob/89bc871/README.md
+[addon-overseerr]: https://github.com/hassio-addons/app-seerr/tree/9b73b01
+[addon-doc-overseerr]: https://github.com/hassio-addons/app-seerr/blob/9b73b01/README.md
 [overseerr-issue]: https://github.com/hassio-addons/app-seerr/issues
-[overseerr-version-shield]: https://img.shields.io/badge/version-89bc871-blue.svg
+[overseerr-version-shield]: https://img.shields.io/badge/version-9b73b01-blue.svg
 [overseerr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [overseerr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [overseerr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
