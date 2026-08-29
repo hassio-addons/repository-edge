@@ -1,4 +1,5 @@
 # Changelog since v0.18.5
+- 🐛 Wait for Home Assistant to finish starting (#521) 
 - 🧹 Repository housekeeping (#520) 
 - ⬆️ Update hassio-addons/workflows action to v4 (#516)
 
