@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#46) 
 - 👷 Replace Repology with Alpine CDN datasource for package pins (#45) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#44) 
 - Update to latest add-on base image and Alpine packages (#43) 
