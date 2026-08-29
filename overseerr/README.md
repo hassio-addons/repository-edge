@@ -1,17 +1,20 @@
-# Home Assistant Community App: Overseerr
+# Home Assistant Community App: Seerr
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
-Request management and media discovery tool for the Plex ecosystem.
+Media request and discovery manager for Jellyfin, Plex, and Emby.
 
 ## About
 
-[Overseerr] is a request management and media discovery platform for the [Plex] media platform. Overseerr
-integrates into a Plex environment as well as [Radarr]/[Sonarr] for Movie and PVR/TV content management.
+[Seerr] is an open-source media request and discovery manager. It integrates with your existing
+[Jellyfin], [Plex] or [Emby] server, as well as with [Radarr]/[Sonarr] for movie and PVR/TV content
+management. Seerr is the continuation of Overseerr and Jellyseerr, merged into a single project.
 
-[Overseerr]: https://overseerr.dev/
+[Emby]: https://emby.media/
+[Jellyfin]: https://jellyfin.org/
 [Plex]: https://plex.tv/
 [Radarr]: https://radarr.video/
+[Seerr]: https://seerr.dev/
 [Sonarr]: https://sonarr.tv/
 
 ## WARNING! THIS IS AN EDGE VERSION!
@@ -35,5 +38,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-03089c8-blue.svg
-[release]: https://github.com/hassio-addons/addon-overseerr/tree/03089c8
+[release-shield]: https://img.shields.io/badge/version-89bc871-blue.svg
+[release]: https://github.com/hassio-addons/app-seerr/tree/89bc871

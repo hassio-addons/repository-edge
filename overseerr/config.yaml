@@ -1,8 +1,8 @@
-name: Overseerr
-version: 03089c8
+name: Seerr
+version: 89bc871
 slug: overseerr
-description: Request management and media discovery tool for the Plex ecosystem
-url: https://github.com/hassio-addons/app-overseerr/tree/main/README.md
+description: Media request and discovery manager for Jellyfin, Plex, and Emby
+url: https://github.com/hassio-addons/app-seerr/tree/main/README.md
 webui: http://[HOST]:[PORT:5055]
 init: false
 arch:
@@ -14,4 +14,4 @@ map:
 - media:rw
 ports:
   5055/tcp: 5055
-image: ghcr.io/hassio-addons/overseerr/{arch}
+image: ghcr.io/hassio-addons/overseerr

@@ -1,6 +1,6 @@
-# Home Assistant Community App: Overseerr
+# Home Assistant Community App: Seerr
 
-Request management and media discovery tool for the Plex ecosystem.
+Media request and discovery manager for Jellyfin, Plex, and Emby.
 
 ## Installation
 
@@ -13,10 +13,27 @@ comparison to installing any other Home Assistant app.
    [![Open this app in your Home Assistant instance.][addon-badge]][addon]
 
 1. Click the "Install" button to install the app.
-1. Start the "Overseerr" app
-1. Check the logs of the "Overseerr" app to see if everything went well.
-1. Click "OPEN WEB UI" to open the Overseerr interface.
+1. Start the "Seerr" app
+1. Check the logs of the "Seerr" app to see if everything went well.
+1. Click "OPEN WEB UI" to open the Seerr interface.
 1. Complete the wizard shown on screen.
+
+## Upgrading from Overseerr
+
+This app used to ship Overseerr. Upstream has since merged Overseerr and
+Jellyseerr into a single project called Seerr, and this app follows that move.
+
+If you were already running it, there is nothing for you to do. The app keeps
+its existing slug, so Home Assistant treats this as a normal update and your
+configuration directory is kept. Seerr picks that directory up and migrates
+your settings, users and requests on its first start. The app log confirms it:
+
+```txt
+[Seerr Migration]: Yeah! Overseerr to Seerr migration completed successfully!
+```
+
+The migration only runs one way. Take a backup before updating if you want to
+be able to go back to Overseerr.
 
 ## Configuration
 
@@ -83,12 +100,12 @@ SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_overseerr&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
-[contributors]: https://github.com/hassio-addons/app-overseerr/graphs/contributors
+[contributors]: https://github.com/hassio-addons/app-seerr/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons
 [forum]: https://community.home-assistant.io/t/?u=frenck
 [frenck]: https://github.com/frenck
-[issue]: https://github.com/hassio-addons/app-overseerr/issues
+[issue]: https://github.com/hassio-addons/app-seerr/issues
 [reddit]: https://reddit.com/r/homeassistant
-[releases]: https://github.com/hassio-addons/app-overseerr/releases
+[releases]: https://github.com/hassio-addons/app-seerr/releases
 [semver]: http://semver.org/spec/v2.0.0.html
