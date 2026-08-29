@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- 📝 Remove stale architecture badges from README (#180) 
 - 🐛 Drop pkg_resources dependency instead of pinning setuptools (#179) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#178)
 
