@@ -882,9 +882,9 @@ SOFTWARE.
 [lidarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [lidarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [lidarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/tree/560ab9d
-[addon-doc-mqtt-io]: https://github.com/hassio-addons/addon-mqtt-io/blob/560ab9d/README.md
-[mqtt-io-issue]: https://github.com/hassio-addons/addon-mqtt-io/issues
+[addon-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/tree/560ab9d
+[addon-doc-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/blob/560ab9d/README.md
+[mqtt-io-issue]: https://github.com/hassio-addons/app-mqtt-io/issues
 [mqtt-io-version-shield]: https://img.shields.io/badge/version-560ab9d-blue.svg
 [mqtt-io-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-io-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
