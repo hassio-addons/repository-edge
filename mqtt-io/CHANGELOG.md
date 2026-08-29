@@ -1,4 +1,7 @@
 # Changelog since v0.4.1
+- ✨ Create a default configuration and use the MQTT server from Home Assistant (#182)
+
+Co-authored-by: Evgeny Vlasenko <mahnunchik@gmail.com> 
 - 🚀 Prepare for the Home Assistant Apps rename (#181) 
 - 📝 Remove stale architecture badges from README (#180) 
 - 🐛 Drop pkg_resources dependency instead of pinning setuptools (#179) 
