@@ -1,5 +1,5 @@
 name: MQTT IO
-version: a32cbe1
+version: e7a5d0d
 slug: mqtt-io
 description: Expose GPIO modules and digital sensors via MQTT for remote control and
   monitoring.

@@ -1,4 +1,7 @@
 # Changelog since v0.4.1
+- ✨ Support seven more sensors out of the box (#186) 
+- 👷 Let Renovate track the MQTT IO commit pin (#185) 
+- 📝 Remove an unused link definition (#184) 
 - 🚸 Move to the app's own configuration folder (#183) 
 - ✨ Create a default configuration and use the MQTT server from Home Assistant (#182)
 
