@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- 🐛 Drop pkg_resources dependency instead of pinning setuptools (#179) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#178)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
