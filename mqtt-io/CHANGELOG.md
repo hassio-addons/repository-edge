@@ -1,4 +1,5 @@
 # Changelog since v0.4.1
+- 🚸 Move to the app's own configuration folder (#183) 
 - ✨ Create a default configuration and use the MQTT server from Home Assistant (#182)
 
 Co-authored-by: Evgeny Vlasenko <mahnunchik@gmail.com> 

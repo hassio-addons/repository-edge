@@ -1,5 +1,5 @@
 name: MQTT IO
-version: fd839cc
+version: a32cbe1
 slug: mqtt-io
 description: Expose GPIO modules and digital sensors via MQTT for remote control and
   monitoring.
@@ -16,7 +16,8 @@ services:
 privileged:
 - SYS_RAWIO
 map:
-- config:rw
+- addon_config:rw
+- homeassistant_config:rw
 - share:rw
 - ssl
 options:
