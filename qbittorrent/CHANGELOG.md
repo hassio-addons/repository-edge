@@ -1,1 +1,1 @@
-- Initial app
+- Fix the WebUI failing to start up inside the Ingress iframe (#2)
