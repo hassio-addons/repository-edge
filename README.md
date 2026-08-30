@@ -443,6 +443,19 @@ Play Spotify music on your Home Assistant device
 
 [:books: Spotify Connect app documentation][addon-doc-spotify]
 
+### &#10003; [Spotweb][addon-spotweb]
+
+![Latest Version][spotweb-version-shield]
+![Supports armhf Architecture][spotweb-armhf-shield]
+![Supports armv7 Architecture][spotweb-armv7-shield]
+![Supports aarch64 Architecture][spotweb-aarch64-shield]
+![Supports amd64 Architecture][spotweb-amd64-shield]
+![Supports i386 Architecture][spotweb-i386-shield]
+
+A decentralized usenet community based on the Spotnet protocol
+
+[:books: Spotweb app documentation][addon-doc-spotweb]
+
 ### &#10003; [Studio Code Server][addon-vscode]
 
 ![Latest Version][vscode-version-shield]
@@ -755,6 +768,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: Seerr][overseerr-issue]
 - [Open an issue for the app: Sonarr][sonarr-issue]
 - [Open an issue for the app: Spotify Connect][spotify-issue]
+- [Open an issue for the app: Spotweb][spotweb-issue]
 - [Open an issue for the app: Studio Code Server][vscode-issue]
 - [Open an issue for the app: Syncthing][syncthing-issue]
 - [Open an issue for the app: Tailscale][tailscale-issue]
@@ -1101,6 +1115,15 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-spotweb]: https://github.com/hassio-addons/app-spotweb/tree/3200e0d
+[addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/3200e0d/README.md
+[spotweb-issue]: https://github.com/hassio-addons/app-spotweb/issues
+[spotweb-version-shield]: https://img.shields.io/badge/version-3200e0d-blue.svg
+[spotweb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[spotweb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[spotweb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[spotweb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[spotweb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/bb44b28
 [addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/bb44b28/README.md
 [vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
