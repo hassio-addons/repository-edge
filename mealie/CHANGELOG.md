@@ -1,1 +1,1 @@
-- Initial add-on
+- Fix asset paths that escaped the Ingress sub path (#2)
