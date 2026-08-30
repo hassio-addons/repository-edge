@@ -105,6 +105,19 @@ Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 
 [:books: AppDaemon app documentation][addon-doc-appdaemon]
 
+### &#10003; [Audiobookshelf][addon-audiobookshelf]
+
+![Latest Version][audiobookshelf-version-shield]
+![Supports armhf Architecture][audiobookshelf-armhf-shield]
+![Supports armv7 Architecture][audiobookshelf-armv7-shield]
+![Supports aarch64 Architecture][audiobookshelf-aarch64-shield]
+![Supports amd64 Architecture][audiobookshelf-amd64-shield]
+![Supports i386 Architecture][audiobookshelf-i386-shield]
+
+Self-hosted audiobook and podcast server
+
+[:books: Audiobookshelf app documentation][addon-doc-audiobookshelf]
+
 ### &#10003; [Bazarr][addon-bazarr]
 
 ![Latest Version][bazarr-version-shield]
@@ -716,6 +729,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: AirCast][aircast-issue]
 - [Open an issue for the app: AirSonos][airsonos-issue]
 - [Open an issue for the app: AppDaemon][appdaemon-issue]
+- [Open an issue for the app: Audiobookshelf][audiobookshelf-issue]
 - [Open an issue for the app: Bazarr][bazarr-issue]
 - [Open an issue for the app: Bookstack][bookstack-issue]
 - [Open an issue for the app: EMQX][emqx-issue]
@@ -853,6 +867,15 @@ SOFTWARE.
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [appdaemon-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [appdaemon-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/2c6a5c6
+[addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/2c6a5c6/README.md
+[audiobookshelf-issue]: https://github.com/hassio-addons/app-audiobookshelf/issues
+[audiobookshelf-version-shield]: https://img.shields.io/badge/version-2c6a5c6-blue.svg
+[audiobookshelf-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[audiobookshelf-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[audiobookshelf-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[audiobookshelf-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[audiobookshelf-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-bazarr]: https://github.com/hassio-addons/app-bazarr/tree/a05db1d
 [addon-doc-bazarr]: https://github.com/hassio-addons/app-bazarr/blob/a05db1d/README.md
 [bazarr-issue]: https://github.com/hassio-addons/app-bazarr/issues
