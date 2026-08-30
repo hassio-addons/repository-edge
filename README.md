@@ -261,6 +261,19 @@ Expose GPIO modules and digital sensors via MQTT for remote control and monitori
 
 [:books: MQTT IO app documentation][addon-doc-mqtt-io]
 
+### &#10003; [Mealie][addon-mealie]
+
+![Latest Version][mealie-version-shield]
+![Supports armhf Architecture][mealie-armhf-shield]
+![Supports armv7 Architecture][mealie-armv7-shield]
+![Supports aarch64 Architecture][mealie-aarch64-shield]
+![Supports amd64 Architecture][mealie-amd64-shield]
+![Supports i386 Architecture][mealie-i386-shield]
+
+Recipe manager and meal planner for your kitchen
+
+[:books: Mealie app documentation][addon-doc-mealie]
+
 ### &#10003; [Network UPS Tools][addon-nut]
 
 ![Latest Version][nut-version-shield]
@@ -689,6 +702,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: JupyterLab][jupyterlab-issue]
 - [Open an issue for the app: Lidarr][lidarr-issue]
 - [Open an issue for the app: MQTT IO][mqtt-io-issue]
+- [Open an issue for the app: Mealie][mealie-issue]
 - [Open an issue for the app: Network UPS Tools][nut-issue]
 - [Open an issue for the app: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the app: Node-RED][node-red-issue]
@@ -919,6 +933,15 @@ SOFTWARE.
 [mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mqtt-io-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-mealie]: https://github.com/hassio-addons/app-mealie/tree/5d46ffc
+[addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/5d46ffc/README.md
+[mealie-issue]: https://github.com/hassio-addons/app-mealie/issues
+[mealie-version-shield]: https://img.shields.io/badge/version-5d46ffc-blue.svg
+[mealie-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[mealie-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mealie-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[mealie-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[mealie-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-nut]: https://github.com/hassio-addons/app-nut/tree/4394c92
 [addon-doc-nut]: https://github.com/hassio-addons/app-nut/blob/4394c92/README.md
 [nut-issue]: https://github.com/hassio-addons/app-nut/issues
