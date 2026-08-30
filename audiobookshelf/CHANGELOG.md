@@ -1,1 +1,1 @@
-- Initial app
+- Fix fonts and images escaping the Ingress path (#2)
