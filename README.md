@@ -547,6 +547,19 @@ Open source password management solution
 
 [:books: Vaultwarden app documentation][addon-doc-bitwarden]
 
+### &#10003; [VictoriaMetrics][addon-victoriametrics]
+
+![Latest Version][victoriametrics-version-shield]
+![Supports armhf Architecture][victoriametrics-armhf-shield]
+![Supports armv7 Architecture][victoriametrics-armv7-shield]
+![Supports aarch64 Architecture][victoriametrics-aarch64-shield]
+![Supports amd64 Architecture][victoriametrics-amd64-shield]
+![Supports i386 Architecture][victoriametrics-i386-shield]
+
+Fast and resource efficient time series database for your metrics
+
+[:books: VictoriaMetrics app documentation][addon-doc-victoriametrics]
+
 ### &#10003; [Whisparr][addon-whisparr]
 
 ![Latest Version][whisparr-version-shield]
@@ -698,6 +711,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: UniFi Network Application][unifi-issue]
 - [Open an issue for the app: Uptime Kuma][uptime-kuma-issue]
 - [Open an issue for the app: Vaultwarden][bitwarden-issue]
+- [Open an issue for the app: VictoriaMetrics][victoriametrics-issue]
 - [Open an issue for the app: Whisparr][whisparr-issue]
 - [Open an issue for the app: WireGuard][wireguard-issue]
 - [Open an issue for the app: Z-Wave JS UI][zwave-js-ui-issue]
@@ -1103,6 +1117,15 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/tree/90409d8
+[addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/90409d8/README.md
+[victoriametrics-issue]: https://github.com/hassio-addons/app-victoriametrics/issues
+[victoriametrics-version-shield]: https://img.shields.io/badge/version-90409d8-blue.svg
+[victoriametrics-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[victoriametrics-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[victoriametrics-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[victoriametrics-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[victoriametrics-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/7302127
 [addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/7302127/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
