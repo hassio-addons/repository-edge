@@ -1226,10 +1226,10 @@ SOFTWARE.
 [phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [phpmyadmin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/7d613ce
-[addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/7d613ce/README.md
+[addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/684f817
+[addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/684f817/README.md
 [qbittorrent-issue]: https://github.com/hassio-addons/app-qbittorrent/issues
-[qbittorrent-version-shield]: https://img.shields.io/badge/version-7d613ce-blue.svg
+[qbittorrent-version-shield]: https://img.shields.io/badge/version-684f817-blue.svg
 [qbittorrent-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [qbittorrent-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [qbittorrent-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
