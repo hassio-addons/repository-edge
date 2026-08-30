@@ -207,32 +207,6 @@ downloads and runs itself. Python is part of this app for that reason, so the
 tab works out of the box; the plugins themselves are installed from inside
 qBittorrent and are not something this app ships or maintains.
 
-## About Ingress and qBittorrent
-
-Ingress puts this app in an iframe belonging to Home Assistant, and parts of
-qBittorrent's web interface take for granted that the window above them is
-qBittorrent's own. That is true of its dialogs, which really are framed by the
-main window, and false for the main window itself, where the window above is
-Home Assistant.
-
-Three places assume it. `color-scheme.js` and `misc.js` read the stored colour
-scheme and the date format from the window above, and MochaUI, the toolkit the
-interface is built with, sizes a hidden overlay from it. Each throws while the
-interface is still being assembled, so what is left is a half drawn page with
-an unfinished toolbar.
-
-Those scripts are compiled into `qbittorrent-nox` as Qt resources, so there is
-no file to patch. NGINX corrects the three lines as they pass through, each by
-falling back to the app's own window the way qBittorrent's own
-`dynamicTable.js` already does for the same value. The dialogs are unaffected,
-because none of them carry their own copy and so still read the main window's.
-
-Nothing else in the responses is rewritten. The web interface addresses
-everything it asks for relative to the page it came from, so it finds the
-Ingress path by itself. None of this touches
-[direct access](#direct-access) either, which is not framed and gets the
-scripts exactly as qBittorrent shipped them.
-
 ## Backups
 
 This app is backed up cold, which means Home Assistant stops it for the moment
