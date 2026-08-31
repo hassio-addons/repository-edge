@@ -1124,10 +1124,10 @@ SOFTWARE.
 [spotweb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotweb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [spotweb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/bb44b28
-[addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/bb44b28/README.md
+[addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/b6fbaee
+[addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/b6fbaee/README.md
 [vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-bb44b28-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-b6fbaee-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
