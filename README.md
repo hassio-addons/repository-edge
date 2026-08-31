@@ -1205,10 +1205,10 @@ SOFTWARE.
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [unifi-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/tree/471567d
-[addon-doc-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/blob/471567d/README.md
+[addon-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/tree/fa0d726
+[addon-doc-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/blob/fa0d726/README.md
 [uptime-kuma-issue]: https://github.com/hassio-addons/app-uptime-kuma/issues
-[uptime-kuma-version-shield]: https://img.shields.io/badge/version-471567d-blue.svg
+[uptime-kuma-version-shield]: https://img.shields.io/badge/version-fa0d726-blue.svg
 [uptime-kuma-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [uptime-kuma-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [uptime-kuma-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
