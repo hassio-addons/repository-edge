@@ -50,6 +50,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-282a42c-blue.svg
-[release]: https://github.com/hassio-addons/app-motioneye/tree/282a42c
+[release-shield]: https://img.shields.io/badge/version-4da2359-blue.svg
+[release]: https://github.com/hassio-addons/app-motioneye/tree/4da2359
 [screenshot]: https://github.com/hassio-addons/app-motioneye/raw/main/images/screenshot.png
