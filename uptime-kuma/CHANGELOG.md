@@ -1,4 +1,5 @@
 # Changelog since v0.19.1
+- ⬆️ Update cloudflare/cloudflared to v2026.8.3 (#378) 
 - ⬆️ Update apprise to v1.13.1 (#377) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#376)
 
