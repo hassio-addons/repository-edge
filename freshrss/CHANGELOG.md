@@ -1,1 +1,1 @@
-- 🎨 Format config.yaml with Prettier
+- 🐛 Allow FreshRSS to render in the Ingress frame on every page
