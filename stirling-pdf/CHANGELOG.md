@@ -1,0 +1,1 @@
+- Pin pngquant and unpaper by Debian revision, not rebuild number
