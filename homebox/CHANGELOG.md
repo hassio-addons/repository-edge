@@ -1,0 +1,1 @@
+- ⬆️ Update pnpm to v11 (#4)
