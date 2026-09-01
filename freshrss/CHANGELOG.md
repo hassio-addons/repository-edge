@@ -1,0 +1,1 @@
+- 🎨 Format config.yaml with Prettier
