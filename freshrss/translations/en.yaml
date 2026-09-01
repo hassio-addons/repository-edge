@@ -3,20 +3,21 @@ configuration:
   username:
     name: Username
     description: >-
-      The name of the FreshRSS account this app uses. Changing it later creates
-      a second, empty account; the feeds of the first one stay where they are.
+      The name of the shared FreshRSS account, used only when Ingress auto
+      login is turned off. With auto login on, every Home Assistant user gets
+      an account named after themselves instead and this is ignored.
   password:
     name: Password
     description: >-
-      The password of that account. Needed only when Ingress auto login is
-      turned off, or to reach FreshRSS over the published port. Leave empty to
-      keep the password that is currently set.
+      The password of that shared account, used only when Ingress auto login is
+      turned off. Leave empty to keep the password that is currently set.
   ingress_auto_login:
     name: Ingress auto login
     description: >-
-      Signs you straight in when you open FreshRSS from the Home Assistant
-      sidebar, rather than having FreshRSS ask for a login of its own. Turn it
-      off to reach the web interface over the published port as well.
+      Signs you in as your own Home Assistant user when you open FreshRSS from
+      the sidebar, so every Home Assistant user gets their own feeds. The first
+      one to open the app administers FreshRSS. Turn it off to share a single
+      account and reach the web interface over the published port as well.
   refresh_interval:
     name: Refresh interval
     description: >-

@@ -23,28 +23,41 @@ comparison to installing any other Home Assistant app.
 The first start takes a little longer than usual, because the database is
 created from scratch at that point and a handful of example feeds are added.
 
-You are signed in automatically, so there is nothing to log in with. See the
-`ingress_auto_login` option below if you would rather FreshRSS asked.
+You are signed in automatically as your own Home Assistant user, so there is
+nothing to log in with. See the `ingress_auto_login` option below if you would
+rather share one account, or have FreshRSS ask for a login.
 
 ## How signing in works
 
 Home Assistant has already established who you are by the time you open the
-app from its sidebar. This app passes that on to FreshRSS, which then opens
-straight into your feeds rather than showing a login page of its own.
+app from its sidebar, and it tells the app who that is. Every Home Assistant
+user therefore gets a FreshRSS account of their own, created the first time
+they open the app, with their own feeds, labels, settings and database. Nobody
+sees anybody else's reading.
 
-The account it signs you in as is the one named by the `username` option. It
-is a FreshRSS account like any other: it holds your feeds, your labels and
-your settings, and it is the administrator of the FreshRSS installation.
+**The first person to open the app administers FreshRSS.** Home Assistant tells
+an app who is asking, but not whether that person administers Home Assistant
+itself, so the app cannot work out who ought to hold that role. The first
+arrival is the one it can name, and everybody after them is an ordinary user.
+Open the app yourself before handing the link around, and you keep the
+administration pages. An administrator can promote others afterwards, under
+"Settings" -> "Manage users".
 
-Only Ingress signs you in. The name of the account is handed to FreshRSS by
-the app's own web server, in a way a browser cannot reach: anything a browser
-sends arrives under a different name, and is thrown away before it reaches
-FreshRSS. So the published port, if you publish it, cannot be used to walk in
-as somebody else.
+Accounts are named after your Home Assistant username. Home Assistant places
+almost no restrictions on those, while FreshRSS only accepts letters, digits
+and `_ . @ -`, so a name it will not take falls back to your Home Assistant
+user id. The account works exactly the same, it is just named less prettily.
 
-If you would rather log in yourself, set `ingress_auto_login` to `false` and
-give the account a `password`. FreshRSS then asks for that password, over
-Ingress and over the published port alike.
+Only Ingress signs you in, and the name is handed to FreshRSS by the app's own
+web server in a way no browser can reach. Home Assistant discards any copy of
+those headers that arrives with a request, and anything a browser does send
+lands under a different name that is thrown away before FreshRSS sees it. So
+the published port, if you publish it, cannot be used to walk in as somebody
+else.
+
+If you would rather everybody shared one account, set `ingress_auto_login` to
+`false` and give the `username` account a `password`. FreshRSS then asks for
+that password, over Ingress and over the published port alike.
 
 ## Configuration
 
@@ -66,38 +79,37 @@ log_level: info
 
 ### Option: `username`
 
-The name of the FreshRSS account this app uses. It defaults to `admin`.
+The name of the shared FreshRSS account, used only when `ingress_auto_login`
+is turned off. It defaults to `admin`.
 
-The account is created on the first start, and is the administrator of the
-FreshRSS installation. It may contain letters, digits, `_`, `.`, `@` and `-`.
-
-Changing this option later does not rename the account. It creates a second
-one, empty, and makes that the administrator instead. The feeds of the first
-account stay where they are, and you can still reach them by setting the
-option back.
+With auto login on you can ignore this. Accounts are named after Home
+Assistant users instead, and this one is only kept so that FreshRSS has an
+owner for the installation to point at. Nobody signs in to it, and it is
+created without the starter feeds a real account gets.
 
 ### Option: `password`
 
-The password of that account.
+The password of that shared account, used only when `ingress_auto_login` is
+turned off.
 
-You need it only when `ingress_auto_login` is turned off, or when you want to
-reach the web interface over the published port. With auto login on and no
-port published, the account has no password at all, and nothing asks for one.
-
-Changing this option changes the password of the account on the next start of
-the app. The app only does that when the option itself changed, so a password
-you changed from within FreshRSS is not overwritten on every restart.
+Changing this option changes the password on the next start of the app. The
+app only does that when the option itself changed, so a password you changed
+from within FreshRSS is not overwritten on every restart.
 
 Leave the option out to keep whatever password is currently set.
 
 ### Option: `ingress_auto_login`
 
-Whether opening the app from the Home Assistant sidebar signs you in. It
-defaults to `true`.
+Whether opening the app from the Home Assistant sidebar signs you in as your
+own Home Assistant user. It defaults to `true`.
 
-Set it to `false` to have FreshRSS ask for a username and password instead.
-Do that if you want to reach the web interface over the published port, or if
-you want to use more than one FreshRSS account from a browser.
+Left on, every Home Assistant user gets a FreshRSS account of their own, and
+the first one to open the app administers FreshRSS. See "How signing in works"
+above.
+
+Set it to `false` to have FreshRSS ask for a username and password instead,
+which is what you want if everybody should share one reading list, or if you
+want to reach the web interface over the published port.
 
 With auto login on, the published port still serves the Google Reader and
 Fever APIs that mobile apps use. Those have a password of their own and are
@@ -193,6 +205,11 @@ FreshRSS. Update the app to get a newer FreshRSS.
 
 ## Known issues and limitations
 
+- Removing a Home Assistant user does not remove their FreshRSS account. Do
+  that from within FreshRSS, under "Settings" -> "Manage users".
+- Renaming a Home Assistant user gives that person a new, empty FreshRSS
+  account. The old one keeps their feeds and can be reached again by changing
+  the name back, or its feeds can be moved across with an OPML export.
 - With `ingress_auto_login` turned on, the published port serves the API but
   not the web interface. FreshRSS has a single way of authenticating for the
   whole installation, and while Home Assistant signs you in, there is no login

@@ -1,1 +1,1 @@
-- 🐛 Allow FreshRSS to render in the Ingress frame on every page
+- ✨ Give every Home Assistant user their own FreshRSS account
