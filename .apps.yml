@@ -165,6 +165,10 @@ apps:
     repository: hassio-addons/app-sqlite-web
     target: sqlite-web
     image: ghcr.io/hassio-addons/sqlite-web
+  stirling-pdf:
+    repository: hassio-addons/app-stirling-pdf
+    target: stirling-pdf
+    image: ghcr.io/hassio-addons/stirling-pdf
   syncthing:
     repository: hassio-addons/app-syncthing
     target: syncthing
