@@ -1,12 +1,2 @@
-# Changelog since v3.0.0
-- ⬆️: migrate Renovate config (#760)
-
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
-- Migrate the app to the Debian base image (#759)
-
-Moves the app from Alpine to the Debian base image, matching the platform upstream builds on. nginx comes from the nginx project's own repository at 1.31.4 rather than Debian's 1.26.3, and Certbot moves to a pip venv at /opt/certbot, which lets patch 0003 be dropped entirely. 
-- Bump the Timeweb and Websupport DNS plugin pins (#758) 
-- Keep certbot DNS plugin installs from breaking certbot (#757) 
-- Report the actual Nginx Proxy Manager version in the web UI (#755) 
-- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#756) 
+# Changelog since v4.0.0
+- ⬆️ Update certbot to v5.8.0 (#763) 
