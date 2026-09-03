@@ -1,2 +1,2 @@
-# Changelog since v4.0.0
-- ⬆️ Update certbot to v5.8.0 (#763) 
+# Changelog since v4.0.1
+- ⬆️ Update nginx to v1.31.5-1~trixie (#764) 
