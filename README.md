@@ -1112,10 +1112,10 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prowlarr]: https://github.com/hassio-addons/app-prowlarr/tree/8c9a979
-[addon-doc-prowlarr]: https://github.com/hassio-addons/app-prowlarr/blob/8c9a979/README.md
+[addon-prowlarr]: https://github.com/hassio-addons/app-prowlarr/tree/ba16f37
+[addon-doc-prowlarr]: https://github.com/hassio-addons/app-prowlarr/blob/ba16f37/README.md
 [prowlarr-issue]: https://github.com/hassio-addons/app-prowlarr/issues
-[prowlarr-version-shield]: https://img.shields.io/badge/version-8c9a979-blue.svg
+[prowlarr-version-shield]: https://img.shields.io/badge/version-ba16f37-blue.svg
 [prowlarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [prowlarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [prowlarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
