@@ -40,5 +40,5 @@ If you are more interested in stable releases of our apps:
 [forum]: https://community.home-assistant.io/t/?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-abfe7f1-blue.svg
-[release]: https://github.com/hassio-addons/app-sonarr/tree/abfe7f1
+[release-shield]: https://img.shields.io/badge/version-6e15e75-blue.svg
+[release]: https://github.com/hassio-addons/app-sonarr/tree/6e15e75
