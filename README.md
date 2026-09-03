@@ -995,10 +995,10 @@ SOFTWARE.
 [freshrss-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [freshrss-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [freshrss-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-glances]: https://github.com/hassio-addons/app-glances/tree/3935bf8
-[addon-doc-glances]: https://github.com/hassio-addons/app-glances/blob/3935bf8/README.md
+[addon-glances]: https://github.com/hassio-addons/app-glances/tree/ad80604
+[addon-doc-glances]: https://github.com/hassio-addons/app-glances/blob/ad80604/README.md
 [glances-issue]: https://github.com/hassio-addons/app-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-3935bf8-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-ad80604-blue.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
