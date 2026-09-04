@@ -1,7 +1,4 @@
-# Changelog since v0.15.0
-- 🧹 Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#79) 
-- 🧹 Prepare for the Apps rename and refresh repository maintenance (#80) 
-- 👷 Describe the Alpine community repository package rule (#78) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#76)
+# Changelog since v0.16.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#81)
 
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
