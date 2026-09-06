@@ -1292,10 +1292,10 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/tree/90409d8
-[addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/90409d8/README.md
+[addon-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/tree/eccd949
+[addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/eccd949/README.md
 [victoriametrics-issue]: https://github.com/hassio-addons/app-victoriametrics/issues
-[victoriametrics-version-shield]: https://img.shields.io/badge/version-90409d8-blue.svg
+[victoriametrics-version-shield]: https://img.shields.io/badge/version-eccd949-blue.svg
 [victoriametrics-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [victoriametrics-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [victoriametrics-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

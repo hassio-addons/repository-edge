@@ -1,4 +1,7 @@
-- Use a fixed Ingress port
+# Changelog since v0.1.0
+- ⬆️ Update alpine_3_24/yq-go to v4.53.3-r1 (#6)
 
-The app does not run on the host network, so there is no host port to
-avoid clashing with and the Ingress port does not need to be randomized.
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#4)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
