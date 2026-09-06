@@ -1,5 +1,5 @@
 name: Syncthing
-version: 3d18deb
+version: '8650630'
 slug: syncthing
 description: Continuous file synchronization between all your devices
 url: https://github.com/hassio-addons/app-syncthing

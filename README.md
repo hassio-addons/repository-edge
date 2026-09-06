@@ -1202,10 +1202,10 @@ SOFTWARE.
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-syncthing]: https://github.com/hassio-addons/app-syncthing/tree/3d18deb
-[addon-doc-syncthing]: https://github.com/hassio-addons/app-syncthing/blob/3d18deb/README.md
+[addon-syncthing]: https://github.com/hassio-addons/app-syncthing/tree/8650630
+[addon-doc-syncthing]: https://github.com/hassio-addons/app-syncthing/blob/8650630/README.md
 [syncthing-issue]: https://github.com/hassio-addons/app-syncthing/issues
-[syncthing-version-shield]: https://img.shields.io/badge/version-3d18deb-blue.svg
+[syncthing-version-shield]: https://img.shields.io/badge/version-8650630-blue.svg
 [syncthing-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [syncthing-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [syncthing-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
