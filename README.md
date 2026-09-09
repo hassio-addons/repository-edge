@@ -1067,10 +1067,10 @@ SOFTWARE.
 [mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mqtt-io-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-mealie]: https://github.com/hassio-addons/app-mealie/tree/bf4fe5b
-[addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/bf4fe5b/README.md
+[addon-mealie]: https://github.com/hassio-addons/app-mealie/tree/3517906
+[addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/3517906/README.md
 [mealie-issue]: https://github.com/hassio-addons/app-mealie/issues
-[mealie-version-shield]: https://img.shields.io/badge/version-bf4fe5b-blue.svg
+[mealie-version-shield]: https://img.shields.io/badge/version-3517906-blue.svg
 [mealie-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mealie-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mealie-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
