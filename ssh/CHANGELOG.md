@@ -1,4 +1,5 @@
 # Changelog since v24.1.3
+- ⬆️ Update home-assistant/cli to v5.5.0 (#1137) 
 - ⬆️ Update Docker to v29.5.3-r1 (#1139) 
 - ⬆️ Update alpine_3_24/bind-tools to v9.20.27-r0 (#1136) 
 - ⬆️ Update alpine_3_24/lsblk to v2.42.3-r1 (#1138) 
