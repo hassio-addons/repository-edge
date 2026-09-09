@@ -1,5 +1,5 @@
 name: Mealie
-version: '3517906'
+version: 0e1233f
 slug: mealie
 description: Recipe manager and meal planner for your kitchen
 url: https://github.com/hassio-addons/app-mealie
