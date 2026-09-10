@@ -1,4 +1,5 @@
 # Changelog since v0.8.2
+- ⬆️ Update sabnzbd/sabnzbd to v5.1.3 (#143) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#141)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
