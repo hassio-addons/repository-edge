@@ -914,10 +914,10 @@ SOFTWARE.
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [airsonos-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-appdaemon]: https://github.com/hassio-addons/app-appdaemon/tree/47e1935
-[addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/47e1935/README.md
+[addon-appdaemon]: https://github.com/hassio-addons/app-appdaemon/tree/eadf85a
+[addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/eadf85a/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/app-appdaemon/issues
-[appdaemon-version-shield]: https://img.shields.io/badge/version-47e1935-blue.svg
+[appdaemon-version-shield]: https://img.shields.io/badge/version-eadf85a-blue.svg
 [appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
