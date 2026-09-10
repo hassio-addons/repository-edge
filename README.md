@@ -1040,10 +1040,10 @@ SOFTWARE.
 [jellyfin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [jellyfin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [jellyfin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/tree/d4e17e3
-[addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/d4e17e3/README.md
+[addon-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/tree/ead54ed
+[addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/ead54ed/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/app-jupyterlab/issues
-[jupyterlab-version-shield]: https://img.shields.io/badge/version-d4e17e3-blue.svg
+[jupyterlab-version-shield]: https://img.shields.io/badge/version-ead54ed-blue.svg
 [jupyterlab-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlab-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
