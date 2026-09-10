@@ -941,10 +941,10 @@ SOFTWARE.
 [bazarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bazarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [bazarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-bookstack]: https://github.com/hassio-addons/app-bookstack/tree/0c0ebbe
-[addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/0c0ebbe/README.md
+[addon-bookstack]: https://github.com/hassio-addons/app-bookstack/tree/ba7ba71
+[addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/ba7ba71/README.md
 [bookstack-issue]: https://github.com/hassio-addons/app-bookstack/issues
-[bookstack-version-shield]: https://img.shields.io/badge/version-0c0ebbe-blue.svg
+[bookstack-version-shield]: https://img.shields.io/badge/version-ba7ba71-blue.svg
 [bookstack-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bookstack-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
