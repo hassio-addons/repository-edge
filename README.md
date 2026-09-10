@@ -1103,10 +1103,10 @@ SOFTWARE.
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [node-red-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-plex]: https://github.com/hassio-addons/app-plex/tree/8a21030
-[addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/8a21030/README.md
+[addon-plex]: https://github.com/hassio-addons/app-plex/tree/46e308b
+[addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/46e308b/README.md
 [plex-issue]: https://github.com/hassio-addons/app-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-8a21030-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-46e308b-blue.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
