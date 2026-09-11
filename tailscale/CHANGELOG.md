@@ -1,4 +1,12 @@
 # Changelog since v0.29.0
+- Add default values as comment to the example configuration (#752)
+
+* Add default values as comment to the example configuration
+
+* prettier-ignore for yaml docs
+
+* fix grammar in pr 
+- Migrate advertise_routes option, replace "local_subnets" with the actual values (#754) 
 - ⬆️ Update tailscale/tailscale to v1.102.4 (#758) 
 - ⬆️ Update App base image to v21.0.5 (#757)
 
