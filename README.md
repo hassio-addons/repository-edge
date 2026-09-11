@@ -1022,10 +1022,10 @@ SOFTWARE.
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [grocy-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [grocy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/49ac215
-[addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/49ac215/README.md
+[addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/e79e100
+[addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/e79e100/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
-[homebox-version-shield]: https://img.shields.io/badge/version-49ac215-blue.svg
+[homebox-version-shield]: https://img.shields.io/badge/version-e79e100-blue.svg
 [homebox-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [homebox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [homebox-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
