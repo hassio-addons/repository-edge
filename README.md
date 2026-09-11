@@ -1193,10 +1193,10 @@ SOFTWARE.
 [stirling-pdf-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [stirling-pdf-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [stirling-pdf-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/5e56f80
-[addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/5e56f80/README.md
+[addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/0e9dc97
+[addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/0e9dc97/README.md
 [vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-5e56f80-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-0e9dc97-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
