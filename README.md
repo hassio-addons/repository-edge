@@ -1175,10 +1175,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-spotweb]: https://github.com/hassio-addons/app-spotweb/tree/ef27e8e
-[addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/ef27e8e/README.md
+[addon-spotweb]: https://github.com/hassio-addons/app-spotweb/tree/f86c5e9
+[addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/f86c5e9/README.md
 [spotweb-issue]: https://github.com/hassio-addons/app-spotweb/issues
-[spotweb-version-shield]: https://img.shields.io/badge/version-ef27e8e-blue.svg
+[spotweb-version-shield]: https://img.shields.io/badge/version-f86c5e9-blue.svg
 [spotweb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [spotweb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [spotweb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
