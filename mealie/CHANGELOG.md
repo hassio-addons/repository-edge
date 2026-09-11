@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Add Home Assistant discovery (#13) 
 - ⬆️ Update pnpm to v12 (#8) 
 - ⬆️ Update mealie-recipes/mealie to v3.25.1 (#6)
 
