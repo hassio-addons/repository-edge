@@ -1,1 +1,1 @@
-- ⬆️ Update pnpm to v12 (#6)
+- ⬆️ Update pnpm to v12.4.1 (#9)
