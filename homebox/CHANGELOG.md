@@ -1,1 +1,1 @@
-- Fix Homebox refusing to render inside the Ingress panel (#10)
+- Fix the Ingress rewrite reaching into Nuxt's runtime config (#11)
