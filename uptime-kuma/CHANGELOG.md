@@ -1,4 +1,7 @@
 # Changelog since v0.19.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#382)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2026.9.0 (#381) 
 - ⬆️ Update alpine_3_24/setpriv to v2.42.3-r1 (#380)
 
