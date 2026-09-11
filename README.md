@@ -1301,10 +1301,10 @@ SOFTWARE.
 [victoriametrics-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [victoriametrics-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [victoriametrics-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/32b7794
-[addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/32b7794/README.md
+[addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/a694f4a
+[addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/a694f4a/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
-[whisparr-version-shield]: https://img.shields.io/badge/version-32b7794-blue.svg
+[whisparr-version-shield]: https://img.shields.io/badge/version-a694f4a-blue.svg
 [whisparr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [whisparr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [whisparr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
