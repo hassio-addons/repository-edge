@@ -1,1 +1,1 @@
-- ⬆️ Update pnpm to v12.4.1 (#9)
+- Fix Homebox refusing to render inside the Ingress panel (#10)
