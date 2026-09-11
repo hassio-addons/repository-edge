@@ -923,10 +923,10 @@ SOFTWARE.
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [appdaemon-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [appdaemon-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/a2a70e3
-[addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/a2a70e3/README.md
+[addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/e47c4d0
+[addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/e47c4d0/README.md
 [audiobookshelf-issue]: https://github.com/hassio-addons/app-audiobookshelf/issues
-[audiobookshelf-version-shield]: https://img.shields.io/badge/version-a2a70e3-blue.svg
+[audiobookshelf-version-shield]: https://img.shields.io/badge/version-e47c4d0-blue.svg
 [audiobookshelf-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [audiobookshelf-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [audiobookshelf-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
