@@ -1211,10 +1211,10 @@ SOFTWARE.
 [syncthing-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [syncthing-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [syncthing-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/f2958be
-[addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/f2958be/README.md
+[addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/a52e4f0
+[addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/a52e4f0/README.md
 [tailscale-issue]: https://github.com/hassio-addons/app-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-f2958be-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-a52e4f0-blue.svg
 [tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tailscale-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

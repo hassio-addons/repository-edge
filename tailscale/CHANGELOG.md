@@ -1,4 +1,5 @@
 # Changelog since v0.29.0
+- Migrate log_level to log_suppression option (#753) 
 - Add default values as comment to the example configuration (#752)
 
 * Add default values as comment to the example configuration
