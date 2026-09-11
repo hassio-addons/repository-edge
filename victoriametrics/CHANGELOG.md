@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- ⬆️ Update VictoriaMetrics/VictoriaMetrics to v1.151.0 (#5) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#8)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
