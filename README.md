@@ -229,6 +229,14 @@ Recipe manager and meal planner for your kitchen
 
 [:books: Mealie app documentation][addon-doc-mealie]
 
+### &#10003; [NZBGet][addon-nzbget]
+
+![Latest Version][nzbget-version-shield]
+
+Efficient Usenet downloader, written in C++
+
+[:books: NZBGet app documentation][addon-doc-nzbget]
+
 ### &#10003; [Network UPS Tools][addon-nut]
 
 ![Latest Version][nut-version-shield]
@@ -538,6 +546,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: Lidarr][lidarr-issue]
 - [Open an issue for the app: MQTT IO][mqtt-io-issue]
 - [Open an issue for the app: Mealie][mealie-issue]
+- [Open an issue for the app: NZBGet][nzbget-issue]
 - [Open an issue for the app: Network UPS Tools][nut-issue]
 - [Open an issue for the app: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the app: Node-RED][node-red-issue]
@@ -714,6 +723,10 @@ SOFTWARE.
 [addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/87160d9/README.md
 [mealie-issue]: https://github.com/hassio-addons/app-mealie/issues
 [mealie-version-shield]: https://img.shields.io/badge/version-87160d9-blue.svg
+[addon-nzbget]: https://github.com/hassio-addons/app-nzbget/tree/f38675e
+[addon-doc-nzbget]: https://github.com/hassio-addons/app-nzbget/blob/f38675e/README.md
+[nzbget-issue]: https://github.com/hassio-addons/app-nzbget/issues
+[nzbget-version-shield]: https://img.shields.io/badge/version-f38675e-blue.svg
 [addon-nut]: https://github.com/hassio-addons/app-nut/tree/4394c92
 [addon-doc-nut]: https://github.com/hassio-addons/app-nut/blob/4394c92/README.md
 [nut-issue]: https://github.com/hassio-addons/app-nut/issues
