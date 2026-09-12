@@ -4,9 +4,6 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
 ## WARNING! THIS IS AN EDGE REPOSITORY
 
 This Home Assistant Apps repository contains edge builds of apps. Edge
@@ -43,11 +40,6 @@ https://github.com/hassio-addons/repository-edge
 ### &#10003; [AdGuard Home][addon-adguard]
 
 ![Latest Version][adguard-version-shield]
-![Supports armhf Architecture][adguard-armhf-shield]
-![Supports armv7 Architecture][adguard-armv7-shield]
-![Supports aarch64 Architecture][adguard-aarch64-shield]
-![Supports amd64 Architecture][adguard-amd64-shield]
-![Supports i386 Architecture][adguard-i386-shield]
 
 Network-wide ads & trackers blocking DNS server
 
@@ -56,11 +48,6 @@ Network-wide ads & trackers blocking DNS server
 ### &#10003; [Advanced SSH & Web Terminal][addon-ssh]
 
 ![Latest Version][ssh-version-shield]
-![Supports armhf Architecture][ssh-armhf-shield]
-![Supports armv7 Architecture][ssh-armv7-shield]
-![Supports aarch64 Architecture][ssh-aarch64-shield]
-![Supports amd64 Architecture][ssh-amd64-shield]
-![Supports i386 Architecture][ssh-i386-shield]
 
 A supercharged SSH & Web Terminal access to your Home Assistant instance
 
@@ -69,11 +56,6 @@ A supercharged SSH & Web Terminal access to your Home Assistant instance
 ### &#10003; [AirCast][addon-aircast]
 
 ![Latest Version][aircast-version-shield]
-![Supports armhf Architecture][aircast-armhf-shield]
-![Supports armv7 Architecture][aircast-armv7-shield]
-![Supports aarch64 Architecture][aircast-aarch64-shield]
-![Supports amd64 Architecture][aircast-amd64-shield]
-![Supports i386 Architecture][aircast-i386-shield]
 
 AirPlay capabilities for your Chromecast devices.
 
@@ -82,11 +64,6 @@ AirPlay capabilities for your Chromecast devices.
 ### &#10003; [AirSonos][addon-airsonos]
 
 ![Latest Version][airsonos-version-shield]
-![Supports armhf Architecture][airsonos-armhf-shield]
-![Supports armv7 Architecture][airsonos-armv7-shield]
-![Supports aarch64 Architecture][airsonos-aarch64-shield]
-![Supports amd64 Architecture][airsonos-amd64-shield]
-![Supports i386 Architecture][airsonos-i386-shield]
 
 AirPlay capabilities for your Sonos (and UPnP) devices.
 
@@ -95,11 +72,6 @@ AirPlay capabilities for your Sonos (and UPnP) devices.
 ### &#10003; [AppDaemon][addon-appdaemon]
 
 ![Latest Version][appdaemon-version-shield]
-![Supports armhf Architecture][appdaemon-armhf-shield]
-![Supports armv7 Architecture][appdaemon-armv7-shield]
-![Supports aarch64 Architecture][appdaemon-aarch64-shield]
-![Supports amd64 Architecture][appdaemon-amd64-shield]
-![Supports i386 Architecture][appdaemon-i386-shield]
 
 Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 
@@ -108,11 +80,6 @@ Python Apps and Dashboard using AppDaemon 4.x for Home Assistant
 ### &#10003; [Audiobookshelf][addon-audiobookshelf]
 
 ![Latest Version][audiobookshelf-version-shield]
-![Supports armhf Architecture][audiobookshelf-armhf-shield]
-![Supports armv7 Architecture][audiobookshelf-armv7-shield]
-![Supports aarch64 Architecture][audiobookshelf-aarch64-shield]
-![Supports amd64 Architecture][audiobookshelf-amd64-shield]
-![Supports i386 Architecture][audiobookshelf-i386-shield]
 
 Self-hosted audiobook and podcast server
 
@@ -121,11 +88,6 @@ Self-hosted audiobook and podcast server
 ### &#10003; [Bazarr][addon-bazarr]
 
 ![Latest Version][bazarr-version-shield]
-![Supports armhf Architecture][bazarr-armhf-shield]
-![Supports armv7 Architecture][bazarr-armv7-shield]
-![Supports aarch64 Architecture][bazarr-aarch64-shield]
-![Supports amd64 Architecture][bazarr-amd64-shield]
-![Supports i386 Architecture][bazarr-i386-shield]
 
 Download and manage subtitles for Sonarr and Radarr
 
@@ -134,11 +96,6 @@ Download and manage subtitles for Sonarr and Radarr
 ### &#10003; [Bookstack][addon-bookstack]
 
 ![Latest Version][bookstack-version-shield]
-![Supports armhf Architecture][bookstack-armhf-shield]
-![Supports armv7 Architecture][bookstack-armv7-shield]
-![Supports aarch64 Architecture][bookstack-aarch64-shield]
-![Supports amd64 Architecture][bookstack-amd64-shield]
-![Supports i386 Architecture][bookstack-i386-shield]
 
 Simple & Free Wiki Software
 
@@ -147,11 +104,6 @@ Simple & Free Wiki Software
 ### &#10003; [EMQX][addon-emqx]
 
 ![Latest Version][emqx-version-shield]
-![Supports armhf Architecture][emqx-armhf-shield]
-![Supports armv7 Architecture][emqx-armv7-shield]
-![Supports aarch64 Architecture][emqx-aarch64-shield]
-![Supports amd64 Architecture][emqx-amd64-shield]
-![Supports i386 Architecture][emqx-i386-shield]
 
 The most scalable MQTT broker for IoT. An alternative for the Mosquitto app
 
@@ -160,11 +112,6 @@ The most scalable MQTT broker for IoT. An alternative for the Mosquitto app
 ### &#10003; [Example][addon-example]
 
 ![Latest Version][example-version-shield]
-![Supports armhf Architecture][example-armhf-shield]
-![Supports armv7 Architecture][example-armv7-shield]
-![Supports aarch64 Architecture][example-aarch64-shield]
-![Supports amd64 Architecture][example-amd64-shield]
-![Supports i386 Architecture][example-i386-shield]
 
 Example app by Home Assistant Community Apps
 
@@ -173,11 +120,6 @@ Example app by Home Assistant Community Apps
 ### &#10003; [FTP][addon-ftp]
 
 ![Latest Version][ftp-version-shield]
-![Supports armhf Architecture][ftp-armhf-shield]
-![Supports armv7 Architecture][ftp-armv7-shield]
-![Supports aarch64 Architecture][ftp-aarch64-shield]
-![Supports amd64 Architecture][ftp-amd64-shield]
-![Supports i386 Architecture][ftp-i386-shield]
 
 A secure and fast FTP server for Home Assistant
 
@@ -186,11 +128,6 @@ A secure and fast FTP server for Home Assistant
 ### &#10003; [Folding@home][addon-foldingathome]
 
 ![Latest Version][foldingathome-version-shield]
-![Supports armhf Architecture][foldingathome-armhf-shield]
-![Supports armv7 Architecture][foldingathome-armv7-shield]
-![Supports aarch64 Architecture][foldingathome-aarch64-shield]
-![Supports amd64 Architecture][foldingathome-amd64-shield]
-![Supports i386 Architecture][foldingathome-i386-shield]
 
 Fighting disease with a world wide distributed super computer
 
@@ -199,11 +136,6 @@ Fighting disease with a world wide distributed super computer
 ### &#10003; [FreshRSS][addon-freshrss]
 
 ![Latest Version][freshrss-version-shield]
-![Supports armhf Architecture][freshrss-armhf-shield]
-![Supports armv7 Architecture][freshrss-armv7-shield]
-![Supports aarch64 Architecture][freshrss-aarch64-shield]
-![Supports amd64 Architecture][freshrss-amd64-shield]
-![Supports i386 Architecture][freshrss-i386-shield]
 
 A free, self-hostable RSS and Atom feed aggregator
 
@@ -212,11 +144,6 @@ A free, self-hostable RSS and Atom feed aggregator
 ### &#10003; [Glances][addon-glances]
 
 ![Latest Version][glances-version-shield]
-![Supports armhf Architecture][glances-armhf-shield]
-![Supports armv7 Architecture][glances-armv7-shield]
-![Supports aarch64 Architecture][glances-aarch64-shield]
-![Supports amd64 Architecture][glances-amd64-shield]
-![Supports i386 Architecture][glances-i386-shield]
 
 A cross-platform system monitoring tool
 
@@ -225,11 +152,6 @@ A cross-platform system monitoring tool
 ### &#10003; [Grafana][addon-grafana]
 
 ![Latest Version][grafana-version-shield]
-![Supports armhf Architecture][grafana-armhf-shield]
-![Supports armv7 Architecture][grafana-armv7-shield]
-![Supports aarch64 Architecture][grafana-aarch64-shield]
-![Supports amd64 Architecture][grafana-amd64-shield]
-![Supports i386 Architecture][grafana-i386-shield]
 
 The open platform for beautiful analytics and monitoring
 
@@ -238,11 +160,6 @@ The open platform for beautiful analytics and monitoring
 ### &#10003; [Grocy][addon-grocy]
 
 ![Latest Version][grocy-version-shield]
-![Supports armhf Architecture][grocy-armhf-shield]
-![Supports armv7 Architecture][grocy-armv7-shield]
-![Supports aarch64 Architecture][grocy-aarch64-shield]
-![Supports amd64 Architecture][grocy-amd64-shield]
-![Supports i386 Architecture][grocy-i386-shield]
 
 ERP beyond your fridge! A groceries & household management solution for your home
 
@@ -251,11 +168,6 @@ ERP beyond your fridge! A groceries & household management solution for your hom
 ### &#10003; [Homebox][addon-homebox]
 
 ![Latest Version][homebox-version-shield]
-![Supports armhf Architecture][homebox-armhf-shield]
-![Supports armv7 Architecture][homebox-armv7-shield]
-![Supports aarch64 Architecture][homebox-aarch64-shield]
-![Supports amd64 Architecture][homebox-amd64-shield]
-![Supports i386 Architecture][homebox-i386-shield]
 
 Inventory and organization system for the things in your home
 
@@ -264,11 +176,6 @@ Inventory and organization system for the things in your home
 ### &#10003; [Jellyfin][addon-jellyfin]
 
 ![Latest Version][jellyfin-version-shield]
-![Supports armhf Architecture][jellyfin-armhf-shield]
-![Supports armv7 Architecture][jellyfin-armv7-shield]
-![Supports aarch64 Architecture][jellyfin-aarch64-shield]
-![Supports amd64 Architecture][jellyfin-amd64-shield]
-![Supports i386 Architecture][jellyfin-i386-shield]
 
 The free software media system for your movies, shows and music
 
@@ -277,11 +184,6 @@ The free software media system for your movies, shows and music
 ### &#10003; [JupyterLab][addon-jupyterlab]
 
 ![Latest Version][jupyterlab-version-shield]
-![Supports armhf Architecture][jupyterlab-armhf-shield]
-![Supports armv7 Architecture][jupyterlab-armv7-shield]
-![Supports aarch64 Architecture][jupyterlab-aarch64-shield]
-![Supports amd64 Architecture][jupyterlab-amd64-shield]
-![Supports i386 Architecture][jupyterlab-i386-shield]
 
 Create documents containing live code, equations, visualizations, and explanatory text
 
@@ -290,11 +192,6 @@ Create documents containing live code, equations, visualizations, and explanator
 ### &#10003; [Lidarr][addon-lidarr]
 
 ![Latest Version][lidarr-version-shield]
-![Supports armhf Architecture][lidarr-armhf-shield]
-![Supports armv7 Architecture][lidarr-armv7-shield]
-![Supports aarch64 Architecture][lidarr-aarch64-shield]
-![Supports amd64 Architecture][lidarr-amd64-shield]
-![Supports i386 Architecture][lidarr-i386-shield]
 
 Looks and smells like Sonarr but made for music
 
@@ -303,11 +200,6 @@ Looks and smells like Sonarr but made for music
 ### &#10003; [MQTT IO][addon-mqtt-io]
 
 ![Latest Version][mqtt-io-version-shield]
-![Supports armhf Architecture][mqtt-io-armhf-shield]
-![Supports armv7 Architecture][mqtt-io-armv7-shield]
-![Supports aarch64 Architecture][mqtt-io-aarch64-shield]
-![Supports amd64 Architecture][mqtt-io-amd64-shield]
-![Supports i386 Architecture][mqtt-io-i386-shield]
 
 Expose GPIO modules and digital sensors via MQTT for remote control and monitoring.
 
@@ -316,11 +208,6 @@ Expose GPIO modules and digital sensors via MQTT for remote control and monitori
 ### &#10003; [Mealie][addon-mealie]
 
 ![Latest Version][mealie-version-shield]
-![Supports armhf Architecture][mealie-armhf-shield]
-![Supports armv7 Architecture][mealie-armv7-shield]
-![Supports aarch64 Architecture][mealie-aarch64-shield]
-![Supports amd64 Architecture][mealie-amd64-shield]
-![Supports i386 Architecture][mealie-i386-shield]
 
 Recipe manager and meal planner for your kitchen
 
@@ -329,11 +216,6 @@ Recipe manager and meal planner for your kitchen
 ### &#10003; [Network UPS Tools][addon-nut]
 
 ![Latest Version][nut-version-shield]
-![Supports armhf Architecture][nut-armhf-shield]
-![Supports armv7 Architecture][nut-armv7-shield]
-![Supports aarch64 Architecture][nut-aarch64-shield]
-![Supports amd64 Architecture][nut-amd64-shield]
-![Supports i386 Architecture][nut-i386-shield]
 
 Manage battery backup (UPS) devices
 
@@ -342,11 +224,6 @@ Manage battery backup (UPS) devices
 ### &#10003; [Nginx Proxy Manager][addon-nginxproxymanager]
 
 ![Latest Version][nginxproxymanager-version-shield]
-![Supports armhf Architecture][nginxproxymanager-armhf-shield]
-![Supports armv7 Architecture][nginxproxymanager-armv7-shield]
-![Supports aarch64 Architecture][nginxproxymanager-aarch64-shield]
-![Supports amd64 Architecture][nginxproxymanager-amd64-shield]
-![Supports i386 Architecture][nginxproxymanager-i386-shield]
 
 Manage Nginx proxy hosts with a simple, powerful interface
 
@@ -355,11 +232,6 @@ Manage Nginx proxy hosts with a simple, powerful interface
 ### &#10003; [Node-RED][addon-node-red]
 
 ![Latest Version][node-red-version-shield]
-![Supports armhf Architecture][node-red-armhf-shield]
-![Supports armv7 Architecture][node-red-armv7-shield]
-![Supports aarch64 Architecture][node-red-aarch64-shield]
-![Supports amd64 Architecture][node-red-amd64-shield]
-![Supports i386 Architecture][node-red-i386-shield]
 
 Flow-based programming for the Internet of Things
 
@@ -368,11 +240,6 @@ Flow-based programming for the Internet of Things
 ### &#10003; [Plex Media Server][addon-plex]
 
 ![Latest Version][plex-version-shield]
-![Supports armhf Architecture][plex-armhf-shield]
-![Supports armv7 Architecture][plex-armv7-shield]
-![Supports aarch64 Architecture][plex-aarch64-shield]
-![Supports amd64 Architecture][plex-amd64-shield]
-![Supports i386 Architecture][plex-i386-shield]
 
 Recorded media, live TV, online news, and podcasts ready to stream.
 
@@ -381,11 +248,6 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 ### &#10003; [Prowlarr][addon-prowlarr]
 
 ![Latest Version][prowlarr-version-shield]
-![Supports armhf Architecture][prowlarr-armhf-shield]
-![Supports armv7 Architecture][prowlarr-armv7-shield]
-![Supports aarch64 Architecture][prowlarr-aarch64-shield]
-![Supports amd64 Architecture][prowlarr-amd64-shield]
-![Supports i386 Architecture][prowlarr-i386-shield]
 
 Indexer manager/proxy built on the popular arr stack to integrate with your various PVR apps
 
@@ -394,11 +256,6 @@ Indexer manager/proxy built on the popular arr stack to integrate with your vari
 ### &#10003; [Radarr][addon-radarr]
 
 ![Latest Version][radarr-version-shield]
-![Supports armhf Architecture][radarr-armhf-shield]
-![Supports armv7 Architecture][radarr-armv7-shield]
-![Supports aarch64 Architecture][radarr-aarch64-shield]
-![Supports amd64 Architecture][radarr-amd64-shield]
-![Supports i386 Architecture][radarr-i386-shield]
 
 Movie organizer/manager for usenet and torrent users
 
@@ -407,11 +264,6 @@ Movie organizer/manager for usenet and torrent users
 ### &#10003; [SABnzbd][addon-sabnzbd]
 
 ![Latest Version][sabnzbd-version-shield]
-![Supports armhf Architecture][sabnzbd-armhf-shield]
-![Supports armv7 Architecture][sabnzbd-armv7-shield]
-![Supports aarch64 Architecture][sabnzbd-aarch64-shield]
-![Supports amd64 Architecture][sabnzbd-amd64-shield]
-![Supports i386 Architecture][sabnzbd-i386-shield]
 
 Free and easy binary newsreader
 
@@ -420,11 +272,6 @@ Free and easy binary newsreader
 ### &#10003; [SQLite Web][addon-sqlite-web]
 
 ![Latest Version][sqlite-web-version-shield]
-![Supports armhf Architecture][sqlite-web-armhf-shield]
-![Supports armv7 Architecture][sqlite-web-armv7-shield]
-![Supports aarch64 Architecture][sqlite-web-aarch64-shield]
-![Supports amd64 Architecture][sqlite-web-amd64-shield]
-![Supports i386 Architecture][sqlite-web-i386-shield]
 
 Explore your SQLite database
 
@@ -433,11 +280,6 @@ Explore your SQLite database
 ### &#10003; [Seerr][addon-overseerr]
 
 ![Latest Version][overseerr-version-shield]
-![Supports armhf Architecture][overseerr-armhf-shield]
-![Supports armv7 Architecture][overseerr-armv7-shield]
-![Supports aarch64 Architecture][overseerr-aarch64-shield]
-![Supports amd64 Architecture][overseerr-amd64-shield]
-![Supports i386 Architecture][overseerr-i386-shield]
 
 Media request and discovery manager for Jellyfin, Plex, and Emby
 
@@ -446,11 +288,6 @@ Media request and discovery manager for Jellyfin, Plex, and Emby
 ### &#10003; [Sonarr][addon-sonarr]
 
 ![Latest Version][sonarr-version-shield]
-![Supports armhf Architecture][sonarr-armhf-shield]
-![Supports armv7 Architecture][sonarr-armv7-shield]
-![Supports aarch64 Architecture][sonarr-aarch64-shield]
-![Supports amd64 Architecture][sonarr-amd64-shield]
-![Supports i386 Architecture][sonarr-i386-shield]
 
 Smart PVR for newsgroup and bittorrent users
 
@@ -459,11 +296,6 @@ Smart PVR for newsgroup and bittorrent users
 ### &#10003; [Spotify Connect][addon-spotify]
 
 ![Latest Version][spotify-version-shield]
-![Supports armhf Architecture][spotify-armhf-shield]
-![Supports armv7 Architecture][spotify-armv7-shield]
-![Supports aarch64 Architecture][spotify-aarch64-shield]
-![Supports amd64 Architecture][spotify-amd64-shield]
-![Supports i386 Architecture][spotify-i386-shield]
 
 Play Spotify music on your Home Assistant device
 
@@ -472,11 +304,6 @@ Play Spotify music on your Home Assistant device
 ### &#10003; [Spotweb][addon-spotweb]
 
 ![Latest Version][spotweb-version-shield]
-![Supports armhf Architecture][spotweb-armhf-shield]
-![Supports armv7 Architecture][spotweb-armv7-shield]
-![Supports aarch64 Architecture][spotweb-aarch64-shield]
-![Supports amd64 Architecture][spotweb-amd64-shield]
-![Supports i386 Architecture][spotweb-i386-shield]
 
 A decentralized usenet community based on the Spotnet protocol
 
@@ -485,11 +312,6 @@ A decentralized usenet community based on the Spotnet protocol
 ### &#10003; [Stirling PDF][addon-stirling-pdf]
 
 ![Latest Version][stirling-pdf-version-shield]
-![Supports armhf Architecture][stirling-pdf-armhf-shield]
-![Supports armv7 Architecture][stirling-pdf-armv7-shield]
-![Supports aarch64 Architecture][stirling-pdf-aarch64-shield]
-![Supports amd64 Architecture][stirling-pdf-amd64-shield]
-![Supports i386 Architecture][stirling-pdf-i386-shield]
 
 Do everything you need to a PDF, on your own machine
 
@@ -498,11 +320,6 @@ Do everything you need to a PDF, on your own machine
 ### &#10003; [Studio Code Server][addon-vscode]
 
 ![Latest Version][vscode-version-shield]
-![Supports armhf Architecture][vscode-armhf-shield]
-![Supports armv7 Architecture][vscode-armv7-shield]
-![Supports aarch64 Architecture][vscode-aarch64-shield]
-![Supports amd64 Architecture][vscode-amd64-shield]
-![Supports i386 Architecture][vscode-i386-shield]
 
 Fully featured Visual Studio Code (VSCode) experience integrated in the Home Assistant frontend
 
@@ -511,11 +328,6 @@ Fully featured Visual Studio Code (VSCode) experience integrated in the Home Ass
 ### &#10003; [Syncthing][addon-syncthing]
 
 ![Latest Version][syncthing-version-shield]
-![Supports armhf Architecture][syncthing-armhf-shield]
-![Supports armv7 Architecture][syncthing-armv7-shield]
-![Supports aarch64 Architecture][syncthing-aarch64-shield]
-![Supports amd64 Architecture][syncthing-amd64-shield]
-![Supports i386 Architecture][syncthing-i386-shield]
 
 Continuous file synchronization between all your devices
 
@@ -524,11 +336,6 @@ Continuous file synchronization between all your devices
 ### &#10003; [Tailscale][addon-tailscale]
 
 ![Latest Version][tailscale-version-shield]
-![Supports armhf Architecture][tailscale-armhf-shield]
-![Supports armv7 Architecture][tailscale-armv7-shield]
-![Supports aarch64 Architecture][tailscale-aarch64-shield]
-![Supports amd64 Architecture][tailscale-amd64-shield]
-![Supports i386 Architecture][tailscale-i386-shield]
 
 Zero config VPN for building secure networks
 
@@ -537,11 +344,6 @@ Zero config VPN for building secure networks
 ### &#10003; [TasmoAdmin][addon-tasmoadmin]
 
 ![Latest Version][tasmoadmin-version-shield]
-![Supports armhf Architecture][tasmoadmin-armhf-shield]
-![Supports armv7 Architecture][tasmoadmin-armv7-shield]
-![Supports aarch64 Architecture][tasmoadmin-aarch64-shield]
-![Supports amd64 Architecture][tasmoadmin-amd64-shield]
-![Supports i386 Architecture][tasmoadmin-i386-shield]
 
 Centrally manage all your Sonoff-Tasmota devices
 
@@ -550,11 +352,6 @@ Centrally manage all your Sonoff-Tasmota devices
 ### &#10003; [Tautulli][addon-tautulli]
 
 ![Latest Version][tautulli-version-shield]
-![Supports armhf Architecture][tautulli-armhf-shield]
-![Supports armv7 Architecture][tautulli-armv7-shield]
-![Supports aarch64 Architecture][tautulli-aarch64-shield]
-![Supports amd64 Architecture][tautulli-amd64-shield]
-![Supports i386 Architecture][tautulli-i386-shield]
 
 Monitoring and tracking tool for Plex Media Server
 
@@ -563,11 +360,6 @@ Monitoring and tracking tool for Plex Media Server
 ### &#10003; [The Lounge][addon-thelounge]
 
 ![Latest Version][thelounge-version-shield]
-![Supports armhf Architecture][thelounge-armhf-shield]
-![Supports armv7 Architecture][thelounge-armv7-shield]
-![Supports aarch64 Architecture][thelounge-aarch64-shield]
-![Supports amd64 Architecture][thelounge-amd64-shield]
-![Supports i386 Architecture][thelounge-i386-shield]
 
 A self-hosted web IRC client
 
@@ -576,11 +368,6 @@ A self-hosted web IRC client
 ### &#10003; [Tor][addon-tor]
 
 ![Latest Version][tor-version-shield]
-![Supports armhf Architecture][tor-armhf-shield]
-![Supports armv7 Architecture][tor-armv7-shield]
-![Supports aarch64 Architecture][tor-aarch64-shield]
-![Supports amd64 Architecture][tor-amd64-shield]
-![Supports i386 Architecture][tor-i386-shield]
 
 Protect your privacy and access Home Assistant via Tor
 
@@ -589,11 +376,6 @@ Protect your privacy and access Home Assistant via Tor
 ### &#10003; [Traccar][addon-traccar]
 
 ![Latest Version][traccar-version-shield]
-![Supports armhf Architecture][traccar-armhf-shield]
-![Supports armv7 Architecture][traccar-armv7-shield]
-![Supports aarch64 Architecture][traccar-aarch64-shield]
-![Supports amd64 Architecture][traccar-amd64-shield]
-![Supports i386 Architecture][traccar-i386-shield]
 
 Modern GPS Tracking Platform
 
@@ -602,11 +384,6 @@ Modern GPS Tracking Platform
 ### &#10003; [UniFi Network Application][addon-unifi]
 
 ![Latest Version][unifi-version-shield]
-![Supports armhf Architecture][unifi-armhf-shield]
-![Supports armv7 Architecture][unifi-armv7-shield]
-![Supports aarch64 Architecture][unifi-aarch64-shield]
-![Supports amd64 Architecture][unifi-amd64-shield]
-![Supports i386 Architecture][unifi-i386-shield]
 
 Manage your UniFi network using a web browser
 
@@ -615,11 +392,6 @@ Manage your UniFi network using a web browser
 ### &#10003; [Uptime Kuma][addon-uptime-kuma]
 
 ![Latest Version][uptime-kuma-version-shield]
-![Supports armhf Architecture][uptime-kuma-armhf-shield]
-![Supports armv7 Architecture][uptime-kuma-armv7-shield]
-![Supports aarch64 Architecture][uptime-kuma-aarch64-shield]
-![Supports amd64 Architecture][uptime-kuma-amd64-shield]
-![Supports i386 Architecture][uptime-kuma-i386-shield]
 
 It is a self-hosted monitoring tool like "Uptime Robot"
 
@@ -628,11 +400,6 @@ It is a self-hosted monitoring tool like "Uptime Robot"
 ### &#10003; [Vaultwarden][addon-bitwarden]
 
 ![Latest Version][bitwarden-version-shield]
-![Supports armhf Architecture][bitwarden-armhf-shield]
-![Supports armv7 Architecture][bitwarden-armv7-shield]
-![Supports aarch64 Architecture][bitwarden-aarch64-shield]
-![Supports amd64 Architecture][bitwarden-amd64-shield]
-![Supports i386 Architecture][bitwarden-i386-shield]
 
 Open source password management solution
 
@@ -641,11 +408,6 @@ Open source password management solution
 ### &#10003; [VictoriaMetrics][addon-victoriametrics]
 
 ![Latest Version][victoriametrics-version-shield]
-![Supports armhf Architecture][victoriametrics-armhf-shield]
-![Supports armv7 Architecture][victoriametrics-armv7-shield]
-![Supports aarch64 Architecture][victoriametrics-aarch64-shield]
-![Supports amd64 Architecture][victoriametrics-amd64-shield]
-![Supports i386 Architecture][victoriametrics-i386-shield]
 
 Fast and resource efficient time series database for your metrics
 
@@ -654,11 +416,6 @@ Fast and resource efficient time series database for your metrics
 ### &#10003; [Whisparr][addon-whisparr]
 
 ![Latest Version][whisparr-version-shield]
-![Supports armhf Architecture][whisparr-armhf-shield]
-![Supports armv7 Architecture][whisparr-armv7-shield]
-![Supports aarch64 Architecture][whisparr-aarch64-shield]
-![Supports amd64 Architecture][whisparr-amd64-shield]
-![Supports i386 Architecture][whisparr-i386-shield]
 
 Whisparr is an adult video collection manager for Usenet and BitTorrent users
 
@@ -667,11 +424,6 @@ Whisparr is an adult video collection manager for Usenet and BitTorrent users
 ### &#10003; [WireGuard][addon-wireguard]
 
 ![Latest Version][wireguard-version-shield]
-![Supports armhf Architecture][wireguard-armhf-shield]
-![Supports armv7 Architecture][wireguard-armv7-shield]
-![Supports aarch64 Architecture][wireguard-aarch64-shield]
-![Supports amd64 Architecture][wireguard-amd64-shield]
-![Supports i386 Architecture][wireguard-i386-shield]
 
 Fast, modern, secure VPN tunnel
 
@@ -680,11 +432,6 @@ Fast, modern, secure VPN tunnel
 ### &#10003; [Z-Wave JS UI][addon-zwave-js-ui]
 
 ![Latest Version][zwave-js-ui-version-shield]
-![Supports armhf Architecture][zwave-js-ui-armhf-shield]
-![Supports armv7 Architecture][zwave-js-ui-armv7-shield]
-![Supports aarch64 Architecture][zwave-js-ui-aarch64-shield]
-![Supports amd64 Architecture][zwave-js-ui-amd64-shield]
-![Supports i386 Architecture][zwave-js-ui-i386-shield]
 
 Fully configurable Z-Wave JS gateway and control panel
 
@@ -693,11 +440,6 @@ Fully configurable Z-Wave JS gateway and control panel
 ### &#10003; [ZeroTier One][addon-zerotier]
 
 ![Latest Version][zerotier-version-shield]
-![Supports armhf Architecture][zerotier-armhf-shield]
-![Supports armv7 Architecture][zerotier-armv7-shield]
-![Supports aarch64 Architecture][zerotier-aarch64-shield]
-![Supports amd64 Architecture][zerotier-amd64-shield]
-![Supports i386 Architecture][zerotier-i386-shield]
 
 Radically simplify your network with a virtual networking layer that works the same everywhere
 
@@ -706,11 +448,6 @@ Radically simplify your network with a virtual networking layer that works the s
 ### &#10003; [chrony][addon-chrony]
 
 ![Latest Version][chrony-version-shield]
-![Supports armhf Architecture][chrony-armhf-shield]
-![Supports armv7 Architecture][chrony-armv7-shield]
-![Supports aarch64 Architecture][chrony-aarch64-shield]
-![Supports amd64 Architecture][chrony-amd64-shield]
-![Supports i386 Architecture][chrony-i386-shield]
 
 A local NTP (Network Time Protocol) server for cameras etc.
 
@@ -719,11 +456,6 @@ A local NTP (Network Time Protocol) server for cameras etc.
 ### &#10003; [motionEye][addon-motioneye]
 
 ![Latest Version][motioneye-version-shield]
-![Supports armhf Architecture][motioneye-armhf-shield]
-![Supports armv7 Architecture][motioneye-armv7-shield]
-![Supports aarch64 Architecture][motioneye-aarch64-shield]
-![Supports amd64 Architecture][motioneye-amd64-shield]
-![Supports i386 Architecture][motioneye-i386-shield]
 
 Simple, elegant and feature-rich CCTV/NVR for your cameras
 
@@ -732,11 +464,6 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras
 ### &#10003; [phpMyAdmin][addon-phpmyadmin]
 
 ![Latest Version][phpmyadmin-version-shield]
-![Supports armhf Architecture][phpmyadmin-armhf-shield]
-![Supports armv7 Architecture][phpmyadmin-armv7-shield]
-![Supports aarch64 Architecture][phpmyadmin-aarch64-shield]
-![Supports amd64 Architecture][phpmyadmin-amd64-shield]
-![Supports i386 Architecture][phpmyadmin-i386-shield]
 
 A web interface for the official MariaDB app
 
@@ -745,11 +472,6 @@ A web interface for the official MariaDB app
 ### &#10003; [qBittorrent][addon-qbittorrent]
 
 ![Latest Version][qbittorrent-version-shield]
-![Supports armhf Architecture][qbittorrent-armhf-shield]
-![Supports armv7 Architecture][qbittorrent-armv7-shield]
-![Supports aarch64 Architecture][qbittorrent-aarch64-shield]
-![Supports amd64 Architecture][qbittorrent-amd64-shield]
-![Supports i386 Architecture][qbittorrent-i386-shield]
 
 Fast, stable and lightweight BitTorrent client
 
@@ -882,502 +604,225 @@ SOFTWARE.
 [addon-doc-adguard]: https://github.com/hassio-addons/app-adguard-home/blob/5648bdc/README.md
 [adguard-issue]: https://github.com/hassio-addons/app-adguard-home/issues
 [adguard-version-shield]: https://img.shields.io/badge/version-5648bdc-blue.svg
-[adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[adguard-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[adguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-ssh]: https://github.com/hassio-addons/app-ssh/tree/0282f17
 [addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/0282f17/README.md
 [ssh-issue]: https://github.com/hassio-addons/app-ssh/issues
 [ssh-version-shield]: https://img.shields.io/badge/version-0282f17-blue.svg
-[ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[ssh-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[ssh-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-aircast]: https://github.com/hassio-addons/app-aircast/tree/df1d787
 [addon-doc-aircast]: https://github.com/hassio-addons/app-aircast/blob/df1d787/README.md
 [aircast-issue]: https://github.com/hassio-addons/app-aircast/issues
 [aircast-version-shield]: https://img.shields.io/badge/version-df1d787-blue.svg
-[aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[aircast-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[aircast-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[aircast-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-airsonos]: https://github.com/hassio-addons/app-airsonos/tree/6b4e350
 [addon-doc-airsonos]: https://github.com/hassio-addons/app-airsonos/blob/6b4e350/README.md
 [airsonos-issue]: https://github.com/hassio-addons/app-airsonos/issues
 [airsonos-version-shield]: https://img.shields.io/badge/version-6b4e350-blue.svg
-[airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[airsonos-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[airsonos-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-appdaemon]: https://github.com/hassio-addons/app-appdaemon/tree/9f68875
 [addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/9f68875/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/app-appdaemon/issues
 [appdaemon-version-shield]: https://img.shields.io/badge/version-9f68875-blue.svg
-[appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[appdaemon-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[appdaemon-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/e47c4d0
 [addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/e47c4d0/README.md
 [audiobookshelf-issue]: https://github.com/hassio-addons/app-audiobookshelf/issues
 [audiobookshelf-version-shield]: https://img.shields.io/badge/version-e47c4d0-blue.svg
-[audiobookshelf-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[audiobookshelf-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[audiobookshelf-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[audiobookshelf-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[audiobookshelf-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-bazarr]: https://github.com/hassio-addons/app-bazarr/tree/a05db1d
 [addon-doc-bazarr]: https://github.com/hassio-addons/app-bazarr/blob/a05db1d/README.md
 [bazarr-issue]: https://github.com/hassio-addons/app-bazarr/issues
 [bazarr-version-shield]: https://img.shields.io/badge/version-a05db1d-blue.svg
-[bazarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[bazarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[bazarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[bazarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[bazarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-bookstack]: https://github.com/hassio-addons/app-bookstack/tree/ba7ba71
 [addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/ba7ba71/README.md
 [bookstack-issue]: https://github.com/hassio-addons/app-bookstack/issues
 [bookstack-version-shield]: https://img.shields.io/badge/version-ba7ba71-blue.svg
-[bookstack-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[bookstack-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[bookstack-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[bookstack-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[bookstack-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-emqx]: https://github.com/hassio-addons/app-emqx/tree/6c61de8
 [addon-doc-emqx]: https://github.com/hassio-addons/app-emqx/blob/6c61de8/README.md
 [emqx-issue]: https://github.com/hassio-addons/app-emqx/issues
 [emqx-version-shield]: https://img.shields.io/badge/version-6c61de8-blue.svg
-[emqx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[emqx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[emqx-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[emqx-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-example]: https://github.com/hassio-addons/app-example/tree/ab061f5
 [addon-doc-example]: https://github.com/hassio-addons/app-example/blob/ab061f5/README.md
 [example-issue]: https://github.com/hassio-addons/app-example/issues
 [example-version-shield]: https://img.shields.io/badge/version-ab061f5-blue.svg
-[example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[example-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[example-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-ftp]: https://github.com/hassio-addons/app-ftp/tree/0482f41
 [addon-doc-ftp]: https://github.com/hassio-addons/app-ftp/blob/0482f41/README.md
 [ftp-issue]: https://github.com/hassio-addons/app-ftp/issues
 [ftp-version-shield]: https://img.shields.io/badge/version-0482f41-blue.svg
-[ftp-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[ftp-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[ftp-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[ftp-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[ftp-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-foldingathome]: https://github.com/hassio-addons/app-foldingathome/tree/6b0cb15
 [addon-doc-foldingathome]: https://github.com/hassio-addons/app-foldingathome/blob/6b0cb15/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/app-foldingathome/issues
 [foldingathome-version-shield]: https://img.shields.io/badge/version-6b0cb15-blue.svg
-[foldingathome-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
-[foldingathome-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[foldingathome-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[foldingathome-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[foldingathome-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-freshrss]: https://github.com/hassio-addons/app-freshrss/tree/53af9c6
 [addon-doc-freshrss]: https://github.com/hassio-addons/app-freshrss/blob/53af9c6/README.md
 [freshrss-issue]: https://github.com/hassio-addons/app-freshrss/issues
 [freshrss-version-shield]: https://img.shields.io/badge/version-53af9c6-blue.svg
-[freshrss-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[freshrss-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[freshrss-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[freshrss-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[freshrss-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-glances]: https://github.com/hassio-addons/app-glances/tree/996432c
 [addon-doc-glances]: https://github.com/hassio-addons/app-glances/blob/996432c/README.md
 [glances-issue]: https://github.com/hassio-addons/app-glances/issues
 [glances-version-shield]: https://img.shields.io/badge/version-996432c-blue.svg
-[glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[glances-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[glances-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[glances-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-grafana]: https://github.com/hassio-addons/app-grafana/tree/ae96971
 [addon-doc-grafana]: https://github.com/hassio-addons/app-grafana/blob/ae96971/README.md
 [grafana-issue]: https://github.com/hassio-addons/app-grafana/issues
 [grafana-version-shield]: https://img.shields.io/badge/version-ae96971-blue.svg
-[grafana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[grafana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[grafana-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[grafana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-grocy]: https://github.com/hassio-addons/app-grocy/tree/fba36da
 [addon-doc-grocy]: https://github.com/hassio-addons/app-grocy/blob/fba36da/README.md
 [grocy-issue]: https://github.com/hassio-addons/app-grocy/issues
 [grocy-version-shield]: https://img.shields.io/badge/version-fba36da-blue.svg
-[grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[grocy-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[grocy-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[grocy-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/93fdc1f
 [addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/93fdc1f/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
 [homebox-version-shield]: https://img.shields.io/badge/version-93fdc1f-blue.svg
-[homebox-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[homebox-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[homebox-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[homebox-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[homebox-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/ca2fad7
 [addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/ca2fad7/README.md
 [jellyfin-issue]: https://github.com/hassio-addons/app-jellyfin/issues
 [jellyfin-version-shield]: https://img.shields.io/badge/version-ca2fad7-blue.svg
-[jellyfin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[jellyfin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[jellyfin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[jellyfin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[jellyfin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/tree/620deb5
 [addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/620deb5/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/app-jupyterlab/issues
 [jupyterlab-version-shield]: https://img.shields.io/badge/version-620deb5-blue.svg
-[jupyterlab-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[jupyterlab-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[jupyterlab-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[jupyterlab-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-lidarr]: https://github.com/hassio-addons/app-lidarr/tree/003114d
 [addon-doc-lidarr]: https://github.com/hassio-addons/app-lidarr/blob/003114d/README.md
 [lidarr-issue]: https://github.com/hassio-addons/app-lidarr/issues
 [lidarr-version-shield]: https://img.shields.io/badge/version-003114d-blue.svg
-[lidarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[lidarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[lidarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[lidarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[lidarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/tree/e7a5d0d
 [addon-doc-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/blob/e7a5d0d/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/app-mqtt-io/issues
 [mqtt-io-version-shield]: https://img.shields.io/badge/version-e7a5d0d-blue.svg
-[mqtt-io-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[mqtt-io-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[mqtt-io-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[mqtt-io-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[mqtt-io-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-mealie]: https://github.com/hassio-addons/app-mealie/tree/87160d9
 [addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/87160d9/README.md
 [mealie-issue]: https://github.com/hassio-addons/app-mealie/issues
 [mealie-version-shield]: https://img.shields.io/badge/version-87160d9-blue.svg
-[mealie-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[mealie-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[mealie-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[mealie-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[mealie-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-nut]: https://github.com/hassio-addons/app-nut/tree/4394c92
 [addon-doc-nut]: https://github.com/hassio-addons/app-nut/blob/4394c92/README.md
 [nut-issue]: https://github.com/hassio-addons/app-nut/issues
 [nut-version-shield]: https://img.shields.io/badge/version-4394c92-blue.svg
-[nut-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[nut-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[nut-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[nut-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[nut-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/tree/df7056b
 [addon-doc-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/blob/df7056b/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/app-nginx-proxy-manager/issues
 [nginxproxymanager-version-shield]: https://img.shields.io/badge/version-df7056b-blue.svg
-[nginxproxymanager-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[nginxproxymanager-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/5a64b29
 [addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/5a64b29/README.md
 [node-red-issue]: https://github.com/hassio-addons/app-node-red/issues
 [node-red-version-shield]: https://img.shields.io/badge/version-5a64b29-blue.svg
-[node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[node-red-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[node-red-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-plex]: https://github.com/hassio-addons/app-plex/tree/9974d64
 [addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/9974d64/README.md
 [plex-issue]: https://github.com/hassio-addons/app-plex/issues
 [plex-version-shield]: https://img.shields.io/badge/version-9974d64-blue.svg
-[plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[plex-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-prowlarr]: https://github.com/hassio-addons/app-prowlarr/tree/70fef06
 [addon-doc-prowlarr]: https://github.com/hassio-addons/app-prowlarr/blob/70fef06/README.md
 [prowlarr-issue]: https://github.com/hassio-addons/app-prowlarr/issues
 [prowlarr-version-shield]: https://img.shields.io/badge/version-70fef06-blue.svg
-[prowlarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[prowlarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[prowlarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[prowlarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[prowlarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-radarr]: https://github.com/hassio-addons/app-radarr/tree/3838b6d
 [addon-doc-radarr]: https://github.com/hassio-addons/app-radarr/blob/3838b6d/README.md
 [radarr-issue]: https://github.com/hassio-addons/app-radarr/issues
 [radarr-version-shield]: https://img.shields.io/badge/version-3838b6d-blue.svg
-[radarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[radarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[radarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[radarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/tree/cdaae08
 [addon-doc-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/blob/cdaae08/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/app-sabnzbd/issues
 [sabnzbd-version-shield]: https://img.shields.io/badge/version-cdaae08-blue.svg
-[sabnzbd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[sabnzbd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[sabnzbd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[sabnzbd-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[sabnzbd-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/tree/2284ec9
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/blob/2284ec9/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/app-sqlite-web/issues
 [sqlite-web-version-shield]: https://img.shields.io/badge/version-2284ec9-blue.svg
-[sqlite-web-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[sqlite-web-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[sqlite-web-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-overseerr]: https://github.com/hassio-addons/app-seerr/tree/9b73b01
 [addon-doc-overseerr]: https://github.com/hassio-addons/app-seerr/blob/9b73b01/README.md
 [overseerr-issue]: https://github.com/hassio-addons/app-seerr/issues
 [overseerr-version-shield]: https://img.shields.io/badge/version-9b73b01-blue.svg
-[overseerr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[overseerr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[overseerr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[overseerr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[overseerr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sonarr]: https://github.com/hassio-addons/app-sonarr/tree/483d253
 [addon-doc-sonarr]: https://github.com/hassio-addons/app-sonarr/blob/483d253/README.md
 [sonarr-issue]: https://github.com/hassio-addons/app-sonarr/issues
 [sonarr-version-shield]: https://img.shields.io/badge/version-483d253-blue.svg
-[sonarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[sonarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[sonarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[sonarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[sonarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-spotify]: https://github.com/hassio-addons/app-spotify-connect/tree/0a3b345
 [addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/0a3b345/README.md
 [spotify-issue]: https://github.com/hassio-addons/app-spotify-connect/issues
 [spotify-version-shield]: https://img.shields.io/badge/version-0a3b345-blue.svg
-[spotify-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[spotify-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[spotify-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-spotweb]: https://github.com/hassio-addons/app-spotweb/tree/f86c5e9
 [addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/f86c5e9/README.md
 [spotweb-issue]: https://github.com/hassio-addons/app-spotweb/issues
 [spotweb-version-shield]: https://img.shields.io/badge/version-f86c5e9-blue.svg
-[spotweb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[spotweb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[spotweb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[spotweb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[spotweb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/tree/8549d2e
 [addon-doc-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/blob/8549d2e/README.md
 [stirling-pdf-issue]: https://github.com/hassio-addons/app-stirling-pdf/issues
 [stirling-pdf-version-shield]: https://img.shields.io/badge/version-8549d2e-blue.svg
-[stirling-pdf-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[stirling-pdf-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[stirling-pdf-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[stirling-pdf-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[stirling-pdf-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/0e9dc97
 [addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/0e9dc97/README.md
 [vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
 [vscode-version-shield]: https://img.shields.io/badge/version-0e9dc97-blue.svg
-[vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[vscode-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[vscode-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-syncthing]: https://github.com/hassio-addons/app-syncthing/tree/8e3729a
 [addon-doc-syncthing]: https://github.com/hassio-addons/app-syncthing/blob/8e3729a/README.md
 [syncthing-issue]: https://github.com/hassio-addons/app-syncthing/issues
 [syncthing-version-shield]: https://img.shields.io/badge/version-8e3729a-blue.svg
-[syncthing-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[syncthing-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[syncthing-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[syncthing-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[syncthing-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/a52e4f0
 [addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/a52e4f0/README.md
 [tailscale-issue]: https://github.com/hassio-addons/app-tailscale/issues
 [tailscale-version-shield]: https://img.shields.io/badge/version-a52e4f0-blue.svg
-[tailscale-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[tailscale-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tailscale-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[tailscale-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[tailscale-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/tree/8857e0b
 [addon-doc-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/blob/8857e0b/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/app-tasmoadmin/issues
 [tasmoadmin-version-shield]: https://img.shields.io/badge/version-8857e0b-blue.svg
-[tasmoadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[tasmoadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tasmoadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[tasmoadmin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[tasmoadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-tautulli]: https://github.com/hassio-addons/app-tautulli/tree/3b68ea9
 [addon-doc-tautulli]: https://github.com/hassio-addons/app-tautulli/blob/3b68ea9/README.md
 [tautulli-issue]: https://github.com/hassio-addons/app-tautulli/issues
 [tautulli-version-shield]: https://img.shields.io/badge/version-3b68ea9-blue.svg
-[tautulli-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[tautulli-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tautulli-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[tautulli-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[tautulli-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-thelounge]: https://github.com/hassio-addons/app-thelounge/tree/3baf4e3
 [addon-doc-thelounge]: https://github.com/hassio-addons/app-thelounge/blob/3baf4e3/README.md
 [thelounge-issue]: https://github.com/hassio-addons/app-thelounge/issues
 [thelounge-version-shield]: https://img.shields.io/badge/version-3baf4e3-blue.svg
-[thelounge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[thelounge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[thelounge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[thelounge-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[thelounge-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-tor]: https://github.com/hassio-addons/app-tor/tree/f974500
 [addon-doc-tor]: https://github.com/hassio-addons/app-tor/blob/f974500/README.md
 [tor-issue]: https://github.com/hassio-addons/app-tor/issues
 [tor-version-shield]: https://img.shields.io/badge/version-f974500-blue.svg
-[tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[tor-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[tor-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[tor-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-traccar]: https://github.com/hassio-addons/app-traccar/tree/e1e1ded
 [addon-doc-traccar]: https://github.com/hassio-addons/app-traccar/blob/e1e1ded/README.md
 [traccar-issue]: https://github.com/hassio-addons/app-traccar/issues
 [traccar-version-shield]: https://img.shields.io/badge/version-e1e1ded-blue.svg
-[traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[traccar-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[traccar-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[traccar-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-unifi]: https://github.com/hassio-addons/app-unifi/tree/b53f477
 [addon-doc-unifi]: https://github.com/hassio-addons/app-unifi/blob/b53f477/README.md
 [unifi-issue]: https://github.com/hassio-addons/app-unifi/issues
 [unifi-version-shield]: https://img.shields.io/badge/version-b53f477-blue.svg
-[unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[unifi-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[unifi-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/tree/2178a0c
 [addon-doc-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/blob/2178a0c/README.md
 [uptime-kuma-issue]: https://github.com/hassio-addons/app-uptime-kuma/issues
 [uptime-kuma-version-shield]: https://img.shields.io/badge/version-2178a0c-blue.svg
-[uptime-kuma-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[uptime-kuma-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[uptime-kuma-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[uptime-kuma-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[uptime-kuma-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/tree/d87ed3d
 [addon-doc-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/blob/d87ed3d/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/app-vaultwarden/issues
 [bitwarden-version-shield]: https://img.shields.io/badge/version-d87ed3d-blue.svg
-[bitwarden-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[bitwarden-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/tree/0c0e0cb
 [addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/0c0e0cb/README.md
 [victoriametrics-issue]: https://github.com/hassio-addons/app-victoriametrics/issues
 [victoriametrics-version-shield]: https://img.shields.io/badge/version-0c0e0cb-blue.svg
-[victoriametrics-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[victoriametrics-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[victoriametrics-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[victoriametrics-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[victoriametrics-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/a694f4a
 [addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/a694f4a/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
 [whisparr-version-shield]: https://img.shields.io/badge/version-a694f4a-blue.svg
-[whisparr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[whisparr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[whisparr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[whisparr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[whisparr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-wireguard]: https://github.com/hassio-addons/app-wireguard/tree/9fb5058
 [addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/9fb5058/README.md
 [wireguard-issue]: https://github.com/hassio-addons/app-wireguard/issues
 [wireguard-version-shield]: https://img.shields.io/badge/version-9fb5058-blue.svg
-[wireguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[wireguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[wireguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[wireguard-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[wireguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/tree/64621b8
 [addon-doc-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/blob/64621b8/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/app-zwave-js-ui/issues
 [zwave-js-ui-version-shield]: https://img.shields.io/badge/version-64621b8-blue.svg
-[zwave-js-ui-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[zwave-js-ui-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[zwave-js-ui-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[zwave-js-ui-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-zerotier]: https://github.com/hassio-addons/app-zerotier/tree/69c790e
 [addon-doc-zerotier]: https://github.com/hassio-addons/app-zerotier/blob/69c790e/README.md
 [zerotier-issue]: https://github.com/hassio-addons/app-zerotier/issues
 [zerotier-version-shield]: https://img.shields.io/badge/version-69c790e-blue.svg
-[zerotier-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[zerotier-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[zerotier-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[zerotier-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[zerotier-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-chrony]: https://github.com/hassio-addons/app-chrony/tree/a01f866
 [addon-doc-chrony]: https://github.com/hassio-addons/app-chrony/blob/a01f866/README.md
 [chrony-issue]: https://github.com/hassio-addons/app-chrony/issues
 [chrony-version-shield]: https://img.shields.io/badge/version-a01f866-blue.svg
-[chrony-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[chrony-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[chrony-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[chrony-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[chrony-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-motioneye]: https://github.com/hassio-addons/app-motioneye/tree/492e4d1
 [addon-doc-motioneye]: https://github.com/hassio-addons/app-motioneye/blob/492e4d1/README.md
 [motioneye-issue]: https://github.com/hassio-addons/app-motioneye/issues
 [motioneye-version-shield]: https://img.shields.io/badge/version-492e4d1-blue.svg
-[motioneye-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[motioneye-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[motioneye-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[motioneye-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[motioneye-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/tree/20c934c
 [addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/20c934c/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/app-phpmyadmin/issues
 [phpmyadmin-version-shield]: https://img.shields.io/badge/version-20c934c-blue.svg
-[phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[phpmyadmin-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[phpmyadmin-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[phpmyadmin-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[phpmyadmin-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/9d0485e
 [addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/9d0485e/README.md
 [qbittorrent-issue]: https://github.com/hassio-addons/app-qbittorrent/issues
 [qbittorrent-version-shield]: https://img.shields.io/badge/version-9d0485e-blue.svg
-[qbittorrent-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[qbittorrent-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[qbittorrent-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[qbittorrent-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[qbittorrent-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
 [forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io?u=frenck
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/hassio-addons/repository-edge/issues
