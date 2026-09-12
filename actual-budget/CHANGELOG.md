@@ -1,1 +1,1 @@
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#1)
+- ⬆️ Update @actual-app/sync-server to v26.9.0 (#2)
