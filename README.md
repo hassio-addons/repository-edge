@@ -608,10 +608,10 @@ SOFTWARE.
 [addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/0282f17/README.md
 [ssh-issue]: https://github.com/hassio-addons/app-ssh/issues
 [ssh-version-shield]: https://img.shields.io/badge/version-0282f17-blue.svg
-[addon-aircast]: https://github.com/hassio-addons/app-aircast/tree/df1d787
-[addon-doc-aircast]: https://github.com/hassio-addons/app-aircast/blob/df1d787/README.md
+[addon-aircast]: https://github.com/hassio-addons/app-aircast/tree/ffa84df
+[addon-doc-aircast]: https://github.com/hassio-addons/app-aircast/blob/ffa84df/README.md
 [aircast-issue]: https://github.com/hassio-addons/app-aircast/issues
-[aircast-version-shield]: https://img.shields.io/badge/version-df1d787-blue.svg
+[aircast-version-shield]: https://img.shields.io/badge/version-ffa84df-blue.svg
 [addon-airsonos]: https://github.com/hassio-addons/app-airsonos/tree/6b4e350
 [addon-doc-airsonos]: https://github.com/hassio-addons/app-airsonos/blob/6b4e350/README.md
 [airsonos-issue]: https://github.com/hassio-addons/app-airsonos/issues
