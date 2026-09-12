@@ -109,6 +109,14 @@ Simple & Free Wiki Software
 
 [:books: Bookstack app documentation][addon-doc-bookstack]
 
+### &#10003; [Calibre-Web][addon-calibre-web]
+
+![Latest Version][calibre-web-version-shield]
+
+Browse, read and download the ebooks in your Calibre library
+
+[:books: Calibre-Web app documentation][addon-doc-calibre-web]
+
 ### &#10003; [EMQX][addon-emqx]
 
 ![Latest Version][emqx-version-shield]
@@ -515,6 +523,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: Audiobookshelf][audiobookshelf-issue]
 - [Open an issue for the app: Bazarr][bazarr-issue]
 - [Open an issue for the app: Bookstack][bookstack-issue]
+- [Open an issue for the app: Calibre-Web][calibre-web-issue]
 - [Open an issue for the app: EMQX][emqx-issue]
 - [Open an issue for the app: Example][example-issue]
 - [Open an issue for the app: FTP][ftp-issue]
@@ -645,6 +654,10 @@ SOFTWARE.
 [addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/ba7ba71/README.md
 [bookstack-issue]: https://github.com/hassio-addons/app-bookstack/issues
 [bookstack-version-shield]: https://img.shields.io/badge/version-ba7ba71-blue.svg
+[addon-calibre-web]: https://github.com/hassio-addons/app-calibre-web/tree/37073a4
+[addon-doc-calibre-web]: https://github.com/hassio-addons/app-calibre-web/blob/37073a4/README.md
+[calibre-web-issue]: https://github.com/hassio-addons/app-calibre-web/issues
+[calibre-web-version-shield]: https://img.shields.io/badge/version-37073a4-blue.svg
 [addon-emqx]: https://github.com/hassio-addons/app-emqx/tree/6c61de8
 [addon-doc-emqx]: https://github.com/hassio-addons/app-emqx/blob/6c61de8/README.md
 [emqx-issue]: https://github.com/hassio-addons/app-emqx/issues
