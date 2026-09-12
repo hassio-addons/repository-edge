@@ -117,6 +117,14 @@ Browse, read and download the ebooks in your Calibre library
 
 [:books: Calibre-Web app documentation][addon-doc-calibre-web]
 
+### &#10003; [Dispatcharr][addon-dispatcharr]
+
+![Latest Version][dispatcharr-version-shield]
+
+Manage IPTV streams, EPG data and DVR recordings
+
+[:books: Dispatcharr app documentation][addon-doc-dispatcharr]
+
 ### &#10003; [EMQX][addon-emqx]
 
 ![Latest Version][emqx-version-shield]
@@ -532,6 +540,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: Bazarr][bazarr-issue]
 - [Open an issue for the app: Bookstack][bookstack-issue]
 - [Open an issue for the app: Calibre-Web][calibre-web-issue]
+- [Open an issue for the app: Dispatcharr][dispatcharr-issue]
 - [Open an issue for the app: EMQX][emqx-issue]
 - [Open an issue for the app: Example][example-issue]
 - [Open an issue for the app: FTP][ftp-issue]
@@ -667,6 +676,10 @@ SOFTWARE.
 [addon-doc-calibre-web]: https://github.com/hassio-addons/app-calibre-web/blob/37073a4/README.md
 [calibre-web-issue]: https://github.com/hassio-addons/app-calibre-web/issues
 [calibre-web-version-shield]: https://img.shields.io/badge/version-37073a4-blue.svg
+[addon-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/tree/ae58eeb
+[addon-doc-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/blob/ae58eeb/README.md
+[dispatcharr-issue]: https://github.com/hassio-addons/app-dispatcharr/issues
+[dispatcharr-version-shield]: https://img.shields.io/badge/version-ae58eeb-blue.svg
 [addon-emqx]: https://github.com/hassio-addons/app-emqx/tree/6c61de8
 [addon-doc-emqx]: https://github.com/hassio-addons/app-emqx/blob/6c61de8/README.md
 [emqx-issue]: https://github.com/hassio-addons/app-emqx/issues
