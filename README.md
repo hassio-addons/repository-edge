@@ -37,6 +37,14 @@ https://github.com/hassio-addons/repository-edge
 
 ## Apps provided by this repository
 
+### &#10003; [Actual Budget][addon-actual-budget]
+
+![Latest Version][actual-budget-version-shield]
+
+Local-first personal finance and envelope budgeting
+
+[:books: Actual Budget app documentation][addon-doc-actual-budget]
+
 ### &#10003; [AdGuard Home][addon-adguard]
 
 ![Latest Version][adguard-version-shield]
@@ -498,6 +506,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each app. Please ensure you are creating the issue
 on the correct GitHub repository matching the app.
 
+- [Open an issue for the app: Actual Budget][actual-budget-issue]
 - [Open an issue for the app: AdGuard Home][adguard-issue]
 - [Open an issue for the app: Advanced SSH & Web Terminal][ssh-issue]
 - [Open an issue for the app: AirCast][aircast-issue]
@@ -600,6 +609,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-actual-budget]: https://github.com/hassio-addons/app-actual-budget/tree/d164a0d
+[addon-doc-actual-budget]: https://github.com/hassio-addons/app-actual-budget/blob/d164a0d/README.md
+[actual-budget-issue]: https://github.com/hassio-addons/app-actual-budget/issues
+[actual-budget-version-shield]: https://img.shields.io/badge/version-d164a0d-blue.svg
 [addon-adguard]: https://github.com/hassio-addons/app-adguard-home/tree/5648bdc
 [addon-doc-adguard]: https://github.com/hassio-addons/app-adguard-home/blob/5648bdc/README.md
 [adguard-issue]: https://github.com/hassio-addons/app-adguard-home/issues
