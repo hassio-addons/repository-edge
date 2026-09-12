@@ -1,1 +1,1 @@
-- ⬆️ Update nginx to v1.26.3-3+deb13u8
+- Fix the combined scripts and styles failing to load through Ingress
