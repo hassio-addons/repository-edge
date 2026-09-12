@@ -1,5 +1,5 @@
 name: Dispatcharr
-version: ae58eeb
+version: 2d9df5b
 slug: dispatcharr
 description: Manage IPTV streams, EPG data and DVR recordings
 url: https://github.com/hassio-addons/app-dispatcharr
@@ -7,6 +7,7 @@ ingress: true
 ingress_port: 1337
 ingress_stream: true
 panel_icon: mdi:television-play
+hassio_api: true
 init: false
 arch:
 - aarch64

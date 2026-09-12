@@ -1,1 +1,1 @@
-- Update Debian package pins to current security releases
+- Allow the Supervisor network lookup, and survive it failing

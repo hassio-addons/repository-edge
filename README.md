@@ -676,10 +676,10 @@ SOFTWARE.
 [addon-doc-calibre-web]: https://github.com/hassio-addons/app-calibre-web/blob/37073a4/README.md
 [calibre-web-issue]: https://github.com/hassio-addons/app-calibre-web/issues
 [calibre-web-version-shield]: https://img.shields.io/badge/version-37073a4-blue.svg
-[addon-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/tree/ae58eeb
-[addon-doc-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/blob/ae58eeb/README.md
+[addon-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/tree/2d9df5b
+[addon-doc-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/blob/2d9df5b/README.md
 [dispatcharr-issue]: https://github.com/hassio-addons/app-dispatcharr/issues
-[dispatcharr-version-shield]: https://img.shields.io/badge/version-ae58eeb-blue.svg
+[dispatcharr-version-shield]: https://img.shields.io/badge/version-2d9df5b-blue.svg
 [addon-emqx]: https://github.com/hassio-addons/app-emqx/tree/6c61de8
 [addon-doc-emqx]: https://github.com/hassio-addons/app-emqx/blob/6c61de8/README.md
 [emqx-issue]: https://github.com/hassio-addons/app-emqx/issues
