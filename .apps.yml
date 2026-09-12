@@ -205,10 +205,6 @@ apps:
     repository: hassio-addons/app-vscode
     target: vscode
     image: ghcr.io/hassio-addons/vscode
-  vscode-remote:
-    repository: hassio-addons/app-vscode-remote
-    target: vscode-remote
-    image: ghcr.io/hassio-addons/vscode-remote
   whisparr:
     repository: hassio-addons/app-whisparr
     target: whisparr
