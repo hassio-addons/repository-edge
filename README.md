@@ -748,10 +748,10 @@ SOFTWARE.
 [addon-doc-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/blob/df7056b/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/app-nginx-proxy-manager/issues
 [nginxproxymanager-version-shield]: https://img.shields.io/badge/version-df7056b-blue.svg
-[addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/5a64b29
-[addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/5a64b29/README.md
+[addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/a40b40f
+[addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/a40b40f/README.md
 [node-red-issue]: https://github.com/hassio-addons/app-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-5a64b29-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-a40b40f-blue.svg
 [addon-plex]: https://github.com/hassio-addons/app-plex/tree/9974d64
 [addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/9974d64/README.md
 [plex-issue]: https://github.com/hassio-addons/app-plex/issues
