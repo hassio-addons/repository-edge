@@ -509,6 +509,14 @@ Simple, elegant and feature-rich CCTV/NVR for your cameras
 
 [:books: motionEye app documentation][addon-doc-motioneye]
 
+### &#10003; [n8n][addon-n8n]
+
+![Latest Version][n8n-version-shield]
+
+Workflow automation for technical people, with Home Assistant and MQTT wired in
+
+[:books: n8n app documentation][addon-doc-n8n]
+
 ### &#10003; [phpMyAdmin][addon-phpmyadmin]
 
 ![Latest Version][phpmyadmin-version-shield]
@@ -605,6 +613,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: ZeroTier One][zerotier-issue]
 - [Open an issue for the app: chrony][chrony-issue]
 - [Open an issue for the app: motionEye][motioneye-issue]
+- [Open an issue for the app: n8n][n8n-issue]
 - [Open an issue for the app: phpMyAdmin][phpmyadmin-issue]
 - [Open an issue for the app: qBittorrent][qbittorrent-issue]
 
@@ -890,6 +899,10 @@ SOFTWARE.
 [addon-doc-motioneye]: https://github.com/hassio-addons/app-motioneye/blob/492e4d1/README.md
 [motioneye-issue]: https://github.com/hassio-addons/app-motioneye/issues
 [motioneye-version-shield]: https://img.shields.io/badge/version-492e4d1-blue.svg
+[addon-n8n]: https://github.com/hassio-addons/app-n8n/tree/5dd3228
+[addon-doc-n8n]: https://github.com/hassio-addons/app-n8n/blob/5dd3228/README.md
+[n8n-issue]: https://github.com/hassio-addons/app-n8n/issues
+[n8n-version-shield]: https://img.shields.io/badge/version-5dd3228-blue.svg
 [addon-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/tree/20c934c
 [addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/20c934c/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/app-phpmyadmin/issues
