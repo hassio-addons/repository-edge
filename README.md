@@ -221,6 +221,14 @@ Looks and smells like Sonarr but made for music
 
 [:books: Lidarr app documentation][addon-doc-lidarr]
 
+### &#10003; [MQTT Explorer][addon-mqtt-explorer]
+
+![Latest Version][mqtt-explorer-version-shield]
+
+Explore the topics and messages on your MQTT broker
+
+[:books: MQTT Explorer app documentation][addon-doc-mqtt-explorer]
+
 ### &#10003; [MQTT IO][addon-mqtt-io]
 
 ![Latest Version][mqtt-io-version-shield]
@@ -553,6 +561,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: Jellyfin][jellyfin-issue]
 - [Open an issue for the app: JupyterLab][jupyterlab-issue]
 - [Open an issue for the app: Lidarr][lidarr-issue]
+- [Open an issue for the app: MQTT Explorer][mqtt-explorer-issue]
 - [Open an issue for the app: MQTT IO][mqtt-io-issue]
 - [Open an issue for the app: Mealie][mealie-issue]
 - [Open an issue for the app: NZBGet][nzbget-issue]
@@ -728,6 +737,10 @@ SOFTWARE.
 [addon-doc-lidarr]: https://github.com/hassio-addons/app-lidarr/blob/003114d/README.md
 [lidarr-issue]: https://github.com/hassio-addons/app-lidarr/issues
 [lidarr-version-shield]: https://img.shields.io/badge/version-003114d-blue.svg
+[addon-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/tree/5f788c2
+[addon-doc-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/blob/5f788c2/README.md
+[mqtt-explorer-issue]: https://github.com/hassio-addons/app-mqtt-explorer/issues
+[mqtt-explorer-version-shield]: https://img.shields.io/badge/version-5f788c2-blue.svg
 [addon-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/tree/e7a5d0d
 [addon-doc-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/blob/e7a5d0d/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/app-mqtt-io/issues
