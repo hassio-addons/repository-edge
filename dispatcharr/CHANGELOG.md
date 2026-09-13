@@ -1,1 +1,1 @@
-- Allow the Supervisor network lookup, and survive it failing
+- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.13 (#1)
