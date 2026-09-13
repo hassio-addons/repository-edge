@@ -1,5 +1,5 @@
 name: Jellyfin
-version: fe03b95
+version: 585384b
 slug: jellyfin
 description: The free software media system for your movies, shows and music
 url: https://github.com/hassio-addons/app-jellyfin

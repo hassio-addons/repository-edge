@@ -747,10 +747,10 @@ SOFTWARE.
 [addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/93fdc1f/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
 [homebox-version-shield]: https://img.shields.io/badge/version-93fdc1f-blue.svg
-[addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/fe03b95
-[addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/fe03b95/README.md
+[addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/585384b
+[addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/585384b/README.md
 [jellyfin-issue]: https://github.com/hassio-addons/app-jellyfin/issues
-[jellyfin-version-shield]: https://img.shields.io/badge/version-fe03b95-blue.svg
+[jellyfin-version-shield]: https://img.shields.io/badge/version-585384b-blue.svg
 [addon-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/tree/620deb5
 [addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/620deb5/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/app-jupyterlab/issues
