@@ -1,6 +1,5 @@
-# Changelog since v5.2.0
-- ⬆️ Update UniFi Network Application to v10.6.101 (#666) 
-- ⬆️ Update hassio-addons/workflows action to v4 (#663)
+## What’s changed
 
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
+## ⬆️ Dependency updates
+
+- ⬆️ Update UniFi Network Application to v10.6.106 @[renovate[bot]](https://github.com/apps/renovate) ([#670](https://github.com/hassio-addons/app-unifi/pull/670))
