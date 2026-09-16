@@ -21,10 +21,10 @@ or InfluxDB 3; those have a different API, data model and configuration. If
 you are integrating with Home Assistant, use the `influxdb` integration with
 `api_version: 1`, which is the default.
 
-This app comes with Chronograf & Kapacitor pre-installed as well. Which
-gives you a nice InfluxDB admin interface for managing your users, databases,
-data retention settings, and lets you peek inside the database using the
-Data Explorer.
+This app comes with Chronograf and Kapacitor pre-installed, which gives you
+a nice InfluxDB admin interface for managing your users, databases and data
+retention settings, and lets you peek inside the database using the Data
+Explorer.
 
 ![Chronograf in the Home Assistant Frontend][screenshot]
 
@@ -55,6 +55,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-429a2d7-blue.svg
-[release]: https://github.com/hassio-addons/app-influxdb/tree/429a2d7
+[release-shield]: https://img.shields.io/badge/version-9266916-blue.svg
+[release]: https://github.com/hassio-addons/app-influxdb/tree/9266916
 [screenshot]: https://github.com/hassio-addons/app-influxdb/raw/main/images/screenshot.png

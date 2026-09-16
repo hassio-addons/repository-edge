@@ -1,4 +1,5 @@
 # Changelog since v5.0.2
+- Documentation and configuration sweep (#415) 
 - Use nginx auth_request for direct access and template the configs (#414) 
 - ⬆️ Update influxdata/kapacitor to v1.8.7 (#413) 
 - ⬆️ Update influxdata/influxdb to v1.13.1 (#409)
