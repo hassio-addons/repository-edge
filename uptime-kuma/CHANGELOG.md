@@ -1,18 +1,4 @@
-# Changelog since v0.19.1
-- ⬆️ Update louislam/uptime-kuma to v2.5.4 (#384)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cloudflare/cloudflared to v2026.9.1 (#383) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#382)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cloudflare/cloudflared to v2026.9.0 (#381) 
-- ⬆️ Update alpine_3_24/setpriv to v2.42.3-r1 (#380)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#379) 
-- ⬆️ Update cloudflare/cloudflared to v2026.8.3 (#378) 
-- ⬆️ Update apprise to v1.13.1 (#377) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#376)
+# Changelog since v0.19.2
+- ⬆️ Update louislam/uptime-kuma to v2.5.5 (#385)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
