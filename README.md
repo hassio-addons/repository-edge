@@ -756,10 +756,10 @@ SOFTWARE.
 [addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/0d29fab/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
 [homebox-version-shield]: https://img.shields.io/badge/version-0d29fab-blue.svg
-[addon-influxdb]: https://github.com/hassio-addons/app-influxdb/tree/86da214
-[addon-doc-influxdb]: https://github.com/hassio-addons/app-influxdb/blob/86da214/README.md
+[addon-influxdb]: https://github.com/hassio-addons/app-influxdb/tree/8a6f075
+[addon-doc-influxdb]: https://github.com/hassio-addons/app-influxdb/blob/8a6f075/README.md
 [influxdb-issue]: https://github.com/hassio-addons/app-influxdb/issues
-[influxdb-version-shield]: https://img.shields.io/badge/version-86da214-blue.svg
+[influxdb-version-shield]: https://img.shields.io/badge/version-8a6f075-blue.svg
 [addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/a4a7117
 [addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/a4a7117/README.md
 [jellyfin-issue]: https://github.com/hassio-addons/app-jellyfin/issues

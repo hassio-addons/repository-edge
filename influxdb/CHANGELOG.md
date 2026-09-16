@@ -1,4 +1,5 @@
 # Changelog since v5.0.2
+- Adopt community contributions: open files limit, TSI index and ports (#417) 
 - ⬆️ Update influxdata/chronograf to v1.11.5 (#416) 
 - Documentation and configuration sweep (#415) 
 - Use nginx auth_request for direct access and template the configs (#414) 
