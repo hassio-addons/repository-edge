@@ -205,6 +205,14 @@ Inventory and organization system for the things in your home
 
 [:books: Homebox app documentation][addon-doc-homebox]
 
+### &#10003; [InfluxDB v1][addon-influxdb]
+
+![Latest Version][influxdb-version-shield]
+
+InfluxDB 1.x time series database with Chronograf and Kapacitor
+
+[:books: InfluxDB v1 app documentation][addon-doc-influxdb]
+
 ### &#10003; [Jellyfin][addon-jellyfin]
 
 ![Latest Version][jellyfin-version-shield]
@@ -575,6 +583,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: Grafana][grafana-issue]
 - [Open an issue for the app: Grocy][grocy-issue]
 - [Open an issue for the app: Homebox][homebox-issue]
+- [Open an issue for the app: InfluxDB v1][influxdb-issue]
 - [Open an issue for the app: Jellyfin][jellyfin-issue]
 - [Open an issue for the app: JupyterLab][jupyterlab-issue]
 - [Open an issue for the app: Lidarr][lidarr-issue]
@@ -747,6 +756,10 @@ SOFTWARE.
 [addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/0d29fab/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
 [homebox-version-shield]: https://img.shields.io/badge/version-0d29fab-blue.svg
+[addon-influxdb]: https://github.com/hassio-addons/app-influxdb/tree/429a2d7
+[addon-doc-influxdb]: https://github.com/hassio-addons/app-influxdb/blob/429a2d7/README.md
+[influxdb-issue]: https://github.com/hassio-addons/app-influxdb/issues
+[influxdb-version-shield]: https://img.shields.io/badge/version-429a2d7-blue.svg
 [addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/a4a7117
 [addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/a4a7117/README.md
 [jellyfin-issue]: https://github.com/hassio-addons/app-jellyfin/issues
