@@ -743,10 +743,10 @@ SOFTWARE.
 [addon-doc-grocy]: https://github.com/hassio-addons/app-grocy/blob/fba36da/README.md
 [grocy-issue]: https://github.com/hassio-addons/app-grocy/issues
 [grocy-version-shield]: https://img.shields.io/badge/version-fba36da-blue.svg
-[addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/93fdc1f
-[addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/93fdc1f/README.md
+[addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/0d29fab
+[addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/0d29fab/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
-[homebox-version-shield]: https://img.shields.io/badge/version-93fdc1f-blue.svg
+[homebox-version-shield]: https://img.shields.io/badge/version-0d29fab-blue.svg
 [addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/a4a7117
 [addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/a4a7117/README.md
 [jellyfin-issue]: https://github.com/hassio-addons/app-jellyfin/issues
