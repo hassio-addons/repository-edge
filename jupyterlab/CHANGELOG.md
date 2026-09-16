@@ -1,4 +1,6 @@
 # Changelog since v0.18.1
+- ⬆️ Update SQLAlchemy to v2.0.54 (#841) 
+- ⬆️ Update SQLAlchemy to v2.0.53 (#839) 
 - ⬆️ Update mysqlclient to v2.3.0 (#838) 
 - ⬆️ Update gpg to v2.4.7-21+deb13u1+b5 (#835) 
 - ⬆️ Update nginx to v1.26.3-3+deb13u8 (#837)
