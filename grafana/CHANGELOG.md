@@ -1,6 +1,5 @@
-# Changelog since v13.0.0
-- ⬆️: migrate Renovate config (#533)
+# Changelog since v13.0.1
+- ⬆️ Update grafana/grafana to v13.2.2 (#534)
 
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
-- ⬆️ Update grafana/grafana to v13.2.1 (#532) 
+Co-authored-by: Claude Opus 5 (1M context) <noreply@anthropic.com>
+Co-authored-by: Franck Nijhof <git@frenck.dev> 
