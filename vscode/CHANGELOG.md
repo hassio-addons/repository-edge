@@ -1,5 +1,4 @@
-# Changelog since v7.0.0
-- ⬆️ Update cdr/code-server to v4.137.0 (#1143) 
-- ⬆️ Update cdr/code-server to v4.136.2 (#1141) 
-- ⬆️ Update home-assistant/cli to v5.5.0 (#1140) 
-- ⬆️ Update esphome to v2026.8.2 (#1135) 
+# Changelog since v7.1.0
+- ⬆️ Update esphome to v2026.9.0 (#1147) 
+- ⬆️ Update locales to v2.41-12+deb13u4 (#1144) 
+- ⬆️ Update zsh to v5.9-8+b24 (#1145) 
