@@ -780,10 +780,10 @@ SOFTWARE.
 [addon-doc-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/blob/e7a5d0d/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/app-mqtt-io/issues
 [mqtt-io-version-shield]: https://img.shields.io/badge/version-e7a5d0d-blue.svg
-[addon-mealie]: https://github.com/hassio-addons/app-mealie/tree/fe35956
-[addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/fe35956/README.md
+[addon-mealie]: https://github.com/hassio-addons/app-mealie/tree/a5d681d
+[addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/a5d681d/README.md
 [mealie-issue]: https://github.com/hassio-addons/app-mealie/issues
-[mealie-version-shield]: https://img.shields.io/badge/version-fe35956-blue.svg
+[mealie-version-shield]: https://img.shields.io/badge/version-a5d681d-blue.svg
 [addon-nzbget]: https://github.com/hassio-addons/app-nzbget/tree/3bc6a98
 [addon-doc-nzbget]: https://github.com/hassio-addons/app-nzbget/blob/3bc6a98/README.md
 [nzbget-issue]: https://github.com/hassio-addons/app-nzbget/issues
