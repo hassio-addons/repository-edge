@@ -920,10 +920,10 @@ SOFTWARE.
 [addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/20c934c/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/app-phpmyadmin/issues
 [phpmyadmin-version-shield]: https://img.shields.io/badge/version-20c934c-blue.svg
-[addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/9d0485e
-[addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/9d0485e/README.md
+[addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/c077dd6
+[addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/c077dd6/README.md
 [qbittorrent-issue]: https://github.com/hassio-addons/app-qbittorrent/issues
-[qbittorrent-version-shield]: https://img.shields.io/badge/version-9d0485e-blue.svg
+[qbittorrent-version-shield]: https://img.shields.io/badge/version-c077dd6-blue.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons
 [forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
