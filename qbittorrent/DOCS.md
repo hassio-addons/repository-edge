@@ -192,6 +192,13 @@ configuration to expose it. You need this for anything that is not a browser
 sitting in front of Home Assistant: a torrent client app on a phone, a reverse
 proxy of your own, or a script talking to the API.
 
+The port you choose there is the one on your network, and it does not have to
+be `8080`. Inside the container qBittorrent always listens on `8080`, and that
+number is not reachable from your network unless you publish it, so it does not
+matter if something else on your network already uses `8080`. Pick a free port
+on the host side and leave the container side as it is; changing the port
+inside qBittorrent itself does not work, see [Known quirks](#known-quirks).
+
 You do **not** need it for the [Home Assistant integration](#using-it-with-home-assistant),
 which reaches this app over the internal network whether the port is published
 or not.
