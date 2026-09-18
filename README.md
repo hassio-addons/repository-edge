@@ -696,10 +696,10 @@ SOFTWARE.
 [addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/e52606c/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/app-appdaemon/issues
 [appdaemon-version-shield]: https://img.shields.io/badge/version-e52606c-blue.svg
-[addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/e47c4d0
-[addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/e47c4d0/README.md
+[addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/v0.1.1
+[addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/v0.1.1/README.md
 [audiobookshelf-issue]: https://github.com/hassio-addons/app-audiobookshelf/issues
-[audiobookshelf-version-shield]: https://img.shields.io/badge/version-e47c4d0-blue.svg
+[audiobookshelf-version-shield]: https://img.shields.io/badge/version-v0.1.1-blue.svg
 [addon-bazarr]: https://github.com/hassio-addons/app-bazarr/tree/a05db1d
 [addon-doc-bazarr]: https://github.com/hassio-addons/app-bazarr/blob/a05db1d/README.md
 [bazarr-issue]: https://github.com/hassio-addons/app-bazarr/issues
