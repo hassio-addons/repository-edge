@@ -1,4 +1,5 @@
 # Changelog since v6.2.1
+- Restore the AdGuard Home configuration when it is found damaged on start (#729) 
 - Add options for the safe browsing and parental control block hosts (#728) 
 - Migrate the s6 user bundle to /etc/s6-overlay/user-bundles.d (#727) 
 - Explicitly request NET_RAW privileges (#726) 
