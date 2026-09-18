@@ -1,4 +1,5 @@
 # Changelog since v0.19.2
+- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.16 (#536) 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.15 (#535) 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.14 (#534) 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.13 (#531) 
