@@ -1,4 +1,5 @@
 # Changelog since v0.22.2
+- 🐛 Stop monitoring the size of /share and /media (#666) 
 - 🐛 Only signal PIDs that are still running children (#664)
 
 Co-authored-by: Claude Opus 5 (1M context) <noreply@anthropic.com>
