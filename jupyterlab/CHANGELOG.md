@@ -1,4 +1,6 @@
 # Changelog since v0.18.1
+- ⬆️ Update pandas to v3.0.6 (#842) 
+- ⬆️ Update nginx to v1.26.3-3+deb13u9 (#843) 
 - ⬆️ Update SQLAlchemy to v2.0.54 (#841) 
 - ⬆️ Update SQLAlchemy to v2.0.53 (#839) 
 - ⬆️ Update mysqlclient to v2.3.0 (#838) 
