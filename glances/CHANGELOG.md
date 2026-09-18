@@ -1,4 +1,5 @@
 # Changelog since v0.22.2
+- ✨ Add support for InfluxDB v3 (#667) 
 - 🐛 Stop monitoring the size of /share and /media (#666) 
 - 🐛 Only signal PIDs that are still running children (#664)
 
