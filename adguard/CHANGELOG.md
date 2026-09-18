@@ -1,4 +1,5 @@
 # Changelog since v6.2.1
+- Migrate the s6 user bundle to /etc/s6-overlay/user-bundles.d (#727) 
 - Explicitly request NET_RAW privileges (#726) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#724) 
 - ⬆️ Update alpine_3_24/yq-go to v4.53.3-r1 (#723) 
