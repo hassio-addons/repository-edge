@@ -716,10 +716,10 @@ SOFTWARE.
 [addon-doc-dispatcharr]: https://github.com/hassio-addons/app-dispatcharr/blob/d457b77/README.md
 [dispatcharr-issue]: https://github.com/hassio-addons/app-dispatcharr/issues
 [dispatcharr-version-shield]: https://img.shields.io/badge/version-d457b77-blue.svg
-[addon-emqx]: https://github.com/hassio-addons/app-emqx/tree/6c61de8
-[addon-doc-emqx]: https://github.com/hassio-addons/app-emqx/blob/6c61de8/README.md
+[addon-emqx]: https://github.com/hassio-addons/app-emqx/tree/2aa5318
+[addon-doc-emqx]: https://github.com/hassio-addons/app-emqx/blob/2aa5318/README.md
 [emqx-issue]: https://github.com/hassio-addons/app-emqx/issues
-[emqx-version-shield]: https://img.shields.io/badge/version-6c61de8-blue.svg
+[emqx-version-shield]: https://img.shields.io/badge/version-2aa5318-blue.svg
 [addon-example]: https://github.com/hassio-addons/app-example/tree/ab061f5
 [addon-doc-example]: https://github.com/hassio-addons/app-example/blob/ab061f5/README.md
 [example-issue]: https://github.com/hassio-addons/app-example/issues
