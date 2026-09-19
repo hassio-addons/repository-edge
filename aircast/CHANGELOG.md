@@ -1,2 +1,3 @@
 # Changelog since v5.2.1
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#262) 
 - ⬆️ Update unzip to v6.0-29+deb13u1 (#261) 
