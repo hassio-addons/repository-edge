@@ -808,10 +808,10 @@ SOFTWARE.
 [addon-doc-prowlarr]: https://github.com/hassio-addons/app-prowlarr/blob/84f5ffb/README.md
 [prowlarr-issue]: https://github.com/hassio-addons/app-prowlarr/issues
 [prowlarr-version-shield]: https://img.shields.io/badge/version-84f5ffb-blue.svg
-[addon-radarr]: https://github.com/hassio-addons/app-radarr/tree/629c25d
-[addon-doc-radarr]: https://github.com/hassio-addons/app-radarr/blob/629c25d/README.md
+[addon-radarr]: https://github.com/hassio-addons/app-radarr/tree/18cb63b
+[addon-doc-radarr]: https://github.com/hassio-addons/app-radarr/blob/18cb63b/README.md
 [radarr-issue]: https://github.com/hassio-addons/app-radarr/issues
-[radarr-version-shield]: https://img.shields.io/badge/version-629c25d-blue.svg
+[radarr-version-shield]: https://img.shields.io/badge/version-18cb63b-blue.svg
 [addon-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/tree/cdaae08
 [addon-doc-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/blob/cdaae08/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/app-sabnzbd/issues
