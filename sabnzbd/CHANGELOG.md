@@ -1,7 +1,2 @@
-# Changelog since v0.8.2
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#144) 
-- ⬆️ Update sabnzbd/sabnzbd to v5.1.3 (#143) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#141)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#140) 
+# Changelog since v0.8.3
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#145) 
