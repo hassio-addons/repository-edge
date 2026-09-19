@@ -1,26 +1,2 @@
-# Changelog since v0.5.1
-- ⬆️ Update Sonarr/Sonarr to v4.0.20.3014 (#101) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#100)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#99) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#98)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update hassio-addons/workflows action to v4 (#95)
-
-* ⬆️ Update hassio-addons/workflows action to v4
-
-* Fix shellcheck warnings in S6 finish script (SC2155, SC2004)
-
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-
----------
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update alpine_3_24/sqlite-libs to v3.53.4-r0 (#96)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v0.5.2
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#102) 
