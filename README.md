@@ -800,10 +800,10 @@ SOFTWARE.
 [addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/b7dc0b4/README.md
 [node-red-issue]: https://github.com/hassio-addons/app-node-red/issues
 [node-red-version-shield]: https://img.shields.io/badge/version-b7dc0b4-blue.svg
-[addon-plex]: https://github.com/hassio-addons/app-plex/tree/9974d64
-[addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/9974d64/README.md
+[addon-plex]: https://github.com/hassio-addons/app-plex/tree/577ee7c
+[addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/577ee7c/README.md
 [plex-issue]: https://github.com/hassio-addons/app-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-9974d64-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-577ee7c-blue.svg
 [addon-prowlarr]: https://github.com/hassio-addons/app-prowlarr/tree/84f5ffb
 [addon-doc-prowlarr]: https://github.com/hassio-addons/app-prowlarr/blob/84f5ffb/README.md
 [prowlarr-issue]: https://github.com/hassio-addons/app-prowlarr/issues
