@@ -1,6 +1,3 @@
-# Changelog since v5.2.0
-- ⬆️ Update philippe44/AirConnect to v1.11.3 (#208) 
-- ⬆️ Update hassio-addons/workflows action to v4 (#206)
-
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
+# Changelog since v5.2.1
+- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#210) 
+- ⬆️ Update unzip to v6.0-29+deb13u1 (#209) 
