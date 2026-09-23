@@ -692,10 +692,10 @@ SOFTWARE.
 [addon-doc-airsonos]: https://github.com/hassio-addons/app-airsonos/blob/2f95d14/README.md
 [airsonos-issue]: https://github.com/hassio-addons/app-airsonos/issues
 [airsonos-version-shield]: https://img.shields.io/badge/version-2f95d14-blue.svg
-[addon-appdaemon]: https://github.com/hassio-addons/app-appdaemon/tree/81bb608
-[addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/81bb608/README.md
+[addon-appdaemon]: https://github.com/hassio-addons/app-appdaemon/tree/cc80bc7
+[addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/cc80bc7/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/app-appdaemon/issues
-[appdaemon-version-shield]: https://img.shields.io/badge/version-81bb608-blue.svg
+[appdaemon-version-shield]: https://img.shields.io/badge/version-cc80bc7-blue.svg
 [addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/v0.1.1
 [addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/v0.1.1/README.md
 [audiobookshelf-issue]: https://github.com/hassio-addons/app-audiobookshelf/issues
