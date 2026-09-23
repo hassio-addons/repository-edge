@@ -684,10 +684,10 @@ SOFTWARE.
 [addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/60a2d61/README.md
 [ssh-issue]: https://github.com/hassio-addons/app-ssh/issues
 [ssh-version-shield]: https://img.shields.io/badge/version-60a2d61-blue.svg
-[addon-aircast]: https://github.com/hassio-addons/app-aircast/tree/e653468
-[addon-doc-aircast]: https://github.com/hassio-addons/app-aircast/blob/e653468/README.md
+[addon-aircast]: https://github.com/hassio-addons/app-aircast/tree/43e927d
+[addon-doc-aircast]: https://github.com/hassio-addons/app-aircast/blob/43e927d/README.md
 [aircast-issue]: https://github.com/hassio-addons/app-aircast/issues
-[aircast-version-shield]: https://img.shields.io/badge/version-e653468-blue.svg
+[aircast-version-shield]: https://img.shields.io/badge/version-43e927d-blue.svg
 [addon-airsonos]: https://github.com/hassio-addons/app-airsonos/tree/2f95d14
 [addon-doc-airsonos]: https://github.com/hassio-addons/app-airsonos/blob/2f95d14/README.md
 [airsonos-issue]: https://github.com/hassio-addons/app-airsonos/issues
