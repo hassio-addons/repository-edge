@@ -51,6 +51,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-7601b21-blue.svg
-[release]: https://github.com/hassio-addons/app-nginx-proxy-manager/tree/7601b21
+[release-shield]: https://img.shields.io/badge/version-4eb83b8-blue.svg
+[release]: https://github.com/hassio-addons/app-nginx-proxy-manager/tree/4eb83b8
 [screenshot]: https://github.com/hassio-addons/app-nginx-proxy-manager/raw/main/images/screenshot.gif
