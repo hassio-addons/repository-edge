@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- ⬆️ Update n8n to v2.40.7 (#7) 
 - ⬆️ Update n8n to v2.40.6 (#6) 
 - ⬆️ Update n8n to v2.40.5 (#5) 
 - ⬆️ Update n8n to v2.39.10 (#4)
