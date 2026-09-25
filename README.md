@@ -764,10 +764,10 @@ SOFTWARE.
 [addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/a4a7117/README.md
 [jellyfin-issue]: https://github.com/hassio-addons/app-jellyfin/issues
 [jellyfin-version-shield]: https://img.shields.io/badge/version-a4a7117-blue.svg
-[addon-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/tree/814681e
-[addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/814681e/README.md
+[addon-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/tree/4cfa234
+[addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/4cfa234/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/app-jupyterlab/issues
-[jupyterlab-version-shield]: https://img.shields.io/badge/version-814681e-blue.svg
+[jupyterlab-version-shield]: https://img.shields.io/badge/version-4cfa234-blue.svg
 [addon-lidarr]: https://github.com/hassio-addons/app-lidarr/tree/003114d
 [addon-doc-lidarr]: https://github.com/hassio-addons/app-lidarr/blob/003114d/README.md
 [lidarr-issue]: https://github.com/hassio-addons/app-lidarr/issues
