@@ -1,5 +1,5 @@
 name: Whisparr
-version: a694f4a
+version: 6af5d9f
 slug: whisparr
 description: Whisparr is an adult video collection manager for Usenet and BitTorrent
   users
@@ -15,4 +15,4 @@ map:
 - media:rw
 ports:
   6969/tcp: 6969
-image: ghcr.io/hassio-addons/whisparr/{arch}
+image: ghcr.io/hassio-addons/whisparr

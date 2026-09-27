@@ -888,10 +888,10 @@ SOFTWARE.
 [addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/c4fba53/README.md
 [victoriametrics-issue]: https://github.com/hassio-addons/app-victoriametrics/issues
 [victoriametrics-version-shield]: https://img.shields.io/badge/version-c4fba53-blue.svg
-[addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/a694f4a
-[addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/a694f4a/README.md
+[addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/6af5d9f
+[addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/6af5d9f/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
-[whisparr-version-shield]: https://img.shields.io/badge/version-a694f4a-blue.svg
+[whisparr-version-shield]: https://img.shields.io/badge/version-6af5d9f-blue.svg
 [addon-wireguard]: https://github.com/hassio-addons/app-wireguard/tree/903d290
 [addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/903d290/README.md
 [wireguard-issue]: https://github.com/hassio-addons/app-wireguard/issues
