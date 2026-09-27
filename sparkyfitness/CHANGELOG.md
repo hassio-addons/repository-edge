@@ -1,1 +1,1 @@
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#1)
+- 🐛 Keep SparkyFitness from running out of memory while starting
