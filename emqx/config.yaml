@@ -1,5 +1,5 @@
 name: EMQX
-version: e0d0d4f
+version: b28395e
 slug: emqx
 description: The most scalable MQTT broker for IoT. An alternative for the Mosquitto
   app
