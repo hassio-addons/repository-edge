@@ -349,6 +349,14 @@ Smart PVR for newsgroup and bittorrent users
 
 [:books: Sonarr app documentation][addon-doc-sonarr]
 
+### &#10003; [SparkyFitness][addon-sparkyfitness]
+
+![Latest Version][sparkyfitness-version-shield]
+
+Self-hosted food, exercise, sleep and body measurement tracker
+
+[:books: SparkyFitness app documentation][addon-doc-sparkyfitness]
+
 ### &#10003; [Spotify Connect][addon-spotify]
 
 ![Latest Version][spotify-version-shield]
@@ -601,6 +609,7 @@ on the correct GitHub repository matching the app.
 - [Open an issue for the app: SQLite Web][sqlite-web-issue]
 - [Open an issue for the app: Seerr][overseerr-issue]
 - [Open an issue for the app: Sonarr][sonarr-issue]
+- [Open an issue for the app: SparkyFitness][sparkyfitness-issue]
 - [Open an issue for the app: Spotify Connect][spotify-issue]
 - [Open an issue for the app: Spotweb][spotweb-issue]
 - [Open an issue for the app: Stirling PDF][stirling-pdf-issue]
@@ -828,6 +837,10 @@ SOFTWARE.
 [addon-doc-sonarr]: https://github.com/hassio-addons/app-sonarr/blob/8031fef/README.md
 [sonarr-issue]: https://github.com/hassio-addons/app-sonarr/issues
 [sonarr-version-shield]: https://img.shields.io/badge/version-8031fef-blue.svg
+[addon-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/tree/399d5ed
+[addon-doc-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/blob/399d5ed/README.md
+[sparkyfitness-issue]: https://github.com/hassio-addons/app-sparkyfitness/issues
+[sparkyfitness-version-shield]: https://img.shields.io/badge/version-399d5ed-blue.svg
 [addon-spotify]: https://github.com/hassio-addons/app-spotify-connect/tree/0a3b345
 [addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/0a3b345/README.md
 [spotify-issue]: https://github.com/hassio-addons/app-spotify-connect/issues

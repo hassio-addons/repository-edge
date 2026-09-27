@@ -1,0 +1,48 @@
+---
+configuration:
+  ingress_auto_login:
+    name: Ingress auto login
+    description: >-
+      Signs you in as your own Home Assistant user when you open SparkyFitness
+      from the sidebar, so every Home Assistant user gets their own diary. The
+      first one to open the app administers SparkyFitness. Turn it off to use
+      SparkyFitness' own login page instead.
+  home_assistant_url:
+    name: Home Assistant URL
+    description: >-
+      The address you open Home Assistant with, like
+      https://homeassistant.example.com. Needed only to connect Fitbit, Google
+      Health, Oura, Polar, Strava or Withings, which send your browser back to
+      SparkyFitness through it.
+  ssl:
+    name: SSL
+    description: >-
+      Enables/Disables SSL (HTTPS) on the published port. This has no effect on
+      Ingress.
+  certfile:
+    name: Certificate file
+    description: >-
+      The certificate file to use for SSL. The file must exist in the
+      /ssl/ directory.
+  keyfile:
+    name: Key file
+    description: >-
+      The private key file to use for SSL. The file must exist in the
+      /ssl/ directory.
+  log_level:
+    name: Log level
+    description: >-
+      Controls the level of log details the app provides. At trace,
+      SparkyFitness also logs the health data it receives.
+  env_vars:
+    name: Environment variables
+    description: >-
+      Additional environment variables for SparkyFitness, by name and value,
+      for the settings it takes from its environment, like an email server or
+      turning off sign-up. Those that this app manages itself, like the
+      database and the secrets, cannot be changed this way.
+network:
+  3004/tcp: >-
+    The port used to reach SparkyFitness directly, without going through
+    Ingress. Required for the mobile apps, and for anything else outside Home
+    Assistant that talks to SparkyFitness.
