@@ -785,10 +785,10 @@ SOFTWARE.
 [addon-doc-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/blob/5f788c2/README.md
 [mqtt-explorer-issue]: https://github.com/hassio-addons/app-mqtt-explorer/issues
 [mqtt-explorer-version-shield]: https://img.shields.io/badge/version-5f788c2-blue.svg
-[addon-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/tree/e7a5d0d
-[addon-doc-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/blob/e7a5d0d/README.md
+[addon-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/tree/38a93dc
+[addon-doc-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/blob/38a93dc/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/app-mqtt-io/issues
-[mqtt-io-version-shield]: https://img.shields.io/badge/version-e7a5d0d-blue.svg
+[mqtt-io-version-shield]: https://img.shields.io/badge/version-38a93dc-blue.svg
 [addon-mealie]: https://github.com/hassio-addons/app-mealie/tree/v0.5.0
 [addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/v0.5.0/README.md
 [mealie-issue]: https://github.com/hassio-addons/app-mealie/issues

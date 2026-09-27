@@ -1,5 +1,5 @@
 name: MQTT IO
-version: e7a5d0d
+version: 38a93dc
 slug: mqtt-io
 description: Expose GPIO modules and digital sensors via MQTT for remote control and
   monitoring.
@@ -25,4 +25,4 @@ options:
 schema:
   configuration_file: str
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-image: ghcr.io/hassio-addons/mqtt-io/{arch}
+image: ghcr.io/hassio-addons/mqtt-io
