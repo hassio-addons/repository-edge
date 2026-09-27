@@ -753,10 +753,10 @@ SOFTWARE.
 [addon-doc-glances]: https://github.com/hassio-addons/app-glances/blob/1ebac3e/README.md
 [glances-issue]: https://github.com/hassio-addons/app-glances/issues
 [glances-version-shield]: https://img.shields.io/badge/version-1ebac3e-blue.svg
-[addon-grafana]: https://github.com/hassio-addons/app-grafana/tree/54884be
-[addon-doc-grafana]: https://github.com/hassio-addons/app-grafana/blob/54884be/README.md
+[addon-grafana]: https://github.com/hassio-addons/app-grafana/tree/90fae89
+[addon-doc-grafana]: https://github.com/hassio-addons/app-grafana/blob/90fae89/README.md
 [grafana-issue]: https://github.com/hassio-addons/app-grafana/issues
-[grafana-version-shield]: https://img.shields.io/badge/version-54884be-blue.svg
+[grafana-version-shield]: https://img.shields.io/badge/version-90fae89-blue.svg
 [addon-grocy]: https://github.com/hassio-addons/app-grocy/tree/8309c58
 [addon-doc-grocy]: https://github.com/hassio-addons/app-grocy/blob/8309c58/README.md
 [grocy-issue]: https://github.com/hassio-addons/app-grocy/issues
