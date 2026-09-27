@@ -1,3 +1,3 @@
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 (#11)
+- ⬆️ Update Dispatcharr/Dispatcharr to v0.31.0 (#4)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev>
