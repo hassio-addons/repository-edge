@@ -1,12 +1,2 @@
-# Changelog since v0.1.0
-- ⬆️ Update VictoriaMetrics/VictoriaMetrics to v1.152.0 (#9) 
-- ⬆️ Update VictoriaMetrics/VictoriaMetrics to v1.151.0 (#5) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#8)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/yq-go to v4.53.3-r1 (#6)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#4)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v0.2.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#12) 
