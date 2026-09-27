@@ -1,1 +1,3 @@
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.19 (#10)
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 (#11)
+
+Co-authored-by: Franck Nijhof <git@frenck.dev>
