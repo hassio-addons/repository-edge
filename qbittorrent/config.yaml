@@ -1,5 +1,5 @@
 name: qBittorrent
-version: 2d9b18b
+version: '5244026'
 slug: qbittorrent
 description: Fast, stable and lightweight BitTorrent client
 url: https://github.com/hassio-addons/app-qbittorrent
