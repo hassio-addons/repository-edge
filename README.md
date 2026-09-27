@@ -892,10 +892,10 @@ SOFTWARE.
 [addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/a694f4a/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
 [whisparr-version-shield]: https://img.shields.io/badge/version-a694f4a-blue.svg
-[addon-wireguard]: https://github.com/hassio-addons/app-wireguard/tree/9fb5058
-[addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/9fb5058/README.md
+[addon-wireguard]: https://github.com/hassio-addons/app-wireguard/tree/903d290
+[addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/903d290/README.md
 [wireguard-issue]: https://github.com/hassio-addons/app-wireguard/issues
-[wireguard-version-shield]: https://img.shields.io/badge/version-9fb5058-blue.svg
+[wireguard-version-shield]: https://img.shields.io/badge/version-903d290-blue.svg
 [addon-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/tree/22928bd
 [addon-doc-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/blob/22928bd/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/app-zwave-js-ui/issues
