@@ -1,5 +1,5 @@
 name: VictoriaMetrics
-version: 65fb55c
+version: c8eb85e
 slug: victoriametrics
 description: Fast and resource efficient time series database for your metrics
 url: https://github.com/hassio-addons/app-victoriametrics
@@ -40,6 +40,8 @@ schema:
   scrape_config: str?
   retention_period: str
   dedup_min_scrape_interval: str?
+  stream_aggr_config: str?
+  stream_aggr_keep_input: bool?
   min_free_disk_space: str
   latency_offset: str
   memory_allowed_percent: int(10,90)?

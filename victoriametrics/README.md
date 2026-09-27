@@ -47,6 +47,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-65fb55c-blue.svg
-[release]: https://github.com/hassio-addons/app-victoriametrics/tree/65fb55c
+[release-shield]: https://img.shields.io/badge/version-c8eb85e-blue.svg
+[release]: https://github.com/hassio-addons/app-victoriametrics/tree/c8eb85e
 [victoriametrics]: https://victoriametrics.com/
