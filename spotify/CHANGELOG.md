@@ -1,4 +1,5 @@
 # Changelog since v0.19.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#389) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#388) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#387) 
 - ⬆️ Update alpine_3_24/libcrypto3 to v3.5.8-r0 (#384) 
