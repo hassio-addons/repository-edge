@@ -189,6 +189,10 @@ apps:
     repository: hassio-addons/app-sonarr
     target: sonarr
     image: ghcr.io/hassio-addons/sonarr
+  sparkyfitness:
+    repository: hassio-addons/app-sparkyfitness
+    target: sparkyfitness
+    image: ghcr.io/hassio-addons/sparkyfitness
   ssh:
     repository: hassio-addons/app-ssh
     target: ssh
