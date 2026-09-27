@@ -1,3 +1,2 @@
-# Changelog since v24.1.4
-- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#1143) 
-- Explicitly request NET_RAW privileges (#1142) 
+# Changelog since v24.1.5
+- ⬆️ Update alpine_3_24/bind-tools to v9.20.29-r0 (#1146) 
