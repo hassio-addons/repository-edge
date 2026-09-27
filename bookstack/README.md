@@ -36,6 +36,6 @@ If you are more interested in stable releases of our apps:
 [buymeacoffee]: https://www.buymeacoffee.com/sinclairpaul
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-0aa8e8f-blue.svg
-[release]: https://github.com/hassio-addons/app-bookstack/tree/0aa8e8f
+[release-shield]: https://img.shields.io/badge/version-4d2c9c9-blue.svg
+[release]: https://github.com/hassio-addons/app-bookstack/tree/4d2c9c9
 [screenshot]: https://github.com/hassio-addons/app-bookstack/raw/main/images/screenshot.png
