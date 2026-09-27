@@ -1,4 +1,4 @@
-# Changelog since v0.30.0
-- Accept https+insecure as target for services option (#763) 
-- Fix error handling during services import (#762) 
-- fix code comment (#760) 
+# Changelog since v0.30.1
+- ⬆️ Update alpine_3_24/bind-tools to v9.20.29-r0 (#764)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
