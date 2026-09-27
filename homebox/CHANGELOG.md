@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#16)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pnpm to v12.6.0 (#15)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
