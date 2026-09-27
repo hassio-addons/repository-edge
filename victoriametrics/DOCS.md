@@ -254,6 +254,10 @@ Now create the data source in Grafana:
 Both apps sit on the same internal network, so the traffic never has to leave
 the machine._
 
+**Note**: _If you turned on the [`ssl`](#option-ssl) option, the URL has to be
+`https://`, and a plain `http://` one fails with "got response code 400". That
+section explains what else changes._
+
 The credentials are a real Home Assistant login, because that is what guards
 the port; see [Direct access](#direct-access). Making a separate Home Assistant
 user for Grafana is a tidy way to keep it out of your own account.
@@ -309,7 +313,7 @@ home_assistant: true
 scrape_interval: 60s
 retention_period: 3y
 min_free_disk_space: 1GB
-ssl: true
+ssl: false
 certfile: fullchain.pem
 keyfile: privkey.pem
 ```
@@ -452,10 +456,28 @@ spare.
 ### Option: `ssl`
 
 Enables/Disables SSL (HTTPS) on the web interface. Set it `true` to enable it,
-`false` otherwise.
+`false` otherwise. It is off by default.
 
 **Note**: _The SSL settings only apply to direct access and have no effect on
 the Ingress service._
+
+Leave it off when the port is only used by other apps on the same machine,
+like Grafana or Home Assistant's InfluxDB integration. That traffic never
+leaves the machine, and every example in this documentation assumes plain
+`http://`.
+
+Once it is on, the port speaks HTTPS only, and everything talking to it has to
+change along with it. A plain `http://` request is answered with a
+`400 Bad Request`, which is exactly what Grafana reports as
+"got response code 400". So:
+
+- Use `https://` in the Grafana data source URL, and `ssl: true` in the
+  InfluxDB integration.
+- Your certificate is issued for your own domain, not for the internal
+  `a0d7b954-victoriametrics` hostname, so connecting by that name fails the
+  certificate check. Either connect using the domain the certificate is for,
+  or turn off verification: "Skip TLS certificate validation" in Grafana,
+  `verify_ssl: false` in the InfluxDB integration.
 
 ### Option: `certfile`
 
