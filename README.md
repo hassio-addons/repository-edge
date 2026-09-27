@@ -861,10 +861,10 @@ SOFTWARE.
 [addon-doc-syncthing]: https://github.com/hassio-addons/app-syncthing/blob/8e3729a/README.md
 [syncthing-issue]: https://github.com/hassio-addons/app-syncthing/issues
 [syncthing-version-shield]: https://img.shields.io/badge/version-8e3729a-blue.svg
-[addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/0f567b3
-[addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/0f567b3/README.md
+[addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/b6d13a9
+[addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/b6d13a9/README.md
 [tailscale-issue]: https://github.com/hassio-addons/app-tailscale/issues
-[tailscale-version-shield]: https://img.shields.io/badge/version-0f567b3-blue.svg
+[tailscale-version-shield]: https://img.shields.io/badge/version-b6d13a9-blue.svg
 [addon-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/tree/84432a6
 [addon-doc-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/blob/84432a6/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/app-tasmoadmin/issues
