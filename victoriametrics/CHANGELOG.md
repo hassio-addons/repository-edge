@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- ⬆️ Update VictoriaMetrics/VictoriaMetrics to v1.153.0 (#18) 
 - Document migrating history from InfluxDB 1.x (#16) 
 - Add support for stream aggregation (#14) 
 - Answer common questions in the documentation (#15) 
