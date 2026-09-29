@@ -51,5 +51,5 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-d188898-blue.svg
-[release]: https://github.com/hassio-addons/app-audiobookshelf/tree/d188898
+[release-shield]: https://img.shields.io/badge/version-74c5729-blue.svg
+[release]: https://github.com/hassio-addons/app-audiobookshelf/tree/74c5729
