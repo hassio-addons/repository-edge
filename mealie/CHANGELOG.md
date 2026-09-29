@@ -1,2 +1,2 @@
-# Changelog since v0.5.0
-- Add env_vars option to set additional environment variables (#29) 
+# Changelog since v0.6.0
+- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.20 (#30) 
