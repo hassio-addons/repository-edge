@@ -1,4 +1,5 @@
 # Changelog since v0.19.2
+- ⬆️ Update mikefarah/yq to v4.54.1 (#544) 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.20 (#543) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 (#542) 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.19 (#540) 
