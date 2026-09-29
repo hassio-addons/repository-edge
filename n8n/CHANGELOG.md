@@ -1,8 +1,2 @@
-# Changelog since v0.1.1
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#8) 
-- ⬆️ Update n8n to v2.40.7 (#7) 
-- ⬆️ Update n8n to v2.40.6 (#6) 
-- ⬆️ Update n8n to v2.40.5 (#5) 
-- ⬆️ Update n8n to v2.39.10 (#4)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v0.2.0
+- ⬆️ Update n8n to v2.41.3 (#10) 

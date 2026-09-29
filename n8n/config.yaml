@@ -1,5 +1,5 @@
 name: n8n
-version: dbc6501
+version: 23e73f4
 slug: n8n
 description: Workflow automation for technical people, with Home Assistant and MQTT
   wired in
