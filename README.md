@@ -833,10 +833,10 @@ SOFTWARE.
 [addon-doc-overseerr]: https://github.com/hassio-addons/app-seerr/blob/9d6d698/README.md
 [overseerr-issue]: https://github.com/hassio-addons/app-seerr/issues
 [overseerr-version-shield]: https://img.shields.io/badge/version-9d6d698-blue.svg
-[addon-sonarr]: https://github.com/hassio-addons/app-sonarr/tree/9b00edc
-[addon-doc-sonarr]: https://github.com/hassio-addons/app-sonarr/blob/9b00edc/README.md
+[addon-sonarr]: https://github.com/hassio-addons/app-sonarr/tree/acf3599
+[addon-doc-sonarr]: https://github.com/hassio-addons/app-sonarr/blob/acf3599/README.md
 [sonarr-issue]: https://github.com/hassio-addons/app-sonarr/issues
-[sonarr-version-shield]: https://img.shields.io/badge/version-9b00edc-blue.svg
+[sonarr-version-shield]: https://img.shields.io/badge/version-acf3599-blue.svg
 [addon-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/tree/e7abd8d
 [addon-doc-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/blob/e7abd8d/README.md
 [sparkyfitness-issue]: https://github.com/hassio-addons/app-sparkyfitness/issues
