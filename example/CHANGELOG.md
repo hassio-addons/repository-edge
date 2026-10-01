@@ -1,4 +1,5 @@
 # Changelog since v14.0.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#244) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#243) 
 - Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#242) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#241) 
