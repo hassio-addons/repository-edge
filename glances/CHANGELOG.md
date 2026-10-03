@@ -1,4 +1,5 @@
 # Changelog since v0.23.1
+- ⬆️ Update Python to v3.14.8-r0 (#676) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#675) 
 - ⬆️ Update fastapi to v0.142.2 (#674) 
 - ⬆️ Update fastapi to v0.142.1 (#673) 
