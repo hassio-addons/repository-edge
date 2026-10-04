@@ -1,5 +1,5 @@
 name: File Explorer
-version: e214fef
+version: f1a39ed
 slug: file-explorer
 description: Browse, edit, upload and organize the files of your Home Assistant installation
 url: https://github.com/hassio-addons/app-file-explorer
