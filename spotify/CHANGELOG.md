@@ -1,4 +1,8 @@
 # Changelog since v0.19.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#393) 
+- ⬆️ Update alpine_3_24/openssl-dev to v3.5.9-r0 (#392) 
+- ⬆️ Update alpine_3_24/libcrypto3 to v3.5.9-r0 (#390) 
+- ⬆️ Update alpine_3_24/libssl3 to v3.5.9-r0 (#391) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#389) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#388) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.3 (#387) 

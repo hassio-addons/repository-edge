@@ -46,6 +46,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-e975522-blue.svg
-[release]: https://github.com/hassio-addons/app-spotify-connect/tree/e975522
+[release-shield]: https://img.shields.io/badge/version-1b6fe0e-blue.svg
+[release]: https://github.com/hassio-addons/app-spotify-connect/tree/1b6fe0e
 [screenshot]: https://github.com/hassio-addons/app-spotify-connect/raw/main/images/screenshot.png
