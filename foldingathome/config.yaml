@@ -1,5 +1,5 @@
 name: Folding@home
-version: 6b0cb15
+version: a5825b8
 slug: foldingathome
 description: Fighting disease with a world wide distributed super computer
 url: https://github.com/hassio-addons/app-foldingathome
@@ -23,4 +23,4 @@ schema:
   account_token: str?
   machine_name: str
   cpus: int(1,)?
-image: ghcr.io/hassio-addons/foldingathome/{arch}
+image: ghcr.io/hassio-addons/foldingathome

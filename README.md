@@ -741,10 +741,10 @@ SOFTWARE.
 [addon-doc-file-explorer]: https://github.com/hassio-addons/app-file-explorer/blob/11b9b70/README.md
 [file-explorer-issue]: https://github.com/hassio-addons/app-file-explorer/issues
 [file-explorer-version-shield]: https://img.shields.io/badge/version-11b9b70-blue.svg
-[addon-foldingathome]: https://github.com/hassio-addons/app-foldingathome/tree/6b0cb15
-[addon-doc-foldingathome]: https://github.com/hassio-addons/app-foldingathome/blob/6b0cb15/README.md
+[addon-foldingathome]: https://github.com/hassio-addons/app-foldingathome/tree/a5825b8
+[addon-doc-foldingathome]: https://github.com/hassio-addons/app-foldingathome/blob/a5825b8/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/app-foldingathome/issues
-[foldingathome-version-shield]: https://img.shields.io/badge/version-6b0cb15-blue.svg
+[foldingathome-version-shield]: https://img.shields.io/badge/version-a5825b8-blue.svg
 [addon-freshrss]: https://github.com/hassio-addons/app-freshrss/tree/2ec875b
 [addon-doc-freshrss]: https://github.com/hassio-addons/app-freshrss/blob/2ec875b/README.md
 [freshrss-issue]: https://github.com/hassio-addons/app-freshrss/issues
