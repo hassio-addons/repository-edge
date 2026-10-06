@@ -1,5 +1,5 @@
 name: Syncthing
-version: b9af3b5
+version: de97b79
 slug: syncthing
 description: Continuous file synchronization between all your devices
 url: https://github.com/hassio-addons/app-syncthing
