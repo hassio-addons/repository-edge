@@ -1,4 +1,5 @@
 # Changelog since v0.28.2
+- Clarify README with Vaultwarden information (#462) 
 - ⬆️ Update vaultwarden/server Docker tag to v1.37.4 (#463) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 (#461)
 
