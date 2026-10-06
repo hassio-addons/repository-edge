@@ -1,2 +1,2 @@
-# Changelog since v0.3.4
-- ⬆️ Update n8n to v2.42.3 (#17) 
+# Changelog since v0.3.5
+- ⬆️ Update alpine_3_24/tzdata to v2026e-r0 (#18) 
