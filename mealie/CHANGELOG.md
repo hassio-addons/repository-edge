@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- ⬆️ Update pnpm to v12.10.1 (#36) 
 - ⬆️ Update pnpm to v12.9.1 (#35)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
