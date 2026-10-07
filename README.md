@@ -757,10 +757,10 @@ SOFTWARE.
 [addon-doc-grafana]: https://github.com/hassio-addons/app-grafana/blob/61f0eb0/README.md
 [grafana-issue]: https://github.com/hassio-addons/app-grafana/issues
 [grafana-version-shield]: https://img.shields.io/badge/version-61f0eb0-blue.svg
-[addon-grocy]: https://github.com/hassio-addons/app-grocy/tree/7539840
-[addon-doc-grocy]: https://github.com/hassio-addons/app-grocy/blob/7539840/README.md
+[addon-grocy]: https://github.com/hassio-addons/app-grocy/tree/6778f0b
+[addon-doc-grocy]: https://github.com/hassio-addons/app-grocy/blob/6778f0b/README.md
 [grocy-issue]: https://github.com/hassio-addons/app-grocy/issues
-[grocy-version-shield]: https://img.shields.io/badge/version-7539840-blue.svg
+[grocy-version-shield]: https://img.shields.io/badge/version-6778f0b-blue.svg
 [addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/070b33c
 [addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/070b33c/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
