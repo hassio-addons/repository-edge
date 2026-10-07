@@ -1,4 +1,5 @@
 # Changelog since v0.19.3
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#394) 
 - ⬆️ Update cloudflare/cloudflared to v2026.10.0 (#393) 
 - ⬆️ Update alpine_3_24/python3 to v3.14.8-r0 (#392) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#391)
