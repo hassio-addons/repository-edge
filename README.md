@@ -929,10 +929,10 @@ SOFTWARE.
 [addon-doc-n8n]: https://github.com/hassio-addons/app-n8n/blob/ed226b2/README.md
 [n8n-issue]: https://github.com/hassio-addons/app-n8n/issues
 [n8n-version-shield]: https://img.shields.io/badge/version-ed226b2-blue.svg
-[addon-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/tree/66b409c
-[addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/66b409c/README.md
+[addon-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/tree/21e06af
+[addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/21e06af/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/app-phpmyadmin/issues
-[phpmyadmin-version-shield]: https://img.shields.io/badge/version-66b409c-blue.svg
+[phpmyadmin-version-shield]: https://img.shields.io/badge/version-21e06af-blue.svg
 [addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/9a79a46
 [addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/9a79a46/README.md
 [qbittorrent-issue]: https://github.com/hassio-addons/app-qbittorrent/issues
