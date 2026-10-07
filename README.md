@@ -745,10 +745,10 @@ SOFTWARE.
 [addon-doc-foldingathome]: https://github.com/hassio-addons/app-foldingathome/blob/a5825b8/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/app-foldingathome/issues
 [foldingathome-version-shield]: https://img.shields.io/badge/version-a5825b8-blue.svg
-[addon-freshrss]: https://github.com/hassio-addons/app-freshrss/tree/2ec875b
-[addon-doc-freshrss]: https://github.com/hassio-addons/app-freshrss/blob/2ec875b/README.md
+[addon-freshrss]: https://github.com/hassio-addons/app-freshrss/tree/267b457
+[addon-doc-freshrss]: https://github.com/hassio-addons/app-freshrss/blob/267b457/README.md
 [freshrss-issue]: https://github.com/hassio-addons/app-freshrss/issues
-[freshrss-version-shield]: https://img.shields.io/badge/version-2ec875b-blue.svg
+[freshrss-version-shield]: https://img.shields.io/badge/version-267b457-blue.svg
 [addon-glances]: https://github.com/hassio-addons/app-glances/tree/02f1861
 [addon-doc-glances]: https://github.com/hassio-addons/app-glances/blob/02f1861/README.md
 [glances-issue]: https://github.com/hassio-addons/app-glances/issues
