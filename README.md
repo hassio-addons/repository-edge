@@ -905,10 +905,10 @@ SOFTWARE.
 [addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/99bde66/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
 [whisparr-version-shield]: https://img.shields.io/badge/version-99bde66-blue.svg
-[addon-wireguard]: https://github.com/hassio-addons/app-wireguard/tree/ce6acb9
-[addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/ce6acb9/README.md
+[addon-wireguard]: https://github.com/hassio-addons/app-wireguard/tree/733c4fd
+[addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/733c4fd/README.md
 [wireguard-issue]: https://github.com/hassio-addons/app-wireguard/issues
-[wireguard-version-shield]: https://img.shields.io/badge/version-ce6acb9-blue.svg
+[wireguard-version-shield]: https://img.shields.io/badge/version-733c4fd-blue.svg
 [addon-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/tree/e23dc29
 [addon-doc-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/blob/e23dc29/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/app-zwave-js-ui/issues
