@@ -1,5 +1,5 @@
-# Changelog since v0.3.6
-- ⬆️ Update n8n to v2.42.5 (#21)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#19) 
+## ⬆️ Dependency updates
+
+- ⬆️ Update n8n to v2.42.6 @[renovate[bot]](https://github.com/apps/renovate) ([#22](https://github.com/hassio-addons/app-n8n/pull/22))
