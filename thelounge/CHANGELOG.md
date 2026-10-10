@@ -1,12 +1,2 @@
-# Changelog since v0.22.0
-- 🐛 Fix themes not installing on first run and clear deprecations (#245) 
-- 🚨 Align with the conventions used across the other apps (#246) 
-- ♻️ Rename Add-on to App and adopt the app workflows (#244) 
-- 🧹 Repository housekeeping and security policy refresh (#243) 
-- ⬆️ Update thelounge/thelounge to v4.5.2 (#239) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#236)
-
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v19 (#234)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v0.23.0
+- ⬆️ Update alpine_3_24/python3 to v3.14.8-r0 (#247) 
