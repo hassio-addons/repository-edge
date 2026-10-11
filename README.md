@@ -709,10 +709,10 @@ SOFTWARE.
 [addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/69dcf73/README.md
 [audiobookshelf-issue]: https://github.com/hassio-addons/app-audiobookshelf/issues
 [audiobookshelf-version-shield]: https://img.shields.io/badge/version-69dcf73-blue.svg
-[addon-bazarr]: https://github.com/hassio-addons/app-bazarr/tree/a05db1d
-[addon-doc-bazarr]: https://github.com/hassio-addons/app-bazarr/blob/a05db1d/README.md
+[addon-bazarr]: https://github.com/hassio-addons/app-bazarr/tree/f84784a
+[addon-doc-bazarr]: https://github.com/hassio-addons/app-bazarr/blob/f84784a/README.md
 [bazarr-issue]: https://github.com/hassio-addons/app-bazarr/issues
-[bazarr-version-shield]: https://img.shields.io/badge/version-a05db1d-blue.svg
+[bazarr-version-shield]: https://img.shields.io/badge/version-f84784a-blue.svg
 [addon-bookstack]: https://github.com/hassio-addons/app-bookstack/tree/a217ea7
 [addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/a217ea7/README.md
 [bookstack-issue]: https://github.com/hassio-addons/app-bookstack/issues
