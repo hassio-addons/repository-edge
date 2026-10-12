@@ -1,5 +1,2 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Update n8n to v2.42.6 @[renovate[bot]](https://github.com/apps/renovate) ([#22](https://github.com/hassio-addons/app-n8n/pull/22))
+# Changelog since v0.3.8
+- ⬆️ Update n8n to v2.42.7 (#23) 
