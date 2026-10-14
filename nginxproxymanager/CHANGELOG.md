@@ -1,6 +1,4 @@
-## What’s changed
+# Changelog since v4.1.0
+- ⬆️ Update nginx to v1.31.7-1~trixie (#773)
 
-## ⬆️ Dependency updates
-
-- Update Nginx Proxy Manager to 2.16.0 @frenck ([#768](https://github.com/hassio-addons/app-nginx-proxy-manager/pull/768))
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 @[renovate[bot]](https://github.com/apps/renovate) ([#771](https://github.com/hassio-addons/app-nginx-proxy-manager/pull/771))
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
