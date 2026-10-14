@@ -1,4 +1,5 @@
 # Changelog since v0.23.1
+- ⬆️ Update fastapi to v0.143.1 (#681) 
 - ⬆️ Update glances to v4.5.8 (#680) 
 - ⬆️ Update fastapi to v0.143.0 (#679)
 
