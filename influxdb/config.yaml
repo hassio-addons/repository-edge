@@ -1,5 +1,5 @@
 name: InfluxDB v1
-version: 921ebab
+version: d9432fa
 slug: influxdb
 description: InfluxDB 1.x time series database with Chronograf and Kapacitor
 url: https://github.com/hassio-addons/app-influxdb
