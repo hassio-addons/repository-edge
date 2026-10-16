@@ -1,4 +1,5 @@
 # Changelog since v22.1.0
+- ⬆️ Update js-yaml to v5.5.0 (#2291) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.82.0 (#2290)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
