@@ -1,4 +1,5 @@
 # Changelog since v0.3.8
+- ⬆️ Update n8n to v2.43.7 (#27) 
 - ⬆️ Update n8n to v2.43.6 (#26)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
