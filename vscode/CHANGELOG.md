@@ -1,4 +1,5 @@
 # Changelog since v7.2.0
+- ⬆️ Update redhat-developer/vscode-yaml to v2 (#1158) 
 - ⬆️ Update redhat-developer/vscode-yaml to v1.25.0 (#1156) 
 - ⬆️ Update cdr/code-server to v4.141.0 (#1155)
 
