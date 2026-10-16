@@ -1,4 +1,5 @@
 # Changelog since v0.23.1
+- ⬆️ Update fastapi to v0.143.3 (#683) 
 - ⬆️ Update fastapi to v0.143.2 (#682)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
