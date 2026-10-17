@@ -1,4 +1,5 @@
 # Changelog since v0.18.3
+- ⬆️ Update SQLAlchemy to v2.1.5 (#855) 
 - ⬆️ Update bokeh to v3.10.1 (#854)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
