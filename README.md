@@ -685,10 +685,10 @@ SOFTWARE.
 [addon-doc-actual-budget]: https://github.com/hassio-addons/app-actual-budget/blob/b29fb8a/README.md
 [actual-budget-issue]: https://github.com/hassio-addons/app-actual-budget/issues
 [actual-budget-version-shield]: https://img.shields.io/badge/version-b29fb8a-blue.svg
-[addon-adguard]: https://github.com/hassio-addons/app-adguard-home/tree/8968624
-[addon-doc-adguard]: https://github.com/hassio-addons/app-adguard-home/blob/8968624/README.md
+[addon-adguard]: https://github.com/hassio-addons/app-adguard-home/tree/593dcf0
+[addon-doc-adguard]: https://github.com/hassio-addons/app-adguard-home/blob/593dcf0/README.md
 [adguard-issue]: https://github.com/hassio-addons/app-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-8968624-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-593dcf0-blue.svg
 [addon-ssh]: https://github.com/hassio-addons/app-ssh/tree/5d7248f
 [addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/5d7248f/README.md
 [ssh-issue]: https://github.com/hassio-addons/app-ssh/issues
