@@ -689,10 +689,10 @@ SOFTWARE.
 [addon-doc-adguard]: https://github.com/hassio-addons/app-adguard-home/blob/593dcf0/README.md
 [adguard-issue]: https://github.com/hassio-addons/app-adguard-home/issues
 [adguard-version-shield]: https://img.shields.io/badge/version-593dcf0-blue.svg
-[addon-ssh]: https://github.com/hassio-addons/app-ssh/tree/5d7248f
-[addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/5d7248f/README.md
+[addon-ssh]: https://github.com/hassio-addons/app-ssh/tree/072c7db
+[addon-doc-ssh]: https://github.com/hassio-addons/app-ssh/blob/072c7db/README.md
 [ssh-issue]: https://github.com/hassio-addons/app-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-5d7248f-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-072c7db-blue.svg
 [addon-aircast]: https://github.com/hassio-addons/app-aircast/tree/f981ba0
 [addon-doc-aircast]: https://github.com/hassio-addons/app-aircast/blob/f981ba0/README.md
 [aircast-issue]: https://github.com/hassio-addons/app-aircast/issues
