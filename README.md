@@ -877,10 +877,10 @@ SOFTWARE.
 [addon-doc-thelounge]: https://github.com/hassio-addons/app-thelounge/blob/2757abe/README.md
 [thelounge-issue]: https://github.com/hassio-addons/app-thelounge/issues
 [thelounge-version-shield]: https://img.shields.io/badge/version-2757abe-blue.svg
-[addon-tor]: https://github.com/hassio-addons/app-tor/tree/21e5787
-[addon-doc-tor]: https://github.com/hassio-addons/app-tor/blob/21e5787/README.md
+[addon-tor]: https://github.com/hassio-addons/app-tor/tree/1128310
+[addon-doc-tor]: https://github.com/hassio-addons/app-tor/blob/1128310/README.md
 [tor-issue]: https://github.com/hassio-addons/app-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-21e5787-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-1128310-blue.svg
 [addon-traccar]: https://github.com/hassio-addons/app-traccar/tree/9fc68b4
 [addon-doc-traccar]: https://github.com/hassio-addons/app-traccar/blob/9fc68b4/README.md
 [traccar-issue]: https://github.com/hassio-addons/app-traccar/issues
