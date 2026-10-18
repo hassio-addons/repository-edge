@@ -733,10 +733,10 @@ SOFTWARE.
 [addon-doc-example]: https://github.com/hassio-addons/app-example/blob/6b6b1f1/README.md
 [example-issue]: https://github.com/hassio-addons/app-example/issues
 [example-version-shield]: https://img.shields.io/badge/version-6b6b1f1-blue.svg
-[addon-ftp]: https://github.com/hassio-addons/app-ftp/tree/0482f41
-[addon-doc-ftp]: https://github.com/hassio-addons/app-ftp/blob/0482f41/README.md
+[addon-ftp]: https://github.com/hassio-addons/app-ftp/tree/f91845a
+[addon-doc-ftp]: https://github.com/hassio-addons/app-ftp/blob/f91845a/README.md
 [ftp-issue]: https://github.com/hassio-addons/app-ftp/issues
-[ftp-version-shield]: https://img.shields.io/badge/version-0482f41-blue.svg
+[ftp-version-shield]: https://img.shields.io/badge/version-f91845a-blue.svg
 [addon-file-explorer]: https://github.com/hassio-addons/app-file-explorer/tree/131e050
 [addon-doc-file-explorer]: https://github.com/hassio-addons/app-file-explorer/blob/131e050/README.md
 [file-explorer-issue]: https://github.com/hassio-addons/app-file-explorer/issues

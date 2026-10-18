@@ -1,9 +1,2 @@
-# Changelog since v6.0.1
-- 🚀 Rename add-on to app (#275) 
-- 👷 Replace Repology with Alpine CDN datasource for package pins (#274) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21 (#264)
-
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v19 (#259)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+# Changelog since v7.0.0
+- ⬆️ Update base image to 21.0.8 and openssl to 3.5.9-r0 (#278) 
