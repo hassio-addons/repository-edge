@@ -1,4 +1,7 @@
 # Changelog since v0.24.0
+- ⬆️ Update alpine_3_24/cifs-utils to v7.5-r1 (#635)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#634) 
 - ⬆️ Update alpine_3_24/python3 to v3.14.8-r0 (#632) 
 - ⬆️ Update alpine_3_24/python3-dev to v3.14.8-r0 (#633) 
