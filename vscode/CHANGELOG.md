@@ -1,4 +1,7 @@
 # Changelog since v7.2.0
+- ⬆️ Update home-assistant/cli to v5.6.0 (#1159)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update redhat-developer/vscode-yaml to v2 (#1158) 
 - ⬆️ Update redhat-developer/vscode-yaml to v1.25.0 (#1156) 
 - ⬆️ Update cdr/code-server to v4.141.0 (#1155)
