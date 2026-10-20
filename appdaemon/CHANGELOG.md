@@ -1,4 +1,7 @@
 # Changelog since v0.19.2
+- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.4 (#552)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.1 (#551)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
