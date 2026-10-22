@@ -1,4 +1,5 @@
 # Changelog since v7.2.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#1164) 
 - ⬆️ Update esphome to v2026.10.0 (#1162)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
