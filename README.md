@@ -805,10 +805,10 @@ SOFTWARE.
 [addon-doc-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/blob/8fe5a90/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/app-nginx-proxy-manager/issues
 [nginxproxymanager-version-shield]: https://img.shields.io/badge/version-8fe5a90-blue.svg
-[addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/ce2aac3
-[addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/ce2aac3/README.md
+[addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/328cae0
+[addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/328cae0/README.md
 [node-red-issue]: https://github.com/hassio-addons/app-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-ce2aac3-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-328cae0-blue.svg
 [addon-plex]: https://github.com/hassio-addons/app-plex/tree/20af965
 [addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/20af965/README.md
 [plex-issue]: https://github.com/hassio-addons/app-plex/issues
