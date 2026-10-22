@@ -1,4 +1,5 @@
 # Changelog since v22.1.0
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#2296) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#2295) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#2294) 
 - ⬆️ Update node-red-contrib-modbus to v5.61.0 (#2292) 
