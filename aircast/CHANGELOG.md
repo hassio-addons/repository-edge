@@ -1,2 +1,2 @@
-# Changelog since v5.2.2
-- ⬆️ Update philippe44/AirConnect to v1.12.4 (#267) 
+# Changelog since v5.2.3
+- ⬆️ Update hassio-addons/workflows action to v5 (#269) 
