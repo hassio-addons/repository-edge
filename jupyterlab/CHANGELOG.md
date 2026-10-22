@@ -1,4 +1,5 @@
 # Changelog since v0.18.3
+- ⬆️ Update hassio-addons/workflows action to v5 (#859) 
 - ⬆️ Update SQLAlchemy to v2.1.5 (#855) 
 - ⬆️ Update bokeh to v3.10.1 (#854)
 
