@@ -1,2 +1,3 @@
-# Changelog since v5.2.2
-- ⬆️ Update philippe44/AirConnect to v1.12.4 (#214) 
+# Changelog since v5.2.3
+- ⬆️ Update hassio-addons/workflows action to v5 (#216) 
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#215) 
