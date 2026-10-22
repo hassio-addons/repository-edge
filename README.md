@@ -869,10 +869,10 @@ SOFTWARE.
 [addon-doc-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/blob/e2b9cd0/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/app-tasmoadmin/issues
 [tasmoadmin-version-shield]: https://img.shields.io/badge/version-e2b9cd0-blue.svg
-[addon-tautulli]: https://github.com/hassio-addons/app-tautulli/tree/2498a35
-[addon-doc-tautulli]: https://github.com/hassio-addons/app-tautulli/blob/2498a35/README.md
+[addon-tautulli]: https://github.com/hassio-addons/app-tautulli/tree/8b471f1
+[addon-doc-tautulli]: https://github.com/hassio-addons/app-tautulli/blob/8b471f1/README.md
 [tautulli-issue]: https://github.com/hassio-addons/app-tautulli/issues
-[tautulli-version-shield]: https://img.shields.io/badge/version-2498a35-blue.svg
+[tautulli-version-shield]: https://img.shields.io/badge/version-8b471f1-blue.svg
 [addon-thelounge]: https://github.com/hassio-addons/app-thelounge/tree/3791ae9
 [addon-doc-thelounge]: https://github.com/hassio-addons/app-thelounge/blob/3791ae9/README.md
 [thelounge-issue]: https://github.com/hassio-addons/app-thelounge/issues
