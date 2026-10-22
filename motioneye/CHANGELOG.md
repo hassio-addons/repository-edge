@@ -1,4 +1,8 @@
 # Changelog since v0.24.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#639) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#638) 
+- ⬆️ Update alpine_3_24/musl-dev to v1.2.6-r3 (#636) 
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#637) 
 - ⬆️ Update alpine_3_24/cifs-utils to v7.5-r1 (#635)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
