@@ -1,4 +1,6 @@
 # Changelog since v0.34.0
+- ⬆️ Update PHP to v8.5.12-r0 (#528) 
+- ⬆️ Update alpine_3_24/composer to v2.10.3-r0 (#527) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#526)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
