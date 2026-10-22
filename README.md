@@ -713,10 +713,10 @@ SOFTWARE.
 [addon-doc-bazarr]: https://github.com/hassio-addons/app-bazarr/blob/6325c1f/README.md
 [bazarr-issue]: https://github.com/hassio-addons/app-bazarr/issues
 [bazarr-version-shield]: https://img.shields.io/badge/version-6325c1f-blue.svg
-[addon-bookstack]: https://github.com/hassio-addons/app-bookstack/tree/a217ea7
-[addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/a217ea7/README.md
+[addon-bookstack]: https://github.com/hassio-addons/app-bookstack/tree/c5995e9
+[addon-doc-bookstack]: https://github.com/hassio-addons/app-bookstack/blob/c5995e9/README.md
 [bookstack-issue]: https://github.com/hassio-addons/app-bookstack/issues
-[bookstack-version-shield]: https://img.shields.io/badge/version-a217ea7-blue.svg
+[bookstack-version-shield]: https://img.shields.io/badge/version-c5995e9-blue.svg
 [addon-calibre-web]: https://github.com/hassio-addons/app-calibre-web/tree/37073a4
 [addon-doc-calibre-web]: https://github.com/hassio-addons/app-calibre-web/blob/37073a4/README.md
 [calibre-web-issue]: https://github.com/hassio-addons/app-calibre-web/issues
