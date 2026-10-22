@@ -1,4 +1,6 @@
 # Changelog since v0.19.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#396) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#395) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#394) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#393) 
 - ⬆️ Update alpine_3_24/openssl-dev to v3.5.9-r0 (#392) 

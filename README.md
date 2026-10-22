@@ -841,10 +841,10 @@ SOFTWARE.
 [addon-doc-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/blob/48a7802/README.md
 [sparkyfitness-issue]: https://github.com/hassio-addons/app-sparkyfitness/issues
 [sparkyfitness-version-shield]: https://img.shields.io/badge/version-48a7802-blue.svg
-[addon-spotify]: https://github.com/hassio-addons/app-spotify-connect/tree/c2075d3
-[addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/c2075d3/README.md
+[addon-spotify]: https://github.com/hassio-addons/app-spotify-connect/tree/3edca6e
+[addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/3edca6e/README.md
 [spotify-issue]: https://github.com/hassio-addons/app-spotify-connect/issues
-[spotify-version-shield]: https://img.shields.io/badge/version-c2075d3-blue.svg
+[spotify-version-shield]: https://img.shields.io/badge/version-3edca6e-blue.svg
 [addon-spotweb]: https://github.com/hassio-addons/app-spotweb/tree/9b6bb1a
 [addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/9b6bb1a/README.md
 [spotweb-issue]: https://github.com/hassio-addons/app-spotweb/issues
