@@ -1,1 +1,1 @@
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#7)
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#9)
