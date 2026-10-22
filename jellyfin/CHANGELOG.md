@@ -1,5 +1,6 @@
-# Changelog since v0.2.1
-- ⬆️ Update jellyfin/jellyfin to v12.2 (#6) 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 (#5)
+# Changelog since v0.2.2
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#10)
 
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
+- ⬆️ Update hassio-addons/workflows action to v5 (#9) 
