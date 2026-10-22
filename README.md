@@ -897,10 +897,10 @@ SOFTWARE.
 [addon-doc-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/blob/ee60251/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/app-vaultwarden/issues
 [bitwarden-version-shield]: https://img.shields.io/badge/version-ee60251-blue.svg
-[addon-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/tree/c341bce
-[addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/c341bce/README.md
+[addon-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/tree/b9da460
+[addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/b9da460/README.md
 [victoriametrics-issue]: https://github.com/hassio-addons/app-victoriametrics/issues
-[victoriametrics-version-shield]: https://img.shields.io/badge/version-c341bce-blue.svg
+[victoriametrics-version-shield]: https://img.shields.io/badge/version-b9da460-blue.svg
 [addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/99bde66
 [addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/99bde66/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
