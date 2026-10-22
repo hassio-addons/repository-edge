@@ -1,4 +1,5 @@
 # Changelog since v0.34.0
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#531) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#529) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#530) 
 - ⬆️ Update PHP to v8.5.12-r0 (#528) 
