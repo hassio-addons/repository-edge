@@ -1,4 +1,6 @@
 # Changelog since v0.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#11) 
+- ⬆️ Update hassio-addons/workflows action to v5 (#12) 
 - ⬆️ Update PHP to v8.4.27-r0 (#10)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
