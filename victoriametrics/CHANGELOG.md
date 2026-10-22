@@ -1,4 +1,6 @@
 # Changelog since v0.4.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#27) 
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#25) 
 - ⬆️ Update VictoriaMetrics/VictoriaMetrics to v1.154.1 (#24)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
