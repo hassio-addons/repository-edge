@@ -705,10 +705,10 @@ SOFTWARE.
 [addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/89f8d3b/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/app-appdaemon/issues
 [appdaemon-version-shield]: https://img.shields.io/badge/version-89f8d3b-blue.svg
-[addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/69dcf73
-[addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/69dcf73/README.md
+[addon-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/tree/8aded95
+[addon-doc-audiobookshelf]: https://github.com/hassio-addons/app-audiobookshelf/blob/8aded95/README.md
 [audiobookshelf-issue]: https://github.com/hassio-addons/app-audiobookshelf/issues
-[audiobookshelf-version-shield]: https://img.shields.io/badge/version-69dcf73-blue.svg
+[audiobookshelf-version-shield]: https://img.shields.io/badge/version-8aded95-blue.svg
 [addon-bazarr]: https://github.com/hassio-addons/app-bazarr/tree/5941643
 [addon-doc-bazarr]: https://github.com/hassio-addons/app-bazarr/blob/5941643/README.md
 [bazarr-issue]: https://github.com/hassio-addons/app-bazarr/issues
