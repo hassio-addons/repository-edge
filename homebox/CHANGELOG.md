@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#28) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#30) 
 - ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#27) 
 - ⬆️ Update pnpm to v12.14.0 (#25)
