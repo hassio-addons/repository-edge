@@ -1,4 +1,5 @@
 # Changelog since v4.1.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#775) 
 - ⬆️ Update nginx to v1.31.8-1~trixie (#774) 
 - ⬆️ Update nginx to v1.31.7-1~trixie (#773)
 
