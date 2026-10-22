@@ -749,10 +749,10 @@ SOFTWARE.
 [addon-doc-freshrss]: https://github.com/hassio-addons/app-freshrss/blob/54890a2/README.md
 [freshrss-issue]: https://github.com/hassio-addons/app-freshrss/issues
 [freshrss-version-shield]: https://img.shields.io/badge/version-54890a2-blue.svg
-[addon-glances]: https://github.com/hassio-addons/app-glances/tree/7641567
-[addon-doc-glances]: https://github.com/hassio-addons/app-glances/blob/7641567/README.md
+[addon-glances]: https://github.com/hassio-addons/app-glances/tree/a660473
+[addon-doc-glances]: https://github.com/hassio-addons/app-glances/blob/a660473/README.md
 [glances-issue]: https://github.com/hassio-addons/app-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-7641567-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-a660473-blue.svg
 [addon-grafana]: https://github.com/hassio-addons/app-grafana/tree/61f0eb0
 [addon-doc-grafana]: https://github.com/hassio-addons/app-grafana/blob/61f0eb0/README.md
 [grafana-issue]: https://github.com/hassio-addons/app-grafana/issues

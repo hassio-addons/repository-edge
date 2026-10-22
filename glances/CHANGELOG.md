@@ -1,4 +1,5 @@
 # Changelog since v0.23.1
+- ⬆️ Update hassio-addons/workflows action to v5 (#689) 
 - ⬆️ Update fastapi to v0.154.0 (#686)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
