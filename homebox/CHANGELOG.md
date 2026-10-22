@@ -1,4 +1,6 @@
 # Changelog since v0.1.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#30) 
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#27) 
 - ⬆️ Update pnpm to v12.14.0 (#25)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
