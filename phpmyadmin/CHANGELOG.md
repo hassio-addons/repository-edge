@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#291) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#290) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#289) 
 - ⬆️ Update alpine_3_24/mariadb-client to v11.8.9-r0 (#286) 
