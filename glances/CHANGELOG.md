@@ -1,4 +1,6 @@
 # Changelog since v0.23.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#688) 
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#690) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#689) 
 - ⬆️ Update fastapi to v0.154.0 (#686)
 
