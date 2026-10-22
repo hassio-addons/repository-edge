@@ -1,4 +1,7 @@
 # Changelog since v0.7.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#108) 
+- ⬆️ Update hassio-addons/workflows action to v5 (#109) 
+- ⬆️ Update alpine_3_24/musl-dev to v1.2.6-r3 (#107) 
 - ⬆️ Update morpheus65535/bazarr to v1.6.2 (#106) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#105)
 
