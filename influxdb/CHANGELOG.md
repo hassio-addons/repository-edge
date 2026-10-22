@@ -1,4 +1,5 @@
 # Changelog since v6.0.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#422) 
 - ⬆️ Update influxdata/chronograf to v1.11.6 (#420)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
