@@ -1,12 +1,11 @@
-# Changelog since v0.30.2
-- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#772)
+## What’s changed
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Extend userspace_networking docs (#771)
+## 📚 Documentation
 
-* Extend userspace_networking docs
+- Extend userspace_networking docs @lmagyar ([#771](https://github.com/hassio-addons/app-tailscale/pull/771))
 
-With effects on users' "local access only" settings.
+## ⬆️ Dependency updates
 
-* update docs 
-- ⬆️ Update tailscale/tailscale to v1.104.2 (#770) 
+- ⬆️ Update tailscale/tailscale to v1.104.2 @[renovate[bot]](https://github.com/apps/renovate) ([#770](https://github.com/hassio-addons/app-tailscale/pull/770))
+- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#772](https://github.com/hassio-addons/app-tailscale/pull/772))
+- ⬆️ Update App base image to v21.0.9 @[renovate[bot]](https://github.com/apps/renovate) ([#773](https://github.com/hassio-addons/app-tailscale/pull/773))
