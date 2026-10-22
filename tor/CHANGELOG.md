@@ -1,4 +1,5 @@
 # Changelog since v8.1.2
+- ⬆️ Update hassio-addons/workflows action to v5 (#351) 
 - ⬆️ Update alpine_3_24/go to v1.26.9-r0 (#348)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
