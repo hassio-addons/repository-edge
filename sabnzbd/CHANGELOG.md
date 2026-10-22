@@ -1,4 +1,8 @@
 # Changelog since v0.8.3
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#152) 
+- ⬆️ Update hassio-addons/workflows action to v5 (#153) 
+- ⬆️ Update alpine_3_24/musl-dev to v1.2.6-r3 (#151) 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#150) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#149) 
 - ⬆️ Update alpine_3_24/python3 to v3.14.8-r0 (#147) 
 - ⬆️ Update alpine_3_24/python3-dev to v3.14.8-r0 (#148) 
