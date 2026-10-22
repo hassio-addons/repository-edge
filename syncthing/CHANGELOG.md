@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Merge pull request #10 from hassio-addons/renovate/alpine_3_24-nginx-1.x 
 - ⬆️ Update syncthing/syncthing to v2.1.7 (#9)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
