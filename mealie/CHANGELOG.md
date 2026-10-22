@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- ⬆️ Update hassio-addons/workflows action to v5 (#47) 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.5 (#45) 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.4 (#44)
 
