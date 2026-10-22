@@ -813,10 +813,10 @@ SOFTWARE.
 [addon-doc-plex]: https://github.com/hassio-addons/app-plex/blob/20af965/README.md
 [plex-issue]: https://github.com/hassio-addons/app-plex/issues
 [plex-version-shield]: https://img.shields.io/badge/version-20af965-blue.svg
-[addon-prowlarr]: https://github.com/hassio-addons/app-prowlarr/tree/eca797b
-[addon-doc-prowlarr]: https://github.com/hassio-addons/app-prowlarr/blob/eca797b/README.md
+[addon-prowlarr]: https://github.com/hassio-addons/app-prowlarr/tree/e4c497b
+[addon-doc-prowlarr]: https://github.com/hassio-addons/app-prowlarr/blob/e4c497b/README.md
 [prowlarr-issue]: https://github.com/hassio-addons/app-prowlarr/issues
-[prowlarr-version-shield]: https://img.shields.io/badge/version-eca797b-blue.svg
+[prowlarr-version-shield]: https://img.shields.io/badge/version-e4c497b-blue.svg
 [addon-radarr]: https://github.com/hassio-addons/app-radarr/tree/9baad5f
 [addon-doc-radarr]: https://github.com/hassio-addons/app-radarr/blob/9baad5f/README.md
 [radarr-issue]: https://github.com/hassio-addons/app-radarr/issues
