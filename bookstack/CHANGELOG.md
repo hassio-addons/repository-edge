@@ -1,4 +1,5 @@
 # Changelog since v5.0.2
+- ⬆️ Update BookStackApp/BookStack to v26.09.2 (#456) 
 - ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#462) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#460) 
 - ⬆️ Update alpine_3_24/composer to v2.10.3-r0 (#459) 
