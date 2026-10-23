@@ -1,5 +1,5 @@
 name: Seerr
-version: '3197e38'
+version: 6ef1e2f
 slug: overseerr
 description: Media request and discovery manager for Jellyfin, Plex, and Emby
 url: https://github.com/hassio-addons/app-seerr/tree/main/README.md
