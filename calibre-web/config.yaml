@@ -1,5 +1,5 @@
 name: Calibre-Web
-version: d16413b
+version: 95ddb2b
 slug: calibre-web
 description: Browse, read and download the ebooks in your Calibre library
 url: https://github.com/hassio-addons/app-calibre-web
