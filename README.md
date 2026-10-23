@@ -853,10 +853,10 @@ SOFTWARE.
 [addon-doc-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/blob/7fbe9be/README.md
 [stirling-pdf-issue]: https://github.com/hassio-addons/app-stirling-pdf/issues
 [stirling-pdf-version-shield]: https://img.shields.io/badge/version-7fbe9be-blue.svg
-[addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/d592d29
-[addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/d592d29/README.md
+[addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/6d81a30
+[addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/6d81a30/README.md
 [vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-d592d29-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-6d81a30-blue.svg
 [addon-syncthing]: https://github.com/hassio-addons/app-syncthing/tree/1e55f3a
 [addon-doc-syncthing]: https://github.com/hassio-addons/app-syncthing/blob/1e55f3a/README.md
 [syncthing-issue]: https://github.com/hassio-addons/app-syncthing/issues

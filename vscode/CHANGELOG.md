@@ -1,4 +1,7 @@
 # Changelog since v7.2.0
+- 🔒 Explicitly request NET_RAW capability (#1161)
+
+Co-authored-by: Claude Fable 5.1 <noreply@anthropic.com> 
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.7.0 (#1160) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#1163)
 
