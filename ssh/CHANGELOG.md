@@ -1,4 +1,8 @@
 # Changelog since v24.1.7
+- ⬆️ Update Docker to v29.9.2-r0 (#1167) 
+- ⬆️ Update alpine_3_24/nano-syntax to v9.3-r0 (#1166) 
+- ⬆️ Update alpine_3_24/bind-tools to v9.20.30-r0 (#1164) 
+- ⬆️ Update alpine_3_24/nano to v9.3-r0 (#1165) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#1162) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#1163) 
 - ⬆️ Update alpine_3_24/mariadb-client to v11.8.9-r0 (#1160) 
