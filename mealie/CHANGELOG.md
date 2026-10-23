@@ -1,4 +1,8 @@
 # Changelog since v0.6.0
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#46)
+
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
 - ⬆️ Update pnpm to v12.15.0 (#48)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
