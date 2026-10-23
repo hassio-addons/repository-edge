@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- ⬆️ Update @actual-app/sync-server to v26.10.0 (#8) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#11)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
