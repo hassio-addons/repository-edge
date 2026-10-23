@@ -849,10 +849,10 @@ SOFTWARE.
 [addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/34cf34c/README.md
 [spotweb-issue]: https://github.com/hassio-addons/app-spotweb/issues
 [spotweb-version-shield]: https://img.shields.io/badge/version-34cf34c-blue.svg
-[addon-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/tree/18c34b2
-[addon-doc-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/blob/18c34b2/README.md
+[addon-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/tree/7fbe9be
+[addon-doc-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/blob/7fbe9be/README.md
 [stirling-pdf-issue]: https://github.com/hassio-addons/app-stirling-pdf/issues
-[stirling-pdf-version-shield]: https://img.shields.io/badge/version-18c34b2-blue.svg
+[stirling-pdf-version-shield]: https://img.shields.io/badge/version-7fbe9be-blue.svg
 [addon-vscode]: https://github.com/hassio-addons/app-vscode/tree/e053fad
 [addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/e053fad/README.md
 [vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
