@@ -1,4 +1,5 @@
 # Changelog since v7.7.2
+- ⬆️ Update zwave-js/zwave-js-ui to v11.25.1 (#954) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#953) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#952)
 
