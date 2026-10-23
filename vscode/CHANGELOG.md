@@ -1,4 +1,5 @@
 # Changelog since v7.2.0
+- ⬆️ Update emilast/vscode-logfile-highlighter to v3.7.0 (#1160) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#1163)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
