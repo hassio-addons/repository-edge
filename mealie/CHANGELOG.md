@@ -1,4 +1,5 @@
 # Changelog since v0.6.0
+- ⬆️ Update mealie-recipes/mealie to v3.29.0 (#42) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#46)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
