@@ -845,10 +845,10 @@ SOFTWARE.
 [addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/3edca6e/README.md
 [spotify-issue]: https://github.com/hassio-addons/app-spotify-connect/issues
 [spotify-version-shield]: https://img.shields.io/badge/version-3edca6e-blue.svg
-[addon-spotweb]: https://github.com/hassio-addons/app-spotweb/tree/9b6bb1a
-[addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/9b6bb1a/README.md
+[addon-spotweb]: https://github.com/hassio-addons/app-spotweb/tree/34cf34c
+[addon-doc-spotweb]: https://github.com/hassio-addons/app-spotweb/blob/34cf34c/README.md
 [spotweb-issue]: https://github.com/hassio-addons/app-spotweb/issues
-[spotweb-version-shield]: https://img.shields.io/badge/version-9b6bb1a-blue.svg
+[spotweb-version-shield]: https://img.shields.io/badge/version-34cf34c-blue.svg
 [addon-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/tree/18c34b2
 [addon-doc-stirling-pdf]: https://github.com/hassio-addons/app-stirling-pdf/blob/18c34b2/README.md
 [stirling-pdf-issue]: https://github.com/hassio-addons/app-stirling-pdf/issues
