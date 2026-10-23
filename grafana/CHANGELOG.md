@@ -1,4 +1,5 @@
 # Changelog since v13.0.3
+- ⬆️ Update grafana/grafana to v13.2.4 (#537) 
 - ⬆️ Update App base image to v9.5.1 (#538)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
