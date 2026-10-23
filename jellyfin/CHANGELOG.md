@@ -1,4 +1,5 @@
 # Changelog since v0.2.2
+- ⬆️ Update jellyfin/jellyfin to v12.3 (#11) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#10)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
