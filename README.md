@@ -889,10 +889,10 @@ SOFTWARE.
 [addon-doc-unifi]: https://github.com/hassio-addons/app-unifi/blob/2539489/README.md
 [unifi-issue]: https://github.com/hassio-addons/app-unifi/issues
 [unifi-version-shield]: https://img.shields.io/badge/version-2539489-blue.svg
-[addon-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/tree/c25d827
-[addon-doc-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/blob/c25d827/README.md
+[addon-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/tree/a25d17d
+[addon-doc-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/blob/a25d17d/README.md
 [uptime-kuma-issue]: https://github.com/hassio-addons/app-uptime-kuma/issues
-[uptime-kuma-version-shield]: https://img.shields.io/badge/version-c25d827-blue.svg
+[uptime-kuma-version-shield]: https://img.shields.io/badge/version-a25d17d-blue.svg
 [addon-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/tree/386d4e0
 [addon-doc-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/blob/386d4e0/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/app-vaultwarden/issues

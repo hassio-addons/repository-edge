@@ -1,4 +1,5 @@
 # Changelog since v0.19.4
+- ⬆️ Update louislam/uptime-kuma to v2.5.7 (#401) 
 - ⬆️ Update cloudflare/cloudflared to v2026.10.3 (#398) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#399) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#400) 
