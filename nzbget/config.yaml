@@ -1,5 +1,5 @@
 name: NZBGet
-version: 3bc6a98
+version: 4f06461
 slug: nzbget
 description: Efficient Usenet downloader, written in C++
 url: https://github.com/hassio-addons/app-nzbget
