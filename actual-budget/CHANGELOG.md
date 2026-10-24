@@ -1,4 +1,8 @@
 # Changelog since v0.1.0
+- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r0 (#13)
+
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
 - ⬆️ Update @actual-app/sync-server to v26.10.0 (#8) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#11)
 
