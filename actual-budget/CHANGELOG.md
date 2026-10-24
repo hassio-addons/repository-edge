@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r0 (#14)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/nodejs to v24.22.1-r0 (#13)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
