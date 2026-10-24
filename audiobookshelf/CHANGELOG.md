@@ -1,10 +1,5 @@
-# Changelog since v0.2.0
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#13) 
-- ⬆️ Update hassio-addons/workflows action to v5 (#14) 
-- ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#12) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#11)
+# Changelog since v0.2.1
+- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r0 (#15)
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/python3 to v3.14.8-r0 (#10) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#9) 
-- ⬆️ Update advplyr/audiobookshelf to v2.37.1 (#8) 
+Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
+Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
