@@ -1,4 +1,5 @@
 # Changelog since v7.2.0
+- ⬆️ Update cdr/code-server to v4.143.1 (#1165) 
 - 🔒 Explicitly request NET_RAW capability (#1161)
 
 Co-authored-by: Claude Fable 5.1 <noreply@anthropic.com> 
