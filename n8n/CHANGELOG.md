@@ -1,4 +1,5 @@
 # Changelog since v0.3.8
+- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r0 (#33) 
 - ⬆️ Update n8n to v2.44.6 (#29) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#31) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#32) 
