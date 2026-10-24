@@ -1,4 +1,5 @@
 # Changelog since v0.7.0
+- ⬆️ Update alpine_3_24/ffmpeg to v8.1.3-r0 (#110) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#108) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#109) 
 - ⬆️ Update alpine_3_24/musl-dev to v1.2.6-r3 (#107) 

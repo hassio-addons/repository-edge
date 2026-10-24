@@ -34,5 +34,5 @@ If you are more interested in stable releases of our apps:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-5941643-blue.svg
-[release]: https://github.com/hassio-addons/app-bazarr/tree/5941643
+[release-shield]: https://img.shields.io/badge/version-5a8abbc-blue.svg
+[release]: https://github.com/hassio-addons/app-bazarr/tree/5a8abbc
