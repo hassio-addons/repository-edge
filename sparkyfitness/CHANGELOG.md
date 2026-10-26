@@ -1,4 +1,3 @@
-- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r0 (#11)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#12)
 
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
