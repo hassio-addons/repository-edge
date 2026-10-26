@@ -1,4 +1,8 @@
 # Changelog since v0.24.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#644)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/curl-dev to v8.23.0-r0 (#643) 
 - ⬆️ Update alpine_3_24/ffmpeg to v8.1.3-r0 (#640) 
 - ⬆️ Update alpine_3_24/ffmpeg-libs to v8.1.3-r0 (#642) 
 - ⬆️ Update alpine_3_24/ffmpeg-dev to v8.1.3-r0 (#641) 

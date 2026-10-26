@@ -921,10 +921,10 @@ SOFTWARE.
 [addon-doc-chrony]: https://github.com/hassio-addons/app-chrony/blob/5ea0899/README.md
 [chrony-issue]: https://github.com/hassio-addons/app-chrony/issues
 [chrony-version-shield]: https://img.shields.io/badge/version-5ea0899-blue.svg
-[addon-motioneye]: https://github.com/hassio-addons/app-motioneye/tree/48ddd4a
-[addon-doc-motioneye]: https://github.com/hassio-addons/app-motioneye/blob/48ddd4a/README.md
+[addon-motioneye]: https://github.com/hassio-addons/app-motioneye/tree/5af5c68
+[addon-doc-motioneye]: https://github.com/hassio-addons/app-motioneye/blob/5af5c68/README.md
 [motioneye-issue]: https://github.com/hassio-addons/app-motioneye/issues
-[motioneye-version-shield]: https://img.shields.io/badge/version-48ddd4a-blue.svg
+[motioneye-version-shield]: https://img.shields.io/badge/version-5af5c68-blue.svg
 [addon-n8n]: https://github.com/hassio-addons/app-n8n/tree/7be40fe
 [addon-doc-n8n]: https://github.com/hassio-addons/app-n8n/blob/7be40fe/README.md
 [n8n-issue]: https://github.com/hassio-addons/app-n8n/issues
