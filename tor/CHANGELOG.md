@@ -1,16 +1,4 @@
-# Changelog since v8.1.2
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#350) 
-- ⬆️ Update hassio-addons/workflows action to v5 (#351) 
-- ⬆️ Update alpine_3_24/go to v1.26.9-r0 (#348)
+# Changelog since v8.2.0
+- ⬆️ Update alpine_3_24/go to v1.26.10-r0 (#352)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update alpine_3_24/tor to v0.4.9.14-r0 (#347)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#346) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#345) 
-- ⬆️ Update alpine_3_24/openssl to v3.5.9-r0 (#344) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#343) 
-- ⬆️ Update alpine_3_24/tor to v0.4.9.13-r0 (#342) 
-- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#341) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#340) 
