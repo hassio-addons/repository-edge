@@ -917,10 +917,10 @@ SOFTWARE.
 [addon-doc-zerotier]: https://github.com/hassio-addons/app-zerotier/blob/ffd9990/README.md
 [zerotier-issue]: https://github.com/hassio-addons/app-zerotier/issues
 [zerotier-version-shield]: https://img.shields.io/badge/version-ffd9990-blue.svg
-[addon-chrony]: https://github.com/hassio-addons/app-chrony/tree/5ea0899
-[addon-doc-chrony]: https://github.com/hassio-addons/app-chrony/blob/5ea0899/README.md
+[addon-chrony]: https://github.com/hassio-addons/app-chrony/tree/bf7aeb3
+[addon-doc-chrony]: https://github.com/hassio-addons/app-chrony/blob/bf7aeb3/README.md
 [chrony-issue]: https://github.com/hassio-addons/app-chrony/issues
-[chrony-version-shield]: https://img.shields.io/badge/version-5ea0899-blue.svg
+[chrony-version-shield]: https://img.shields.io/badge/version-bf7aeb3-blue.svg
 [addon-motioneye]: https://github.com/hassio-addons/app-motioneye/tree/5af5c68
 [addon-doc-motioneye]: https://github.com/hassio-addons/app-motioneye/blob/5af5c68/README.md
 [motioneye-issue]: https://github.com/hassio-addons/app-motioneye/issues
