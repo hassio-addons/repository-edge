@@ -1,4 +1,10 @@
 # Changelog since v6.1.1
+- ⬆️ Update alpine_3_24/python3 to v3.14.10-r1 (#429)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#428)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update hassio-addons/workflows action to v5 (#427) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#426) 
 - ⬆️ Update alpine_3_24/nginx to v1.30.6-r0 (#425) 
