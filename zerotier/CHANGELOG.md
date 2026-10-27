@@ -1,10 +1,4 @@
-# Changelog since v0.26.2
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#335) 
-- ⬆️ Update hassio-addons/workflows action to v5 (#336) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#334) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#333) 
-- ⬆️ Update alpine_3_24/openssl-dev to v3.5.9-r0 (#332) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#331) 
-- Migrate the user bundle to /etc/s6-overlay/user-bundles.d (#330) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#329) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#327) 
+# Changelog since v0.26.3
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#337)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
