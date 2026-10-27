@@ -925,10 +925,10 @@ SOFTWARE.
 [addon-doc-motioneye]: https://github.com/hassio-addons/app-motioneye/blob/5af5c68/README.md
 [motioneye-issue]: https://github.com/hassio-addons/app-motioneye/issues
 [motioneye-version-shield]: https://img.shields.io/badge/version-5af5c68-blue.svg
-[addon-n8n]: https://github.com/hassio-addons/app-n8n/tree/e919e8b
-[addon-doc-n8n]: https://github.com/hassio-addons/app-n8n/blob/e919e8b/README.md
+[addon-n8n]: https://github.com/hassio-addons/app-n8n/tree/79577b6
+[addon-doc-n8n]: https://github.com/hassio-addons/app-n8n/blob/79577b6/README.md
 [n8n-issue]: https://github.com/hassio-addons/app-n8n/issues
-[n8n-version-shield]: https://img.shields.io/badge/version-e919e8b-blue.svg
+[n8n-version-shield]: https://img.shields.io/badge/version-79577b6-blue.svg
 [addon-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/tree/6e717d5
 [addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/6e717d5/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/app-phpmyadmin/issues
