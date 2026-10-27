@@ -1,30 +1,4 @@
-# Changelog since v0.19.2
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#555) 
-- ⬆️ Update hassio-addons/workflows action to v5 (#554) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.5 (#553) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.4 (#552)
+# Changelog since v0.19.3
+- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.6 (#556)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.1 (#551)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.0 (#550) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.24 (#548) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.23 (#547) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.22 (#546) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.21 (#545) 
-- ⬆️ Update mikefarah/yq to v4.54.1 (#544) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.20 (#543) 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 (#542) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.19 (#540) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.18 (#539) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.17 (#537) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.16 (#536) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.15 (#535) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.14 (#534) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.13 (#531) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.12 (#530) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.11 (#529) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.10 (#528) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.9 (#527) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.8 (#526) 
