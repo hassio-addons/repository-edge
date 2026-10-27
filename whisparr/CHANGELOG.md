@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#69)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#67) 
 - ⬆️ Update hassio-addons/workflows action to v5 (#68) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#66)
