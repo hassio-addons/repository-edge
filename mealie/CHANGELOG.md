@@ -1,39 +1,4 @@
-# Changelog since v0.6.0
-- ⬆️ Update mealie-recipes/mealie to v3.29.0 (#42) 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#46)
-
-Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
-Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com> 
-- ⬆️ Update pnpm to v12.15.0 (#48)
+# Changelog since v0.7.0
+- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.6 (#49)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update hassio-addons/workflows action to v5 (#47) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.5 (#45) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.4 (#44)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.3 (#43)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update pnpm to v12.14.0 (#41) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.1 (#40)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update pnpm to v12.11.2 (#39) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.0 (#38)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.24 (#37)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update pnpm to v12.10.1 (#36) 
-- ⬆️ Update pnpm to v12.9.1 (#35)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.23 (#34) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.22 (#33)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.21 (#32) 
-- ⬆️ Update pnpm to v12.8.1 (#31) 
-- ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.12.20 (#30) 
