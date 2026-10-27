@@ -1,11 +1,7 @@
-# Changelog since v0.19.5
-- ⬆️ Update louislam/uptime-kuma to v2.5.8 (#406)
+# Changelog since v0.19.6
+- ⬆️ Update alpine_3_24/python3 to v3.14.10-r1 (#408)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#405)
+- ⬆️ Update alpine_3_24/python3 to v3.14.10-r0 (#407)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cloudflare/cloudflared to v2026.10.4 (#404)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update apprise to v2.1.0 (#403) 
