@@ -1,4 +1,7 @@
 # Changelog since v7.2.0
+- ⬆️ Update esphome to v2026.10.1 (#1167)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.143.1 (#1165) 
 - 🔒 Explicitly request NET_RAW capability (#1161)
 
