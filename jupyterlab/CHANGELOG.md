@@ -1,4 +1,7 @@
 # Changelog since v0.18.3
+- ⬆️ Update python-dateutil to v4 (#863)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update nodejs to v22.23.4-1nodesource1 - abandoned (#856)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
