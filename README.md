@@ -893,10 +893,10 @@ SOFTWARE.
 [addon-doc-uptime-kuma]: https://github.com/hassio-addons/app-uptime-kuma/blob/02ec5c7/README.md
 [uptime-kuma-issue]: https://github.com/hassio-addons/app-uptime-kuma/issues
 [uptime-kuma-version-shield]: https://img.shields.io/badge/version-02ec5c7-blue.svg
-[addon-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/tree/386d4e0
-[addon-doc-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/blob/386d4e0/README.md
+[addon-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/tree/3dbff5d
+[addon-doc-bitwarden]: https://github.com/hassio-addons/app-vaultwarden/blob/3dbff5d/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/app-vaultwarden/issues
-[bitwarden-version-shield]: https://img.shields.io/badge/version-386d4e0-blue.svg
+[bitwarden-version-shield]: https://img.shields.io/badge/version-3dbff5d-blue.svg
 [addon-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/tree/308018c
 [addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/308018c/README.md
 [victoriametrics-issue]: https://github.com/hassio-addons/app-victoriametrics/issues
