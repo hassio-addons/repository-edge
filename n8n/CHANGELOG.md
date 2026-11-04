@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- ⬆️ Update alpine_3_24/tzdata to v2026f-r0 (#39) 
 - ⬆️ Update alpine_3_24/nodejs to v24.22.1-r1 (#38) 
 - ⬆️ Update alpine_3_24/python3 to v3.14.10-r1 (#36)
 
