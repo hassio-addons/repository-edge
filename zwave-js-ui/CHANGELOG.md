@@ -1,4 +1,5 @@
 # Changelog since v7.8.1
+- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r1 (#959) 
 - fix: avoid shutdown delay and exit code 137 stopping zwave_js (#949)
 
 Co-authored-by: Franck Nijhof <git@frenck.dev> 
