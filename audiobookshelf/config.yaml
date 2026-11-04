@@ -1,5 +1,5 @@
 name: Audiobookshelf
-version: '29e1419'
+version: e84e0aa
 slug: audiobookshelf
 description: Self-hosted audiobook and podcast server
 url: https://github.com/hassio-addons/app-audiobookshelf
