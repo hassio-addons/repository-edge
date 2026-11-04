@@ -1,4 +1,5 @@
 # Changelog since v0.19.6
+- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r1 (#411) 
 - ⬆️ Update cloudflare/cloudflared to v2026.10.5 (#409)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
