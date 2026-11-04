@@ -1,4 +1,5 @@
 # Changelog since v0.18.3
+- ⬆️ Update pandas to v3.1.1 (#865) 
 - ⬆️ Update SQLAlchemy to v2.1.8 (#864)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
