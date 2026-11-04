@@ -769,10 +769,10 @@ SOFTWARE.
 [addon-doc-influxdb]: https://github.com/hassio-addons/app-influxdb/blob/d850b9f/README.md
 [influxdb-issue]: https://github.com/hassio-addons/app-influxdb/issues
 [influxdb-version-shield]: https://img.shields.io/badge/version-d850b9f-blue.svg
-[addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/997efd4
-[addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/997efd4/README.md
+[addon-jellyfin]: https://github.com/hassio-addons/app-jellyfin/tree/1574ccc
+[addon-doc-jellyfin]: https://github.com/hassio-addons/app-jellyfin/blob/1574ccc/README.md
 [jellyfin-issue]: https://github.com/hassio-addons/app-jellyfin/issues
-[jellyfin-version-shield]: https://img.shields.io/badge/version-997efd4-blue.svg
+[jellyfin-version-shield]: https://img.shields.io/badge/version-1574ccc-blue.svg
 [addon-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/tree/e45cc06
 [addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/e45cc06/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/app-jupyterlab/issues
