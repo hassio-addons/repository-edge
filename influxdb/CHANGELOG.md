@@ -1,4 +1,7 @@
 # Changelog since v6.0.0
+- ⬆️ Update influxdata/chronograf to v1.11.7 (#424)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#421)
 
 Co-authored-by: frenck <195327+frenck@users.noreply.github.com>
