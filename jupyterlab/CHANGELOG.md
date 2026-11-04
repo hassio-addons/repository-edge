@@ -1,4 +1,7 @@
 # Changelog since v0.18.3
+- ⬆️ Update SQLAlchemy to v2.1.8 (#864)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update python-dateutil to v4 (#863)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
