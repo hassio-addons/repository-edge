@@ -801,10 +801,10 @@ SOFTWARE.
 [addon-doc-nut]: https://github.com/hassio-addons/app-nut/blob/7b34c15/README.md
 [nut-issue]: https://github.com/hassio-addons/app-nut/issues
 [nut-version-shield]: https://img.shields.io/badge/version-7b34c15-blue.svg
-[addon-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/tree/4cd564f
-[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/blob/4cd564f/README.md
+[addon-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/tree/9294e91
+[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/blob/9294e91/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/app-nginx-proxy-manager/issues
-[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-4cd564f-blue.svg
+[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-9294e91-blue.svg
 [addon-node-red]: https://github.com/hassio-addons/app-node-red/tree/682d153
 [addon-doc-node-red]: https://github.com/hassio-addons/app-node-red/blob/682d153/README.md
 [node-red-issue]: https://github.com/hassio-addons/app-node-red/issues
