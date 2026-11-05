@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.2 (#5)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 (#4)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

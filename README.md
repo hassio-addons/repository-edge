@@ -793,10 +793,10 @@ SOFTWARE.
 [addon-doc-mealie]: https://github.com/hassio-addons/app-mealie/blob/cdbf21c/README.md
 [mealie-issue]: https://github.com/hassio-addons/app-mealie/issues
 [mealie-version-shield]: https://img.shields.io/badge/version-cdbf21c-blue.svg
-[addon-nzbget]: https://github.com/hassio-addons/app-nzbget/tree/1a34114
-[addon-doc-nzbget]: https://github.com/hassio-addons/app-nzbget/blob/1a34114/README.md
+[addon-nzbget]: https://github.com/hassio-addons/app-nzbget/tree/c083ef5
+[addon-doc-nzbget]: https://github.com/hassio-addons/app-nzbget/blob/c083ef5/README.md
 [nzbget-issue]: https://github.com/hassio-addons/app-nzbget/issues
-[nzbget-version-shield]: https://img.shields.io/badge/version-1a34114-blue.svg
+[nzbget-version-shield]: https://img.shields.io/badge/version-c083ef5-blue.svg
 [addon-nut]: https://github.com/hassio-addons/app-nut/tree/7b34c15
 [addon-doc-nut]: https://github.com/hassio-addons/app-nut/blob/7b34c15/README.md
 [nut-issue]: https://github.com/hassio-addons/app-nut/issues
