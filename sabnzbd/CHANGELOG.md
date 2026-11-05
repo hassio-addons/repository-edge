@@ -1,4 +1,6 @@
 # Changelog since v0.8.3
+- ⬆️ Update alpine_3_24/python3 to v3.14.10-r1 (#156) 
+- ⬆️ Update alpine_3_24/python3-dev to v3.14.10-r1 (#157) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#155)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
