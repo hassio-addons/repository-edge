@@ -1,5 +1,5 @@
 name: InfluxDB v1
-version: d850b9f
+version: 4ad7dac
 slug: influxdb
 description: InfluxDB 1.x time series database with Chronograf and Kapacitor
 url: https://github.com/hassio-addons/app-influxdb
