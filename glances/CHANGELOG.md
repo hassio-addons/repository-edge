@@ -1,4 +1,7 @@
 # Changelog since v0.23.2
+- ⬆️ Update paho-mqtt to v2.2.0 (#695)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update zeroconf to v0.153.0 (#694)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
