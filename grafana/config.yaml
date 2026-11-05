@@ -1,5 +1,5 @@
 name: Grafana
-version: ac2fdb6
+version: 71d9260
 slug: grafana
 description: The open platform for beautiful analytics and monitoring
 url: https://github.com/hassio-addons/app-grafana
