@@ -1,4 +1,5 @@
 # Changelog since v6.0.0
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.2 (#426) 
 - ⬆️ Update influxdata/kapacitor to v1.8.9 (#425)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
