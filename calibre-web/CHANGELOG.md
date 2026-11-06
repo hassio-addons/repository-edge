@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update kovidgoyal/calibre to v9.18.0 (#11)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.2 (#10)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

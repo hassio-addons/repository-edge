@@ -49,5 +49,5 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-9ab0f9d-blue.svg
-[release]: https://github.com/hassio-addons/app-calibre-web/tree/9ab0f9d
+[release-shield]: https://img.shields.io/badge/version-6a82d4e-blue.svg
+[release]: https://github.com/hassio-addons/app-calibre-web/tree/6a82d4e
