@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update alpine_3_24/libheif to v1.23.7-r0 (#34)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pnpm to v12.18.0 (#33)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
