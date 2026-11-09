@@ -1,4 +1,5 @@
 # Changelog since v0.23.2
+- ⬆️ Update glances to v4.5.9 (#698) 
 - ⬆️ Update zeroconf to v0.154.0 (#696) 
 - ⬆️ Update fastapi to v0.162.2 (#697)
 
