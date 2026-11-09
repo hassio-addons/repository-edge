@@ -1,4 +1,7 @@
 # Changelog since v0.18.3
+- ⬆️ Update scrapy to v2.20.0 (#869)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update bokeh to v3.10.2 (#867)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
