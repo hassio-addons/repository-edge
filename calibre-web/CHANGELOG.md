@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update pgaskin/kepubify to v5 (#12)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update kovidgoyal/calibre to v9.18.0 (#11)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
