@@ -1,4 +1,7 @@
 # Changelog since v0.18.3
+- ⬆️ Update bokeh to v3.10.2 (#867)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update jupyterlab to v4.6.5 (#862) 
 - ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.2 (#866) 
 - ⬆️ Update pandas to v3.1.1 (#865) 
