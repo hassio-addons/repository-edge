@@ -1,16 +1,4 @@
-# Changelog since v0.16.0
-- ⬆️ Update Lidarr/Lidarr to v3.1.6.5079 (#88) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#89)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update hassio-addons/workflows action to v5 (#87) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.9 (#86) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#85) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#84) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#83) 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 (#82)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#81)
+# Changelog since v0.16.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#90)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
