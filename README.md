@@ -825,10 +825,10 @@ SOFTWARE.
 [addon-doc-sabnzbd]: https://github.com/hassio-addons/app-sabnzbd/blob/77149a5/README.md
 [sabnzbd-issue]: https://github.com/hassio-addons/app-sabnzbd/issues
 [sabnzbd-version-shield]: https://img.shields.io/badge/version-77149a5-blue.svg
-[addon-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/tree/f667487
-[addon-doc-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/blob/f667487/README.md
+[addon-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/tree/3c458e4
+[addon-doc-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/blob/3c458e4/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/app-sqlite-web/issues
-[sqlite-web-version-shield]: https://img.shields.io/badge/version-f667487-blue.svg
+[sqlite-web-version-shield]: https://img.shields.io/badge/version-3c458e4-blue.svg
 [addon-overseerr]: https://github.com/hassio-addons/app-seerr/tree/9f0e8cf
 [addon-doc-overseerr]: https://github.com/hassio-addons/app-seerr/blob/9f0e8cf/README.md
 [overseerr-issue]: https://github.com/hassio-addons/app-seerr/issues
