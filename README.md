@@ -909,10 +909,10 @@ SOFTWARE.
 [addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/adf21f7/README.md
 [wireguard-issue]: https://github.com/hassio-addons/app-wireguard/issues
 [wireguard-version-shield]: https://img.shields.io/badge/version-adf21f7-blue.svg
-[addon-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/tree/e8e264c
-[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/blob/e8e264c/README.md
+[addon-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/tree/34c62da
+[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/blob/34c62da/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/app-zwave-js-ui/issues
-[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-e8e264c-blue.svg
+[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-34c62da-blue.svg
 [addon-zerotier]: https://github.com/hassio-addons/app-zerotier/tree/8fc4320
 [addon-doc-zerotier]: https://github.com/hassio-addons/app-zerotier/blob/8fc4320/README.md
 [zerotier-issue]: https://github.com/hassio-addons/app-zerotier/issues
