@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#35)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/libheif to v1.23.7-r0 (#34)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
