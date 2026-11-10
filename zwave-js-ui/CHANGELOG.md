@@ -1,11 +1,7 @@
-# Changelog since v7.8.1
-- ⬆️ Update alpine_3_24/nodejs to v24.22.1-r1 (#959) 
-- fix: avoid shutdown delay and exit code 137 stopping zwave_js (#949)
-
-Co-authored-by: Franck Nijhof <git@frenck.dev> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#957)
+# Changelog since v7.8.2
+- ⬆️ Update zwave-js/zwave-js-ui to v11.26.0 (#961)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update zwave-js/zwave-js-ui to v11.25.2 (#958)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#960)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
