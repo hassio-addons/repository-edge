@@ -1,4 +1,7 @@
 # Changelog since v0.18.3
+- ⬆️ Update mysqlclient to v2.3.1 (#870)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update scrapy to v2.20.0 (#869)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
