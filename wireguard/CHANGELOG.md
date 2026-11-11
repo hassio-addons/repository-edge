@@ -1,4 +1,5 @@
 # Changelog since v0.14.0
+- ⬆️ Update alpine_3_24/git to v2.54.1-r0 (#418) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#417) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 (#416)
 
