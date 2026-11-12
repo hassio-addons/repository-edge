@@ -1,4 +1,5 @@
 # Changelog since v0.18.3
+- ⬆️ Update nodejs to v22.23.5-1nodesource1 (#871) 
 - ⬆️ Update mysqlclient to v2.3.1 (#870)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
