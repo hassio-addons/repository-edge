@@ -1,4 +1,11 @@
 # Changelog since v0.30.6
+- Refactor logging in finish scripts (#793)
+
+* Refactor logging in finish scripts
+
+First log the fact, that the service is stopped, then do the cleanup.
+
+* discard called script errors 
 - finish timeouts (#794) 
 - ⬆️ Update tailscale/tailscale to v1.104.6 (#792)
 
