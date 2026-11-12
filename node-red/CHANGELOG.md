@@ -1,4 +1,5 @@
 # Changelog since v22.2.2
+- ⬆️ Update alpine_3_24/nodejs to v24.22.3-r0 (#2312) 
 - ⬆️ Update alpine_3_24/git to v2.54.1-r0 (#2311) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#2310) 
 - ⬆️ Update node-red-contrib-home-assistant-websocket to v0.83.0 (#2309) 
