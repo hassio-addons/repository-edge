@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- ⬆️ Update n8n to v2.47.7 (#48)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update n8n to v2.47.5 (#47)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
