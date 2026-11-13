@@ -1,4 +1,7 @@
 # Changelog since v0.30.6
+- ⬆️ Update tailscale/tailscale to v1.104.7 (#795)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Refactor logging in finish scripts (#793)
 
 * Refactor logging in finish scripts
