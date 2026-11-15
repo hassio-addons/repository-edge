@@ -1,4 +1,7 @@
 # Changelog since v0.7.0
+- ⬆️ Update pnpm to v12.21.0 (#59)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.8 (#57)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
