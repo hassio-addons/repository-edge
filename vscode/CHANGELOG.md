@@ -1,4 +1,7 @@
 # Changelog since v7.2.0
+- ⬆️ Update home-assistant/cli to v5.7.0 (#1174)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cdr/code-server to v4.145.2 (#1172)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
