@@ -1,4 +1,7 @@
 # Changelog since v24.2.1
+- ⬆️ Update home-assistant/cli to v5.7.0 (#1181)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Docker to v29.9.3-r1 (#1179)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
