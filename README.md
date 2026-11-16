@@ -881,10 +881,10 @@ SOFTWARE.
 [addon-doc-tor]: https://github.com/hassio-addons/app-tor/blob/163f736/README.md
 [tor-issue]: https://github.com/hassio-addons/app-tor/issues
 [tor-version-shield]: https://img.shields.io/badge/version-163f736-blue.svg
-[addon-traccar]: https://github.com/hassio-addons/app-traccar/tree/8c19f2d
-[addon-doc-traccar]: https://github.com/hassio-addons/app-traccar/blob/8c19f2d/README.md
+[addon-traccar]: https://github.com/hassio-addons/app-traccar/tree/68be848
+[addon-doc-traccar]: https://github.com/hassio-addons/app-traccar/blob/68be848/README.md
 [traccar-issue]: https://github.com/hassio-addons/app-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-8c19f2d-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-68be848-blue.svg
 [addon-unifi]: https://github.com/hassio-addons/app-unifi/tree/489b306
 [addon-doc-unifi]: https://github.com/hassio-addons/app-unifi/blob/489b306/README.md
 [unifi-issue]: https://github.com/hassio-addons/app-unifi/issues
