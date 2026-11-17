@@ -1,4 +1,7 @@
 # Changelog since v7.2.0
+- ⬆️ Update home-assistant/cli to v6 (#1176)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update emilast/vscode-logfile-highlighter to v3.9.0 (#1175)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
