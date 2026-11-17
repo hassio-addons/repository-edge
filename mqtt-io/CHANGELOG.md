@@ -1,4 +1,7 @@
 # Changelog since v0.5.0
+- ⬆️ Update paho-mqtt to v2.2.0 (#198)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update gpiod to v2.6.0 (#197)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
