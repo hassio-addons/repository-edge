@@ -1,4 +1,5 @@
 # Changelog since v0.18.3
+- ⬆️ Update mysqlclient to v2.3.2 (#874) 
 - ⬆️ Update numpy to v2.5.5 (#872)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
