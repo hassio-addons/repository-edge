@@ -1,4 +1,7 @@
 # Changelog since v0.19.7
+- ⬆️ Update louislam/uptime-kuma to v2.5.12 (#421)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2026.11.0 (#419) 
 - ⬆️ Update louislam/uptime-kuma to v2.5.11 (#418)
 
