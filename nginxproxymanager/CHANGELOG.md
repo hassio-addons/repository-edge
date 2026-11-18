@@ -1,4 +1,5 @@
 # Changelog since v4.1.1
+- ⬆️ Update nginx to v1.31.9-1~trixie (#782) 
 - ⬆️ Update certbot to v5.10.0 (#780)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
