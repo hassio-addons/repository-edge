@@ -781,10 +781,10 @@ SOFTWARE.
 [addon-doc-lidarr]: https://github.com/hassio-addons/app-lidarr/blob/71e0cbb/README.md
 [lidarr-issue]: https://github.com/hassio-addons/app-lidarr/issues
 [lidarr-version-shield]: https://img.shields.io/badge/version-71e0cbb-blue.svg
-[addon-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/tree/e058b44
-[addon-doc-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/blob/e058b44/README.md
+[addon-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/tree/bac0824
+[addon-doc-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/blob/bac0824/README.md
 [mqtt-explorer-issue]: https://github.com/hassio-addons/app-mqtt-explorer/issues
-[mqtt-explorer-version-shield]: https://img.shields.io/badge/version-e058b44-blue.svg
+[mqtt-explorer-version-shield]: https://img.shields.io/badge/version-bac0824-blue.svg
 [addon-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/tree/33e9ed0
 [addon-doc-mqtt-io]: https://github.com/hassio-addons/app-mqtt-io/blob/33e9ed0/README.md
 [mqtt-io-issue]: https://github.com/hassio-addons/app-mqtt-io/issues

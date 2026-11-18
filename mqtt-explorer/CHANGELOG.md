@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#14) 
 - ⬆️ Update alpine_3_24/nodejs to v24.22.3-r0 (#13) 
 - ⬆️ Update alpine_3_24/nodejs to v24.22.3-r0 (#13) 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#12)
