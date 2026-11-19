@@ -933,10 +933,10 @@ SOFTWARE.
 [addon-doc-phpmyadmin]: https://github.com/hassio-addons/app-phpmyadmin/blob/0497244/README.md
 [phpmyadmin-issue]: https://github.com/hassio-addons/app-phpmyadmin/issues
 [phpmyadmin-version-shield]: https://img.shields.io/badge/version-0497244-blue.svg
-[addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/1581a82
-[addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/1581a82/README.md
+[addon-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/tree/32d4ab0
+[addon-doc-qbittorrent]: https://github.com/hassio-addons/app-qbittorrent/blob/32d4ab0/README.md
 [qbittorrent-issue]: https://github.com/hassio-addons/app-qbittorrent/issues
-[qbittorrent-version-shield]: https://img.shields.io/badge/version-1581a82-blue.svg
+[qbittorrent-version-shield]: https://img.shields.io/badge/version-32d4ab0-blue.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord]: https://discord.me/hassioaddons
 [forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
