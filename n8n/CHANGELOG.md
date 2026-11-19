@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#50)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update n8n to v2.47.7 (#48)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
