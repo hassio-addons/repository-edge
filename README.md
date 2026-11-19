@@ -761,10 +761,10 @@ SOFTWARE.
 [addon-doc-grocy]: https://github.com/hassio-addons/app-grocy/blob/a377300/README.md
 [grocy-issue]: https://github.com/hassio-addons/app-grocy/issues
 [grocy-version-shield]: https://img.shields.io/badge/version-a377300-blue.svg
-[addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/efa8769
-[addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/efa8769/README.md
+[addon-homebox]: https://github.com/hassio-addons/app-homebox/tree/7a57c3d
+[addon-doc-homebox]: https://github.com/hassio-addons/app-homebox/blob/7a57c3d/README.md
 [homebox-issue]: https://github.com/hassio-addons/app-homebox/issues
-[homebox-version-shield]: https://img.shields.io/badge/version-efa8769-blue.svg
+[homebox-version-shield]: https://img.shields.io/badge/version-7a57c3d-blue.svg
 [addon-influxdb]: https://github.com/hassio-addons/app-influxdb/tree/bed4a9e
 [addon-doc-influxdb]: https://github.com/hassio-addons/app-influxdb/blob/bed4a9e/README.md
 [influxdb-issue]: https://github.com/hassio-addons/app-influxdb/issues

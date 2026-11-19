@@ -1,4 +1,7 @@
 # Changelog since v0.1.0
+- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#37)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pnpm to v12.21.0 (#36)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
