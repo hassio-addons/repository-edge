@@ -857,10 +857,10 @@ SOFTWARE.
 [addon-doc-vscode]: https://github.com/hassio-addons/app-vscode/blob/6ab67c7/README.md
 [vscode-issue]: https://github.com/hassio-addons/app-vscode/issues
 [vscode-version-shield]: https://img.shields.io/badge/version-6ab67c7-blue.svg
-[addon-syncthing]: https://github.com/hassio-addons/app-syncthing/tree/867bd6e
-[addon-doc-syncthing]: https://github.com/hassio-addons/app-syncthing/blob/867bd6e/README.md
+[addon-syncthing]: https://github.com/hassio-addons/app-syncthing/tree/91e5bb3
+[addon-doc-syncthing]: https://github.com/hassio-addons/app-syncthing/blob/91e5bb3/README.md
 [syncthing-issue]: https://github.com/hassio-addons/app-syncthing/issues
-[syncthing-version-shield]: https://img.shields.io/badge/version-867bd6e-blue.svg
+[syncthing-version-shield]: https://img.shields.io/badge/version-91e5bb3-blue.svg
 [addon-tailscale]: https://github.com/hassio-addons/app-tailscale/tree/033c0af
 [addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/033c0af/README.md
 [tailscale-issue]: https://github.com/hassio-addons/app-tailscale/issues
