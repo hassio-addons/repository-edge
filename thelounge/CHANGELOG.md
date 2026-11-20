@@ -1,4 +1,7 @@
 # Changelog since v0.23.2
+- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#260)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/nodejs to v24.22.3-r0 (#259)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
