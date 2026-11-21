@@ -1,4 +1,7 @@
 # Changelog since v0.7.0
+- ⬆️ Update libssl-dev to v3.5.9-1~deb13u1 (#62)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/astral-sh/uv Docker tag to v0.13.9 (#60)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
