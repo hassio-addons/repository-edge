@@ -1,4 +1,10 @@
 # Changelog since v0.19.7
+- ⬆️ Update apprise to v2.3.0 (#423)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#422)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflare/cloudflared to v2026.11.1 (#420)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
