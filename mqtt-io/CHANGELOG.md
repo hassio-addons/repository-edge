@@ -1,4 +1,7 @@
 # Changelog since v0.5.0
+- ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#199)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update paho-mqtt to v2.2.0 (#198)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
