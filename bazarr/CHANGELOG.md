@@ -1,4 +1,7 @@
 # Changelog since v0.7.0
+- ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#115)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.11 (#114)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
