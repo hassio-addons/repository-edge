@@ -865,10 +865,10 @@ SOFTWARE.
 [addon-doc-tailscale]: https://github.com/hassio-addons/app-tailscale/blob/7d31918/README.md
 [tailscale-issue]: https://github.com/hassio-addons/app-tailscale/issues
 [tailscale-version-shield]: https://img.shields.io/badge/version-7d31918-blue.svg
-[addon-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/tree/4b0e127
-[addon-doc-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/blob/4b0e127/README.md
+[addon-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/tree/763f1c9
+[addon-doc-tasmoadmin]: https://github.com/hassio-addons/app-tasmoadmin/blob/763f1c9/README.md
 [tasmoadmin-issue]: https://github.com/hassio-addons/app-tasmoadmin/issues
-[tasmoadmin-version-shield]: https://img.shields.io/badge/version-4b0e127-blue.svg
+[tasmoadmin-version-shield]: https://img.shields.io/badge/version-763f1c9-blue.svg
 [addon-tautulli]: https://github.com/hassio-addons/app-tautulli/tree/0e38e02
 [addon-doc-tautulli]: https://github.com/hassio-addons/app-tautulli/blob/0e38e02/README.md
 [tautulli-issue]: https://github.com/hassio-addons/app-tautulli/issues
