@@ -1,4 +1,10 @@
 # Changelog since v0.23.2
+- ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#706)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/nginx to v1.30.7-r0 (#705)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update fastapi to v0.163.1 (#702)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
