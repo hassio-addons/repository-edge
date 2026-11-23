@@ -797,10 +797,10 @@ SOFTWARE.
 [addon-doc-nzbget]: https://github.com/hassio-addons/app-nzbget/blob/c083ef5/README.md
 [nzbget-issue]: https://github.com/hassio-addons/app-nzbget/issues
 [nzbget-version-shield]: https://img.shields.io/badge/version-c083ef5-blue.svg
-[addon-nut]: https://github.com/hassio-addons/app-nut/tree/64036e1
-[addon-doc-nut]: https://github.com/hassio-addons/app-nut/blob/64036e1/README.md
+[addon-nut]: https://github.com/hassio-addons/app-nut/tree/a1bb2c1
+[addon-doc-nut]: https://github.com/hassio-addons/app-nut/blob/a1bb2c1/README.md
 [nut-issue]: https://github.com/hassio-addons/app-nut/issues
-[nut-version-shield]: https://img.shields.io/badge/version-64036e1-blue.svg
+[nut-version-shield]: https://img.shields.io/badge/version-a1bb2c1-blue.svg
 [addon-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/tree/b521574
 [addon-doc-nginxproxymanager]: https://github.com/hassio-addons/app-nginx-proxy-manager/blob/b521574/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/app-nginx-proxy-manager/issues
