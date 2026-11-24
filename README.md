@@ -901,10 +901,10 @@ SOFTWARE.
 [addon-doc-victoriametrics]: https://github.com/hassio-addons/app-victoriametrics/blob/4fd282e/README.md
 [victoriametrics-issue]: https://github.com/hassio-addons/app-victoriametrics/issues
 [victoriametrics-version-shield]: https://img.shields.io/badge/version-4fd282e-blue.svg
-[addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/f4d9fab
-[addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/f4d9fab/README.md
+[addon-whisparr]: https://github.com/hassio-addons/app-whisparr/tree/292c498
+[addon-doc-whisparr]: https://github.com/hassio-addons/app-whisparr/blob/292c498/README.md
 [whisparr-issue]: https://github.com/hassio-addons/app-whisparr/issues
-[whisparr-version-shield]: https://img.shields.io/badge/version-f4d9fab-blue.svg
+[whisparr-version-shield]: https://img.shields.io/badge/version-292c498-blue.svg
 [addon-wireguard]: https://github.com/hassio-addons/app-wireguard/tree/2ccf323
 [addon-doc-wireguard]: https://github.com/hassio-addons/app-wireguard/blob/2ccf323/README.md
 [wireguard-issue]: https://github.com/hassio-addons/app-wireguard/issues
