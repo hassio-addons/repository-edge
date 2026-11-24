@@ -1,4 +1,7 @@
 # Changelog since v6.1.1
+- ⬆️ Update alpine_3_24/python3 to v3.14.10-r2 (#434)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#433)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
