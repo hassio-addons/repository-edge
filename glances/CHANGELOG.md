@@ -1,4 +1,10 @@
 # Changelog since v0.23.2
+- ⬆️ Update Python to v3.14.10-r2 (#707)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update fastapi to v0.165.0 (#704)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#706)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
