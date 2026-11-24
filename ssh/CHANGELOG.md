@@ -1,4 +1,7 @@
 # Changelog since v24.2.1
+- ⬆️ Update home-assistant/cli to v6 (#1183)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Python to v3.14.10-r2 (#1188)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
