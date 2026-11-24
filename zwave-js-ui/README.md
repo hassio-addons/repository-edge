@@ -56,6 +56,6 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-b4fb34a-blue.svg
-[release]: https://github.com/hassio-addons/app-zwave-js-ui/tree/b4fb34a
+[release-shield]: https://img.shields.io/badge/version-bd64c36-blue.svg
+[release]: https://github.com/hassio-addons/app-zwave-js-ui/tree/bd64c36
 [zwave-js-ui]: https://github.com/zwave-js/zwave-js-ui
