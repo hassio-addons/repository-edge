@@ -1,5 +1,5 @@
 name: MQTT Explorer
-version: 2c1e676
+version: d3d372e
 slug: mqtt-explorer
 description: Explore the topics and messages on your MQTT broker
 url: https://github.com/hassio-addons/app-mqtt-explorer
