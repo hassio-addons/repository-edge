@@ -729,10 +729,10 @@ SOFTWARE.
 [addon-doc-emqx]: https://github.com/hassio-addons/app-emqx/blob/2fe826e/README.md
 [emqx-issue]: https://github.com/hassio-addons/app-emqx/issues
 [emqx-version-shield]: https://img.shields.io/badge/version-2fe826e-blue.svg
-[addon-example]: https://github.com/hassio-addons/app-example/tree/481b02b
-[addon-doc-example]: https://github.com/hassio-addons/app-example/blob/481b02b/README.md
+[addon-example]: https://github.com/hassio-addons/app-example/tree/70fd43a
+[addon-doc-example]: https://github.com/hassio-addons/app-example/blob/70fd43a/README.md
 [example-issue]: https://github.com/hassio-addons/app-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-481b02b-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-70fd43a-blue.svg
 [addon-ftp]: https://github.com/hassio-addons/app-ftp/tree/d286d4b
 [addon-doc-ftp]: https://github.com/hassio-addons/app-ftp/blob/d286d4b/README.md
 [ftp-issue]: https://github.com/hassio-addons/app-ftp/issues
