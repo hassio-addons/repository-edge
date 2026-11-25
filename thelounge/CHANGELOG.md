@@ -1,4 +1,7 @@
 # Changelog since v0.23.2
+- ⬆️ Update alpine_3_24/nginx to v1.30.8-r0 (#263)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/python3 to v3.14.10-r2 (#261)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
