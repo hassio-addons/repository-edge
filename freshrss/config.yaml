@@ -1,5 +1,5 @@
 name: FreshRSS
-version: a817c74
+version: 1e79dda
 slug: freshrss
 description: A free, self-hostable RSS and Atom feed aggregator
 url: https://github.com/hassio-addons/app-freshrss
