@@ -48,7 +48,7 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-91e5bb3-blue.svg
-[release]: https://github.com/hassio-addons/app-syncthing/tree/91e5bb3
+[release-shield]: https://img.shields.io/badge/version-c97d511-blue.svg
+[release]: https://github.com/hassio-addons/app-syncthing/tree/c97d511
 [syncthing-goals]: https://github.com/syncthing/syncthing/blob/main/GOALS.md#the-syncthing-goals
 [syncthing]: https://syncthing.net/
