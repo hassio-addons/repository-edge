@@ -837,10 +837,10 @@ SOFTWARE.
 [addon-doc-sonarr]: https://github.com/hassio-addons/app-sonarr/blob/da52980/README.md
 [sonarr-issue]: https://github.com/hassio-addons/app-sonarr/issues
 [sonarr-version-shield]: https://img.shields.io/badge/version-da52980-blue.svg
-[addon-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/tree/9a1d5ba
-[addon-doc-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/blob/9a1d5ba/README.md
+[addon-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/tree/6226dbc
+[addon-doc-sparkyfitness]: https://github.com/hassio-addons/app-sparkyfitness/blob/6226dbc/README.md
 [sparkyfitness-issue]: https://github.com/hassio-addons/app-sparkyfitness/issues
-[sparkyfitness-version-shield]: https://img.shields.io/badge/version-9a1d5ba-blue.svg
+[sparkyfitness-version-shield]: https://img.shields.io/badge/version-6226dbc-blue.svg
 [addon-spotify]: https://github.com/hassio-addons/app-spotify-connect/tree/f639f39
 [addon-doc-spotify]: https://github.com/hassio-addons/app-spotify-connect/blob/f639f39/README.md
 [spotify-issue]: https://github.com/hassio-addons/app-spotify-connect/issues
