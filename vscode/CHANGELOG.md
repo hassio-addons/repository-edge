@@ -1,4 +1,19 @@
 # Changelog since v7.2.0
+- ⬆️ Update mariadb-client to v1:11.8.9+ds-0+deb13u1 (#1181)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update zsh to v5.9-8+b25 (#1183)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update openssl to v3.5.9-1~deb13u1 (#1182)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update locales to v2.41-12+deb13u5 (#1180)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update cdr/code-server to v4.146.0 (#1179)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update esphome to v2026.11.0 (#1177)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
