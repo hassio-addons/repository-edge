@@ -737,10 +737,10 @@ SOFTWARE.
 [addon-doc-ftp]: https://github.com/hassio-addons/app-ftp/blob/d286d4b/README.md
 [ftp-issue]: https://github.com/hassio-addons/app-ftp/issues
 [ftp-version-shield]: https://img.shields.io/badge/version-d286d4b-blue.svg
-[addon-file-explorer]: https://github.com/hassio-addons/app-file-explorer/tree/ca3956f
-[addon-doc-file-explorer]: https://github.com/hassio-addons/app-file-explorer/blob/ca3956f/README.md
+[addon-file-explorer]: https://github.com/hassio-addons/app-file-explorer/tree/1d2a8a7
+[addon-doc-file-explorer]: https://github.com/hassio-addons/app-file-explorer/blob/1d2a8a7/README.md
 [file-explorer-issue]: https://github.com/hassio-addons/app-file-explorer/issues
-[file-explorer-version-shield]: https://img.shields.io/badge/version-ca3956f-blue.svg
+[file-explorer-version-shield]: https://img.shields.io/badge/version-1d2a8a7-blue.svg
 [addon-foldingathome]: https://github.com/hassio-addons/app-foldingathome/tree/62ee87f
 [addon-doc-foldingathome]: https://github.com/hassio-addons/app-foldingathome/blob/62ee87f/README.md
 [foldingathome-issue]: https://github.com/hassio-addons/app-foldingathome/issues
