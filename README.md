@@ -697,10 +697,10 @@ SOFTWARE.
 [addon-doc-aircast]: https://github.com/hassio-addons/app-aircast/blob/d166b55/README.md
 [aircast-issue]: https://github.com/hassio-addons/app-aircast/issues
 [aircast-version-shield]: https://img.shields.io/badge/version-d166b55-blue.svg
-[addon-airsonos]: https://github.com/hassio-addons/app-airsonos/tree/59b405d
-[addon-doc-airsonos]: https://github.com/hassio-addons/app-airsonos/blob/59b405d/README.md
+[addon-airsonos]: https://github.com/hassio-addons/app-airsonos/tree/f0eac1a
+[addon-doc-airsonos]: https://github.com/hassio-addons/app-airsonos/blob/f0eac1a/README.md
 [airsonos-issue]: https://github.com/hassio-addons/app-airsonos/issues
-[airsonos-version-shield]: https://img.shields.io/badge/version-59b405d-blue.svg
+[airsonos-version-shield]: https://img.shields.io/badge/version-f0eac1a-blue.svg
 [addon-appdaemon]: https://github.com/hassio-addons/app-appdaemon/tree/b6a1dce
 [addon-doc-appdaemon]: https://github.com/hassio-addons/app-appdaemon/blob/b6a1dce/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/app-appdaemon/issues
