@@ -1,4 +1,7 @@
 # Changelog since v24.2.1
+- ⬆️ Update alpine_3_24/libxml2-utils to v2.13.9-r5 (#1192)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/screen to v5.0.3-r0 (#1191)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
