@@ -42,7 +42,7 @@ If you are more interested in stable releases of our apps:
 [midnight-theme]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/midnight-theme.png
 [more-info-light]: https://raw.githubusercontent.com/timmo001/thelounge/master/docs/resources/more-info-light.png
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-2d23ecd-blue.svg
-[release]: https://github.com/hassio-addons/app-thelounge/tree/2d23ecd
+[release-shield]: https://img.shields.io/badge/version-b717958-blue.svg
+[release]: https://github.com/hassio-addons/app-thelounge/tree/b717958
 [screenshot]: https://raw.githubusercontent.com/hassio-addons/app-thelounge/main/images/screenshot.png
 [thelounge]: https://github.com/timmo001/thelounge
