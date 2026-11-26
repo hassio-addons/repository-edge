@@ -873,10 +873,10 @@ SOFTWARE.
 [addon-doc-tautulli]: https://github.com/hassio-addons/app-tautulli/blob/0e38e02/README.md
 [tautulli-issue]: https://github.com/hassio-addons/app-tautulli/issues
 [tautulli-version-shield]: https://img.shields.io/badge/version-0e38e02-blue.svg
-[addon-thelounge]: https://github.com/hassio-addons/app-thelounge/tree/2cff17d
-[addon-doc-thelounge]: https://github.com/hassio-addons/app-thelounge/blob/2cff17d/README.md
+[addon-thelounge]: https://github.com/hassio-addons/app-thelounge/tree/2d23ecd
+[addon-doc-thelounge]: https://github.com/hassio-addons/app-thelounge/blob/2d23ecd/README.md
 [thelounge-issue]: https://github.com/hassio-addons/app-thelounge/issues
-[thelounge-version-shield]: https://img.shields.io/badge/version-2cff17d-blue.svg
+[thelounge-version-shield]: https://img.shields.io/badge/version-2d23ecd-blue.svg
 [addon-tor]: https://github.com/hassio-addons/app-tor/tree/abd3f16
 [addon-doc-tor]: https://github.com/hassio-addons/app-tor/blob/abd3f16/README.md
 [tor-issue]: https://github.com/hassio-addons/app-tor/issues
