@@ -1,4 +1,10 @@
 # Changelog since v22.2.2
+- ⬆️ Update alpine_3_24/nginx to v1.30.8-r0 (#2319)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/python3-dev to v3.14.10-r2 (#2317)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#2315)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
