@@ -1,4 +1,10 @@
 # Changelog since v0.5.0
+- ⬆️ Update Python to v3.14.10-r2 (#200)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/libffi-dev to v3.8.1-r0 (#201)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/py3-pip to v26.1.2-r1 (#199)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
