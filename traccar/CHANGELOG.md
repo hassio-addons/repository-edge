@@ -1,4 +1,7 @@
 # Changelog since v0.28.0
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.1.0 (#400)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/mariadb-client to v11.8.10-r0 (#399)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 

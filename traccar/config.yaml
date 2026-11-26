@@ -1,5 +1,5 @@
 name: Traccar
-version: '667e810'
+version: ed85dbf
 slug: traccar
 description: Modern GPS Tracking Platform
 url: https://github.com/hassio-addons/app-traccar
