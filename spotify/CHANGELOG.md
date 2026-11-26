@@ -1,4 +1,13 @@
 # Changelog since v0.19.0
+- ⬆️ Update alpine_3_24/libcrypto3 to v3.5.9-r1 (#403)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/libssl3 to v3.5.9-r1 (#404)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update alpine_3_24/openssl-dev to v3.5.9-r1 (#405)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_24/git to v2.54.1-r0 (#401)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
