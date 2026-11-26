@@ -913,10 +913,10 @@ SOFTWARE.
 [addon-doc-zwave-js-ui]: https://github.com/hassio-addons/app-zwave-js-ui/blob/fdd552a/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/app-zwave-js-ui/issues
 [zwave-js-ui-version-shield]: https://img.shields.io/badge/version-fdd552a-blue.svg
-[addon-zerotier]: https://github.com/hassio-addons/app-zerotier/tree/6366a5c
-[addon-doc-zerotier]: https://github.com/hassio-addons/app-zerotier/blob/6366a5c/README.md
+[addon-zerotier]: https://github.com/hassio-addons/app-zerotier/tree/79172e7
+[addon-doc-zerotier]: https://github.com/hassio-addons/app-zerotier/blob/79172e7/README.md
 [zerotier-issue]: https://github.com/hassio-addons/app-zerotier/issues
-[zerotier-version-shield]: https://img.shields.io/badge/version-6366a5c-blue.svg
+[zerotier-version-shield]: https://img.shields.io/badge/version-79172e7-blue.svg
 [addon-chrony]: https://github.com/hassio-addons/app-chrony/tree/6a3b44f
 [addon-doc-chrony]: https://github.com/hassio-addons/app-chrony/blob/6a3b44f/README.md
 [chrony-issue]: https://github.com/hassio-addons/app-chrony/issues
