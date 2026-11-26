@@ -1,4 +1,10 @@
 # Changelog since v7.2.0
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.6.0 (#1185)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update esphome to v2026.11.1 (#1184)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update mariadb-client to v1:11.8.9+ds-0+deb13u1 (#1181)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
