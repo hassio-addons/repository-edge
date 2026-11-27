@@ -829,10 +829,10 @@ SOFTWARE.
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/app-sqlite-web/blob/3ac8a0d/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/app-sqlite-web/issues
 [sqlite-web-version-shield]: https://img.shields.io/badge/version-3ac8a0d-blue.svg
-[addon-overseerr]: https://github.com/hassio-addons/app-seerr/tree/d21b7c7
-[addon-doc-overseerr]: https://github.com/hassio-addons/app-seerr/blob/d21b7c7/README.md
+[addon-overseerr]: https://github.com/hassio-addons/app-seerr/tree/ace1d0c
+[addon-doc-overseerr]: https://github.com/hassio-addons/app-seerr/blob/ace1d0c/README.md
 [overseerr-issue]: https://github.com/hassio-addons/app-seerr/issues
-[overseerr-version-shield]: https://img.shields.io/badge/version-d21b7c7-blue.svg
+[overseerr-version-shield]: https://img.shields.io/badge/version-ace1d0c-blue.svg
 [addon-sonarr]: https://github.com/hassio-addons/app-sonarr/tree/da52980
 [addon-doc-sonarr]: https://github.com/hassio-addons/app-sonarr/blob/da52980/README.md
 [sonarr-issue]: https://github.com/hassio-addons/app-sonarr/issues
