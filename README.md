@@ -681,10 +681,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-actual-budget]: https://github.com/hassio-addons/app-actual-budget/tree/a6ce5ac
-[addon-doc-actual-budget]: https://github.com/hassio-addons/app-actual-budget/blob/a6ce5ac/README.md
+[addon-actual-budget]: https://github.com/hassio-addons/app-actual-budget/tree/a672299
+[addon-doc-actual-budget]: https://github.com/hassio-addons/app-actual-budget/blob/a672299/README.md
 [actual-budget-issue]: https://github.com/hassio-addons/app-actual-budget/issues
-[actual-budget-version-shield]: https://img.shields.io/badge/version-a6ce5ac-blue.svg
+[actual-budget-version-shield]: https://img.shields.io/badge/version-a672299-blue.svg
 [addon-adguard]: https://github.com/hassio-addons/app-adguard-home/tree/068b8c3
 [addon-doc-adguard]: https://github.com/hassio-addons/app-adguard-home/blob/068b8c3/README.md
 [adguard-issue]: https://github.com/hassio-addons/app-adguard-home/issues
