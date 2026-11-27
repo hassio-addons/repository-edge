@@ -777,10 +777,10 @@ SOFTWARE.
 [addon-doc-jupyterlab]: https://github.com/hassio-addons/app-jupyterlab/blob/b89f09c/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/app-jupyterlab/issues
 [jupyterlab-version-shield]: https://img.shields.io/badge/version-b89f09c-blue.svg
-[addon-lidarr]: https://github.com/hassio-addons/app-lidarr/tree/a0e547c
-[addon-doc-lidarr]: https://github.com/hassio-addons/app-lidarr/blob/a0e547c/README.md
+[addon-lidarr]: https://github.com/hassio-addons/app-lidarr/tree/07faaf4
+[addon-doc-lidarr]: https://github.com/hassio-addons/app-lidarr/blob/07faaf4/README.md
 [lidarr-issue]: https://github.com/hassio-addons/app-lidarr/issues
-[lidarr-version-shield]: https://img.shields.io/badge/version-a0e547c-blue.svg
+[lidarr-version-shield]: https://img.shields.io/badge/version-07faaf4-blue.svg
 [addon-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/tree/188328f
 [addon-doc-mqtt-explorer]: https://github.com/hassio-addons/app-mqtt-explorer/blob/188328f/README.md
 [mqtt-explorer-issue]: https://github.com/hassio-addons/app-mqtt-explorer/issues
