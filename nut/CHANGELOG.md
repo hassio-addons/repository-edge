@@ -1,4 +1,7 @@
 # Changelog since v0.18.2
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.6.0 (#542)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update libssl-dev to v3.5.9-1~deb13u1 (#540)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
