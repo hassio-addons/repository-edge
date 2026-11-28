@@ -1,4 +1,7 @@
 # Changelog since v0.5.0
+- ⬆️ Update alpine_3_24/libffi-dev to v3.8.2-r0 (#203)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.1.0 (#202)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
